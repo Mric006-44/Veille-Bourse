@@ -1,0 +1,17 @@
+{
+  "version": "5.0",
+  "courtier": "Fortuneo PEA - hypothese utilisateur",
+  "frais_achat_pct": 0.35,
+  "frais_vente_pct": 0.35,
+  "risque_max_position_eur": 20,
+  "risque_max_cumule_eur": 60,
+  "valeur_echangee_min_20j_eur": 100000,
+  "volume_relatif_min_cassure": 1.2,
+  "ratio_gain_risque_min": 2.0,
+  "perte_stop_atr_multiple": 1.5,
+  "cours_max_age_jours": 4,
+  "max_suggestions_par_strategie": 5,
+  "positions_ouvertes_risque_cumule_eur": null,
+  "capital_disponible_eur": null,
+  "univers_eligible_pea_verifie": false
+}
