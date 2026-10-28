@@ -1,0 +1,318 @@
+{
+  "schema_version": "6.2",
+  "generated_utc": "2026-10-28T20:36:50.075492+00:00",
+  "periode": {
+    "premiere_date_signaux": "2025-08-19",
+    "date_separation": "2026-01-12",
+    "derniere_date": "2026-10-28"
+  },
+  "univers": {
+    "configure": 41,
+    "retenu": 40,
+    "exclus": {
+      "ALO.PA": "Gap extreme persistant sur cours ajustes : verification requise"
+    }
+  },
+  "configuration": {
+    "date_separation": "2026-01-12",
+    "multiplicateurs_atr": [
+      1.5,
+      2.0,
+      2.5
+    ],
+    "durees_seances": [
+      5,
+      10,
+      20
+    ],
+    "minimum_trades_apprentissage": 25,
+    "slippages_stress_pct": [
+      0.1,
+      0.2,
+      0.3
+    ]
+  },
+  "frais_pct_par_cote": 0.35,
+  "methode_selection": "Seuls les resultats apprentissage determinent le choix; test jamais utilise pour selection.",
+  "scenarios": [
+    {
+      "atr": 1.5,
+      "duree_seances": 5,
+      "apprentissage": {
+        "nombre_trades": 105,
+        "pnl_net_eur": -261.84,
+        "pnl_moyen_eur": -2.49,
+        "taux_reussite_pct": 40.0,
+        "profit_factor": 0.558,
+        "perte_max_trade_eur": -72.83
+      },
+      "test": {
+        "nombre_trades": 206,
+        "pnl_net_eur": -534.23,
+        "pnl_moyen_eur": -2.59,
+        "taux_reussite_pct": 41.26,
+        "profit_factor": 0.506,
+        "perte_max_trade_eur": -24.59
+      },
+      "risque_max_observe_eur": 59.99
+    },
+    {
+      "atr": 1.5,
+      "duree_seances": 10,
+      "apprentissage": {
+        "nombre_trades": 65,
+        "pnl_net_eur": -139.83,
+        "pnl_moyen_eur": -2.15,
+        "taux_reussite_pct": 41.54,
+        "profit_factor": 0.647,
+        "perte_max_trade_eur": -19.97
+      },
+      "test": {
+        "nombre_trades": 118,
+        "pnl_net_eur": -234.8,
+        "pnl_moyen_eur": -1.99,
+        "taux_reussite_pct": 39.83,
+        "profit_factor": 0.694,
+        "perte_max_trade_eur": -21.51
+      },
+      "risque_max_observe_eur": 59.99
+    },
+    {
+      "atr": 1.5,
+      "duree_seances": 20,
+      "apprentissage": {
+        "nombre_trades": 40,
+        "pnl_net_eur": 258.7,
+        "pnl_moyen_eur": 6.47,
+        "taux_reussite_pct": 45.0,
+        "profit_factor": 2.102,
+        "perte_max_trade_eur": -36.42
+      },
+      "test": {
+        "nombre_trades": 82,
+        "pnl_net_eur": -422.03,
+        "pnl_moyen_eur": -5.15,
+        "taux_reussite_pct": 28.05,
+        "profit_factor": 0.42,
+        "perte_max_trade_eur": -20.74
+      },
+      "risque_max_observe_eur": 59.93
+    },
+    {
+      "atr": 2.0,
+      "duree_seances": 5,
+      "apprentissage": {
+        "nombre_trades": 99,
+        "pnl_net_eur": -97.1,
+        "pnl_moyen_eur": -0.98,
+        "taux_reussite_pct": 39.39,
+        "profit_factor": 0.717,
+        "perte_max_trade_eur": -19.62
+      },
+      "test": {
+        "nombre_trades": 188,
+        "pnl_net_eur": -290.23,
+        "pnl_moyen_eur": -1.54,
+        "taux_reussite_pct": 45.74,
+        "profit_factor": 0.597,
+        "perte_max_trade_eur": -19.79
+      },
+      "risque_max_observe_eur": 59.99
+    },
+    {
+      "atr": 2.0,
+      "duree_seances": 10,
+      "apprentissage": {
+        "nombre_trades": 61,
+        "pnl_net_eur": -187.01,
+        "pnl_moyen_eur": -3.07,
+        "taux_reussite_pct": 39.34,
+        "profit_factor": 0.413,
+        "perte_max_trade_eur": -26.99
+      },
+      "test": {
+        "nombre_trades": 110,
+        "pnl_net_eur": -154.03,
+        "pnl_moyen_eur": -1.4,
+        "taux_reussite_pct": 40.91,
+        "profit_factor": 0.735,
+        "perte_max_trade_eur": -19.97
+      },
+      "risque_max_observe_eur": 59.98
+    },
+    {
+      "atr": 2.0,
+      "duree_seances": 20,
+      "apprentissage": {
+        "nombre_trades": 37,
+        "pnl_net_eur": -50.04,
+        "pnl_moyen_eur": -1.35,
+        "taux_reussite_pct": 43.24,
+        "profit_factor": 0.805,
+        "perte_max_trade_eur": -54.63
+      },
+      "test": {
+        "nombre_trades": 71,
+        "pnl_net_eur": -246.95,
+        "pnl_moyen_eur": -3.48,
+        "taux_reussite_pct": 30.99,
+        "profit_factor": 0.523,
+        "perte_max_trade_eur": -21.75
+      },
+      "risque_max_observe_eur": 59.95
+    },
+    {
+      "atr": 2.5,
+      "duree_seances": 5,
+      "apprentissage": {
+        "nombre_trades": 94,
+        "pnl_net_eur": -140.41,
+        "pnl_moyen_eur": -1.49,
+        "taux_reussite_pct": 45.74,
+        "profit_factor": 0.559,
+        "perte_max_trade_eur": -36.42
+      },
+      "test": {
+        "nombre_trades": 180,
+        "pnl_net_eur": -186.69,
+        "pnl_moyen_eur": -1.04,
+        "taux_reussite_pct": 43.33,
+        "profit_factor": 0.67,
+        "perte_max_trade_eur": -19.58
+      },
+      "risque_max_observe_eur": 59.99
+    },
+    {
+      "atr": 2.5,
+      "duree_seances": 10,
+      "apprentissage": {
+        "nombre_trades": 58,
+        "pnl_net_eur": -150.46,
+        "pnl_moyen_eur": -2.59,
+        "taux_reussite_pct": 43.1,
+        "profit_factor": 0.439,
+        "perte_max_trade_eur": -36.42
+      },
+      "test": {
+        "nombre_trades": 101,
+        "pnl_net_eur": -8.5,
+        "pnl_moyen_eur": -0.08,
+        "taux_reussite_pct": 48.51,
+        "profit_factor": 0.979,
+        "perte_max_trade_eur": -19.58
+      },
+      "risque_max_observe_eur": 59.99
+    },
+    {
+      "atr": 2.5,
+      "duree_seances": 20,
+      "apprentissage": {
+        "nombre_trades": 34,
+        "pnl_net_eur": -0.53,
+        "pnl_moyen_eur": -0.02,
+        "taux_reussite_pct": 47.06,
+        "profit_factor": 0.997,
+        "perte_max_trade_eur": -21.6
+      },
+      "test": {
+        "nombre_trades": 62,
+        "pnl_net_eur": -164.58,
+        "pnl_moyen_eur": -2.65,
+        "taux_reussite_pct": 41.94,
+        "profit_factor": 0.593,
+        "perte_max_trade_eur": -20.29
+      },
+      "risque_max_observe_eur": 59.99
+    }
+  ],
+  "selection_apprentissage": {
+    "atr": 1.5,
+    "duree_seances": 20,
+    "apprentissage": {
+      "nombre_trades": 40,
+      "pnl_net_eur": 258.7,
+      "pnl_moyen_eur": 6.47,
+      "taux_reussite_pct": 45.0,
+      "profit_factor": 2.102,
+      "perte_max_trade_eur": -36.42
+    }
+  },
+  "resultat_test_scenario_selectionne": {
+    "nombre_trades": 82,
+    "pnl_net_eur": -422.03,
+    "pnl_moyen_eur": -5.15,
+    "taux_reussite_pct": 28.05,
+    "profit_factor": 0.42,
+    "perte_max_trade_eur": -20.74
+  },
+  "stress_slippage": [
+    {
+      "slippage_pct_par_cote": 0.1,
+      "apprentissage": {
+        "nombre_trades": 40,
+        "pnl_net_eur": 258.7,
+        "pnl_moyen_eur": 6.47,
+        "taux_reussite_pct": 45.0,
+        "profit_factor": 2.102,
+        "perte_max_trade_eur": -36.42
+      },
+      "test": {
+        "nombre_trades": 82,
+        "pnl_net_eur": -422.03,
+        "pnl_moyen_eur": -5.15,
+        "taux_reussite_pct": 28.05,
+        "profit_factor": 0.42,
+        "perte_max_trade_eur": -20.74
+      }
+    },
+    {
+      "slippage_pct_par_cote": 0.2,
+      "apprentissage": {
+        "nombre_trades": 43,
+        "pnl_net_eur": -54.36,
+        "pnl_moyen_eur": -1.26,
+        "taux_reussite_pct": 34.88,
+        "profit_factor": 0.854,
+        "perte_max_trade_eur": -55.45
+      },
+      "test": {
+        "nombre_trades": 80,
+        "pnl_net_eur": -322.92,
+        "pnl_moyen_eur": -4.04,
+        "taux_reussite_pct": 26.25,
+        "profit_factor": 0.494,
+        "perte_max_trade_eur": -21.64
+      }
+    },
+    {
+      "slippage_pct_par_cote": 0.3,
+      "apprentissage": {
+        "nombre_trades": 48,
+        "pnl_net_eur": -197.34,
+        "pnl_moyen_eur": -4.11,
+        "taux_reussite_pct": 29.17,
+        "profit_factor": 0.552,
+        "perte_max_trade_eur": -56.27
+      },
+      "test": {
+        "nombre_trades": 83,
+        "pnl_net_eur": -329.85,
+        "pnl_moyen_eur": -3.97,
+        "taux_reussite_pct": 27.71,
+        "profit_factor": 0.546,
+        "perte_max_trade_eur": -24.76
+      }
+    }
+  ],
+  "statut": "CONFIGURATION_EXPLORATOIRE_NON_VALIDEE",
+  "achats_autorises": 0,
+  "limites": [
+    "Selection sur historique et test unique; risque de surajustement et de reemploi des donnees",
+    "Le split est base sur les dates entree; un trade entre en apprentissage peut se terminer apres le split",
+    "Signaux calcules en mode V6.1 avec choix de strategie fixe; pas une optimisation de seuils RSI/ADX",
+    "Biais de survivance: liste actuelle appliquee au passe",
+    "Historique ajuste Yahoo non certifie; splits/dividendes approximatifs",
+    "Spread et slippage reels inconnus; risque stop non garanti en cas de gap",
+    "Ce test n etablit aucune probabilite future de gain et n autorise aucun achat"
+  ]
+}
