@@ -1,0 +1,1465 @@
+{
+  "schema_version": "6.3",
+  "genere_utc": "2026-10-28T20:58:14.640530+00:00",
+  "source": "Yahoo Finance via yfinance (source unique)",
+  "historique_demande": "5y",
+  "titres_configures": 41,
+  "titres_audites": 41,
+  "titres_en_erreur": 0,
+  "titres": {
+    "AC.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 45.99,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2023-05-23",
+          "variation_facteur_pct": 3.31
+        },
+        {
+          "date": "2024-06-05",
+          "variation_facteur_pct": 3.045
+        },
+        {
+          "date": "2025-06-02",
+          "variation_facteur_pct": 2.77
+        },
+        {
+          "date": "2026-06-01",
+          "variation_facteur_pct": 2.955
+        }
+      ],
+      "nombre_evenements_facteur": 4,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "ACA.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 15.245,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-30",
+          "variation_facteur_pct": 10.29
+        },
+        {
+          "date": "2023-05-30",
+          "variation_facteur_pct": 9.649
+        },
+        {
+          "date": "2024-05-29",
+          "variation_facteur_pct": 7.061
+        },
+        {
+          "date": "2025-05-26",
+          "variation_facteur_pct": 6.82
+        },
+        {
+          "date": "2026-05-26",
+          "variation_facteur_pct": 6.924
+        },
+        {
+          "date": "2026-10-13",
+          "variation_facteur_pct": 3.617
+        }
+      ],
+      "nombre_evenements_facteur": 6,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "AI.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 174.24,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-16",
+          "variation_facteur_pct": 1.818
+        },
+        {
+          "date": "2023-05-15",
+          "variation_facteur_pct": 1.835
+        },
+        {
+          "date": "2024-05-20",
+          "variation_facteur_pct": 1.754
+        },
+        {
+          "date": "2025-05-19",
+          "variation_facteur_pct": 1.8
+        },
+        {
+          "date": "2026-05-18",
+          "variation_facteur_pct": 2.144
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "AIR.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 191.92,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-04-19",
+          "variation_facteur_pct": 1.434
+        },
+        {
+          "date": "2023-04-25",
+          "variation_facteur_pct": 1.424
+        },
+        {
+          "date": "2024-04-16",
+          "variation_facteur_pct": 1.741
+        },
+        {
+          "date": "2025-04-22",
+          "variation_facteur_pct": 2.248
+        },
+        {
+          "date": "2026-04-21",
+          "variation_facteur_pct": 1.848
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "ALO.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 15.97,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [],
+      "nombre_evenements_facteur": 0,
+      "gaps_extremes": [
+        "2023-10-05",
+        "2026-04-17"
+      ],
+      "anomalies": [
+        "GAP_EXTREME_A_EXAMINER"
+      ],
+      "statut": "A_EXAMINER",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "BN.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 63.24,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-10",
+          "variation_facteur_pct": 3.596
+        },
+        {
+          "date": "2023-05-09",
+          "variation_facteur_pct": 3.42
+        },
+        {
+          "date": "2024-05-03",
+          "variation_facteur_pct": 3.661
+        },
+        {
+          "date": "2025-05-05",
+          "variation_facteur_pct": 2.875
+        },
+        {
+          "date": "2026-05-04",
+          "variation_facteur_pct": 3.489
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "BNP.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 87.2,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-23",
+          "variation_facteur_pct": 7.334
+        },
+        {
+          "date": "2023-05-22",
+          "variation_facteur_pct": 6.971
+        },
+        {
+          "date": "2024-05-21",
+          "variation_facteur_pct": 6.735
+        },
+        {
+          "date": "2025-05-19",
+          "variation_facteur_pct": 6.421
+        },
+        {
+          "date": "2025-09-26",
+          "variation_facteur_pct": 3.415
+        },
+        {
+          "date": "2026-05-18",
+          "variation_facteur_pct": 2.965
+        },
+        {
+          "date": "2026-09-24",
+          "variation_facteur_pct": 3.331
+        }
+      ],
+      "nombre_evenements_facteur": 7,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "CA.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 13.165,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-06-07",
+          "variation_facteur_pct": 2.723
+        },
+        {
+          "date": "2023-06-06",
+          "variation_facteur_pct": 3.336
+        },
+        {
+          "date": "2024-05-28",
+          "variation_facteur_pct": 5.629
+        },
+        {
+          "date": "2025-05-30",
+          "variation_facteur_pct": 8.792
+        },
+        {
+          "date": "2026-05-26",
+          "variation_facteur_pct": 6.008
+        },
+        {
+          "date": "2026-07-28",
+          "variation_facteur_pct": 1.322
+        }
+      ],
+      "nombre_evenements_facteur": 6,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "CAP.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 122.45,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-06-01",
+          "variation_facteur_pct": 1.348
+        },
+        {
+          "date": "2023-05-30",
+          "variation_facteur_pct": 2.107
+        },
+        {
+          "date": "2024-05-29",
+          "variation_facteur_pct": 1.645
+        },
+        {
+          "date": "2025-05-20",
+          "variation_facteur_pct": 2.304
+        },
+        {
+          "date": "2026-06-02",
+          "variation_facteur_pct": 3.217
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "CS.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 42.59,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-06",
+          "variation_facteur_pct": 6.657
+        },
+        {
+          "date": "2023-05-08",
+          "variation_facteur_pct": 6.259
+        },
+        {
+          "date": "2024-04-30",
+          "variation_facteur_pct": 6.147
+        },
+        {
+          "date": "2025-05-05",
+          "variation_facteur_pct": 5.351
+        },
+        {
+          "date": "2026-05-11",
+          "variation_facteur_pct": 5.992
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "DG.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 108.3,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-04-26",
+          "variation_facteur_pct": 2.45
+        },
+        {
+          "date": "2022-11-15",
+          "variation_facteur_pct": 1.062
+        },
+        {
+          "date": "2023-04-25",
+          "variation_facteur_pct": 2.776
+        },
+        {
+          "date": "2024-04-23",
+          "variation_facteur_pct": 3.134
+        },
+        {
+          "date": "2025-04-22",
+          "variation_facteur_pct": 3.19
+        },
+        {
+          "date": "2026-04-21",
+          "variation_facteur_pct": 2.973
+        },
+        {
+          "date": "2026-10-13",
+          "variation_facteur_pct": 1.033
+        }
+      ],
+      "nombre_evenements_facteur": 7,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "DSY.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 23.58,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2026-05-27",
+          "variation_facteur_pct": 1.346
+        }
+      ],
+      "nombre_evenements_facteur": 1,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "EDEN.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 24.46,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-06-07",
+          "variation_facteur_pct": 2.002
+        },
+        {
+          "date": "2023-06-07",
+          "variation_facteur_pct": 1.677
+        },
+        {
+          "date": "2024-06-10",
+          "variation_facteur_pct": 2.434
+        },
+        {
+          "date": "2025-06-10",
+          "variation_facteur_pct": 4.712
+        },
+        {
+          "date": "2026-06-10",
+          "variation_facteur_pct": 6.466
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "EL.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 177.7,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-30",
+          "variation_facteur_pct": 1.708
+        },
+        {
+          "date": "2023-05-22",
+          "variation_facteur_pct": 1.833
+        },
+        {
+          "date": "2024-05-06",
+          "variation_facteur_pct": 2.039
+        },
+        {
+          "date": "2025-05-07",
+          "variation_facteur_pct": 1.601
+        },
+        {
+          "date": "2026-05-05",
+          "variation_facteur_pct": 2.363
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "EN.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 41.09,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-03",
+          "variation_facteur_pct": 5.913
+        },
+        {
+          "date": "2023-05-03",
+          "variation_facteur_pct": 5.825
+        },
+        {
+          "date": "2024-04-30",
+          "variation_facteur_pct": 5.482
+        },
+        {
+          "date": "2025-05-05",
+          "variation_facteur_pct": 5.4
+        },
+        {
+          "date": "2026-04-28",
+          "variation_facteur_pct": 4.241
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "ENGI.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 23.46,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-04-25",
+          "variation_facteur_pct": 7.57
+        },
+        {
+          "date": "2023-04-28",
+          "variation_facteur_pct": 9.994
+        },
+        {
+          "date": "2024-05-02",
+          "variation_facteur_pct": 9.636
+        },
+        {
+          "date": "2025-04-25",
+          "variation_facteur_pct": 8.592
+        },
+        {
+          "date": "2026-04-30",
+          "variation_facteur_pct": 5.047
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "ERF.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 86.24,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-07-05",
+          "variation_facteur_pct": 1.352
+        },
+        {
+          "date": "2023-07-04",
+          "variation_facteur_pct": 1.747
+        },
+        {
+          "date": "2024-07-03",
+          "variation_facteur_pct": 1.131
+        },
+        {
+          "date": "2025-04-28",
+          "variation_facteur_pct": 1.127
+        },
+        {
+          "date": "2026-04-28",
+          "variation_facteur_pct": 1.184
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "GLE.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 61.95,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-25",
+          "variation_facteur_pct": 6.928
+        },
+        {
+          "date": "2023-05-30",
+          "variation_facteur_pct": 7.727
+        },
+        {
+          "date": "2024-05-27",
+          "variation_facteur_pct": 3.408
+        },
+        {
+          "date": "2025-05-26",
+          "variation_facteur_pct": 2.325
+        },
+        {
+          "date": "2025-10-07",
+          "variation_facteur_pct": 1.136
+        },
+        {
+          "date": "2026-06-01",
+          "variation_facteur_pct": 1.416
+        },
+        {
+          "date": "2026-10-05",
+          "variation_facteur_pct": 1.144
+        }
+      ],
+      "nombre_evenements_facteur": 7,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "HO.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 233.9,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-17",
+          "variation_facteur_pct": 1.718
+        },
+        {
+          "date": "2023-05-23",
+          "variation_facteur_pct": 1.627
+        },
+        {
+          "date": "2024-05-21",
+          "variation_facteur_pct": 1.562
+        },
+        {
+          "date": "2025-05-20",
+          "variation_facteur_pct": 1.139
+        },
+        {
+          "date": "2026-05-18",
+          "variation_facteur_pct": 1.363
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "KER.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 176.6,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-03",
+          "variation_facteur_pct": 1.715
+        },
+        {
+          "date": "2023-05-02",
+          "variation_facteur_pct": 1.666
+        },
+        {
+          "date": "2024-01-15",
+          "variation_facteur_pct": 1.242
+        },
+        {
+          "date": "2024-05-02",
+          "variation_facteur_pct": 2.964
+        },
+        {
+          "date": "2025-05-05",
+          "variation_facteur_pct": 2.213
+        },
+        {
+          "date": "2026-06-02",
+          "variation_facteur_pct": 1.122
+        }
+      ],
+      "nombre_evenements_facteur": 6,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "LR.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 132.5,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-30",
+          "variation_facteur_pct": 2.049
+        },
+        {
+          "date": "2023-06-02",
+          "variation_facteur_pct": 2.157
+        },
+        {
+          "date": "2024-05-31",
+          "variation_facteur_pct": 2.096
+        },
+        {
+          "date": "2025-05-29",
+          "variation_facteur_pct": 2.057
+        },
+        {
+          "date": "2026-05-29",
+          "variation_facteur_pct": 1.625
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "MC.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 385.0,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-04-26",
+          "variation_facteur_pct": 1.15
+        },
+        {
+          "date": "2025-04-24",
+          "variation_facteur_pct": 1.522
+        },
+        {
+          "date": "2026-04-28",
+          "variation_facteur_pct": 1.631
+        }
+      ],
+      "nombre_evenements_facteur": 3,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "ML.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 31.8,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-17",
+          "variation_facteur_pct": 3.871
+        },
+        {
+          "date": "2023-05-17",
+          "variation_facteur_pct": 4.575
+        },
+        {
+          "date": "2024-05-22",
+          "variation_facteur_pct": 3.706
+        },
+        {
+          "date": "2025-05-21",
+          "variation_facteur_pct": 4.068
+        },
+        {
+          "date": "2026-05-26",
+          "variation_facteur_pct": 4.548
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "MT.AS": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 53.5,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-13",
+          "variation_facteur_pct": 1.48
+        },
+        {
+          "date": "2023-11-13",
+          "variation_facteur_pct": 1.096
+        },
+        {
+          "date": "2024-05-16",
+          "variation_facteur_pct": 1.058
+        },
+        {
+          "date": "2024-11-11",
+          "variation_facteur_pct": 1.046
+        }
+      ],
+      "nombre_evenements_facteur": 4,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "OR.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 423.65,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-04-27",
+          "variation_facteur_pct": 1.44
+        },
+        {
+          "date": "2023-04-26",
+          "variation_facteur_pct": 1.407
+        },
+        {
+          "date": "2024-04-26",
+          "variation_facteur_pct": 1.538
+        },
+        {
+          "date": "2025-05-05",
+          "variation_facteur_pct": 1.812
+        },
+        {
+          "date": "2026-04-29",
+          "variation_facteur_pct": 1.965
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "ORA.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 14.225,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2021-12-13",
+          "variation_facteur_pct": 3.361
+        },
+        {
+          "date": "2022-06-07",
+          "variation_facteur_pct": 3.608
+        },
+        {
+          "date": "2022-12-05",
+          "variation_facteur_pct": 3.207
+        },
+        {
+          "date": "2023-06-05",
+          "variation_facteur_pct": 3.763
+        },
+        {
+          "date": "2023-12-04",
+          "variation_facteur_pct": 2.707
+        },
+        {
+          "date": "2024-06-04",
+          "variation_facteur_pct": 4.002
+        },
+        {
+          "date": "2024-12-03",
+          "variation_facteur_pct": 3.091
+        },
+        {
+          "date": "2025-06-03",
+          "variation_facteur_pct": 3.528
+        },
+        {
+          "date": "2025-12-02",
+          "variation_facteur_pct": 2.167
+        },
+        {
+          "date": "2026-06-11",
+          "variation_facteur_pct": 2.561
+        }
+      ],
+      "nombre_evenements_facteur": 10,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "PUB.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 98.4,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-07-04",
+          "variation_facteur_pct": 5.432
+        },
+        {
+          "date": "2023-07-03",
+          "variation_facteur_pct": 4.108
+        },
+        {
+          "date": "2024-07-01",
+          "variation_facteur_pct": 3.542
+        },
+        {
+          "date": "2025-07-01",
+          "variation_facteur_pct": 3.91
+        },
+        {
+          "date": "2026-07-01",
+          "variation_facteur_pct": 4.534
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "RI.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 66.28,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-11-25",
+          "variation_facteur_pct": 1.361
+        },
+        {
+          "date": "2023-07-05",
+          "variation_facteur_pct": 1.019
+        },
+        {
+          "date": "2023-11-24",
+          "variation_facteur_pct": 1.603
+        },
+        {
+          "date": "2024-07-17",
+          "variation_facteur_pct": 1.913
+        },
+        {
+          "date": "2024-11-25",
+          "variation_facteur_pct": 2.253
+        },
+        {
+          "date": "2025-07-23",
+          "variation_facteur_pct": 2.516
+        },
+        {
+          "date": "2025-11-24",
+          "variation_facteur_pct": 2.98
+        },
+        {
+          "date": "2026-07-22",
+          "variation_facteur_pct": 3.755
+        }
+      ],
+      "nombre_evenements_facteur": 8,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "RMS.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 1259.5,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [],
+      "nombre_evenements_facteur": 0,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "RNO.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 26.35,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2024-05-22",
+          "variation_facteur_pct": 3.901
+        },
+        {
+          "date": "2025-05-08",
+          "variation_facteur_pct": 4.853
+        },
+        {
+          "date": "2026-05-08",
+          "variation_facteur_pct": 7.602
+        }
+      ],
+      "nombre_evenements_facteur": 3,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "SAF.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 271.9,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2024-05-28",
+          "variation_facteur_pct": 1.016
+        },
+        {
+          "date": "2025-05-27",
+          "variation_facteur_pct": 1.128
+        },
+        {
+          "date": "2026-05-26",
+          "variation_facteur_pct": 1.124
+        }
+      ],
+      "nombre_evenements_facteur": 3,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "SAN.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 75.51,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-06",
+          "variation_facteur_pct": 3.463
+        },
+        {
+          "date": "2023-05-30",
+          "variation_facteur_pct": 3.732
+        },
+        {
+          "date": "2024-05-13",
+          "variation_facteur_pct": 4.151
+        },
+        {
+          "date": "2025-05-12",
+          "variation_facteur_pct": 4.405
+        },
+        {
+          "date": "2026-05-05",
+          "variation_facteur_pct": 5.591
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "SAVE.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 56.0,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-16",
+          "variation_facteur_pct": 2.329
+        },
+        {
+          "date": "2023-05-15",
+          "variation_facteur_pct": 2.107
+        },
+        {
+          "date": "2024-05-13",
+          "variation_facteur_pct": 2.713
+        },
+        {
+          "date": "2025-05-12",
+          "variation_facteur_pct": 2.606
+        },
+        {
+          "date": "2026-05-18",
+          "variation_facteur_pct": 2.273
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "SGO.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 66.64,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-06-06",
+          "variation_facteur_pct": 2.955
+        },
+        {
+          "date": "2023-06-12",
+          "variation_facteur_pct": 3.716
+        },
+        {
+          "date": "2024-06-10",
+          "variation_facteur_pct": 2.707
+        },
+        {
+          "date": "2025-06-09",
+          "variation_facteur_pct": 2.221
+        },
+        {
+          "date": "2026-06-08",
+          "variation_facteur_pct": 3.068
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "STLAP.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 4.284,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-04-19",
+          "variation_facteur_pct": 7.978
+        },
+        {
+          "date": "2023-04-24",
+          "variation_facteur_pct": 9.172
+        },
+        {
+          "date": "2024-04-22",
+          "variation_facteur_pct": 6.834
+        },
+        {
+          "date": "2025-04-22",
+          "variation_facteur_pct": 8.945
+        }
+      ],
+      "nombre_evenements_facteur": 4,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "STMPA.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 43.37,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [],
+      "nombre_evenements_facteur": 0,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "SU.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 246.2,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-05-17",
+          "variation_facteur_pct": 2.325
+        },
+        {
+          "date": "2023-05-09",
+          "variation_facteur_pct": 2.024
+        },
+        {
+          "date": "2024-05-28",
+          "variation_facteur_pct": 1.495
+        },
+        {
+          "date": "2025-05-13",
+          "variation_facteur_pct": 1.796
+        },
+        {
+          "date": "2026-05-11",
+          "variation_facteur_pct": 1.565
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "TEP.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 79.1,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2023-04-21",
+          "variation_facteur_pct": 1.878
+        },
+        {
+          "date": "2024-05-28",
+          "variation_facteur_pct": 3.672
+        },
+        {
+          "date": "2025-05-26",
+          "variation_facteur_pct": 4.811
+        },
+        {
+          "date": "2026-05-26",
+          "variation_facteur_pct": 6.655
+        }
+      ],
+      "nombre_evenements_facteur": 4,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "TTE.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 83.6,
+      "ecart_v4_pct": -0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-01-03",
+          "variation_facteur_pct": 1.501
+        },
+        {
+          "date": "2022-03-22",
+          "variation_facteur_pct": 1.463
+        },
+        {
+          "date": "2022-06-21",
+          "variation_facteur_pct": 1.331
+        },
+        {
+          "date": "2022-09-21",
+          "variation_facteur_pct": 1.432
+        },
+        {
+          "date": "2022-12-06",
+          "variation_facteur_pct": 1.731
+        },
+        {
+          "date": "2023-01-02",
+          "variation_facteur_pct": 1.19
+        },
+        {
+          "date": "2023-03-22",
+          "variation_facteur_pct": 1.266
+        },
+        {
+          "date": "2023-06-21",
+          "variation_facteur_pct": 1.412
+        },
+        {
+          "date": "2023-09-20",
+          "variation_facteur_pct": 1.188
+        },
+        {
+          "date": "2024-01-02",
+          "variation_facteur_pct": 1.216
+        },
+        {
+          "date": "2024-03-20",
+          "variation_facteur_pct": 1.164
+        },
+        {
+          "date": "2024-06-19",
+          "variation_facteur_pct": 1.273
+        },
+        {
+          "date": "2024-09-25",
+          "variation_facteur_pct": 1.276
+        },
+        {
+          "date": "2025-01-02",
+          "variation_facteur_pct": 1.502
+        },
+        {
+          "date": "2025-03-26",
+          "variation_facteur_pct": 1.349
+        },
+        {
+          "date": "2025-06-19",
+          "variation_facteur_pct": 1.581
+        },
+        {
+          "date": "2025-10-01",
+          "variation_facteur_pct": 1.671
+        },
+        {
+          "date": "2025-12-31",
+          "variation_facteur_pct": 1.53
+        },
+        {
+          "date": "2026-03-31",
+          "variation_facteur_pct": 1.06
+        },
+        {
+          "date": "2026-06-30",
+          "variation_facteur_pct": 1.248
+        },
+        {
+          "date": "2026-09-30",
+          "variation_facteur_pct": 1.166
+        }
+      ],
+      "nombre_evenements_facteur": 21,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "URW.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 905,
+      "close": 91.62,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2024-05-14",
+          "variation_facteur_pct": 3.246
+        },
+        {
+          "date": "2025-05-08",
+          "variation_facteur_pct": 4.798
+        },
+        {
+          "date": "2026-05-15",
+          "variation_facteur_pct": 4.639
+        }
+      ],
+      "nombre_evenements_facteur": 3,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    },
+    "VIE.PA": {
+      "date_derniere_seance": "2026-10-28",
+      "seances": 1281,
+      "close": 32.74,
+      "ecart_v4_pct": 0.0,
+      "evenements_facteur_ajustement": [
+        {
+          "date": "2022-07-05",
+          "variation_facteur_pct": 4.439
+        },
+        {
+          "date": "2023-05-09",
+          "variation_facteur_pct": 4.125
+        },
+        {
+          "date": "2024-05-08",
+          "variation_facteur_pct": 4.348
+        },
+        {
+          "date": "2025-05-12",
+          "variation_facteur_pct": 4.593
+        },
+        {
+          "date": "2026-05-11",
+          "variation_facteur_pct": 4.371
+        }
+      ],
+      "nombre_evenements_facteur": 5,
+      "gaps_extremes": [],
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
+    }
+  },
+  "erreurs": {},
+  "verification_independante": "NON_DISPONIBLE",
+  "achats_autorises": 0,
+  "limites": [
+    "Une autre interrogation Yahoo ne constitue pas une seconde source",
+    "Facteurs Adj Close non suffisants pour identifier de facon certaine dividendes ou splits",
+    "Historique long ne corrige pas automatiquement le biais de survivance des backtests",
+    "Les anciens backtests continuent de travailler sur data/historique (2 ans)"
+  ]
+}

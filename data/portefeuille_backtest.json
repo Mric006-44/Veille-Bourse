@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1",
-  "generated_utc": "2026-10-28T20:48:49.022012+00:00",
+  "generated_utc": "2026-10-28T20:58:18.454435+00:00",
   "source": "Yahoo Finance, historiques OHLC ajustes selon ratio Adj Close/Close (approximation)",
   "configuration": {
     "initial_capital_eur": 5000,
@@ -3865,7 +3865,7 @@
       },
       {
         "date": "2026-05-22",
-        "equity_eur": 4758.76
+        "equity_eur": 4758.77
       },
       {
         "date": "2026-05-25",

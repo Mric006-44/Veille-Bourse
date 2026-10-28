@@ -1,0 +1,109 @@
+{
+  "schema_version": "7.0",
+  "genere_utc": "2026-10-28T20:58:14.726077+00:00",
+  "source_v4": "2026-10-28T20:58:05.833897+00:00",
+  "source_audit_v63": "2026-10-28T20:58:14.640530+00:00",
+  "compteurs": {
+    "titres_analyses": 41,
+    "dossiers_a_etudier": 11,
+    "anomalies_ou_illiquides": 2,
+    "configurations": {
+      "REBOND_POTENTIEL": 6,
+      "CASSURE": 2,
+      "TENDANCE": 4
+    },
+    "changements_detectes": 0
+  },
+  "top_dossiers_a_approfondir": [
+    {
+      "ticker": "DSY.PA",
+      "date_seance": "2026-10-28",
+      "close": 23.58,
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "rsi14": 60.88,
+      "adx14": 33.06,
+      "macd_histogramme": 0.1426,
+      "force_relative_cac40_20j_pct": 16.05,
+      "performance_20j_pct": 15.08,
+      "volume_ratio": 1.7664,
+      "liquidite_moyenne_eur": 41157719.16,
+      "qualite_v4": "A_VERIFIER",
+      "audit_historique": "CONTROLES_INTERNES_OK",
+      "anomalies": [],
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "validation_independante": false,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "TEP.PA",
+      "date_seance": "2026-10-28",
+      "close": 79.1,
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "rsi14": 63.66,
+      "adx14": 38.59,
+      "macd_histogramme": 0.5117,
+      "force_relative_cac40_20j_pct": 13.62,
+      "performance_20j_pct": 12.65,
+      "volume_ratio": 1.056,
+      "liquidite_moyenne_eur": 16885355.68,
+      "qualite_v4": "A_VERIFIER",
+      "audit_historique": "CONTROLES_INTERNES_OK",
+      "anomalies": [],
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "validation_independante": false,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "CAP.PA",
+      "date_seance": "2026-10-28",
+      "close": 122.45,
+      "score_exploratoire_100": 90,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "rsi14": 62.71,
+      "adx14": 40.0,
+      "macd_histogramme": 0.1233,
+      "force_relative_cac40_20j_pct": 18.26,
+      "performance_20j_pct": 17.29,
+      "volume_ratio": 0.6616,
+      "liquidite_moyenne_eur": 83626580.65,
+      "qualite_v4": "A_VERIFIER",
+      "audit_historique": "CONTROLES_INTERNES_OK",
+      "anomalies": [],
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "validation_independante": false,
+      "autorise_signal_achat": false
+    }
+  ],
+  "changements_depuis_rapport_precedent": [],
+  "avertissement": "EXPLORATOIRE. Source Yahoo non independamment validee. Aucun ordre ni signal achat autorise. Les scores ne sont pas predictifs.",
+  "achats_autorises": 0
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
-  "genere_utc": "2026-10-28T20:48:43.132631+00:00",
-  "source_v4": "2026-10-28T20:48:42.993617+00:00",
+  "genere_utc": "2026-10-28T20:58:05.955338+00:00",
+  "source_v4": "2026-10-28T20:58:05.833897+00:00",
   "titres_analyses": 41,
   "hypotheses": {
     "version": "5.0",
@@ -42,10 +42,10 @@
         ],
         "exemple_risque": {
           "prix_entree_hypothetique": 23.58,
-          "stop_hypothetique": 22.5414,
-          "risque_par_action_frais_inclus": 1.2,
+          "stop_hypothetique": 22.5424,
+          "risque_par_action_frais_inclus": 1.199,
           "quantite_theorique_max": 16,
-          "risque_theorique_total_eur": 19.2,
+          "risque_theorique_total_eur": 19.18,
           "capital_estime_frais_achat_inclus_eur": 378.6,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
@@ -212,10 +212,10 @@
         ],
         "exemple_risque": {
           "prix_entree_hypothetique": 42.59,
-          "stop_hypothetique": 41.4845,
-          "risque_par_action_frais_inclus": 1.3998,
+          "stop_hypothetique": 41.4835,
+          "risque_par_action_frais_inclus": 1.4008,
           "quantite_theorique_max": 14,
-          "risque_theorique_total_eur": 19.6,
+          "risque_theorique_total_eur": 19.61,
           "capital_estime_frais_achat_inclus_eur": 598.35,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
@@ -268,10 +268,10 @@
         ],
         "exemple_risque": {
           "prix_entree_hypothetique": 15.97,
-          "stop_hypothetique": 15.304,
-          "risque_par_action_frais_inclus": 0.7755,
+          "stop_hypothetique": 15.3045,
+          "risque_par_action_frais_inclus": 0.775,
           "quantite_theorique_max": 25,
-          "risque_theorique_total_eur": 19.39,
+          "risque_theorique_total_eur": 19.38,
           "capital_estime_frais_achat_inclus_eur": 400.65,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
@@ -449,10 +449,10 @@
       ],
       "exemple_risque": {
         "prix_entree_hypothetique": 15.97,
-        "stop_hypothetique": 15.304,
-        "risque_par_action_frais_inclus": 0.7755,
+        "stop_hypothetique": 15.3045,
+        "risque_par_action_frais_inclus": 0.775,
         "quantite_theorique_max": 25,
-        "risque_theorique_total_eur": 19.39,
+        "risque_theorique_total_eur": 19.38,
         "capital_estime_frais_achat_inclus_eur": 400.65,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
@@ -569,10 +569,10 @@
       ],
       "exemple_risque": {
         "prix_entree_hypothetique": 42.59,
-        "stop_hypothetique": 41.4845,
-        "risque_par_action_frais_inclus": 1.3998,
+        "stop_hypothetique": 41.4835,
+        "risque_par_action_frais_inclus": 1.4008,
         "quantite_theorique_max": 14,
-        "risque_theorique_total_eur": 19.6,
+        "risque_theorique_total_eur": 19.61,
         "capital_estime_frais_achat_inclus_eur": 598.35,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
@@ -615,10 +615,10 @@
       ],
       "exemple_risque": {
         "prix_entree_hypothetique": 23.58,
-        "stop_hypothetique": 22.5414,
-        "risque_par_action_frais_inclus": 1.2,
+        "stop_hypothetique": 22.5424,
+        "risque_par_action_frais_inclus": 1.199,
         "quantite_theorique_max": 16,
-        "risque_theorique_total_eur": 19.2,
+        "risque_theorique_total_eur": 19.18,
         "capital_estime_frais_achat_inclus_eur": 378.6,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
