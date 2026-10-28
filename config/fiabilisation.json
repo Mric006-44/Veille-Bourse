@@ -1,0 +1,7 @@
+{
+  "periode_yahoo": "5y",
+  "minimum_seances": 500,
+  "seuil_evenement_facteur_pct": 1.0,
+  "seuil_gap_pct": 30,
+  "tolerance_comparaison_interne_pct": 0.5
+}
