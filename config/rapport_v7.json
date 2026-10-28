@@ -1,0 +1,7 @@
+{
+  "seuil_liquidite_eur": 100000,
+  "changement_score_min": 10,
+  "max_par_strategie": 5,
+  "max_dossiers": 3,
+  "max_changements": 15
+}
