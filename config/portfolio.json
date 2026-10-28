@@ -1,0 +1,16 @@
+{
+  "initial_capital_eur": 5000,
+  "max_risk_per_position_eur": 20,
+  "max_open_risk_eur": 60,
+  "fee_pct_per_side": 0.35,
+  "slippage_pct_per_side": 0.10,
+  "max_holding_sessions": 10,
+  "stop_atr_multiple": 1.5,
+  "min_turnover_eur": 100000,
+  "max_position_value_eur": 1000,
+  "max_positions": 5,
+  "min_adjusted_history_sessions": 260,
+  "max_overnight_gap_pct": 30,
+  "strategy_priority": ["CASSURE", "TENDANCE", "REBOND_POTENTIEL"],
+  "test_fraction": 0.40
+}
