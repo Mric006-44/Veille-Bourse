@@ -31,6 +31,9 @@ jobs:
       - name: Screening V5
         run: python screening.py
 
+      - name: Backtest exploratoire V6
+        run: python backtest.py 
+
       - name: Publication
         run: |
           git config user.name "github-actions[bot]"
