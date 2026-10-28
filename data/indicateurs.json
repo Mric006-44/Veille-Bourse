@@ -1,8 +1,10 @@
 {
-  "schema_version": "2.0",
-  "mise_a_jour_utc": "2026-10-28T17:47:02.209903+00:00",
+  "schema_version": "3.0",
+  "mise_a_jour_utc": "2026-10-28T17:54:25.940465+00:00",
   "source": "Yahoo Finance via yfinance (non officiel, possiblement differe)",
-  "univers": "Liste indicative de 40 valeurs; pas une composition CAC40 certifiee",
+  "univers": "CAC 40 indicatif + actions supplementaires + ETF (config/watchlist.json)",
+  "nombre_configure": 41,
+  "nombre_reussi": 41,
   "statuts": {
     "AC.PA": "A_VERIFIER",
     "AI.PA": "A_VERIFIER",
@@ -43,7 +45,8 @@
     "TTE.PA": "A_VERIFIER",
     "URW.PA": "A_VERIFIER",
     "VIE.PA": "A_VERIFIER",
-    "DG.PA": "A_VERIFIER"
+    "DG.PA": "A_VERIFIER",
+    "SAVE.PA": "A_VERIFIER"
   },
   "indicateurs": {
     "AC.PA": {
@@ -63,6 +66,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -85,6 +91,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -107,6 +116,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -129,6 +141,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -151,6 +166,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -173,6 +191,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -195,6 +216,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -217,6 +241,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -239,6 +266,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -261,6 +291,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -283,6 +316,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -305,6 +341,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -327,6 +366,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -349,6 +391,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -371,6 +416,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -393,6 +441,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -415,6 +466,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -437,6 +491,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -459,6 +516,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -481,6 +541,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -503,6 +566,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -525,6 +591,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -547,6 +616,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -569,6 +641,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -591,6 +666,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -613,6 +691,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -635,6 +716,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -657,6 +741,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -679,6 +766,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -701,6 +791,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -723,6 +816,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -745,6 +841,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -767,6 +866,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -789,6 +891,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -811,6 +916,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -833,6 +941,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -855,6 +966,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -877,6 +991,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -899,6 +1016,9 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -921,6 +1041,34 @@
       "seances": 511,
       "qualite": "A_VERIFIER",
       "anomalies": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "validation_independante": false,
+      "autorise_signal_achat": false,
+      "source": "Yahoo Finance via yfinance",
+      "prix_ajustes": false
+    },
+    "SAVE.PA": {
+      "date_seance": "2026-10-28",
+      "close": 56.0,
+      "volume": 155,
+      "volume_moyen_20j": 822.9,
+      "ratio_volume_20j": 0.1884,
+      "rsi14": 44.97,
+      "macd_12_26": -0.5556,
+      "macd_signal9": -0.7618,
+      "macd_histogramme": 0.2062,
+      "mm20": 56.24,
+      "mm50": 58.564,
+      "mm200": 62.414,
+      "atr14": 1.0648,
+      "seances": 511,
+      "qualite": "A_VERIFIER",
+      "anomalies": [],
+      "groupes": [
+        "actions_supplementaires"
+      ],
       "validation_independante": false,
       "autorise_signal_achat": false,
       "source": "Yahoo Finance via yfinance",
@@ -928,5 +1076,5 @@
     }
   },
   "erreurs": {},
-  "politique": "Aucun signal d achat sans verification independante des cours et des historiques"
+  "politique": "Aucun signal d achat avant controle independant et verification du risque"
 }
