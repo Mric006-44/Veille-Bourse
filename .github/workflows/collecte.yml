@@ -23,3 +23,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Actualisation boursiere"
             git push
+            Fi
