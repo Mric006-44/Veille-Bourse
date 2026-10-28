@@ -1,6 +1,6 @@
 {
   "schema_version": "6.0",
-  "generated_utc": "2026-10-28T21:21:46.390446+00:00",
+  "generated_utc": "2026-10-28T21:39:44.042975+00:00",
   "rules": {
     "fee_pct": 0.35,
     "max_risk_eur": 20,

@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
-  "genere_utc": "2026-10-28T21:21:40.460444+00:00",
-  "source_v4": "2026-10-28T21:21:40.364175+00:00",
+  "genere_utc": "2026-10-28T21:39:33.263275+00:00",
+  "source_v4": "2026-10-28T21:39:33.153382+00:00",
   "titres_analyses": 41,
   "hypotheses": {
     "version": "5.0",
@@ -10,7 +10,7 @@
     "frais_vente_pct": 0.35,
     "risque_max_position_eur": 20,
     "risque_max_cumule_eur": 60,
-    "valeur_echangee_min_20j_eur": 100000,
+    "valeur_echangee_min_20j_eur": 1000000,
     "volume_relatif_min_cassure": 1.2,
     "ratio_gain_risque_min": 2.0,
     "perte_stop_atr_multiple": 1.5,

@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1",
-  "generated_utc": "2026-10-28T21:21:49.605666+00:00",
+  "generated_utc": "2026-10-28T21:39:51.832794+00:00",
   "source": "Yahoo Finance, historiques OHLC ajustes selon ratio Adj Close/Close (approximation)",
   "configuration": {
     "initial_capital_eur": 5000,
@@ -33,13 +33,13 @@
     "split_date": "2026-01-12",
     "metrics": {
       "total": {
-        "trades": 184,
-        "win_rate_pct": 40.22,
-        "net_pnl_eur": -381.32,
-        "profit_factor": 0.674,
-        "avg_pnl_eur": -2.07,
-        "max_drawdown_pct_mark_to_market": -8.18,
-        "return_pct_on_initial_capital": -7.62,
+        "trades": 183,
+        "win_rate_pct": 40.44,
+        "net_pnl_eur": -374.63,
+        "profit_factor": 0.678,
+        "avg_pnl_eur": -2.05,
+        "max_drawdown_pct_mark_to_market": -7.99,
+        "return_pct_on_initial_capital": -7.49,
         "max_simultaneous_stop_risk_eur": 59.99
       },
       "chronological_test": {
@@ -56,12 +56,12 @@
         "net_pnl_eur": -84.79
       },
       "TENDANCE": {
-        "trades": 69,
-        "net_pnl_eur": -247.78
+        "trades": 71,
+        "net_pnl_eur": -251.54
       },
       "REBOND_POTENTIEL": {
-        "trades": 48,
-        "net_pnl_eur": -48.75
+        "trades": 45,
+        "net_pnl_eur": -38.3
       }
     },
     "benchmark": {
@@ -72,22 +72,34 @@
     },
     "rejections": {
       "capital": 0,
-      "risk": 235,
+      "risk": 234,
       "qty_zero": 2,
-      "positions": 1220
+      "positions": 1227
     },
     "trades": [
+      {
+        "ticker": "BNP.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-08-19",
+        "exit_date": "2025-08-25",
+        "quantity": 7,
+        "entry": 75.1741,
+        "exit": 72.8888,
+        "reason": "STOP",
+        "risk_theoretical_eur": 19.63,
+        "pnl_eur": -19.62
+      },
       {
         "ticker": "CS.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-08-19",
         "exit_date": "2025-08-25",
-        "quantity": 15,
+        "quantity": 1,
         "entry": 40.3642,
         "exit": 39.32,
         "reason": "STOP",
-        "risk_theoretical_eur": 19.85,
-        "pnl_eur": -19.85
+        "risk_theoretical_eur": 1.32,
+        "pnl_eur": -1.32
       },
       {
         "ticker": "URW.PA",
@@ -100,30 +112,6 @@
         "reason": "STOP",
         "risk_theoretical_eur": 19.67,
         "pnl_eur": -19.67
-      },
-      {
-        "ticker": "EDEN.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-08-19",
-        "exit_date": "2025-08-26",
-        "quantity": 1,
-        "entry": 24.5583,
-        "exit": 23.7105,
-        "reason": "STOP",
-        "risk_theoretical_eur": 1.02,
-        "pnl_eur": -1.02
-      },
-      {
-        "ticker": "CA.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-08-27",
-        "exit_date": "2025-08-27",
-        "quantity": 13,
-        "entry": 11.7704,
-        "exit": 11.4874,
-        "reason": "STOP",
-        "risk_theoretical_eur": 4.74,
-        "pnl_eur": -4.74
       },
       {
         "ticker": "BN.PA",
@@ -174,16 +162,16 @@
         "pnl_eur": -17.51
       },
       {
-        "ticker": "TTE.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-08-28",
-        "exit_date": "2025-09-05",
-        "quantity": 3,
-        "entry": 50.053,
-        "exit": 48.8373,
+        "ticker": "MT.AS",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-08-26",
+        "exit_date": "2025-09-02",
+        "quantity": 2,
+        "entry": 28.4909,
+        "exit": 27.3504,
         "reason": "STOP",
-        "risk_theoretical_eur": 4.69,
-        "pnl_eur": -4.69
+        "risk_theoretical_eur": 2.67,
+        "pnl_eur": -2.67
       },
       {
         "ticker": "BN.PA",
@@ -216,7 +204,7 @@
         "exit_date": "2025-09-18",
         "quantity": 1,
         "entry": 230.6141,
-        "exit": 264.4451,
+        "exit": 264.445,
         "reason": "TIME_EXIT",
         "risk_theoretical_eur": 12.46,
         "pnl_eur": 32.1
@@ -3109,1227 +3097,1227 @@
       },
       {
         "date": "2025-08-19",
-        "equity_eur": 4994.13
+        "equity_eur": 4993.25
       },
       {
         "date": "2025-08-20",
-        "equity_eur": 5022.34
+        "equity_eur": 5019.22
       },
       {
         "date": "2025-08-21",
-        "equity_eur": 5008.36
+        "equity_eur": 5005.03
       },
       {
         "date": "2025-08-22",
-        "equity_eur": 5004.16
+        "equity_eur": 5010.63
       },
       {
         "date": "2025-08-25",
-        "equity_eur": 4973.15
+        "equity_eur": 4971.71
       },
       {
         "date": "2025-08-26",
-        "equity_eur": 4947.29
+        "equity_eur": 4946.87
       },
       {
         "date": "2025-08-27",
-        "equity_eur": 4943.15
+        "equity_eur": 4946.49
       },
       {
         "date": "2025-08-28",
-        "equity_eur": 4927.27
+        "equity_eur": 4932.54
       },
       {
         "date": "2025-08-29",
-        "equity_eur": 4919.12
+        "equity_eur": 4923.11
       },
       {
         "date": "2025-09-01",
-        "equity_eur": 4914.61
+        "equity_eur": 4918.82
       },
       {
         "date": "2025-09-02",
-        "equity_eur": 4908.74
+        "equity_eur": 4911.11
       },
       {
         "date": "2025-09-03",
-        "equity_eur": 4906.63
+        "equity_eur": 4911.11
       },
       {
         "date": "2025-09-04",
-        "equity_eur": 4908.53
+        "equity_eur": 4913.07
       },
       {
         "date": "2025-09-05",
-        "equity_eur": 4904.97
+        "equity_eur": 4911.63
       },
       {
         "date": "2025-09-08",
-        "equity_eur": 4911.31
+        "equity_eur": 4917.98
       },
       {
         "date": "2025-09-09",
-        "equity_eur": 4912.73
+        "equity_eur": 4919.4
       },
       {
         "date": "2025-09-10",
-        "equity_eur": 4901.88
+        "equity_eur": 4908.55
       },
       {
         "date": "2025-09-11",
-        "equity_eur": 4912.32
+        "equity_eur": 4918.99
       },
       {
         "date": "2025-09-12",
-        "equity_eur": 4920.72
+        "equity_eur": 4927.39
       },
       {
         "date": "2025-09-15",
-        "equity_eur": 4929.91
+        "equity_eur": 4936.58
       },
       {
         "date": "2025-09-16",
-        "equity_eur": 4933.91
+        "equity_eur": 4940.58
       },
       {
         "date": "2025-09-17",
-        "equity_eur": 4932.44
+        "equity_eur": 4939.11
       },
       {
         "date": "2025-09-18",
-        "equity_eur": 4933.1
+        "equity_eur": 4939.76
       },
       {
         "date": "2025-09-19",
-        "equity_eur": 4916.22
+        "equity_eur": 4922.88
       },
       {
         "date": "2025-09-22",
-        "equity_eur": 4924.29
+        "equity_eur": 4930.95
       },
       {
         "date": "2025-09-23",
-        "equity_eur": 4936.86
+        "equity_eur": 4943.52
       },
       {
         "date": "2025-09-24",
-        "equity_eur": 4931.48
+        "equity_eur": 4938.15
       },
       {
         "date": "2025-09-25",
-        "equity_eur": 4910.38
+        "equity_eur": 4917.04
       },
       {
         "date": "2025-09-26",
-        "equity_eur": 4911.25
+        "equity_eur": 4917.92
       },
       {
         "date": "2025-09-29",
-        "equity_eur": 4920.53
+        "equity_eur": 4927.2
       },
       {
         "date": "2025-09-30",
-        "equity_eur": 4912.31
+        "equity_eur": 4918.98
       },
       {
         "date": "2025-10-01",
-        "equity_eur": 4923.45
+        "equity_eur": 4930.12
       },
       {
         "date": "2025-10-02",
-        "equity_eur": 4933.77
+        "equity_eur": 4940.44
       },
       {
         "date": "2025-10-03",
-        "equity_eur": 4915.23
+        "equity_eur": 4921.9
       },
       {
         "date": "2025-10-06",
-        "equity_eur": 4888.37
+        "equity_eur": 4895.03
       },
       {
         "date": "2025-10-07",
-        "equity_eur": 4882.93
+        "equity_eur": 4889.59
       },
       {
         "date": "2025-10-08",
-        "equity_eur": 4885.91
+        "equity_eur": 4892.57
       },
       {
         "date": "2025-10-09",
-        "equity_eur": 4874.63
+        "equity_eur": 4881.3
       },
       {
         "date": "2025-10-10",
-        "equity_eur": 4844.34
+        "equity_eur": 4851.01
       },
       {
         "date": "2025-10-13",
-        "equity_eur": 4856.98
+        "equity_eur": 4863.65
       },
       {
         "date": "2025-10-14",
-        "equity_eur": 4849.04
+        "equity_eur": 4855.7
       },
       {
         "date": "2025-10-15",
-        "equity_eur": 4853.42
+        "equity_eur": 4860.09
       },
       {
         "date": "2025-10-16",
-        "equity_eur": 4867.5
+        "equity_eur": 4874.16
       },
       {
         "date": "2025-10-17",
-        "equity_eur": 4850.57
+        "equity_eur": 4857.24
       },
       {
         "date": "2025-10-20",
-        "equity_eur": 4861.91
+        "equity_eur": 4868.58
       },
       {
         "date": "2025-10-21",
-        "equity_eur": 4840.21
+        "equity_eur": 4846.87
       },
       {
         "date": "2025-10-22",
-        "equity_eur": 4822.83
+        "equity_eur": 4829.5
       },
       {
         "date": "2025-10-23",
-        "equity_eur": 4814.79
+        "equity_eur": 4821.45
       },
       {
         "date": "2025-10-24",
-        "equity_eur": 4842.26
+        "equity_eur": 4848.93
       },
       {
         "date": "2025-10-27",
-        "equity_eur": 4843.92
+        "equity_eur": 4850.59
       },
       {
         "date": "2025-10-28",
-        "equity_eur": 4836.88
+        "equity_eur": 4843.54
       },
       {
         "date": "2025-10-29",
-        "equity_eur": 4840.93
+        "equity_eur": 4847.6
       },
       {
         "date": "2025-10-30",
-        "equity_eur": 4833.51
+        "equity_eur": 4840.18
       },
       {
         "date": "2025-10-31",
-        "equity_eur": 4831.51
+        "equity_eur": 4838.17
       },
       {
         "date": "2025-11-03",
-        "equity_eur": 4818.99
+        "equity_eur": 4825.66
       },
       {
         "date": "2025-11-04",
-        "equity_eur": 4805.8
+        "equity_eur": 4812.46
       },
       {
         "date": "2025-11-05",
-        "equity_eur": 4807.65
+        "equity_eur": 4814.31
       },
       {
         "date": "2025-11-06",
-        "equity_eur": 4774.06
+        "equity_eur": 4780.72
       },
       {
         "date": "2025-11-07",
-        "equity_eur": 4765.63
+        "equity_eur": 4772.3
       },
       {
         "date": "2025-11-10",
-        "equity_eur": 4783.7
+        "equity_eur": 4790.37
       },
       {
         "date": "2025-11-11",
-        "equity_eur": 4800.96
+        "equity_eur": 4807.62
       },
       {
         "date": "2025-11-12",
-        "equity_eur": 4816.69
+        "equity_eur": 4823.36
       },
       {
         "date": "2025-11-13",
-        "equity_eur": 4821.7
+        "equity_eur": 4828.37
       },
       {
         "date": "2025-11-14",
-        "equity_eur": 4801.89
+        "equity_eur": 4808.56
       },
       {
         "date": "2025-11-17",
-        "equity_eur": 4787.89
+        "equity_eur": 4794.56
       },
       {
         "date": "2025-11-18",
-        "equity_eur": 4755.21
+        "equity_eur": 4761.88
       },
       {
         "date": "2025-11-19",
-        "equity_eur": 4755.27
+        "equity_eur": 4761.94
       },
       {
         "date": "2025-11-20",
-        "equity_eur": 4744.66
+        "equity_eur": 4751.32
       },
       {
         "date": "2025-11-21",
-        "equity_eur": 4749.08
+        "equity_eur": 4755.75
       },
       {
         "date": "2025-11-24",
-        "equity_eur": 4755.06
+        "equity_eur": 4761.73
       },
       {
         "date": "2025-11-25",
-        "equity_eur": 4772.38
+        "equity_eur": 4779.04
       },
       {
         "date": "2025-11-26",
-        "equity_eur": 4785.95
+        "equity_eur": 4792.62
       },
       {
         "date": "2025-11-27",
-        "equity_eur": 4782.43
+        "equity_eur": 4789.09
       },
       {
         "date": "2025-11-28",
-        "equity_eur": 4791.43
+        "equity_eur": 4798.09
       },
       {
         "date": "2025-12-01",
-        "equity_eur": 4788.94
+        "equity_eur": 4795.61
       },
       {
         "date": "2025-12-02",
-        "equity_eur": 4795.49
-      },
-      {
-        "date": "2025-12-03",
-        "equity_eur": 4781.6
-      },
-      {
-        "date": "2025-12-04",
-        "equity_eur": 4794.68
-      },
-      {
-        "date": "2025-12-05",
-        "equity_eur": 4798.94
-      },
-      {
-        "date": "2025-12-08",
-        "equity_eur": 4799.49
-      },
-      {
-        "date": "2025-12-09",
-        "equity_eur": 4800.49
-      },
-      {
-        "date": "2025-12-10",
-        "equity_eur": 4807.29
-      },
-      {
-        "date": "2025-12-11",
-        "equity_eur": 4818.23
-      },
-      {
-        "date": "2025-12-12",
-        "equity_eur": 4813.4
-      },
-      {
-        "date": "2025-12-15",
-        "equity_eur": 4823.78
-      },
-      {
-        "date": "2025-12-16",
-        "equity_eur": 4820.09
-      },
-      {
-        "date": "2025-12-17",
-        "equity_eur": 4817.52
-      },
-      {
-        "date": "2025-12-18",
-        "equity_eur": 4826.32
-      },
-      {
-        "date": "2025-12-19",
-        "equity_eur": 4820.09
-      },
-      {
-        "date": "2025-12-22",
-        "equity_eur": 4817.42
-      },
-      {
-        "date": "2025-12-23",
-        "equity_eur": 4810.19
-      },
-      {
-        "date": "2025-12-24",
-        "equity_eur": 4810.99
-      },
-      {
-        "date": "2025-12-29",
-        "equity_eur": 4807.83
-      },
-      {
-        "date": "2025-12-30",
-        "equity_eur": 4819.3
-      },
-      {
-        "date": "2025-12-31",
-        "equity_eur": 4812.16
-      },
-      {
-        "date": "2026-01-02",
-        "equity_eur": 4817.8
-      },
-      {
-        "date": "2026-01-05",
-        "equity_eur": 4857.28
-      },
-      {
-        "date": "2026-01-06",
-        "equity_eur": 4860.37
-      },
-      {
-        "date": "2026-01-07",
-        "equity_eur": 4865.25
-      },
-      {
-        "date": "2026-01-08",
-        "equity_eur": 4872.9
-      },
-      {
-        "date": "2026-01-09",
-        "equity_eur": 4875.68
-      },
-      {
-        "date": "2026-01-12",
-        "equity_eur": 4875.81
-      },
-      {
-        "date": "2026-01-13",
-        "equity_eur": 4885.2
-      },
-      {
-        "date": "2026-01-14",
-        "equity_eur": 4875.11
-      },
-      {
-        "date": "2026-01-15",
-        "equity_eur": 4879.16
-      },
-      {
-        "date": "2026-01-16",
-        "equity_eur": 4879.75
-      },
-      {
-        "date": "2026-01-19",
-        "equity_eur": 4850.14
-      },
-      {
-        "date": "2026-01-20",
-        "equity_eur": 4834.06
-      },
-      {
-        "date": "2026-01-21",
-        "equity_eur": 4826.87
-      },
-      {
-        "date": "2026-01-22",
-        "equity_eur": 4842.64
-      },
-      {
-        "date": "2026-01-23",
-        "equity_eur": 4834.72
-      },
-      {
-        "date": "2026-01-26",
-        "equity_eur": 4818.83
-      },
-      {
-        "date": "2026-01-27",
-        "equity_eur": 4832.48
-      },
-      {
-        "date": "2026-01-28",
-        "equity_eur": 4837.67
-      },
-      {
-        "date": "2026-01-29",
-        "equity_eur": 4816.17
-      },
-      {
-        "date": "2026-01-30",
-        "equity_eur": 4818.02
-      },
-      {
-        "date": "2026-02-02",
-        "equity_eur": 4840.93
-      },
-      {
-        "date": "2026-02-03",
-        "equity_eur": 4862.93
-      },
-      {
-        "date": "2026-02-04",
-        "equity_eur": 4877.61
-      },
-      {
-        "date": "2026-02-05",
-        "equity_eur": 4876.12
-      },
-      {
-        "date": "2026-02-06",
-        "equity_eur": 4891.3
-      },
-      {
-        "date": "2026-02-09",
-        "equity_eur": 4895.19
-      },
-      {
-        "date": "2026-02-10",
-        "equity_eur": 4906.85
-      },
-      {
-        "date": "2026-02-11",
-        "equity_eur": 4933.88
-      },
-      {
-        "date": "2026-02-12",
-        "equity_eur": 4929.81
-      },
-      {
-        "date": "2026-02-13",
-        "equity_eur": 4934.64
-      },
-      {
-        "date": "2026-02-16",
-        "equity_eur": 4934.17
-      },
-      {
-        "date": "2026-02-17",
-        "equity_eur": 4935.89
-      },
-      {
-        "date": "2026-02-18",
-        "equity_eur": 4946.41
-      },
-      {
-        "date": "2026-02-19",
-        "equity_eur": 4927.32
-      },
-      {
-        "date": "2026-02-20",
-        "equity_eur": 4930.69
-      },
-      {
-        "date": "2026-02-23",
-        "equity_eur": 4934.02
-      },
-      {
-        "date": "2026-02-24",
-        "equity_eur": 4944.98
-      },
-      {
-        "date": "2026-02-25",
-        "equity_eur": 4947.03
-      },
-      {
-        "date": "2026-02-26",
-        "equity_eur": 4936.3
-      },
-      {
-        "date": "2026-02-27",
-        "equity_eur": 4944.62
-      },
-      {
-        "date": "2026-03-02",
-        "equity_eur": 4902.26
-      },
-      {
-        "date": "2026-03-03",
-        "equity_eur": 4864.71
-      },
-      {
-        "date": "2026-03-04",
-        "equity_eur": 4865.26
-      },
-      {
-        "date": "2026-03-05",
-        "equity_eur": 4842.03
-      },
-      {
-        "date": "2026-03-06",
-        "equity_eur": 4839.04
-      },
-      {
-        "date": "2026-03-09",
-        "equity_eur": 4827.13
-      },
-      {
-        "date": "2026-03-10",
-        "equity_eur": 4817.84
-      },
-      {
-        "date": "2026-03-11",
-        "equity_eur": 4812.85
-      },
-      {
-        "date": "2026-03-12",
-        "equity_eur": 4810.63
-      },
-      {
-        "date": "2026-03-13",
-        "equity_eur": 4808.03
-      },
-      {
-        "date": "2026-03-16",
-        "equity_eur": 4793.31
-      },
-      {
-        "date": "2026-03-17",
-        "equity_eur": 4797.85
-      },
-      {
-        "date": "2026-03-18",
-        "equity_eur": 4798.98
-      },
-      {
-        "date": "2026-03-19",
-        "equity_eur": 4785.92
-      },
-      {
-        "date": "2026-03-20",
-        "equity_eur": 4766.91
-      },
-      {
-        "date": "2026-03-23",
-        "equity_eur": 4764.07
-      },
-      {
-        "date": "2026-03-24",
-        "equity_eur": 4763.48
-      },
-      {
-        "date": "2026-03-25",
-        "equity_eur": 4778.66
-      },
-      {
-        "date": "2026-03-26",
-        "equity_eur": 4785.88
-      },
-      {
-        "date": "2026-03-27",
-        "equity_eur": 4791.45
-      },
-      {
-        "date": "2026-03-30",
-        "equity_eur": 4790.86
-      },
-      {
-        "date": "2026-03-31",
-        "equity_eur": 4800.06
-      },
-      {
-        "date": "2026-04-01",
-        "equity_eur": 4818.99
-      },
-      {
-        "date": "2026-04-02",
-        "equity_eur": 4824.09
-      },
-      {
-        "date": "2026-04-07",
-        "equity_eur": 4796.44
-      },
-      {
-        "date": "2026-04-08",
-        "equity_eur": 4813.63
-      },
-      {
-        "date": "2026-04-09",
-        "equity_eur": 4810.06
-      },
-      {
-        "date": "2026-04-10",
-        "equity_eur": 4808.77
-      },
-      {
-        "date": "2026-04-13",
-        "equity_eur": 4803.6
-      },
-      {
-        "date": "2026-04-14",
-        "equity_eur": 4825.75
-      },
-      {
-        "date": "2026-04-15",
         "equity_eur": 4802.15
       },
       {
+        "date": "2025-12-03",
+        "equity_eur": 4788.26
+      },
+      {
+        "date": "2025-12-04",
+        "equity_eur": 4801.35
+      },
+      {
+        "date": "2025-12-05",
+        "equity_eur": 4805.61
+      },
+      {
+        "date": "2025-12-08",
+        "equity_eur": 4806.15
+      },
+      {
+        "date": "2025-12-09",
+        "equity_eur": 4807.15
+      },
+      {
+        "date": "2025-12-10",
+        "equity_eur": 4813.96
+      },
+      {
+        "date": "2025-12-11",
+        "equity_eur": 4824.9
+      },
+      {
+        "date": "2025-12-12",
+        "equity_eur": 4820.06
+      },
+      {
+        "date": "2025-12-15",
+        "equity_eur": 4830.45
+      },
+      {
+        "date": "2025-12-16",
+        "equity_eur": 4826.75
+      },
+      {
+        "date": "2025-12-17",
+        "equity_eur": 4824.19
+      },
+      {
+        "date": "2025-12-18",
+        "equity_eur": 4832.98
+      },
+      {
+        "date": "2025-12-19",
+        "equity_eur": 4826.75
+      },
+      {
+        "date": "2025-12-22",
+        "equity_eur": 4824.09
+      },
+      {
+        "date": "2025-12-23",
+        "equity_eur": 4816.85
+      },
+      {
+        "date": "2025-12-24",
+        "equity_eur": 4817.66
+      },
+      {
+        "date": "2025-12-29",
+        "equity_eur": 4814.49
+      },
+      {
+        "date": "2025-12-30",
+        "equity_eur": 4825.96
+      },
+      {
+        "date": "2025-12-31",
+        "equity_eur": 4818.82
+      },
+      {
+        "date": "2026-01-02",
+        "equity_eur": 4824.46
+      },
+      {
+        "date": "2026-01-05",
+        "equity_eur": 4863.95
+      },
+      {
+        "date": "2026-01-06",
+        "equity_eur": 4867.04
+      },
+      {
+        "date": "2026-01-07",
+        "equity_eur": 4871.92
+      },
+      {
+        "date": "2026-01-08",
+        "equity_eur": 4879.57
+      },
+      {
+        "date": "2026-01-09",
+        "equity_eur": 4882.34
+      },
+      {
+        "date": "2026-01-12",
+        "equity_eur": 4882.47
+      },
+      {
+        "date": "2026-01-13",
+        "equity_eur": 4891.87
+      },
+      {
+        "date": "2026-01-14",
+        "equity_eur": 4881.78
+      },
+      {
+        "date": "2026-01-15",
+        "equity_eur": 4885.82
+      },
+      {
+        "date": "2026-01-16",
+        "equity_eur": 4886.42
+      },
+      {
+        "date": "2026-01-19",
+        "equity_eur": 4856.8
+      },
+      {
+        "date": "2026-01-20",
+        "equity_eur": 4840.73
+      },
+      {
+        "date": "2026-01-21",
+        "equity_eur": 4833.54
+      },
+      {
+        "date": "2026-01-22",
+        "equity_eur": 4849.31
+      },
+      {
+        "date": "2026-01-23",
+        "equity_eur": 4841.39
+      },
+      {
+        "date": "2026-01-26",
+        "equity_eur": 4825.5
+      },
+      {
+        "date": "2026-01-27",
+        "equity_eur": 4839.14
+      },
+      {
+        "date": "2026-01-28",
+        "equity_eur": 4844.34
+      },
+      {
+        "date": "2026-01-29",
+        "equity_eur": 4822.83
+      },
+      {
+        "date": "2026-01-30",
+        "equity_eur": 4824.69
+      },
+      {
+        "date": "2026-02-02",
+        "equity_eur": 4847.6
+      },
+      {
+        "date": "2026-02-03",
+        "equity_eur": 4869.6
+      },
+      {
+        "date": "2026-02-04",
+        "equity_eur": 4884.28
+      },
+      {
+        "date": "2026-02-05",
+        "equity_eur": 4882.78
+      },
+      {
+        "date": "2026-02-06",
+        "equity_eur": 4897.97
+      },
+      {
+        "date": "2026-02-09",
+        "equity_eur": 4901.86
+      },
+      {
+        "date": "2026-02-10",
+        "equity_eur": 4913.51
+      },
+      {
+        "date": "2026-02-11",
+        "equity_eur": 4940.55
+      },
+      {
+        "date": "2026-02-12",
+        "equity_eur": 4936.47
+      },
+      {
+        "date": "2026-02-13",
+        "equity_eur": 4941.31
+      },
+      {
+        "date": "2026-02-16",
+        "equity_eur": 4940.84
+      },
+      {
+        "date": "2026-02-17",
+        "equity_eur": 4942.55
+      },
+      {
+        "date": "2026-02-18",
+        "equity_eur": 4953.08
+      },
+      {
+        "date": "2026-02-19",
+        "equity_eur": 4933.99
+      },
+      {
+        "date": "2026-02-20",
+        "equity_eur": 4937.35
+      },
+      {
+        "date": "2026-02-23",
+        "equity_eur": 4940.69
+      },
+      {
+        "date": "2026-02-24",
+        "equity_eur": 4951.65
+      },
+      {
+        "date": "2026-02-25",
+        "equity_eur": 4953.7
+      },
+      {
+        "date": "2026-02-26",
+        "equity_eur": 4942.97
+      },
+      {
+        "date": "2026-02-27",
+        "equity_eur": 4951.29
+      },
+      {
+        "date": "2026-03-02",
+        "equity_eur": 4908.92
+      },
+      {
+        "date": "2026-03-03",
+        "equity_eur": 4871.38
+      },
+      {
+        "date": "2026-03-04",
+        "equity_eur": 4871.92
+      },
+      {
+        "date": "2026-03-05",
+        "equity_eur": 4848.69
+      },
+      {
+        "date": "2026-03-06",
+        "equity_eur": 4845.71
+      },
+      {
+        "date": "2026-03-09",
+        "equity_eur": 4833.8
+      },
+      {
+        "date": "2026-03-10",
+        "equity_eur": 4824.5
+      },
+      {
+        "date": "2026-03-11",
+        "equity_eur": 4819.52
+      },
+      {
+        "date": "2026-03-12",
+        "equity_eur": 4817.3
+      },
+      {
+        "date": "2026-03-13",
+        "equity_eur": 4814.69
+      },
+      {
+        "date": "2026-03-16",
+        "equity_eur": 4799.98
+      },
+      {
+        "date": "2026-03-17",
+        "equity_eur": 4804.52
+      },
+      {
+        "date": "2026-03-18",
+        "equity_eur": 4805.64
+      },
+      {
+        "date": "2026-03-19",
+        "equity_eur": 4792.59
+      },
+      {
+        "date": "2026-03-20",
+        "equity_eur": 4773.58
+      },
+      {
+        "date": "2026-03-23",
+        "equity_eur": 4770.73
+      },
+      {
+        "date": "2026-03-24",
+        "equity_eur": 4770.14
+      },
+      {
+        "date": "2026-03-25",
+        "equity_eur": 4785.32
+      },
+      {
+        "date": "2026-03-26",
+        "equity_eur": 4792.55
+      },
+      {
+        "date": "2026-03-27",
+        "equity_eur": 4798.12
+      },
+      {
+        "date": "2026-03-30",
+        "equity_eur": 4797.52
+      },
+      {
+        "date": "2026-03-31",
+        "equity_eur": 4806.72
+      },
+      {
+        "date": "2026-04-01",
+        "equity_eur": 4825.65
+      },
+      {
+        "date": "2026-04-02",
+        "equity_eur": 4830.75
+      },
+      {
+        "date": "2026-04-07",
+        "equity_eur": 4803.11
+      },
+      {
+        "date": "2026-04-08",
+        "equity_eur": 4820.29
+      },
+      {
+        "date": "2026-04-09",
+        "equity_eur": 4816.73
+      },
+      {
+        "date": "2026-04-10",
+        "equity_eur": 4815.44
+      },
+      {
+        "date": "2026-04-13",
+        "equity_eur": 4810.26
+      },
+      {
+        "date": "2026-04-14",
+        "equity_eur": 4832.41
+      },
+      {
+        "date": "2026-04-15",
+        "equity_eur": 4808.81
+      },
+      {
         "date": "2026-04-16",
-        "equity_eur": 4788.19
+        "equity_eur": 4794.86
       },
       {
         "date": "2026-04-17",
-        "equity_eur": 4825.52
+        "equity_eur": 4832.18
       },
       {
         "date": "2026-04-20",
-        "equity_eur": 4809.26
+        "equity_eur": 4815.92
       },
       {
         "date": "2026-04-21",
-        "equity_eur": 4797.07
+        "equity_eur": 4803.73
       },
       {
         "date": "2026-04-22",
-        "equity_eur": 4779.76
+        "equity_eur": 4786.43
       },
       {
         "date": "2026-04-23",
-        "equity_eur": 4792.3
+        "equity_eur": 4798.97
       },
       {
         "date": "2026-04-24",
-        "equity_eur": 4803.79
+        "equity_eur": 4810.45
       },
       {
         "date": "2026-04-27",
-        "equity_eur": 4791.67
+        "equity_eur": 4798.34
       },
       {
         "date": "2026-04-28",
-        "equity_eur": 4798.17
+        "equity_eur": 4804.84
       },
       {
         "date": "2026-04-29",
-        "equity_eur": 4778.21
+        "equity_eur": 4784.88
       },
       {
         "date": "2026-04-30",
-        "equity_eur": 4783.19
+        "equity_eur": 4789.86
       },
       {
         "date": "2026-05-04",
-        "equity_eur": 4765.76
+        "equity_eur": 4772.43
       },
       {
         "date": "2026-05-05",
-        "equity_eur": 4779.44
+        "equity_eur": 4786.11
       },
       {
         "date": "2026-05-06",
-        "equity_eur": 4809.65
+        "equity_eur": 4816.31
       },
       {
         "date": "2026-05-07",
-        "equity_eur": 4801.04
+        "equity_eur": 4807.71
       },
       {
         "date": "2026-05-08",
-        "equity_eur": 4791.93
+        "equity_eur": 4798.59
       },
       {
         "date": "2026-05-11",
-        "equity_eur": 4791.19
+        "equity_eur": 4797.85
       },
       {
         "date": "2026-05-12",
-        "equity_eur": 4765.12
+        "equity_eur": 4771.79
       },
       {
         "date": "2026-05-13",
-        "equity_eur": 4778.74
+        "equity_eur": 4785.41
       },
       {
         "date": "2026-05-14",
-        "equity_eur": 4777.88
+        "equity_eur": 4784.54
       },
       {
         "date": "2026-05-15",
-        "equity_eur": 4761.14
+        "equity_eur": 4767.81
       },
       {
         "date": "2026-05-18",
-        "equity_eur": 4766.49
+        "equity_eur": 4773.16
       },
       {
         "date": "2026-05-19",
-        "equity_eur": 4764.14
+        "equity_eur": 4770.81
       },
       {
         "date": "2026-05-20",
-        "equity_eur": 4779.49
+        "equity_eur": 4786.16
       },
       {
         "date": "2026-05-21",
-        "equity_eur": 4759.56
+        "equity_eur": 4766.23
       },
       {
         "date": "2026-05-22",
-        "equity_eur": 4752.1
+        "equity_eur": 4758.76
       },
       {
         "date": "2026-05-25",
-        "equity_eur": 4765.95
+        "equity_eur": 4772.62
       },
       {
         "date": "2026-05-26",
-        "equity_eur": 4745.43
+        "equity_eur": 4752.09
       },
       {
         "date": "2026-05-27",
-        "equity_eur": 4759.57
+        "equity_eur": 4766.24
       },
       {
         "date": "2026-05-28",
-        "equity_eur": 4754.05
+        "equity_eur": 4760.71
       },
       {
         "date": "2026-05-29",
-        "equity_eur": 4734.92
+        "equity_eur": 4741.58
       },
       {
         "date": "2026-06-01",
-        "equity_eur": 4726.21
+        "equity_eur": 4732.88
       },
       {
         "date": "2026-06-02",
-        "equity_eur": 4727.1
+        "equity_eur": 4733.76
       },
       {
         "date": "2026-06-03",
-        "equity_eur": 4713.37
+        "equity_eur": 4720.04
       },
       {
         "date": "2026-06-04",
-        "equity_eur": 4718.12
+        "equity_eur": 4724.78
       },
       {
         "date": "2026-06-05",
-        "equity_eur": 4688.82
+        "equity_eur": 4695.49
       },
       {
         "date": "2026-06-08",
-        "equity_eur": 4693.07
+        "equity_eur": 4699.74
       },
       {
         "date": "2026-06-09",
-        "equity_eur": 4702.51
+        "equity_eur": 4709.17
       },
       {
         "date": "2026-06-10",
-        "equity_eur": 4706.24
+        "equity_eur": 4712.9
       },
       {
         "date": "2026-06-11",
-        "equity_eur": 4695.53
+        "equity_eur": 4702.2
       },
       {
         "date": "2026-06-12",
-        "equity_eur": 4730.44
+        "equity_eur": 4737.1
       },
       {
         "date": "2026-06-15",
-        "equity_eur": 4736.07
+        "equity_eur": 4742.74
       },
       {
         "date": "2026-06-16",
-        "equity_eur": 4747.78
+        "equity_eur": 4754.44
       },
       {
         "date": "2026-06-17",
-        "equity_eur": 4734.99
+        "equity_eur": 4741.65
       },
       {
         "date": "2026-06-18",
-        "equity_eur": 4728.23
+        "equity_eur": 4734.9
       },
       {
         "date": "2026-06-19",
-        "equity_eur": 4715.07
+        "equity_eur": 4721.73
       },
       {
         "date": "2026-06-22",
-        "equity_eur": 4712.38
+        "equity_eur": 4719.05
       },
       {
         "date": "2026-06-23",
-        "equity_eur": 4721.47
+        "equity_eur": 4728.14
       },
       {
         "date": "2026-06-24",
-        "equity_eur": 4730.28
+        "equity_eur": 4736.95
       },
       {
         "date": "2026-06-25",
-        "equity_eur": 4745.6
+        "equity_eur": 4752.27
       },
       {
         "date": "2026-06-26",
-        "equity_eur": 4724.05
+        "equity_eur": 4730.71
       },
       {
         "date": "2026-06-29",
-        "equity_eur": 4719.34
+        "equity_eur": 4726.0
       },
       {
         "date": "2026-06-30",
-        "equity_eur": 4728.62
+        "equity_eur": 4735.28
       },
       {
         "date": "2026-07-01",
-        "equity_eur": 4734.71
+        "equity_eur": 4741.38
       },
       {
         "date": "2026-07-02",
-        "equity_eur": 4763.39
+        "equity_eur": 4770.06
       },
       {
         "date": "2026-07-03",
-        "equity_eur": 4752.8
+        "equity_eur": 4759.47
       },
       {
         "date": "2026-07-06",
-        "equity_eur": 4749.3
+        "equity_eur": 4755.96
       },
       {
         "date": "2026-07-07",
-        "equity_eur": 4751.83
+        "equity_eur": 4758.5
       },
       {
         "date": "2026-07-08",
-        "equity_eur": 4722.4
+        "equity_eur": 4729.07
       },
       {
         "date": "2026-07-09",
-        "equity_eur": 4720.23
+        "equity_eur": 4726.89
       },
       {
         "date": "2026-07-10",
-        "equity_eur": 4722.97
+        "equity_eur": 4729.63
       },
       {
         "date": "2026-07-13",
-        "equity_eur": 4741.89
+        "equity_eur": 4748.55
       },
       {
         "date": "2026-07-14",
-        "equity_eur": 4742.79
+        "equity_eur": 4749.45
       },
       {
         "date": "2026-07-15",
-        "equity_eur": 4730.24
+        "equity_eur": 4736.91
       },
       {
         "date": "2026-07-16",
-        "equity_eur": 4736.93
+        "equity_eur": 4743.59
       },
       {
         "date": "2026-07-17",
-        "equity_eur": 4733.54
+        "equity_eur": 4740.21
       },
       {
         "date": "2026-07-20",
-        "equity_eur": 4739.23
+        "equity_eur": 4745.9
       },
       {
         "date": "2026-07-21",
-        "equity_eur": 4726.65
+        "equity_eur": 4733.31
       },
       {
         "date": "2026-07-22",
-        "equity_eur": 4729.29
+        "equity_eur": 4735.96
       },
       {
         "date": "2026-07-23",
-        "equity_eur": 4715.01
+        "equity_eur": 4721.68
       },
       {
         "date": "2026-07-24",
-        "equity_eur": 4720.69
+        "equity_eur": 4727.36
       },
       {
         "date": "2026-07-27",
-        "equity_eur": 4729.68
+        "equity_eur": 4736.34
       },
       {
         "date": "2026-07-28",
-        "equity_eur": 4753.48
+        "equity_eur": 4760.15
       },
       {
         "date": "2026-07-29",
-        "equity_eur": 4746.75
+        "equity_eur": 4753.42
       },
       {
         "date": "2026-07-30",
-        "equity_eur": 4757.08
+        "equity_eur": 4763.74
       },
       {
         "date": "2026-07-31",
-        "equity_eur": 4769.23
+        "equity_eur": 4775.9
       },
       {
         "date": "2026-08-03",
-        "equity_eur": 4780.64
+        "equity_eur": 4787.31
       },
       {
         "date": "2026-08-04",
-        "equity_eur": 4796.8
+        "equity_eur": 4803.47
       },
       {
         "date": "2026-08-05",
-        "equity_eur": 4803.06
+        "equity_eur": 4809.73
       },
       {
         "date": "2026-08-06",
-        "equity_eur": 4794.09
+        "equity_eur": 4800.76
       },
       {
         "date": "2026-08-07",
-        "equity_eur": 4791.23
+        "equity_eur": 4797.89
       },
       {
         "date": "2026-08-10",
-        "equity_eur": 4796.91
+        "equity_eur": 4803.58
       },
       {
         "date": "2026-08-11",
-        "equity_eur": 4796.49
+        "equity_eur": 4803.16
       },
       {
         "date": "2026-08-12",
-        "equity_eur": 4802.47
+        "equity_eur": 4809.14
       },
       {
         "date": "2026-08-13",
-        "equity_eur": 4796.14
+        "equity_eur": 4802.81
       },
       {
         "date": "2026-08-14",
-        "equity_eur": 4792.76
+        "equity_eur": 4799.43
       },
       {
         "date": "2026-08-17",
-        "equity_eur": 4785.56
+        "equity_eur": 4792.22
       },
       {
         "date": "2026-08-18",
-        "equity_eur": 4752.23
+        "equity_eur": 4758.89
       },
       {
         "date": "2026-08-19",
-        "equity_eur": 4740.47
-      },
-      {
-        "date": "2026-08-20",
-        "equity_eur": 4727.82
-      },
-      {
-        "date": "2026-08-21",
-        "equity_eur": 4738.1
-      },
-      {
-        "date": "2026-08-24",
         "equity_eur": 4747.13
       },
       {
+        "date": "2026-08-20",
+        "equity_eur": 4734.49
+      },
+      {
+        "date": "2026-08-21",
+        "equity_eur": 4744.76
+      },
+      {
+        "date": "2026-08-24",
+        "equity_eur": 4753.79
+      },
+      {
         "date": "2026-08-25",
-        "equity_eur": 4746.06
+        "equity_eur": 4752.72
       },
       {
         "date": "2026-08-26",
-        "equity_eur": 4737.61
+        "equity_eur": 4744.28
       },
       {
         "date": "2026-08-27",
-        "equity_eur": 4726.39
+        "equity_eur": 4733.06
       },
       {
         "date": "2026-08-28",
-        "equity_eur": 4723.5
+        "equity_eur": 4730.17
       },
       {
         "date": "2026-08-31",
-        "equity_eur": 4724.51
+        "equity_eur": 4731.18
       },
       {
         "date": "2026-09-01",
-        "equity_eur": 4727.8
+        "equity_eur": 4734.47
       },
       {
         "date": "2026-09-02",
-        "equity_eur": 4726.35
+        "equity_eur": 4733.02
       },
       {
         "date": "2026-09-03",
-        "equity_eur": 4727.52
+        "equity_eur": 4734.19
       },
       {
         "date": "2026-09-04",
-        "equity_eur": 4747.4
+        "equity_eur": 4754.06
       },
       {
         "date": "2026-09-07",
-        "equity_eur": 4736.19
+        "equity_eur": 4742.86
       },
       {
         "date": "2026-09-08",
-        "equity_eur": 4749.12
+        "equity_eur": 4755.79
       },
       {
         "date": "2026-09-09",
-        "equity_eur": 4729.65
+        "equity_eur": 4736.32
       },
       {
         "date": "2026-09-10",
-        "equity_eur": 4721.71
+        "equity_eur": 4728.37
       },
       {
         "date": "2026-09-11",
-        "equity_eur": 4714.8
+        "equity_eur": 4721.46
       },
       {
         "date": "2026-09-14",
-        "equity_eur": 4717.63
+        "equity_eur": 4724.3
       },
       {
         "date": "2026-09-15",
-        "equity_eur": 4720.76
+        "equity_eur": 4727.43
       },
       {
         "date": "2026-09-16",
-        "equity_eur": 4726.75
+        "equity_eur": 4733.41
       },
       {
         "date": "2026-09-17",
-        "equity_eur": 4730.83
+        "equity_eur": 4737.5
       },
       {
         "date": "2026-09-18",
-        "equity_eur": 4687.77
+        "equity_eur": 4694.44
       },
       {
         "date": "2026-09-21",
-        "equity_eur": 4694.01
+        "equity_eur": 4700.68
       },
       {
         "date": "2026-09-22",
-        "equity_eur": 4688.5
+        "equity_eur": 4695.16
       },
       {
         "date": "2026-09-23",
-        "equity_eur": 4655.94
+        "equity_eur": 4662.6
       },
       {
         "date": "2026-09-24",
-        "equity_eur": 4650.88
+        "equity_eur": 4657.55
       },
       {
         "date": "2026-09-25",
-        "equity_eur": 4649.98
+        "equity_eur": 4656.64
       },
       {
         "date": "2026-09-28",
-        "equity_eur": 4671.42
+        "equity_eur": 4678.08
       },
       {
         "date": "2026-09-29",
-        "equity_eur": 4661.95
+        "equity_eur": 4668.62
       },
       {
         "date": "2026-09-30",
-        "equity_eur": 4647.66
+        "equity_eur": 4654.32
       },
       {
         "date": "2026-10-01",
-        "equity_eur": 4622.9
+        "equity_eur": 4629.56
       },
       {
         "date": "2026-10-02",
-        "equity_eur": 4646.06
+        "equity_eur": 4652.72
       },
       {
         "date": "2026-10-05",
-        "equity_eur": 4638.2
+        "equity_eur": 4644.87
       },
       {
         "date": "2026-10-06",
-        "equity_eur": 4640.07
+        "equity_eur": 4646.74
       },
       {
         "date": "2026-10-07",
-        "equity_eur": 4627.01
+        "equity_eur": 4633.67
       },
       {
         "date": "2026-10-08",
-        "equity_eur": 4611.75
+        "equity_eur": 4618.42
       },
       {
         "date": "2026-10-09",
-        "equity_eur": 4626.99
+        "equity_eur": 4633.66
       },
       {
         "date": "2026-10-12",
-        "equity_eur": 4623.48
+        "equity_eur": 4630.15
       },
       {
         "date": "2026-10-13",
-        "equity_eur": 4640.16
+        "equity_eur": 4646.83
       },
       {
         "date": "2026-10-14",
-        "equity_eur": 4638.8
+        "equity_eur": 4645.47
       },
       {
         "date": "2026-10-15",
-        "equity_eur": 4654.69
+        "equity_eur": 4661.36
       },
       {
         "date": "2026-10-16",
-        "equity_eur": 4648.31
+        "equity_eur": 4654.98
       },
       {
         "date": "2026-10-19",
-        "equity_eur": 4631.99
+        "equity_eur": 4638.66
       },
       {
         "date": "2026-10-20",
-        "equity_eur": 4618.86
+        "equity_eur": 4625.52
       },
       {
         "date": "2026-10-21",
-        "equity_eur": 4624.96
+        "equity_eur": 4631.63
       },
       {
         "date": "2026-10-22",
-        "equity_eur": 4630.21
+        "equity_eur": 4636.88
       },
       {
         "date": "2026-10-23",
-        "equity_eur": 4635.32
+        "equity_eur": 4641.98
       },
       {
         "date": "2026-10-26",
-        "equity_eur": 4627.12
+        "equity_eur": 4633.78
       },
       {
         "date": "2026-10-27",
-        "equity_eur": 4632.64
+        "equity_eur": 4639.3
       },
       {
         "date": "2026-10-28",
-        "equity_eur": 4618.75
+        "equity_eur": 4625.42
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "schema_version": "6.3",
-  "genere_utc": "2026-10-28T21:21:46.071147+00:00",
+  "genere_utc": "2026-10-28T21:39:43.585820+00:00",
   "source": "Yahoo Finance via yfinance (source unique)",
   "historique_demande": "5y",
   "titres_configures": 41,
@@ -649,7 +649,7 @@
         },
         {
           "date": "2024-05-21",
-          "variation_facteur_pct": 1.563
+          "variation_facteur_pct": 1.562
         },
         {
           "date": "2025-05-20",
