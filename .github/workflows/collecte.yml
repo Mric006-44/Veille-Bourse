@@ -1,5 +1,5 @@
 
-name: Veille Bourse quotidienne
+name: Veille Bourse V5
 
 on:
   workflow_dispatch:
@@ -8,6 +8,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: veille-bourse
+  cancel-in-progress: false
 
 jobs:
   collecte:
@@ -21,14 +25,18 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python collecte.py
+      - name: Collecte V4
+        run: python collecte.py
 
-      - name: Enregistrer les resultats
+      - name: Screening V5
+        run: python screening.py
+
+      - name: Publication
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Actualisation boursiere V2"
+            git commit -m "Actualisation boursiere V5"
             git push
           fi
