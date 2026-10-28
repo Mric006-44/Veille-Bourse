@@ -1,0 +1,3313 @@
+{
+  "schema_version": "7.3",
+  "genere_utc": "2026-10-28T21:21:46.188601+00:00",
+  "sources": {
+    "v4": "2026-10-28T21:21:40.364175+00:00",
+    "v5": "2026-10-28T21:21:40.460444+00:00",
+    "v63": "2026-10-28T21:21:46.071147+00:00"
+  },
+  "regles": {
+    "max_dossiers": 5,
+    "seuil_liquidite_eur": 1000000,
+    "budget_tactique_eur": 2000,
+    "risque_position_eur": 20,
+    "risque_cumule_eur": 60,
+    "max_positions_ouvertes": 3,
+    "max_par_secteur": 2
+  },
+  "compteurs": {
+    "analyses": 41,
+    "selectionnes": 5,
+    "exclus_recherche": 2
+  },
+  "top_5_dossiers": [
+    {
+      "ticker": "DSY.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 23.58,
+        "mm20": 22.695,
+        "mm50": 21.9386,
+        "mm200": 19.9417,
+        "rsi14": 60.88,
+        "adx14": 33.03,
+        "macd_12_26": 0.7986,
+        "macd_signal9": 0.6559,
+        "macd_histogramme": 0.1426,
+        "atr14": 0.6924,
+        "atr_pct": 2.94,
+        "plus_bas_20j_precedent": 19.94,
+        "plus_bas_55j_precedent": 19.895,
+        "plus_haut_20j_precedent": 24.91,
+        "plus_haut_55j_precedent": 24.91,
+        "volume": 3197353,
+        "ratio_volume_20j": 1.7664,
+        "performance_20j_pct": 15.08,
+        "force_relative_cac40_20j_pct": 16.05,
+        "valeur_echangee_moyenne20_eur_estimee": 41157719.16
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 23.58,
+        "support_candidat": 22.695,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 22.5565,
+        "resistance_cible": 24.91,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.6924,
+        "ratio_gain_risque_net_estime": 0.77,
+        "quantite_theorique_max": 15,
+        "risque_total_eur_estime": 19.88,
+        "gain_potentiel_eur_estime": 15.26,
+        "capital_avec_frais_et_ttf_eur_estime": 356.71,
+        "courtages_aller_retour_eur_estimes": 2.55,
+        "ttf_achat_eur_estimee": 1.42,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "TEP.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 79.1,
+        "mm20": 74.642,
+        "mm50": 72.1984,
+        "mm200": 60.6858,
+        "rsi14": 63.66,
+        "adx14": 38.59,
+        "macd_12_26": 2.5914,
+        "macd_signal9": 2.0797,
+        "macd_histogramme": 0.5117,
+        "atr14": 2.2912,
+        "atr_pct": 2.9,
+        "plus_bas_20j_precedent": 66.66,
+        "plus_bas_55j_precedent": 66.66,
+        "plus_haut_20j_precedent": 82.7,
+        "plus_haut_55j_precedent": 82.7,
+        "volume": 238309,
+        "ratio_volume_20j": 1.0521,
+        "performance_20j_pct": 12.65,
+        "force_relative_cac40_20j_pct": 13.62,
+        "valeur_echangee_moyenne20_eur_estimee": 16881582.61
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 79.1,
+        "support_candidat": 74.642,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 74.1838,
+        "resistance_cible": 82.7,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 2.2912,
+        "ratio_gain_risque_net_estime": 0.43,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 17.77,
+        "gain_potentiel_eur_estime": 7.67,
+        "capital_avec_frais_et_ttf_eur_estime": 239.32,
+        "courtages_aller_retour_eur_estimes": 1.7,
+        "ttf_achat_eur_estimee": 0.95,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "CAP.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 90,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 122.45,
+        "mm20": 118.18,
+        "mm50": 111.092,
+        "mm200": 105.5327,
+        "rsi14": 62.71,
+        "adx14": 40.0,
+        "macd_12_26": 4.3694,
+        "macd_signal9": 4.2462,
+        "macd_histogramme": 0.1233,
+        "atr14": 3.8721,
+        "atr_pct": 3.16,
+        "plus_bas_20j_precedent": 100.95,
+        "plus_bas_55j_precedent": 100.35,
+        "plus_haut_20j_precedent": 127.2,
+        "plus_haut_55j_precedent": 127.2,
+        "volume": 469838,
+        "ratio_volume_20j": 0.6616,
+        "performance_20j_pct": 17.29,
+        "force_relative_cac40_20j_pct": 18.26,
+        "valeur_echangee_moyenne20_eur_estimee": 83626580.65
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 122.45,
+        "support_candidat": 118.18,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 117.4056,
+        "resistance_cible": 127.2,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 3.8721,
+        "ratio_gain_risque_net_estime": 0.47,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 19.84,
+        "gain_potentiel_eur_estime": 9.41,
+        "capital_avec_frais_et_ttf_eur_estime": 370.48,
+        "courtages_aller_retour_eur_estimes": 2.62,
+        "ttf_achat_eur_estimee": 1.47,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "OR.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 90,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 423.65,
+        "mm20": 397.6175,
+        "mm50": 389.133,
+        "mm200": 378.3925,
+        "rsi14": 67.2,
+        "adx14": 28.93,
+        "macd_12_26": 12.4333,
+        "macd_signal9": 8.5648,
+        "macd_histogramme": 3.8685,
+        "atr14": 8.1933,
+        "atr_pct": 1.93,
+        "plus_bas_20j_precedent": 369.0,
+        "plus_bas_55j_precedent": 367.5,
+        "plus_haut_20j_precedent": 442.35,
+        "plus_haut_55j_precedent": 442.35,
+        "volume": 340040,
+        "ratio_volume_20j": 0.9275,
+        "performance_20j_pct": 11.65,
+        "force_relative_cac40_20j_pct": 12.62,
+        "valeur_echangee_moyenne20_eur_estimee": 148109988.58
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 423.65,
+        "support_candidat": 397.6175,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 395.9788,
+        "resistance_cible": 442.35,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 8.1933,
+        "ratio_gain_risque_net_estime": 0.4,
+        "quantite_theorique_max": 0,
+        "risque_total_eur_estime": 0.0,
+        "gain_potentiel_eur_estime": 0.0,
+        "capital_avec_frais_et_ttf_eur_estime": 0.0,
+        "courtages_aller_retour_eur_estimes": 0.0,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUANTITE_NULLE",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "AIR.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 72,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 191.92,
+        "mm20": 191.247,
+        "mm50": 195.0098,
+        "mm200": 188.226,
+        "rsi14": 47.57,
+        "adx14": 17.73,
+        "macd_12_26": -0.1834,
+        "macd_signal9": -0.5782,
+        "macd_histogramme": 0.3948,
+        "atr14": 4.7341,
+        "atr_pct": 2.47,
+        "plus_bas_20j_precedent": 183.84,
+        "plus_bas_55j_precedent": 183.84,
+        "plus_haut_20j_precedent": 200.4,
+        "plus_haut_55j_precedent": 216.55,
+        "volume": 798148,
+        "ratio_volume_20j": 0.7424,
+        "performance_20j_pct": 0.68,
+        "force_relative_cac40_20j_pct": 1.66,
+        "valeur_echangee_moyenne20_eur_estimee": 205838343.48
+      },
+      "ttf": {
+        "statut": "NON",
+        "taux_pct": 0,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 191.92,
+        "support_candidat": 191.247,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 190.3002,
+        "resistance_cible": 200.4,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 4.7341,
+        "ratio_gain_risque_net_estime": 2.01,
+        "quantite_theorique_max": 5,
+        "risque_total_eur_estime": 16.7,
+        "gain_potentiel_eur_estime": 33.57,
+        "capital_avec_frais_et_ttf_eur_estime": 963.92,
+        "courtages_aller_retour_eur_estimes": 6.87,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    }
+  ],
+  "univers": [
+    {
+      "ticker": "AC.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 62,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 45.99,
+        "mm20": 45.312,
+        "mm50": 45.8046,
+        "mm200": 45.7922,
+        "rsi14": 52.21,
+        "adx14": 11.2,
+        "macd_12_26": -0.0172,
+        "macd_signal9": -0.0303,
+        "macd_histogramme": 0.0131,
+        "atr14": 1.153,
+        "atr_pct": 2.51,
+        "plus_bas_20j_precedent": 43.4,
+        "plus_bas_55j_precedent": 43.4,
+        "plus_haut_20j_precedent": 47.18,
+        "plus_haut_55j_precedent": 48.03,
+        "volume": 761346,
+        "ratio_volume_20j": 0.963,
+        "performance_20j_pct": 0.31,
+        "force_relative_cac40_20j_pct": 1.28,
+        "valeur_echangee_moyenne20_eur_estimee": 35813795.74
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 45.99,
+        "support_candidat": 45.8046,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 45.574,
+        "resistance_cible": 47.18,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.153,
+        "ratio_gain_risque_net_estime": 0.58,
+        "quantite_theorique_max": 19,
+        "risque_total_eur_estime": 19.23,
+        "gain_potentiel_eur_estime": 11.15,
+        "capital_avec_frais_et_ttf_eur_estime": 881.24,
+        "courtages_aller_retour_eur_estimes": 6.2,
+        "ttf_achat_eur_estimee": 3.5,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "ACA.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 15.245,
+        "mm20": 15.8715,
+        "mm50": 17.4342,
+        "mm200": 17.5305,
+        "rsi14": 27.66,
+        "adx14": 54.26,
+        "macd_12_26": -0.7215,
+        "macd_signal9": -0.734,
+        "macd_histogramme": 0.0124,
+        "atr14": 0.327,
+        "atr_pct": 2.14,
+        "plus_bas_20j_precedent": 14.685,
+        "plus_bas_55j_precedent": 14.685,
+        "plus_haut_20j_precedent": 17.92,
+        "plus_haut_55j_precedent": 20.4,
+        "volume": 4272315,
+        "ratio_volume_20j": 0.6499,
+        "performance_20j_pct": -13.23,
+        "force_relative_cac40_20j_pct": -12.26,
+        "valeur_echangee_moyenne20_eur_estimee": 104584246.47
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 15.245,
+        "support_candidat": 14.685,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 14.6196,
+        "resistance_cible": 17.92,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.327,
+        "ratio_gain_risque_net_estime": 3.0,
+        "quantite_theorique_max": 24,
+        "risque_total_eur_estime": 19.7,
+        "gain_potentiel_eur_estime": 59.15,
+        "capital_avec_frais_et_ttf_eur_estime": 368.99,
+        "courtages_aller_retour_eur_estimes": 2.79,
+        "ttf_achat_eur_estimee": 1.46,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "AI.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 80,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 174.24,
+        "mm20": 171.424,
+        "mm50": 169.5992,
+        "mm200": 164.8061,
+        "rsi14": 60.19,
+        "adx14": 19.0,
+        "macd_12_26": 1.5715,
+        "macd_signal9": 1.2218,
+        "macd_histogramme": 0.3497,
+        "atr14": 2.48,
+        "atr_pct": 1.42,
+        "plus_bas_20j_precedent": 165.1,
+        "plus_bas_55j_precedent": 162.46,
+        "plus_haut_20j_precedent": 177.16,
+        "plus_haut_55j_precedent": 177.16,
+        "volume": 796567,
+        "ratio_volume_20j": 0.9926,
+        "performance_20j_pct": 1.97,
+        "force_relative_cac40_20j_pct": 2.94,
+        "valeur_echangee_moyenne20_eur_estimee": 137491141.62
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 174.24,
+        "support_candidat": 171.424,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 170.928,
+        "resistance_cible": 177.16,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 2.48,
+        "ratio_gain_risque_net_estime": 0.12,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 16.69,
+        "gain_potentiel_eur_estime": 1.92,
+        "capital_avec_frais_et_ttf_eur_estime": 527.17,
+        "courtages_aller_retour_eur_estimes": 3.69,
+        "ttf_achat_eur_estimee": 2.09,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "AIR.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 72,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 191.92,
+        "mm20": 191.247,
+        "mm50": 195.0098,
+        "mm200": 188.226,
+        "rsi14": 47.57,
+        "adx14": 17.73,
+        "macd_12_26": -0.1834,
+        "macd_signal9": -0.5782,
+        "macd_histogramme": 0.3948,
+        "atr14": 4.7341,
+        "atr_pct": 2.47,
+        "plus_bas_20j_precedent": 183.84,
+        "plus_bas_55j_precedent": 183.84,
+        "plus_haut_20j_precedent": 200.4,
+        "plus_haut_55j_precedent": 216.55,
+        "volume": 798148,
+        "ratio_volume_20j": 0.7424,
+        "performance_20j_pct": 0.68,
+        "force_relative_cac40_20j_pct": 1.66,
+        "valeur_echangee_moyenne20_eur_estimee": 205838343.48
+      },
+      "ttf": {
+        "statut": "NON",
+        "taux_pct": 0,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 191.92,
+        "support_candidat": 191.247,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 190.3002,
+        "resistance_cible": 200.4,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 4.7341,
+        "ratio_gain_risque_net_estime": 2.01,
+        "quantite_theorique_max": 5,
+        "risque_total_eur_estime": 16.7,
+        "gain_potentiel_eur_estime": 33.57,
+        "capital_avec_frais_et_ttf_eur_estime": 963.92,
+        "courtages_aller_retour_eur_estimes": 6.87,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "ALO.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 58,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 15.97,
+        "mm20": 15.9037,
+        "mm50": 15.7857,
+        "mm200": 19.2295,
+        "rsi14": 52.03,
+        "adx14": 11.17,
+        "macd_12_26": 0.1355,
+        "macd_signal9": 0.113,
+        "macd_histogramme": 0.0225,
+        "atr14": 0.444,
+        "atr_pct": 2.78,
+        "plus_bas_20j_precedent": 14.615,
+        "plus_bas_55j_precedent": 14.475,
+        "plus_haut_20j_precedent": 16.61,
+        "plus_haut_55j_precedent": 17.055,
+        "volume": 1306955,
+        "ratio_volume_20j": 0.943,
+        "performance_20j_pct": 6.79,
+        "force_relative_cac40_20j_pct": 7.76,
+        "valeur_echangee_moyenne20_eur_estimee": 22065137.87
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 15.97,
+        "support_candidat": 15.9037,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 15.8149,
+        "resistance_cible": 16.61,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.444,
+        "ratio_gain_risque_net_estime": 1.19,
+        "quantite_theorique_max": 55,
+        "risque_total_eur_estime": 19.91,
+        "gain_potentiel_eur_estime": 23.62,
+        "capital_avec_frais_et_ttf_eur_estime": 885.82,
+        "courtages_aller_retour_eur_estimes": 6.27,
+        "ttf_achat_eur_estimee": 3.52,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "AUDIT_HISTORIQUE_NON_CONFORME",
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": false,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "BN.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 68,
+      "configurations": [
+        "CASSURE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 63.24,
+        "mm20": 60.253,
+        "mm50": 61.676,
+        "mm200": 66.6518,
+        "rsi14": 61.51,
+        "adx14": 19.26,
+        "macd_12_26": 0.3276,
+        "macd_signal9": -0.1391,
+        "macd_histogramme": 0.4667,
+        "atr14": 1.1402,
+        "atr_pct": 1.8,
+        "plus_bas_20j_precedent": 57.26,
+        "plus_bas_55j_precedent": 57.26,
+        "plus_haut_20j_precedent": 62.58,
+        "plus_haut_55j_precedent": 68.4,
+        "volume": 2163684,
+        "ratio_volume_20j": 1.5476,
+        "performance_20j_pct": 7.73,
+        "force_relative_cac40_20j_pct": 8.71,
+        "valeur_echangee_moyenne20_eur_estimee": 84329753.08
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 63.24,
+        "support_candidat": 61.676,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 61.448,
+        "resistance_cible": 68.4,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.1402,
+        "ratio_gain_risque_net_estime": 1.66,
+        "quantite_theorique_max": 7,
+        "risque_total_eur_estime": 18.24,
+        "gain_potentiel_eur_estime": 30.2,
+        "capital_avec_frais_et_ttf_eur_estime": 446.45,
+        "courtages_aller_retour_eur_estimes": 3.23,
+        "ttf_achat_eur_estimee": 1.77,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "BNP.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 87.2,
+        "mm20": 88.8645,
+        "mm50": 96.952,
+        "mm200": 95.3661,
+        "rsi14": 38.63,
+        "adx14": 44.83,
+        "macd_12_26": -3.3918,
+        "macd_signal9": -3.615,
+        "macd_histogramme": 0.2232,
+        "atr14": 2.377,
+        "atr_pct": 2.73,
+        "plus_bas_20j_precedent": 81.88,
+        "plus_bas_55j_precedent": 81.88,
+        "plus_haut_20j_precedent": 98.01,
+        "plus_haut_55j_precedent": 113.82,
+        "volume": 2172661,
+        "ratio_volume_20j": 0.8066,
+        "performance_20j_pct": -8.21,
+        "force_relative_cac40_20j_pct": -7.24,
+        "valeur_echangee_moyenne20_eur_estimee": 238995687.14
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 87.2,
+        "support_candidat": 81.88,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 81.4046,
+        "resistance_cible": 98.01,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 2.377,
+        "ratio_gain_risque_net_estime": 1.39,
+        "quantite_theorique_max": 2,
+        "risque_total_eur_estime": 13.81,
+        "gain_potentiel_eur_estime": 19.25,
+        "capital_avec_frais_et_ttf_eur_estime": 175.88,
+        "courtages_aller_retour_eur_estimes": 1.3,
+        "ttf_achat_eur_estimee": 0.7,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "CA.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 13.165,
+        "mm20": 15.3002,
+        "mm50": 15.858,
+        "mm200": 15.905,
+        "rsi14": 23.76,
+        "adx14": 28.52,
+        "macd_12_26": -0.6853,
+        "macd_signal9": -0.3746,
+        "macd_histogramme": -0.3107,
+        "atr14": 0.4374,
+        "atr_pct": 3.32,
+        "plus_bas_20j_precedent": 13.29,
+        "plus_bas_55j_precedent": 13.29,
+        "plus_haut_20j_precedent": 16.705,
+        "plus_haut_55j_precedent": 16.96,
+        "volume": 4421849,
+        "ratio_volume_20j": 1.4556,
+        "performance_20j_pct": -17.25,
+        "force_relative_cac40_20j_pct": -16.28,
+        "valeur_echangee_moyenne20_eur_estimee": 44989145.27
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": null,
+      "raisons_rejet_et_reserves": [
+        "AUCUN_SUPPORT_SOUS_LE_COURS",
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "CAP.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 90,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 122.45,
+        "mm20": 118.18,
+        "mm50": 111.092,
+        "mm200": 105.5327,
+        "rsi14": 62.71,
+        "adx14": 40.0,
+        "macd_12_26": 4.3694,
+        "macd_signal9": 4.2462,
+        "macd_histogramme": 0.1233,
+        "atr14": 3.8721,
+        "atr_pct": 3.16,
+        "plus_bas_20j_precedent": 100.95,
+        "plus_bas_55j_precedent": 100.35,
+        "plus_haut_20j_precedent": 127.2,
+        "plus_haut_55j_precedent": 127.2,
+        "volume": 469838,
+        "ratio_volume_20j": 0.6616,
+        "performance_20j_pct": 17.29,
+        "force_relative_cac40_20j_pct": 18.26,
+        "valeur_echangee_moyenne20_eur_estimee": 83626580.65
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 122.45,
+        "support_candidat": 118.18,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 117.4056,
+        "resistance_cible": 127.2,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 3.8721,
+        "ratio_gain_risque_net_estime": 0.47,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 19.84,
+        "gain_potentiel_eur_estime": 9.41,
+        "capital_avec_frais_et_ttf_eur_estime": 370.48,
+        "courtages_aller_retour_eur_estimes": 2.62,
+        "ttf_achat_eur_estimee": 1.47,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "CS.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 62,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 42.59,
+        "mm20": 42.2765,
+        "mm50": 43.1586,
+        "mm200": 41.5899,
+        "rsi14": 49.14,
+        "adx14": 17.7,
+        "macd_12_26": -0.2247,
+        "macd_signal9": -0.2923,
+        "macd_histogramme": 0.0676,
+        "atr14": 0.737,
+        "atr_pct": 1.73,
+        "plus_bas_20j_precedent": 41.19,
+        "plus_bas_55j_precedent": 41.19,
+        "plus_haut_20j_precedent": 43.7,
+        "plus_haut_55j_precedent": 45.2,
+        "volume": 1612865,
+        "ratio_volume_20j": 0.5167,
+        "performance_20j_pct": 0.12,
+        "force_relative_cac40_20j_pct": 1.09,
+        "valeur_echangee_moyenne20_eur_estimee": 131855641.21
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 42.59,
+        "support_candidat": 42.2765,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 42.1291,
+        "resistance_cible": 43.7,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.737,
+        "ratio_gain_risque_net_estime": 0.54,
+        "quantite_theorique_max": 19,
+        "risque_total_eur_estime": 19.24,
+        "gain_potentiel_eur_estime": 10.47,
+        "capital_avec_frais_et_ttf_eur_estime": 816.09,
+        "courtages_aller_retour_eur_estimes": 5.74,
+        "ttf_achat_eur_estimee": 3.24,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "DG.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 50,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 108.3,
+        "mm20": 107.175,
+        "mm50": 110.751,
+        "mm200": 122.9668,
+        "rsi14": 49.08,
+        "adx14": 29.06,
+        "macd_12_26": -0.8914,
+        "macd_signal9": -1.3442,
+        "macd_histogramme": 0.4528,
+        "atr14": 1.9238,
+        "atr_pct": 1.78,
+        "plus_bas_20j_precedent": 104.25,
+        "plus_bas_55j_precedent": 104.25,
+        "plus_haut_20j_precedent": 109.45,
+        "plus_haut_55j_precedent": 124.8,
+        "volume": 637525,
+        "ratio_volume_20j": 0.6998,
+        "performance_20j_pct": 1.26,
+        "force_relative_cac40_20j_pct": 2.24,
+        "valeur_echangee_moyenne20_eur_estimee": 97561953.91
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 108.3,
+        "support_candidat": 107.175,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 106.7902,
+        "resistance_cible": 109.45,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.9238,
+        "ratio_gain_risque_net_estime": -0.09,
+        "quantite_theorique_max": 6,
+        "risque_total_eur_estime": 17.47,
+        "gain_potentiel_eur_estime": -1.58,
+        "capital_avec_frais_et_ttf_eur_estime": 655.33,
+        "courtages_aller_retour_eur_estimes": 4.57,
+        "ttf_achat_eur_estimee": 2.6,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "DSY.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 23.58,
+        "mm20": 22.695,
+        "mm50": 21.9386,
+        "mm200": 19.9417,
+        "rsi14": 60.88,
+        "adx14": 33.03,
+        "macd_12_26": 0.7986,
+        "macd_signal9": 0.6559,
+        "macd_histogramme": 0.1426,
+        "atr14": 0.6924,
+        "atr_pct": 2.94,
+        "plus_bas_20j_precedent": 19.94,
+        "plus_bas_55j_precedent": 19.895,
+        "plus_haut_20j_precedent": 24.91,
+        "plus_haut_55j_precedent": 24.91,
+        "volume": 3197353,
+        "ratio_volume_20j": 1.7664,
+        "performance_20j_pct": 15.08,
+        "force_relative_cac40_20j_pct": 16.05,
+        "valeur_echangee_moyenne20_eur_estimee": 41157719.16
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 23.58,
+        "support_candidat": 22.695,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 22.5565,
+        "resistance_cible": 24.91,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.6924,
+        "ratio_gain_risque_net_estime": 0.77,
+        "quantite_theorique_max": 15,
+        "risque_total_eur_estime": 19.88,
+        "gain_potentiel_eur_estime": 15.26,
+        "capital_avec_frais_et_ttf_eur_estime": 356.71,
+        "courtages_aller_retour_eur_estimes": 2.55,
+        "ttf_achat_eur_estimee": 1.42,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "EDEN.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 42,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 24.46,
+        "mm20": 27.5465,
+        "mm50": 28.4046,
+        "mm200": 23.1596,
+        "rsi14": 30.05,
+        "adx14": 26.71,
+        "macd_12_26": -0.8106,
+        "macd_signal9": -0.3238,
+        "macd_histogramme": -0.4868,
+        "atr14": 0.9528,
+        "atr_pct": 3.9,
+        "plus_bas_20j_precedent": 24.3,
+        "plus_bas_55j_precedent": 24.3,
+        "plus_haut_20j_precedent": 30.48,
+        "plus_haut_55j_precedent": 30.85,
+        "volume": 545769,
+        "ratio_volume_20j": 1.0621,
+        "performance_20j_pct": -11.34,
+        "force_relative_cac40_20j_pct": -10.37,
+        "valeur_echangee_moyenne20_eur_estimee": 14031236.65
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 24.46,
+        "support_candidat": 24.3,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 24.1094,
+        "resistance_cible": 30.48,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.9528,
+        "ratio_gain_risque_net_estime": 8.51,
+        "quantite_theorique_max": 29,
+        "risque_total_eur_estime": 19.34,
+        "gain_potentiel_eur_estime": 164.57,
+        "capital_avec_frais_et_ttf_eur_estime": 715.37,
+        "courtages_aller_retour_eur_estimes": 5.58,
+        "ttf_achat_eur_estimee": 2.84,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "EL.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 68,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 177.7,
+        "mm20": 156.4025,
+        "mm50": 153.007,
+        "mm200": 184.7467,
+        "rsi14": 67.76,
+        "adx14": 36.39,
+        "macd_12_26": 7.9357,
+        "macd_signal9": 4.3869,
+        "macd_histogramme": 3.5488,
+        "atr14": 6.0261,
+        "atr_pct": 3.39,
+        "plus_bas_20j_precedent": 141.65,
+        "plus_bas_55j_precedent": 138.3,
+        "plus_haut_20j_precedent": 182.95,
+        "plus_haut_55j_precedent": 182.95,
+        "volume": 740992,
+        "ratio_volume_20j": 0.8116,
+        "performance_20j_pct": 22.05,
+        "force_relative_cac40_20j_pct": 23.02,
+        "valeur_echangee_moyenne20_eur_estimee": 147087523.39
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 177.7,
+        "support_candidat": 156.4025,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 155.1973,
+        "resistance_cible": 182.95,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 6.0261,
+        "ratio_gain_risque_net_estime": 0.12,
+        "quantite_theorique_max": 0,
+        "risque_total_eur_estime": 0.0,
+        "gain_potentiel_eur_estime": 0.0,
+        "capital_avec_frais_et_ttf_eur_estime": 0.0,
+        "courtages_aller_retour_eur_estimes": 0.0,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUANTITE_NULLE",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "EN.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 41.09,
+        "mm20": 40.705,
+        "mm50": 42.793,
+        "mm200": 47.657,
+        "rsi14": 45.46,
+        "adx14": 33.08,
+        "macd_12_26": -0.6022,
+        "macd_signal9": -0.7968,
+        "macd_histogramme": 0.1946,
+        "atr14": 0.6776,
+        "atr_pct": 1.65,
+        "plus_bas_20j_precedent": 39.73,
+        "plus_bas_55j_precedent": 39.73,
+        "plus_haut_20j_precedent": 42.86,
+        "plus_haut_55j_precedent": 48.01,
+        "volume": 424059,
+        "ratio_volume_20j": 0.5581,
+        "performance_20j_pct": -1.3,
+        "force_relative_cac40_20j_pct": -0.32,
+        "valeur_echangee_moyenne20_eur_estimee": 30916809.75
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 41.09,
+        "support_candidat": 40.705,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 40.5695,
+        "resistance_cible": 42.86,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.6776,
+        "ratio_gain_risque_net_estime": 1.17,
+        "quantite_theorique_max": 19,
+        "risque_total_eur_estime": 20.0,
+        "gain_potentiel_eur_estime": 23.33,
+        "capital_avec_frais_et_ttf_eur_estime": 787.35,
+        "courtages_aller_retour_eur_estimes": 5.58,
+        "ttf_achat_eur_estimee": 3.13,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "ENGI.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 60,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 23.46,
+        "mm20": 23.0235,
+        "mm50": 23.6626,
+        "mm200": 26.1271,
+        "rsi14": 52.71,
+        "adx14": 20.46,
+        "macd_12_26": -0.1175,
+        "macd_signal9": -0.2275,
+        "macd_histogramme": 0.11,
+        "atr14": 0.5118,
+        "atr_pct": 2.18,
+        "plus_bas_20j_precedent": 22.27,
+        "plus_bas_55j_precedent": 22.27,
+        "plus_haut_20j_precedent": 23.71,
+        "plus_haut_55j_precedent": 26.52,
+        "volume": 3788276,
+        "ratio_volume_20j": 0.8386,
+        "performance_20j_pct": 2.85,
+        "force_relative_cac40_20j_pct": 3.82,
+        "valeur_echangee_moyenne20_eur_estimee": 103958657.63
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 23.46,
+        "support_candidat": 23.0235,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 22.9211,
+        "resistance_cible": 23.71,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.5118,
+        "ratio_gain_risque_net_estime": -0.07,
+        "quantite_theorique_max": 23,
+        "risque_total_eur_estime": 19.35,
+        "gain_potentiel_eur_estime": -1.29,
+        "capital_avec_frais_et_ttf_eur_estime": 544.17,
+        "courtages_aller_retour_eur_estimes": 3.8,
+        "ttf_achat_eur_estimee": 2.16,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "ERF.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 80,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 86.24,
+        "mm20": 79.316,
+        "mm50": 76.1552,
+        "mm200": 68.2546,
+        "rsi14": 76.0,
+        "adx14": 31.5,
+        "macd_12_26": 2.7385,
+        "macd_signal9": 2.0012,
+        "macd_histogramme": 0.7374,
+        "atr14": 1.8951,
+        "atr_pct": 2.2,
+        "plus_bas_20j_precedent": 73.3,
+        "plus_bas_55j_precedent": 68.38,
+        "plus_haut_20j_precedent": 86.34,
+        "plus_haut_55j_precedent": 86.34,
+        "volume": 199705,
+        "ratio_volume_20j": 0.6262,
+        "performance_20j_pct": 14.99,
+        "force_relative_cac40_20j_pct": 15.96,
+        "valeur_echangee_moyenne20_eur_estimee": 25252622.14
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 86.24,
+        "support_candidat": 79.316,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 78.937,
+        "resistance_cible": 86.34,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.8951,
+        "ratio_gain_risque_net_estime": -0.12,
+        "quantite_theorique_max": 2,
+        "risque_total_eur_estime": 16.78,
+        "gain_potentiel_eur_estime": -2.04,
+        "capital_avec_frais_et_ttf_eur_estime": 173.95,
+        "courtages_aller_retour_eur_estimes": 1.21,
+        "ttf_achat_eur_estimee": 0.69,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "GLE.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 61.95,
+        "mm20": 63.4175,
+        "mm50": 69.3388,
+        "mm200": 71.5969,
+        "rsi14": 37.65,
+        "adx14": 40.02,
+        "macd_12_26": -2.5643,
+        "macd_signal9": -2.6925,
+        "macd_histogramme": 0.1282,
+        "atr14": 1.933,
+        "atr_pct": 3.12,
+        "plus_bas_20j_precedent": 58.59,
+        "plus_bas_55j_precedent": 58.59,
+        "plus_haut_20j_precedent": 71.4,
+        "plus_haut_55j_precedent": 84.25,
+        "volume": 1495128,
+        "ratio_volume_20j": 0.6902,
+        "performance_20j_pct": -10.94,
+        "force_relative_cac40_20j_pct": -9.97,
+        "valeur_echangee_moyenne20_eur_estimee": 137663217.24
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 61.95,
+        "support_candidat": 58.59,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 58.2034,
+        "resistance_cible": 71.4,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.933,
+        "ratio_gain_risque_net_estime": 1.9,
+        "quantite_theorique_max": 4,
+        "risque_total_eur_estime": 18.14,
+        "gain_potentiel_eur_estime": 34.41,
+        "capital_avec_frais_et_ttf_eur_estime": 249.91,
+        "courtages_aller_retour_eur_estimes": 1.87,
+        "ttf_achat_eur_estimee": 0.99,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "HO.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 58,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 233.9,
+        "mm20": 226.265,
+        "mm50": 232.882,
+        "mm200": 241.236,
+        "rsi14": 56.09,
+        "adx14": 15.6,
+        "macd_12_26": 0.2237,
+        "macd_signal9": -1.3264,
+        "macd_histogramme": 1.5501,
+        "atr14": 5.2354,
+        "atr_pct": 2.24,
+        "plus_bas_20j_precedent": 211.9,
+        "plus_bas_55j_precedent": 211.9,
+        "plus_haut_20j_precedent": 235.6,
+        "plus_haut_55j_precedent": 274.2,
+        "volume": 139156,
+        "ratio_volume_20j": 0.6113,
+        "performance_20j_pct": 4.19,
+        "force_relative_cac40_20j_pct": 5.16,
+        "valeur_echangee_moyenne20_eur_estimee": 51441691.13
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 233.9,
+        "support_candidat": 232.882,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 231.8349,
+        "resistance_cible": 235.6,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 5.2354,
+        "ratio_gain_risque_net_estime": -0.26,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 15.29,
+        "gain_potentiel_eur_estime": -4.05,
+        "capital_avec_frais_et_ttf_eur_estime": 707.67,
+        "courtages_aller_retour_eur_estimes": 4.93,
+        "ttf_achat_eur_estimee": 2.81,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "KER.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 176.6,
+        "mm20": 206.2115,
+        "mm50": 226.3246,
+        "mm200": 250.6617,
+        "rsi14": 21.71,
+        "adx14": 34.32,
+        "macd_12_26": -12.0585,
+        "macd_signal9": -8.9513,
+        "macd_histogramme": -3.1072,
+        "atr14": 7.3944,
+        "atr_pct": 4.19,
+        "plus_bas_20j_precedent": 175.76,
+        "plus_bas_55j_precedent": 175.76,
+        "plus_haut_20j_precedent": 226.05,
+        "plus_haut_55j_precedent": 281.95,
+        "volume": 463034,
+        "ratio_volume_20j": 1.1399,
+        "performance_20j_pct": -20.95,
+        "force_relative_cac40_20j_pct": -19.98,
+        "valeur_echangee_moyenne20_eur_estimee": 81534927.86
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 176.6,
+        "support_candidat": 175.76,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 174.2811,
+        "resistance_cible": 226.05,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 7.3944,
+        "ratio_gain_risque_net_estime": 10.19,
+        "quantite_theorique_max": 4,
+        "risque_total_eur_estime": 18.42,
+        "gain_potentiel_eur_estime": 187.72,
+        "capital_avec_frais_et_ttf_eur_estime": 712.41,
+        "courtages_aller_retour_eur_estimes": 5.64,
+        "ttf_achat_eur_estimee": 2.83,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "LR.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 132.5,
+        "mm20": 134.955,
+        "mm50": 136.517,
+        "mm200": 141.0428,
+        "rsi14": 48.23,
+        "adx14": 20.73,
+        "macd_12_26": -2.8917,
+        "macd_signal9": -2.3224,
+        "macd_histogramme": -0.5692,
+        "atr14": 4.5312,
+        "atr_pct": 3.42,
+        "plus_bas_20j_precedent": 122.3,
+        "plus_bas_55j_precedent": 122.3,
+        "plus_haut_20j_precedent": 148.4,
+        "plus_haut_55j_precedent": 148.4,
+        "volume": 933000,
+        "ratio_volume_20j": 1.448,
+        "performance_20j_pct": -6.43,
+        "force_relative_cac40_20j_pct": -5.45,
+        "valeur_echangee_moyenne20_eur_estimee": 86743929.76
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 132.5,
+        "support_candidat": 122.3,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 121.3938,
+        "resistance_cible": 148.4,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 4.5312,
+        "ratio_gain_risque_net_estime": 1.1,
+        "quantite_theorique_max": 1,
+        "risque_total_eur_estime": 12.78,
+        "gain_potentiel_eur_estime": 14.11,
+        "capital_avec_frais_et_ttf_eur_estime": 133.63,
+        "courtages_aller_retour_eur_estimes": 0.98,
+        "ttf_achat_eur_estimee": 0.53,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "MC.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 385.0,
+        "mm20": 386.105,
+        "mm50": 408.14,
+        "mm200": 471.607,
+        "rsi14": 41.37,
+        "adx14": 34.07,
+        "macd_12_26": -5.606,
+        "macd_signal9": -7.166,
+        "macd_histogramme": 1.5599,
+        "atr14": 8.1542,
+        "atr_pct": 2.12,
+        "plus_bas_20j_precedent": 375.65,
+        "plus_bas_55j_precedent": 375.65,
+        "plus_haut_20j_precedent": 399.55,
+        "plus_haut_55j_precedent": 476.15,
+        "volume": 450762,
+        "ratio_volume_20j": 0.723,
+        "performance_20j_pct": -1.28,
+        "force_relative_cac40_20j_pct": -0.31,
+        "valeur_echangee_moyenne20_eur_estimee": 240861318.96
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 385.0,
+        "support_candidat": 375.65,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 374.0192,
+        "resistance_cible": 399.55,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 8.1542,
+        "ratio_gain_risque_net_estime": 0.59,
+        "quantite_theorique_max": 1,
+        "risque_total_eur_estime": 15.94,
+        "gain_potentiel_eur_estime": 9.48,
+        "capital_avec_frais_et_ttf_eur_estime": 388.28,
+        "courtages_aller_retour_eur_estimes": 2.75,
+        "ttf_achat_eur_estimee": 1.54,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "ML.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 31.8,
+        "mm20": 32.8595,
+        "mm50": 33.6102,
+        "mm200": 32.6647,
+        "rsi14": 39.84,
+        "adx14": 20.32,
+        "macd_12_26": -0.5615,
+        "macd_signal9": -0.4136,
+        "macd_histogramme": -0.148,
+        "atr14": 0.65,
+        "atr_pct": 2.04,
+        "plus_bas_20j_precedent": 30.75,
+        "plus_bas_55j_precedent": 30.75,
+        "plus_haut_20j_precedent": 34.28,
+        "plus_haut_55j_precedent": 35.35,
+        "volume": 1051571,
+        "ratio_volume_20j": 0.6504,
+        "performance_20j_pct": -5.78,
+        "force_relative_cac40_20j_pct": -4.8,
+        "valeur_echangee_moyenne20_eur_estimee": 52779257.43
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 31.8,
+        "support_candidat": 30.75,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 30.62,
+        "resistance_cible": 34.28,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.65,
+        "ratio_gain_risque_net_estime": 1.29,
+        "quantite_theorique_max": 12,
+        "risque_total_eur_estime": 19.06,
+        "gain_potentiel_eur_estime": 24.66,
+        "capital_avec_frais_et_ttf_eur_estime": 384.85,
+        "courtages_aller_retour_eur_estimes": 2.78,
+        "ttf_achat_eur_estimee": 1.53,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "MT.AS",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 53.5,
+        "mm20": 55.845,
+        "mm50": 60.5496,
+        "mm200": 55.3034,
+        "rsi14": 35.16,
+        "adx14": 32.46,
+        "macd_12_26": -1.8925,
+        "macd_signal9": -1.8077,
+        "macd_histogramme": -0.0849,
+        "atr14": 1.9045,
+        "atr_pct": 3.56,
+        "plus_bas_20j_precedent": 52.46,
+        "plus_bas_55j_precedent": 52.46,
+        "plus_haut_20j_precedent": 60.46,
+        "plus_haut_55j_precedent": 68.56,
+        "volume": 1631680,
+        "ratio_volume_20j": 1.1073,
+        "performance_20j_pct": -9.87,
+        "force_relative_cac40_20j_pct": -8.9,
+        "valeur_echangee_moyenne20_eur_estimee": 82223329.77
+      },
+      "ttf": {
+        "statut": "NON",
+        "taux_pct": 0,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 53.5,
+        "support_candidat": 52.46,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 52.0791,
+        "resistance_cible": 60.46,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.9045,
+        "ratio_gain_risque_net_estime": 3.4,
+        "quantite_theorique_max": 10,
+        "risque_total_eur_estime": 18.96,
+        "gain_potentiel_eur_estime": 64.47,
+        "capital_avec_frais_et_ttf_eur_estime": 537.41,
+        "courtages_aller_retour_eur_estimes": 3.99,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "OR.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 90,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 423.65,
+        "mm20": 397.6175,
+        "mm50": 389.133,
+        "mm200": 378.3925,
+        "rsi14": 67.2,
+        "adx14": 28.93,
+        "macd_12_26": 12.4333,
+        "macd_signal9": 8.5648,
+        "macd_histogramme": 3.8685,
+        "atr14": 8.1933,
+        "atr_pct": 1.93,
+        "plus_bas_20j_precedent": 369.0,
+        "plus_bas_55j_precedent": 367.5,
+        "plus_haut_20j_precedent": 442.35,
+        "plus_haut_55j_precedent": 442.35,
+        "volume": 340040,
+        "ratio_volume_20j": 0.9275,
+        "performance_20j_pct": 11.65,
+        "force_relative_cac40_20j_pct": 12.62,
+        "valeur_echangee_moyenne20_eur_estimee": 148109988.58
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 423.65,
+        "support_candidat": 397.6175,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 395.9788,
+        "resistance_cible": 442.35,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 8.1933,
+        "ratio_gain_risque_net_estime": 0.4,
+        "quantite_theorique_max": 0,
+        "risque_total_eur_estime": 0.0,
+        "gain_potentiel_eur_estime": 0.0,
+        "capital_avec_frais_et_ttf_eur_estime": 0.0,
+        "courtages_aller_retour_eur_estimes": 0.0,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUANTITE_NULLE",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "ORA.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 50,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 14.225,
+        "mm20": 14.1382,
+        "mm50": 14.7663,
+        "mm200": 16.5023,
+        "rsi14": 46.61,
+        "adx14": 18.49,
+        "macd_12_26": -0.1225,
+        "macd_signal9": -0.1916,
+        "macd_histogramme": 0.0691,
+        "atr14": 0.2935,
+        "atr_pct": 2.06,
+        "plus_bas_20j_precedent": 13.515,
+        "plus_bas_55j_precedent": 13.515,
+        "plus_haut_20j_precedent": 14.57,
+        "plus_haut_55j_precedent": 16.455,
+        "volume": 4161066,
+        "ratio_volume_20j": 0.8542,
+        "performance_20j_pct": 3.79,
+        "force_relative_cac40_20j_pct": 4.77,
+        "valeur_echangee_moyenne20_eur_estimee": 68868476.37
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 14.225,
+        "support_candidat": 14.1382,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 14.0795,
+        "resistance_cible": 14.57,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.2935,
+        "ratio_gain_risque_net_estime": 0.48,
+        "quantite_theorique_max": 60,
+        "risque_total_eur_estime": 19.79,
+        "gain_potentiel_eur_estime": 9.51,
+        "capital_avec_frais_et_ttf_eur_estime": 860.76,
+        "courtages_aller_retour_eur_estimes": 6.05,
+        "ttf_achat_eur_estimee": 3.42,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "PUB.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 80,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 98.4,
+        "mm20": 98.7425,
+        "mm50": 99.0294,
+        "mm200": 86.6637,
+        "rsi14": 47.54,
+        "adx14": 22.17,
+        "macd_12_26": 0.6612,
+        "macd_signal9": 0.7685,
+        "macd_histogramme": -0.1073,
+        "atr14": 2.2501,
+        "atr_pct": 2.29,
+        "plus_bas_20j_precedent": 92.96,
+        "plus_bas_55j_precedent": 92.96,
+        "plus_haut_20j_precedent": 105.2,
+        "plus_haut_55j_precedent": 105.2,
+        "volume": 307258,
+        "ratio_volume_20j": 0.5475,
+        "performance_20j_pct": 4.1,
+        "force_relative_cac40_20j_pct": 5.08,
+        "valeur_echangee_moyenne20_eur_estimee": 55654243.99
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 98.4,
+        "support_candidat": 92.96,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 92.51,
+        "resistance_cible": 105.2,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 2.2501,
+        "ratio_gain_risque_net_estime": 0.77,
+        "quantite_theorique_max": 2,
+        "risque_total_eur_estime": 14.29,
+        "gain_potentiel_eur_estime": 10.98,
+        "capital_avec_frais_et_ttf_eur_estime": 198.47,
+        "courtages_aller_retour_eur_estimes": 1.43,
+        "ttf_achat_eur_estimee": 0.79,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "RI.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 68,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 66.28,
+        "mm20": 64.151,
+        "mm50": 62.9368,
+        "mm200": 66.8847,
+        "rsi14": 58.28,
+        "adx14": 32.51,
+        "macd_12_26": 1.5164,
+        "macd_signal9": 1.3039,
+        "macd_histogramme": 0.2125,
+        "atr14": 1.6694,
+        "atr_pct": 2.52,
+        "plus_bas_20j_precedent": 57.86,
+        "plus_bas_55j_precedent": 57.86,
+        "plus_haut_20j_precedent": 68.72,
+        "plus_haut_55j_precedent": 69.22,
+        "volume": 562379,
+        "ratio_volume_20j": 0.7071,
+        "performance_20j_pct": 9.26,
+        "force_relative_cac40_20j_pct": 10.24,
+        "valeur_echangee_moyenne20_eur_estimee": 51373496.34
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 66.28,
+        "support_candidat": 64.151,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 63.8171,
+        "resistance_cible": 68.72,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.6694,
+        "ratio_gain_risque_net_estime": 0.47,
+        "quantite_theorique_max": 6,
+        "risque_total_eur_estime": 19.88,
+        "gain_potentiel_eur_estime": 9.4,
+        "capital_avec_frais_et_ttf_eur_estime": 401.06,
+        "courtages_aller_retour_eur_estimes": 2.83,
+        "ttf_achat_eur_estimee": 1.59,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "RMS.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 1259.5,
+        "mm20": 1296.375,
+        "mm50": 1386.48,
+        "mm200": 1659.41,
+        "rsi14": 38.54,
+        "adx14": 31.65,
+        "macd_12_26": -28.8205,
+        "macd_signal9": -29.5572,
+        "macd_histogramme": 0.7368,
+        "atr14": 41.0258,
+        "atr_pct": 3.26,
+        "plus_bas_20j_precedent": 1228.0,
+        "plus_bas_55j_precedent": 1228.0,
+        "plus_haut_20j_precedent": 1370.0,
+        "plus_haut_55j_precedent": 1630.5,
+        "volume": 59509,
+        "ratio_volume_20j": 0.5749,
+        "performance_20j_pct": -5.76,
+        "force_relative_cac40_20j_pct": -4.79,
+        "valeur_echangee_moyenne20_eur_estimee": 133823629.88
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 1259.5,
+        "support_candidat": 1228.0,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 1219.7948,
+        "resistance_cible": 1370.0,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 41.0258,
+        "ratio_gain_risque_net_estime": 1.67,
+        "quantite_theorique_max": 0,
+        "risque_total_eur_estime": 0.0,
+        "gain_potentiel_eur_estime": 0.0,
+        "capital_avec_frais_et_ttf_eur_estime": 0.0,
+        "courtages_aller_retour_eur_estimes": 0.0,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUANTITE_NULLE",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "RNO.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 40,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 26.35,
+        "mm20": 26.418,
+        "mm50": 27.4498,
+        "mm200": 28.6182,
+        "rsi14": 46.79,
+        "adx14": 14.83,
+        "macd_12_26": -0.2272,
+        "macd_signal9": -0.2175,
+        "macd_histogramme": -0.0097,
+        "atr14": 0.893,
+        "atr_pct": 3.39,
+        "plus_bas_20j_precedent": 24.38,
+        "plus_bas_55j_precedent": 24.38,
+        "plus_haut_20j_precedent": 28.22,
+        "plus_haut_55j_precedent": 30.44,
+        "volume": 1287611,
+        "ratio_volume_20j": 0.7895,
+        "performance_20j_pct": 1.74,
+        "force_relative_cac40_20j_pct": 2.71,
+        "valeur_echangee_moyenne20_eur_estimee": 43110232.11
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 26.35,
+        "support_candidat": 24.38,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 24.2014,
+        "resistance_cible": 28.22,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.893,
+        "ratio_gain_risque_net_estime": 0.61,
+        "quantite_theorique_max": 8,
+        "risque_total_eur_estime": 19.85,
+        "gain_potentiel_eur_estime": 12.15,
+        "capital_avec_frais_et_ttf_eur_estime": 212.59,
+        "courtages_aller_retour_eur_estimes": 1.53,
+        "ttf_achat_eur_estimee": 0.84,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "SAF.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 271.9,
+        "mm20": 308.98,
+        "mm50": 323.778,
+        "mm200": 316.7425,
+        "rsi14": 21.38,
+        "adx14": 37.96,
+        "macd_12_26": -13.7211,
+        "macd_signal9": -9.0869,
+        "macd_histogramme": -4.6341,
+        "atr14": 9.1047,
+        "atr_pct": 3.35,
+        "plus_bas_20j_precedent": 269.9,
+        "plus_bas_55j_precedent": 269.9,
+        "plus_haut_20j_precedent": 340.7,
+        "plus_haut_55j_precedent": 366.5,
+        "volume": 593246,
+        "ratio_volume_20j": 0.9688,
+        "performance_20j_pct": -18.69,
+        "force_relative_cac40_20j_pct": -17.72,
+        "valeur_echangee_moyenne20_eur_estimee": 186154204.41
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 271.9,
+        "support_candidat": 269.9,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 268.0791,
+        "resistance_cible": 340.7,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 9.1047,
+        "ratio_gain_risque_net_estime": 8.85,
+        "quantite_theorique_max": 2,
+        "risque_total_eur_estime": 14.68,
+        "gain_potentiel_eur_estime": 129.91,
+        "capital_avec_frais_et_ttf_eur_estime": 548.43,
+        "courtages_aller_retour_eur_estimes": 4.29,
+        "ttf_achat_eur_estimee": 2.18,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "SAN.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 68,
+      "configurations": [
+        "CASSURE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 75.51,
+        "mm20": 72.475,
+        "mm50": 74.1256,
+        "mm200": 76.6319,
+        "rsi14": 60.82,
+        "adx14": 15.27,
+        "macd_12_26": 0.4126,
+        "macd_signal9": -0.1346,
+        "macd_histogramme": 0.5472,
+        "atr14": 1.4436,
+        "atr_pct": 1.91,
+        "plus_bas_20j_precedent": 69.75,
+        "plus_bas_55j_precedent": 69.75,
+        "plus_haut_20j_precedent": 75.43,
+        "plus_haut_55j_precedent": 79.36,
+        "volume": 2827293,
+        "ratio_volume_20j": 1.2669,
+        "performance_20j_pct": 3.95,
+        "force_relative_cac40_20j_pct": 4.92,
+        "valeur_echangee_moyenne20_eur_estimee": 161608678.06
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 75.51,
+        "support_candidat": 74.1256,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 73.8369,
+        "resistance_cible": 79.36,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.4436,
+        "ratio_gain_risque_net_estime": 1.08,
+        "quantite_theorique_max": 7,
+        "risque_total_eur_estime": 18.53,
+        "gain_potentiel_eur_estime": 19.96,
+        "capital_avec_frais_et_ttf_eur_estime": 533.07,
+        "courtages_aller_retour_eur_estimes": 3.79,
+        "ttf_achat_eur_estimee": 2.12,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "SAVE.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 48,
+      "configurations": [],
+      "groupes": [
+        "actions_supplementaires"
+      ],
+      "indicateurs": {
+        "close": 56.0,
+        "mm20": 56.24,
+        "mm50": 58.564,
+        "mm200": 62.414,
+        "rsi14": 44.97,
+        "adx14": 14.78,
+        "macd_12_26": -0.5556,
+        "macd_signal9": -0.7618,
+        "macd_histogramme": 0.2062,
+        "atr14": 1.0648,
+        "atr_pct": 1.9,
+        "plus_bas_20j_precedent": 54.2,
+        "plus_bas_55j_precedent": 54.2,
+        "plus_haut_20j_precedent": 59.2,
+        "plus_haut_55j_precedent": 66.4,
+        "volume": 155,
+        "ratio_volume_20j": 0.1884,
+        "performance_20j_pct": 2.94,
+        "force_relative_cac40_20j_pct": 3.91,
+        "valeur_echangee_moyenne20_eur_estimee": 46239.61
+      },
+      "ttf": {
+        "statut": "NON",
+        "taux_pct": 0,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 56.0,
+        "support_candidat": 54.2,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 53.987,
+        "resistance_cible": 59.2,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.0648,
+        "ratio_gain_risque_net_estime": 1.07,
+        "quantite_theorique_max": 7,
+        "risque_total_eur_estime": 17.56,
+        "gain_potentiel_eur_estime": 18.77,
+        "capital_avec_frais_et_ttf_eur_estime": 393.77,
+        "courtages_aller_retour_eur_estimes": 2.82,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "ANOMALIES_DONNEES",
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "LIQUIDITE_INFERIEURE_1M",
+        "LIQUIDITE_INSUFFISANTE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": false,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "SGO.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 66.64,
+        "mm20": 66.287,
+        "mm50": 70.8892,
+        "mm200": 76.7125,
+        "rsi14": 42.67,
+        "adx14": 26.7,
+        "macd_12_26": -0.9305,
+        "macd_signal9": -1.412,
+        "macd_histogramme": 0.4815,
+        "atr14": 1.5773,
+        "atr_pct": 2.37,
+        "plus_bas_20j_precedent": 63.52,
+        "plus_bas_55j_precedent": 63.52,
+        "plus_haut_20j_precedent": 70.58,
+        "plus_haut_55j_precedent": 86.22,
+        "volume": 1549394,
+        "ratio_volume_20j": 1.4328,
+        "performance_20j_pct": -3.48,
+        "force_relative_cac40_20j_pct": -2.5,
+        "valeur_echangee_moyenne20_eur_estimee": 71696970.99
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 66.64,
+        "support_candidat": 66.287,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 65.9715,
+        "resistance_cible": 70.58,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.5773,
+        "ratio_gain_risque_net_estime": 1.99,
+        "quantite_theorique_max": 13,
+        "risque_total_eur_estime": 19.92,
+        "gain_potentiel_eur_estime": 39.72,
+        "capital_avec_frais_et_ttf_eur_estime": 873.69,
+        "courtages_aller_retour_eur_estimes": 6.24,
+        "ttf_achat_eur_estimee": 3.47,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "STLAP.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 68,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 4.284,
+        "mm20": 3.9013,
+        "mm50": 4.2172,
+        "mm200": 5.6673,
+        "rsi14": 59.85,
+        "adx14": 22.91,
+        "macd_12_26": -0.0998,
+        "macd_signal9": -0.1358,
+        "macd_histogramme": 0.036,
+        "atr14": 0.1948,
+        "atr_pct": 4.55,
+        "plus_bas_20j_precedent": 3.505,
+        "plus_bas_55j_precedent": 3.505,
+        "plus_haut_20j_precedent": 4.298,
+        "plus_haut_55j_precedent": 4.871,
+        "volume": 13896350,
+        "ratio_volume_20j": 2.6142,
+        "performance_20j_pct": 9.83,
+        "force_relative_cac40_20j_pct": 10.81,
+        "valeur_echangee_moyenne20_eur_estimee": 20849656.16
+      },
+      "ttf": {
+        "statut": "NON",
+        "taux_pct": 0,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 4.284,
+        "support_candidat": 4.2172,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 4.1782,
+        "resistance_cible": 4.298,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.1948,
+        "ratio_gain_risque_net_estime": -0.17,
+        "quantite_theorique_max": 139,
+        "risque_total_eur_estime": 19.99,
+        "gain_potentiel_eur_estime": -3.42,
+        "capital_avec_frais_et_ttf_eur_estime": 598.16,
+        "courtages_aller_retour_eur_estimes": 4.18,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "STMPA.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 43.37,
+        "mm20": 44.5385,
+        "mm50": 44.249,
+        "mm200": 43.716,
+        "rsi14": 48.67,
+        "adx14": 24.58,
+        "macd_12_26": -1.1845,
+        "macd_signal9": -1.0656,
+        "macd_histogramme": -0.1189,
+        "atr14": 1.8734,
+        "atr_pct": 4.32,
+        "plus_bas_20j_precedent": 38.61,
+        "plus_bas_55j_precedent": 38.61,
+        "plus_haut_20j_precedent": 52.41,
+        "plus_haut_55j_precedent": 52.41,
+        "volume": 2077809,
+        "ratio_volume_20j": 0.9394,
+        "performance_20j_pct": -7.49,
+        "force_relative_cac40_20j_pct": -6.51,
+        "valeur_echangee_moyenne20_eur_estimee": 98134905.75
+      },
+      "ttf": {
+        "statut": "NON",
+        "taux_pct": 0,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 43.37,
+        "support_candidat": 38.61,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 38.2353,
+        "resistance_cible": 52.41,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.8734,
+        "ratio_gain_risque_net_estime": 1.56,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 16.51,
+        "gain_potentiel_eur_estime": 25.83,
+        "capital_avec_frais_et_ttf_eur_estime": 130.7,
+        "courtages_aller_retour_eur_estimes": 1.01,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "SU.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 20,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 246.2,
+        "mm20": 257.7075,
+        "mm50": 277.652,
+        "mm200": 268.6695,
+        "rsi14": 40.02,
+        "adx14": 29.78,
+        "macd_12_26": -11.7523,
+        "macd_signal9": -10.8135,
+        "macd_histogramme": -0.9389,
+        "atr14": 9.0458,
+        "atr_pct": 3.67,
+        "plus_bas_20j_precedent": 226.85,
+        "plus_bas_55j_precedent": 226.85,
+        "plus_haut_20j_precedent": 304.85,
+        "plus_haut_55j_precedent": 312.3,
+        "volume": 943200,
+        "ratio_volume_20j": 0.6212,
+        "performance_20j_pct": -15.68,
+        "force_relative_cac40_20j_pct": -14.71,
+        "valeur_echangee_moyenne20_eur_estimee": 387192624.37
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 246.2,
+        "support_candidat": 226.85,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 225.0408,
+        "resistance_cible": 304.85,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 9.0458,
+        "ratio_gain_risque_net_estime": 2.27,
+        "quantite_theorique_max": 0,
+        "risque_total_eur_estime": 0.0,
+        "gain_potentiel_eur_estime": 0.0,
+        "capital_avec_frais_et_ttf_eur_estime": 0.0,
+        "courtages_aller_retour_eur_estimes": 0.0,
+        "ttf_achat_eur_estimee": 0.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUANTITE_NULLE",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "TEP.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 79.1,
+        "mm20": 74.642,
+        "mm50": 72.1984,
+        "mm200": 60.6858,
+        "rsi14": 63.66,
+        "adx14": 38.59,
+        "macd_12_26": 2.5914,
+        "macd_signal9": 2.0797,
+        "macd_histogramme": 0.5117,
+        "atr14": 2.2912,
+        "atr_pct": 2.9,
+        "plus_bas_20j_precedent": 66.66,
+        "plus_bas_55j_precedent": 66.66,
+        "plus_haut_20j_precedent": 82.7,
+        "plus_haut_55j_precedent": 82.7,
+        "volume": 238309,
+        "ratio_volume_20j": 1.0521,
+        "performance_20j_pct": 12.65,
+        "force_relative_cac40_20j_pct": 13.62,
+        "valeur_echangee_moyenne20_eur_estimee": 16881582.61
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 79.1,
+        "support_candidat": 74.642,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 74.1838,
+        "resistance_cible": 82.7,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 2.2912,
+        "ratio_gain_risque_net_estime": 0.43,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 17.77,
+        "gain_potentiel_eur_estime": 7.67,
+        "capital_avec_frais_et_ttf_eur_estime": 239.32,
+        "courtages_aller_retour_eur_estimes": 1.7,
+        "ttf_achat_eur_estimee": 0.95,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "TTE.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 80,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 83.6,
+        "mm20": 79.361,
+        "mm50": 78.4984,
+        "mm200": 73.7868,
+        "rsi14": 66.02,
+        "adx14": 15.12,
+        "macd_12_26": 1.45,
+        "macd_signal9": 1.0012,
+        "macd_histogramme": 0.4488,
+        "atr14": 1.7043,
+        "atr_pct": 2.04,
+        "plus_bas_20j_precedent": 73.45,
+        "plus_bas_55j_precedent": 73.45,
+        "plus_haut_20j_precedent": 84.0,
+        "plus_haut_55j_precedent": 84.0,
+        "volume": 3065030,
+        "ratio_volume_20j": 0.8355,
+        "performance_20j_pct": 10.44,
+        "force_relative_cac40_20j_pct": 11.41,
+        "valeur_echangee_moyenne20_eur_estimee": 290460536.46
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 83.6,
+        "support_candidat": 79.361,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 79.0201,
+        "resistance_cible": 84.0,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.7043,
+        "ratio_gain_risque_net_estime": -0.12,
+        "quantite_theorique_max": 3,
+        "risque_total_eur_estime": 16.94,
+        "gain_potentiel_eur_estime": -2.07,
+        "capital_avec_frais_et_ttf_eur_estime": 252.93,
+        "courtages_aller_retour_eur_estimes": 1.76,
+        "ttf_achat_eur_estimee": 1.0,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "URW.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 58,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 91.62,
+        "mm20": 89.009,
+        "mm50": 93.0506,
+        "mm200": 98.2883,
+        "rsi14": 54.22,
+        "adx14": 27.43,
+        "macd_12_26": -0.4566,
+        "macd_signal9": -1.17,
+        "macd_histogramme": 0.7134,
+        "atr14": 1.6224,
+        "atr_pct": 1.77,
+        "plus_bas_20j_precedent": 85.98,
+        "plus_bas_55j_precedent": 85.98,
+        "plus_haut_20j_precedent": 91.98,
+        "plus_haut_55j_precedent": 104.15,
+        "volume": 221320,
+        "ratio_volume_20j": 0.7056,
+        "performance_20j_pct": 2.83,
+        "force_relative_cac40_20j_pct": 3.8,
+        "valeur_echangee_moyenne20_eur_estimee": 27871485.41
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 91.62,
+        "support_candidat": 89.009,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 88.6845,
+        "resistance_cible": 91.98,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 1.6224,
+        "ratio_gain_risque_net_estime": -0.2,
+        "quantite_theorique_max": 4,
+        "risque_total_eur_estime": 16.45,
+        "gain_potentiel_eur_estime": -3.33,
+        "capital_avec_frais_et_ttf_eur_estime": 369.6,
+        "courtages_aller_retour_eur_estimes": 2.57,
+        "ttf_achat_eur_estimee": 1.47,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    },
+    {
+      "ticker": "VIE.PA",
+      "date_seance": "2026-10-28",
+      "score_exploratoire_100": 68,
+      "configurations": [],
+      "groupes": [
+        "cac40_indicatif"
+      ],
+      "indicateurs": {
+        "close": 32.74,
+        "mm20": 31.674,
+        "mm50": 31.9368,
+        "mm200": 33.7779,
+        "rsi14": 63.13,
+        "adx14": 20.3,
+        "macd_12_26": 0.1936,
+        "macd_signal9": 0.0316,
+        "macd_histogramme": 0.162,
+        "atr14": 0.5303,
+        "atr_pct": 1.62,
+        "plus_bas_20j_precedent": 30.06,
+        "plus_bas_55j_precedent": 30.06,
+        "plus_haut_20j_precedent": 32.76,
+        "plus_haut_55j_precedent": 34.67,
+        "volume": 1195663,
+        "ratio_volume_20j": 0.6588,
+        "performance_20j_pct": 6.26,
+        "force_relative_cac40_20j_pct": 7.24,
+        "valeur_echangee_moyenne20_eur_estimee": 57511925.17
+      },
+      "ttf": {
+        "statut": "OUI",
+        "taux_pct": 0.4,
+        "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+      },
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 32.74,
+        "support_candidat": 31.9368,
+        "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+        "stop_invalidation_candidat": 31.8307,
+        "resistance_cible": 32.76,
+        "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+        "atr14": 0.5303,
+        "ratio_gain_risque_net_estime": -0.3,
+        "quantite_theorique_max": 15,
+        "risque_total_eur_estime": 19.96,
+        "gain_potentiel_eur_estime": -6.09,
+        "capital_avec_frais_et_ttf_eur_estime": 495.28,
+        "courtages_aller_retour_eur_estimes": 3.44,
+        "ttf_achat_eur_estimee": 1.97,
+        "hypothese_slippage_pct_par_cote": 0.1,
+        "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+      },
+      "raisons_rejet_et_reserves": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "donnees_manquantes": [
+        "budget_deja_engage_eur",
+        "positions_ouvertes_nombre",
+        "risque_positions_ouvertes_eur"
+      ],
+      "retenable_pour_etude": true,
+      "autorise_signal_achat": false
+    }
+  ],
+  "achats_autorises": 0,
+  "avertissement": "Shortlist recherche uniquement. TTF par table ticker a confirmer par ISIN. Stop/resistance heuristiques, pas valides graphiquement. Prix Yahoo non independamment valides; spreads et positions reelles inconnus."
+}
