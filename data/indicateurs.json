@@ -1,6 +1,6 @@
 {
   "schema_version": "4.0",
-  "mise_a_jour_utc": "2026-10-28T19:50:27.872177+00:00",
+  "mise_a_jour_utc": "2026-10-28T20:06:49.867755+00:00",
   "source": "Yahoo Finance via yfinance (non officiel, possiblement differe)",
   "univers": "config/watchlist.json; CAC 40 indicatif non certifie",
   "benchmark": "^FCHI",
