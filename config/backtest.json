@@ -1,0 +1,8 @@
+{
+  "fee_pct": 0.35,
+  "max_risk_eur": 20,
+  "stop_atr_multiple": 1.5,
+  "max_holding_sessions": 10,
+  "min_turnover_eur": 100000,
+  "max_trades_per_ticker_strategy": 50
+}
