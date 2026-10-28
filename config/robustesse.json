@@ -1,0 +1,7 @@
+{
+  "date_separation": "2026-01-12",
+  "multiplicateurs_atr": [1.5, 2.0, 2.5],
+  "durees_seances": [5, 10, 20],
+  "minimum_trades_apprentissage": 25,
+  "slippages_stress_pct": [0.10, 0.20, 0.30]
+}
