@@ -1,5 +1,4 @@
-
-name: Veille Bourse V5
+name: Veille Bourse V7
 
 on:
   workflow_dispatch:
@@ -18,34 +17,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - run: pip install -r requirements.txt
-
       - name: Collecte V4
         run: python collecte.py
-
       - name: Screening V5
         run: python screening.py
-
-      - name: Backtest exploratoire V6
-        run: python backtest.py 
-        
-      - name: Portefeuille V6.1
+      - name: Audit historique V6.3
+        run: python fiabilisation.py
+      - name: Rapport quotidien V7
+        run: python rapport_v7.py
+      - name: Backtest V6 (manuel uniquement)
+        if: github.event_name == 'workflow_dispatch'
+        run: python backtest.py
+      - name: Portefeuille V6.1 (manuel uniquement)
+        if: github.event_name == 'workflow_dispatch'
         run: python portfolio_backtest.py
-
-      - name: Robustesse V6.2
-        run: python robustesse.py 
-        
+      - name: Robustesse V6.2 (manuel uniquement)
+        if: github.event_name == 'workflow_dispatch'
+        run: python robustesse.py
       - name: Publication
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Actualisation boursiere V5"
+            git commit -m "Actualisation boursiere V7"
             git push
           fi
