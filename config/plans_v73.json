@@ -1,0 +1,21 @@
+{
+  "version": "7.3",
+  "max_dossiers": 5,
+  "liquidite_min_eur_jour": 1000000,
+  "budget_tactique_total_eur": 2000,
+  "risque_max_position_eur": 20,
+  "risque_max_cumule_eur": 60,
+  "positions_max": 3,
+  "positions_par_secteur_max": 2,
+  "frais_achat_pct": 0.35,
+  "frais_vente_pct": 0.35,
+  "slippage_hypothese_pct_par_cote": 0.10,
+  "ratio_gain_risque_min": 2.0,
+  "marge_invalidation_atr": 0.20,
+  "cours_age_max_jours": 4,
+  "risque_positions_ouvertes_eur": null,
+  "budget_deja_engage_eur": null,
+  "positions_ouvertes_nombre": null,
+  "controle_spread_effectue": false,
+  "titres_pea_verifies": false
+}
