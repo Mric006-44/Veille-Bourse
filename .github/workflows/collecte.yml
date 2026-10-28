@@ -36,6 +36,9 @@ jobs:
         
       - name: Portefeuille V6.1
         run: python portfolio_backtest.py
+
+      - name: Robustesse V6.2
+        run: python robustesse.py 
         
       - name: Publication
         run: |
