@@ -5,7 +5,7 @@
   "frais_vente_pct": 0.35,
   "risque_max_position_eur": 20,
   "risque_max_cumule_eur": 60,
-  "valeur_echangee_min_20j_eur": 100000,
+  "valeur_echangee_min_20j_eur": 1000000,
   "volume_relatif_min_cassure": 1.2,
   "ratio_gain_risque_min": 2.0,
   "perte_stop_atr_multiple": 1.5,
