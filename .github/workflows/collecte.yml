@@ -3,7 +3,8 @@ name: Veille Bourse V7.3
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 20 * * 1-5'
+     - cron: '15 18 * * 1-5'
+      timezone: 'Europe/Paris'
 
 permissions:
   contents: write
