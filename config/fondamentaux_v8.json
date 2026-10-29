@@ -1,0 +1,7 @@
+{
+  "pause_secondes": 0.25,
+  "actualisation": "hebdomadaire le samedi; le rapport V8 quotidien reutilise le dernier fichier fondamentaux_v8.json",
+  "max_dossiers": 5,
+  "donnees_source_unique": true,
+  "validation_rapports_financiers": false
+}
