@@ -1,10 +1,12 @@
-name: Veille Bourse V7.3
+name: Veille Bourse V8
 
 on:
   workflow_dispatch:
   schedule:
-     - cron: '15 18 * * 1-5'
-       timezone: 'Europe/Paris'
+    - cron: '15 18 * * 1-5'
+      timezone: 'Europe/Paris'
+    - cron: '0 8 * * 6'
+      timezone: 'Europe/Paris'
 
 permissions:
   contents: write
@@ -22,6 +24,8 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
+      - name: Tests V8
+        run: python -m unittest discover -s tests -p 'test_v8.py'
       - name: Collecte V4
         run: python collecte.py
       - name: Screening V5
@@ -32,6 +36,15 @@ jobs:
         run: python rapport_v7.py
       - name: Rapport enrichi V7.3
         run: python plans_v73.py
+      - name: Fondamentaux V8 - semaine ou premiere execution
+        if: github.event_name == 'workflow_dispatch' || (github.event.schedule == '0 8 * * 6')
+        run: python fondamentaux_v8.py
+      - name: Fondamentaux V8 - amorcage automatique si absents
+        if: github.event_name != 'workflow_dispatch' && github.event.schedule != '0 8 * * 6'
+        run: |
+          if [ ! -f data/fondamentaux_v8.json ]; then python fondamentaux_v8.py; fi
+      - name: Rapport ChatGPT V8
+        run: python rapport_v8.py
       - name: Backtest V6 (manuel)
         if: github.event_name == 'workflow_dispatch'
         run: python backtest.py
@@ -47,6 +60,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Rapport V7.3"
+            git commit -m "Rapport V8 technique et fondamental"
             git push
           fi
