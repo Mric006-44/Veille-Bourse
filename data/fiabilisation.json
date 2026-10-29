@@ -1,6 +1,6 @@
 {
   "schema_version": "6.3",
-  "genere_utc": "2026-10-29T08:25:39.952223+00:00",
+  "genere_utc": "2026-10-29T17:53:37.633861+00:00",
   "source": "Yahoo Finance via yfinance (source unique)",
   "historique_demande": "5y",
   "titres_configures": 41,
@@ -9,9 +9,9 @@
   "titres": {
     "AC.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 46.38,
-      "ecart_v4_pct": 0.0216,
+      "seances": 1281,
+      "close": 46.99,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2023-05-23",
@@ -40,9 +40,9 @@
     },
     "ACA.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 15.215,
-      "ecart_v4_pct": 0.0329,
+      "seances": 1281,
+      "close": 15.295,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-30",
@@ -79,9 +79,9 @@
     },
     "AI.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 179.32,
-      "ecart_v4_pct": 0.0893,
+      "seances": 1281,
+      "close": 177.38,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-16",
@@ -114,9 +114,9 @@
     },
     "AIR.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 196.8,
-      "ecart_v4_pct": -0.1015,
+      "seances": 1281,
+      "close": 196.34,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-19",
@@ -149,9 +149,9 @@
     },
     "ALO.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 15.935,
-      "ecart_v4_pct": 0.0314,
+      "seances": 1281,
+      "close": 16.12,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -168,9 +168,9 @@
     },
     "BN.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 64.84,
-      "ecart_v4_pct": -0.1232,
+      "seances": 1281,
+      "close": 64.38,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-10",
@@ -203,9 +203,9 @@
     },
     "BNP.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 86.92,
-      "ecart_v4_pct": 0.0691,
+      "seances": 1281,
+      "close": 87.65,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-23",
@@ -246,9 +246,9 @@
     },
     "CA.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 13.255,
-      "ecart_v4_pct": 0.0,
+      "seances": 1281,
+      "close": 13.08,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-07",
@@ -285,9 +285,9 @@
     },
     "CAP.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 122.85,
-      "ecart_v4_pct": -0.0407,
+      "seances": 1281,
+      "close": 123.1,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-01",
@@ -320,9 +320,9 @@
     },
     "CS.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 42.72,
-      "ecart_v4_pct": 0.0,
+      "seances": 1281,
+      "close": 42.73,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-06",
@@ -355,9 +355,9 @@
     },
     "DG.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 108.6,
-      "ecart_v4_pct": -0.046,
+      "seances": 1281,
+      "close": 109.25,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-26",
@@ -398,9 +398,9 @@
     },
     "DSY.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 24.14,
-      "ecart_v4_pct": -0.2067,
+      "seances": 1281,
+      "close": 25.07,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2026-05-27",
@@ -417,7 +417,7 @@
     },
     "EDEN.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
+      "seances": 1281,
       "close": 24.19,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
@@ -452,13 +452,13 @@
     },
     "EL.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 179.3,
-      "ecart_v4_pct": -0.0279,
+      "seances": 1281,
+      "close": 178.2,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-30",
-          "variation_facteur_pct": 1.708
+          "variation_facteur_pct": 1.709
         },
         {
           "date": "2023-05-22",
@@ -487,8 +487,8 @@
     },
     "EN.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 41.03,
+      "seances": 1281,
+      "close": 41.19,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -522,9 +522,9 @@
     },
     "ENGI.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 23.54,
-      "ecart_v4_pct": 0.085,
+      "seances": 1281,
+      "close": 23.6,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-25",
@@ -557,9 +557,9 @@
     },
     "ERF.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 86.16,
-      "ecart_v4_pct": -0.2778,
+      "seances": 1281,
+      "close": 87.08,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-07-05",
@@ -592,9 +592,9 @@
     },
     "GLE.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 62.2,
-      "ecart_v4_pct": -0.0482,
+      "seances": 1281,
+      "close": 62.41,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-25",
@@ -635,8 +635,8 @@
     },
     "HO.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 236.9,
+      "seances": 1281,
+      "close": 238.4,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -670,9 +670,9 @@
     },
     "KER.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 179.56,
-      "ecart_v4_pct": -0.0779,
+      "seances": 1281,
+      "close": 176.28,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-03",
@@ -709,8 +709,8 @@
     },
     "LR.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 131.6,
+      "seances": 1281,
+      "close": 134.6,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -744,9 +744,9 @@
     },
     "MC.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 390.05,
-      "ecart_v4_pct": -0.0128,
+      "seances": 1281,
+      "close": 383.85,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-26",
@@ -771,9 +771,9 @@
     },
     "ML.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 31.8,
-      "ecart_v4_pct": -0.0,
+      "seances": 1281,
+      "close": 32.11,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-17",
@@ -806,9 +806,9 @@
     },
     "MT.AS": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 54.16,
-      "ecart_v4_pct": 0.2963,
+      "seances": 1281,
+      "close": 54.78,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-13",
@@ -837,9 +837,9 @@
     },
     "OR.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 428.45,
-      "ecart_v4_pct": -0.1515,
+      "seances": 1281,
+      "close": 424.5,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-27",
@@ -872,9 +872,9 @@
     },
     "ORA.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 14.235,
-      "ecart_v4_pct": -0.0351,
+      "seances": 1281,
+      "close": 14.44,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2021-12-13",
@@ -919,17 +919,19 @@
       ],
       "nombre_evenements_facteur": 10,
       "gaps_extremes": [],
-      "anomalies": [],
-      "statut": "CONTROLES_INTERNES_OK",
+      "anomalies": [
+        "OHLC_INCOHERENT"
+      ],
+      "statut": "A_EXAMINER",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "PUB.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 98.76,
-      "ecart_v4_pct": 0.0203,
+      "seances": 1281,
+      "close": 99.38,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-07-04",
@@ -962,9 +964,9 @@
     },
     "RI.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 66.32,
-      "ecart_v4_pct": -0.0301,
+      "seances": 1281,
+      "close": 65.3,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-11-25",
@@ -1009,9 +1011,9 @@
     },
     "RMS.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 1277.0,
-      "ecart_v4_pct": -0.1954,
+      "seances": 1281,
+      "close": 1266.0,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [],
@@ -1023,9 +1025,9 @@
     },
     "RNO.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 26.98,
-      "ecart_v4_pct": 0.1113,
+      "seances": 1281,
+      "close": 28.17,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2024-05-22",
@@ -1050,9 +1052,9 @@
     },
     "SAF.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 271.8,
-      "ecart_v4_pct": -0.2203,
+      "seances": 1281,
+      "close": 279.0,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2024-05-28",
@@ -1077,9 +1079,9 @@
     },
     "SAN.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 76.02,
-      "ecart_v4_pct": -0.0657,
+      "seances": 1281,
+      "close": 76.15,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-06",
@@ -1112,7 +1114,7 @@
     },
     "SAVE.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
+      "seances": 1281,
       "close": 56.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
@@ -1147,9 +1149,9 @@
     },
     "SGO.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 66.86,
-      "ecart_v4_pct": -0.1195,
+      "seances": 1281,
+      "close": 68.18,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-06",
@@ -1182,9 +1184,9 @@
     },
     "STLAP.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 4.178,
-      "ecart_v4_pct": -0.1911,
+      "seances": 1281,
+      "close": 4.2235,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-19",
@@ -1213,9 +1215,9 @@
     },
     "STMPA.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 42.75,
-      "ecart_v4_pct": -0.0584,
+      "seances": 1281,
+      "close": 44.205,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [],
@@ -1227,9 +1229,9 @@
     },
     "SU.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 244.0,
-      "ecart_v4_pct": 0.0205,
+      "seances": 1281,
+      "close": 247.6,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-17",
@@ -1262,9 +1264,9 @@
     },
     "TEP.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 79.7,
-      "ecart_v4_pct": -0.0,
+      "seances": 1281,
+      "close": 79.48,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2023-04-21",
@@ -1293,9 +1295,9 @@
     },
     "TTE.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 84.07,
-      "ecart_v4_pct": -0.0476,
+      "seances": 1281,
+      "close": 84.6,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-01-03",
@@ -1392,8 +1394,8 @@
     },
     "URW.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 905,
-      "close": 91.88,
+      "seances": 906,
+      "close": 91.6,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1419,8 +1421,8 @@
     },
     "VIE.PA": {
       "date_derniere_seance": "2026-10-29",
-      "seances": 1280,
-      "close": 32.82,
+      "seances": 1281,
+      "close": 32.85,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
