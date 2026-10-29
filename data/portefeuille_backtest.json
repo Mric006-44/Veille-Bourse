@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1",
-  "generated_utc": "2026-10-28T21:39:51.832794+00:00",
+  "generated_utc": "2026-10-29T08:26:03.236503+00:00",
   "source": "Yahoo Finance, historiques OHLC ajustes selon ratio Adj Close/Close (approximation)",
   "configuration": {
     "initial_capital_eur": 5000,
@@ -28,150 +28,198 @@
     "ALO.PA": "Gap extreme persistant sur cours ajustes : verification requise"
   },
   "portfolio": {
-    "start_date": "2024-10-28",
-    "end_date": "2026-10-28",
-    "split_date": "2026-01-12",
+    "start_date": "2024-10-29",
+    "end_date": "2026-10-29",
+    "split_date": "2026-01-13",
     "metrics": {
       "total": {
-        "trades": 183,
-        "win_rate_pct": 40.44,
-        "net_pnl_eur": -374.63,
-        "profit_factor": 0.678,
-        "avg_pnl_eur": -2.05,
-        "max_drawdown_pct_mark_to_market": -7.99,
-        "return_pct_on_initial_capital": -7.49,
-        "max_simultaneous_stop_risk_eur": 59.99
+        "trades": 188,
+        "win_rate_pct": 37.77,
+        "net_pnl_eur": -440.62,
+        "profit_factor": 0.637,
+        "avg_pnl_eur": -2.34,
+        "max_drawdown_pct_mark_to_market": -9.23,
+        "return_pct_on_initial_capital": -8.81,
+        "max_simultaneous_stop_risk_eur": 60.0
       },
       "chronological_test": {
-        "trades": 118,
-        "win_rate_pct": 39.83,
-        "net_pnl_eur": -234.8,
-        "profit_factor": 0.694,
-        "avg_pnl_eur": -1.99
+        "trades": 114,
+        "win_rate_pct": 41.23,
+        "net_pnl_eur": -143.63,
+        "profit_factor": 0.787,
+        "avg_pnl_eur": -1.26
       }
     },
     "by_strategy": {
       "CASSURE": {
-        "trades": 67,
-        "net_pnl_eur": -84.79
+        "trades": 71,
+        "net_pnl_eur": -82.74
       },
       "TENDANCE": {
         "trades": 71,
-        "net_pnl_eur": -251.54
+        "net_pnl_eur": -339.51
       },
       "REBOND_POTENTIEL": {
-        "trades": 45,
-        "net_pnl_eur": -38.3
+        "trades": 46,
+        "net_pnl_eur": -18.37
       }
     },
     "benchmark": {
       "status": "AVAILABLE",
       "ticker": "^FCHI",
-      "return_pct": 4.37,
+      "return_pct": 5.76,
       "note": "Indice prix CAC40; non total return et non comparable aux dividendes reinvestis"
     },
     "rejections": {
       "capital": 0,
-      "risk": 234,
-      "qty_zero": 2,
-      "positions": 1227
+      "risk": 251,
+      "qty_zero": 1,
+      "positions": 1179
     },
     "trades": [
       {
+        "ticker": "MT.AS",
+        "strategy": "CASSURE",
+        "entry_date": "2025-08-20",
+        "exit_date": "2025-08-21",
+        "quantity": 14,
+        "entry": 29.1611,
+        "exit": 28.0067,
+        "reason": "STOP",
+        "risk_theoretical_eur": 18.96,
+        "pnl_eur": -18.96
+      },
+      {
         "ticker": "BNP.PA",
         "strategy": "TENDANCE",
-        "entry_date": "2025-08-19",
+        "entry_date": "2025-08-20",
         "exit_date": "2025-08-25",
         "quantity": 7,
-        "entry": 75.1741,
-        "exit": 72.8888,
+        "entry": 75.1923,
+        "exit": 72.9646,
         "reason": "STOP",
-        "risk_theoretical_eur": 19.63,
-        "pnl_eur": -19.62
+        "risk_theoretical_eur": 19.23,
+        "pnl_eur": -19.22
       },
       {
         "ticker": "CS.PA",
         "strategy": "TENDANCE",
-        "entry_date": "2025-08-19",
+        "entry_date": "2025-08-20",
+        "exit_date": "2025-08-25",
+        "quantity": 2,
+        "entry": 40.572,
+        "exit": 39.567,
+        "reason": "STOP",
+        "risk_theoretical_eur": 2.57,
+        "pnl_eur": -2.57
+      },
+      {
+        "ticker": "VIE.PA",
+        "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-08-20",
         "exit_date": "2025-08-25",
         "quantity": 1,
-        "entry": 40.3642,
-        "exit": 39.32,
+        "entry": 29.463,
+        "exit": 28.7659,
         "reason": "STOP",
-        "risk_theoretical_eur": 1.32,
-        "pnl_eur": -1.32
-      },
-      {
-        "ticker": "URW.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2025-08-19",
-        "exit_date": "2025-08-26",
-        "quantity": 7,
-        "entry": 87.3395,
-        "exit": 85.1335,
-        "reason": "STOP",
-        "risk_theoretical_eur": 19.67,
-        "pnl_eur": -19.67
-      },
-      {
-        "ticker": "BN.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-08-19",
-        "exit_date": "2025-09-01",
-        "quantity": 9,
-        "entry": 69.6035,
-        "exit": 69.0204,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 18.65,
-        "pnl_eur": -9.61
-      },
-      {
-        "ticker": "STLAP.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-08-19",
-        "exit_date": "2025-09-01",
-        "quantity": 1,
-        "entry": 8.3113,
-        "exit": 8.2258,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 0.49,
-        "pnl_eur": -0.14
-      },
-      {
-        "ticker": "EL.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-08-27",
-        "exit_date": "2025-09-01",
-        "quantity": 2,
-        "entry": 260.1184,
-        "exit": 252.7472,
-        "reason": "STOP",
-        "risk_theoretical_eur": 18.33,
-        "pnl_eur": -18.33
+        "risk_theoretical_eur": 0.9,
+        "pnl_eur": -0.9
       },
       {
         "ticker": "AI.PA",
         "strategy": "TENDANCE",
-        "entry_date": "2025-08-26",
-        "exit_date": "2025-09-02",
+        "entry_date": "2025-08-22",
+        "exit_date": "2025-08-26",
         "quantity": 4,
-        "entry": 159.203,
-        "exit": 155.9285,
+        "entry": 162.624,
+        "exit": 158.8849,
+        "reason": "GAP_BELOW_STOP",
+        "risk_theoretical_eur": 17.88,
+        "pnl_eur": -19.46
+      },
+      {
+        "ticker": "CA.PA",
+        "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-08-27",
+        "exit_date": "2025-08-27",
+        "quantity": 12,
+        "entry": 11.7704,
+        "exit": 11.4874,
         "reason": "STOP",
-        "risk_theoretical_eur": 17.51,
-        "pnl_eur": -17.51
+        "risk_theoretical_eur": 4.37,
+        "pnl_eur": -4.37
+      },
+      {
+        "ticker": "BN.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-08-20",
+        "exit_date": "2025-08-28",
+        "quantity": 9,
+        "entry": 70.3,
+        "exit": 68.7494,
+        "reason": "STOP",
+        "risk_theoretical_eur": 18.34,
+        "pnl_eur": -18.34
+      },
+      {
+        "ticker": "EL.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-08-26",
+        "exit_date": "2025-09-01",
+        "quantity": 2,
+        "entry": 259.8251,
+        "exit": 252.4927,
+        "reason": "STOP",
+        "risk_theoretical_eur": 18.25,
+        "pnl_eur": -18.25
       },
       {
         "ticker": "MT.AS",
         "strategy": "TENDANCE",
         "entry_date": "2025-08-26",
         "exit_date": "2025-09-02",
-        "quantity": 2,
+        "quantity": 4,
         "entry": 28.4909,
         "exit": 27.3504,
         "reason": "STOP",
-        "risk_theoretical_eur": 2.67,
-        "pnl_eur": -2.67
+        "risk_theoretical_eur": 5.34,
+        "pnl_eur": -5.34
+      },
+      {
+        "ticker": "STLAP.PA",
+        "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-08-28",
+        "exit_date": "2025-09-03",
+        "quantity": 9,
+        "entry": 8.2522,
+        "exit": 7.842,
+        "reason": "STOP",
+        "risk_theoretical_eur": 4.2,
+        "pnl_eur": -4.2
+      },
+      {
+        "ticker": "OR.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-08-27",
+        "exit_date": "2025-09-09",
+        "quantity": 1,
+        "entry": 387.9734,
+        "exit": 388.3249,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 13.64,
+        "pnl_eur": -2.37
+      },
+      {
+        "ticker": "KER.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-08-29",
+        "exit_date": "2025-09-11",
+        "quantity": 1,
+        "entry": 229.7267,
+        "exit": 235.3192,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 12.25,
+        "pnl_eur": 3.96
       },
       {
         "ticker": "BN.PA",
@@ -190,48 +238,48 @@
         "strategy": "CASSURE",
         "entry_date": "2025-09-05",
         "exit_date": "2025-09-18",
-        "quantity": 6,
+        "quantity": 4,
         "entry": 79.2497,
         "exit": 78.4415,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 19.28,
-        "pnl_eur": -8.16
+        "risk_theoretical_eur": 12.85,
+        "pnl_eur": -5.44
       },
       {
-        "ticker": "KER.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-09-05",
-        "exit_date": "2025-09-18",
-        "quantity": 1,
-        "entry": 230.6141,
-        "exit": 264.445,
+        "ticker": "DSY.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-09-10",
+        "exit_date": "2025-09-23",
+        "quantity": 16,
+        "entry": 27.4385,
+        "exit": 27.5808,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 12.46,
-        "pnl_eur": 32.1
+        "risk_theoretical_eur": 15.71,
+        "pnl_eur": -0.8
       },
       {
-        "ticker": "SU.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-09-08",
-        "exit_date": "2025-09-19",
+        "ticker": "AIR.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-09-12",
+        "exit_date": "2025-09-25",
         "quantity": 1,
-        "entry": 216.827,
-        "exit": 227.3119,
+        "entry": 189.9828,
+        "exit": 190.1525,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 8.73,
-        "pnl_eur": 8.93
+        "risk_theoretical_eur": 7.14,
+        "pnl_eur": -1.16
       },
       {
         "ticker": "ACA.PA",
         "strategy": "TENDANCE",
-        "entry_date": "2025-09-11",
-        "exit_date": "2025-09-24",
-        "quantity": 1,
-        "entry": 14.7677,
-        "exit": 14.9817,
+        "entry_date": "2025-09-12",
+        "exit_date": "2025-09-25",
+        "quantity": 10,
+        "entry": 14.9349,
+        "exit": 14.86,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 0.54,
-        "pnl_eur": 0.11
+        "risk_theoretical_eur": 5.33,
+        "pnl_eur": -1.79
       },
       {
         "ticker": "EL.PA",
@@ -246,304 +294,316 @@
         "pnl_eur": -18.95
       },
       {
-        "ticker": "KER.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2025-09-19",
-        "exit_date": "2025-10-02",
+        "ticker": "MT.AS",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-09-26",
+        "exit_date": "2025-09-30",
         "quantity": 1,
-        "entry": 265.8618,
-        "exit": 282.3043,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 13.65,
-        "pnl_eur": 14.52
+        "entry": 31.0335,
+        "exit": 29.9543,
+        "reason": "STOP",
+        "risk_theoretical_eur": 1.29,
+        "pnl_eur": -1.29
       },
       {
         "ticker": "STMPA.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-09-19",
         "exit_date": "2025-10-02",
-        "quantity": 15,
+        "quantity": 10,
         "entry": 23.7742,
         "exit": 24.307,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 18.1,
-        "pnl_eur": 5.47
-      },
-      {
-        "ticker": "AIR.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-09-22",
-        "exit_date": "2025-10-03",
-        "quantity": 1,
-        "entry": 190.317,
-        "exit": 199.6572,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 6.96,
-        "pnl_eur": 7.98
+        "risk_theoretical_eur": 12.06,
+        "pnl_eur": 3.65
       },
       {
         "ticker": "EN.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-10-03",
         "exit_date": "2025-10-03",
-        "quantity": 16,
+        "quantity": 9,
         "entry": 37.6525,
         "exit": 36.6644,
         "reason": "STOP",
-        "risk_theoretical_eur": 19.97,
-        "pnl_eur": -19.97
+        "risk_theoretical_eur": 11.24,
+        "pnl_eur": -11.23
       },
       {
         "ticker": "GLE.PA",
         "strategy": "TENDANCE",
-        "entry_date": "2025-09-26",
+        "entry_date": "2025-09-24",
         "exit_date": "2025-10-06",
-        "quantity": 8,
-        "entry": 54.8836,
-        "exit": 52.8212,
+        "quantity": 6,
+        "entry": 54.8064,
+        "exit": 52.6915,
         "reason": "STOP",
-        "risk_theoretical_eur": 19.52,
-        "pnl_eur": -19.52
-      },
-      {
-        "ticker": "CA.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-10-06",
-        "exit_date": "2025-10-06",
-        "quantity": 28,
-        "entry": 12.2411,
-        "exit": 11.9606,
-        "reason": "STOP",
-        "risk_theoretical_eur": 10.23,
-        "pnl_eur": -10.22
-      },
-      {
-        "ticker": "MT.AS",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-09-25",
-        "exit_date": "2025-10-08",
-        "quantity": 1,
-        "entry": 30.255,
-        "exit": 34.7188,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 1.31,
-        "pnl_eur": 4.24
+        "risk_theoretical_eur": 14.95,
+        "pnl_eur": -14.95
       },
       {
         "ticker": "SAN.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-10-06",
         "exit_date": "2025-10-08",
-        "quantity": 5,
+        "quantity": 3,
         "entry": 82.4094,
         "exit": 79.6151,
         "reason": "STOP",
-        "risk_theoretical_eur": 16.81,
-        "pnl_eur": -16.81
+        "risk_theoretical_eur": 10.09,
+        "pnl_eur": -10.08
+      },
+      {
+        "ticker": "AIR.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-09-26",
+        "exit_date": "2025-10-09",
+        "quantity": 3,
+        "entry": 191.7716,
+        "exit": 200.7362,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 19.36,
+        "pnl_eur": 22.77
+      },
+      {
+        "ticker": "HO.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-09-26",
+        "exit_date": "2025-10-09",
+        "quantity": 1,
+        "entry": 252.2079,
+        "exit": 257.8862,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 11.5,
+        "pnl_eur": 3.89
       },
       {
         "ticker": "LR.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-10-09",
         "exit_date": "2025-10-10",
-        "quantity": 3,
+        "quantity": 2,
         "entry": 145.2867,
         "exit": 140.8184,
         "reason": "STOP",
-        "risk_theoretical_eur": 16.41,
-        "pnl_eur": -16.41
+        "risk_theoretical_eur": 10.94,
+        "pnl_eur": -10.94
       },
       {
-        "ticker": "MT.AS",
+        "ticker": "BN.PA",
         "strategy": "CASSURE",
-        "entry_date": "2025-10-09",
-        "exit_date": "2025-10-10",
-        "quantity": 1,
-        "entry": 34.8869,
-        "exit": 32.6337,
-        "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 1.78,
-        "pnl_eur": -2.49
-      },
-      {
-        "ticker": "STLAP.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2025-10-03",
-        "exit_date": "2025-10-14",
-        "quantity": 21,
-        "entry": 8.969,
-        "exit": 8.4635,
+        "entry_date": "2025-10-10",
+        "exit_date": "2025-10-13",
+        "quantity": 8,
+        "entry": 73.9949,
+        "exit": 72.2696,
         "reason": "STOP",
-        "risk_theoretical_eur": 11.9,
-        "pnl_eur": -11.9
-      },
-      {
-        "ticker": "AIR.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-10-07",
-        "exit_date": "2025-10-20",
-        "quantity": 3,
-        "entry": 197.5015,
-        "exit": 199.8043,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 19.32,
-        "pnl_eur": 2.74
+        "risk_theoretical_eur": 17.9,
+        "pnl_eur": -17.9
       },
       {
         "ticker": "CA.PA",
         "strategy": "TENDANCE",
+        "entry_date": "2025-10-01",
+        "exit_date": "2025-10-14",
+        "quantity": 5,
+        "entry": 11.9801,
+        "exit": 12.0911,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 1.86,
+        "pnl_eur": 0.13
+      },
+      {
+        "ticker": "EL.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-10-10",
+        "exit_date": "2025-10-14",
+        "quantity": 1,
+        "entry": 272.4399,
+        "exit": 264.588,
+        "reason": "STOP",
+        "risk_theoretical_eur": 9.73,
+        "pnl_eur": -9.73
+      },
+      {
+        "ticker": "AIR.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-10-13",
+        "exit_date": "2025-10-14",
+        "quantity": 2,
+        "entry": 200.0078,
+        "exit": 194.9328,
+        "reason": "STOP",
+        "risk_theoretical_eur": 12.92,
+        "pnl_eur": -12.91
+      },
+      {
+        "ticker": "CS.PA",
+        "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-10-15",
+        "exit_date": "2025-10-17",
+        "quantity": 7,
+        "entry": 38.2865,
+        "exit": 36.7962,
+        "reason": "GAP_BELOW_STOP",
+        "risk_theoretical_eur": 9.01,
+        "pnl_eur": -12.27
+      },
+      {
+        "ticker": "MT.AS",
+        "strategy": "CASSURE",
         "entry_date": "2025-10-07",
         "exit_date": "2025-10-20",
-        "quantity": 26,
-        "entry": 12.0594,
-        "exit": 12.4631,
+        "quantity": 10,
+        "entry": 32.2654,
+        "exit": 32.8009,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 10.41,
-        "pnl_eur": 8.27
+        "risk_theoretical_eur": 16.06,
+        "pnl_eur": 3.08
       },
       {
         "ticker": "ERF.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-10-21",
         "exit_date": "2025-10-21",
-        "quantity": 8,
+        "quantity": 7,
         "entry": 59.8124,
         "exit": 57.9267,
         "reason": "STOP",
-        "risk_theoretical_eur": 18.38,
-        "pnl_eur": -18.38
+        "risk_theoretical_eur": 16.09,
+        "pnl_eur": -16.08
       },
       {
-        "ticker": "OR.PA",
+        "ticker": "VIE.PA",
         "strategy": "CASSURE",
-        "entry_date": "2025-10-21",
-        "exit_date": "2025-10-22",
-        "quantity": 1,
-        "entry": 386.2554,
-        "exit": 369.0238,
-        "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 14.42,
-        "pnl_eur": -19.88
-      },
-      {
-        "ticker": "MT.AS",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-10-13",
+        "entry_date": "2025-10-20",
         "exit_date": "2025-10-24",
         "quantity": 9,
-        "entry": 32.0289,
-        "exit": 33.1648,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 16.97,
-        "pnl_eur": 8.17
+        "entry": 28.7533,
+        "exit": 27.94,
+        "reason": "STOP",
+        "risk_theoretical_eur": 9.11,
+        "pnl_eur": -9.11
       },
       {
-        "ticker": "EN.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-10-13",
-        "exit_date": "2025-10-24",
-        "quantity": 1,
-        "entry": 36.769,
-        "exit": 39.3981,
+        "ticker": "BN.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-10-14",
+        "exit_date": "2025-10-27",
+        "quantity": 8,
+        "entry": 72.5827,
+        "exit": 75.3336,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 1.36,
-        "pnl_eur": 2.36
+        "risk_theoretical_eur": 18.32,
+        "pnl_eur": 17.87
       },
       {
         "ticker": "DG.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-10-15",
         "exit_date": "2025-10-28",
-        "quantity": 2,
+        "quantity": 4,
         "entry": 116.8061,
         "exit": 113.6089,
         "reason": "STOP",
-        "risk_theoretical_eur": 8.01,
-        "pnl_eur": -8.01
+        "risk_theoretical_eur": 16.02,
+        "pnl_eur": -16.01
+      },
+      {
+        "ticker": "BN.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-10-28",
+        "exit_date": "2025-10-28",
+        "quantity": 9,
+        "entry": 76.0455,
+        "exit": 74.3841,
+        "reason": "STOP",
+        "risk_theoretical_eur": 19.69,
+        "pnl_eur": -19.69
+      },
+      {
+        "ticker": "ORA.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-10-16",
+        "exit_date": "2025-10-29",
+        "quantity": 1,
+        "entry": 13.3551,
+        "exit": 13.0758,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 0.47,
+        "pnl_eur": -0.37
       },
       {
         "ticker": "BN.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-10-29",
         "exit_date": "2025-11-03",
-        "quantity": 3,
+        "quantity": 8,
         "entry": 75.4264,
         "exit": 73.6452,
         "reason": "STOP",
-        "risk_theoretical_eur": 6.91,
-        "pnl_eur": -6.91
+        "risk_theoretical_eur": 18.43,
+        "pnl_eur": -18.42
       },
       {
         "ticker": "EN.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-10-29",
         "exit_date": "2025-11-03",
-        "quantity": 1,
+        "quantity": 11,
         "entry": 38.6416,
         "exit": 37.4119,
         "reason": "STOP",
-        "risk_theoretical_eur": 1.5,
-        "pnl_eur": -1.5
+        "risk_theoretical_eur": 16.46,
+        "pnl_eur": -16.45
       },
       {
         "ticker": "CAP.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-10-22",
         "exit_date": "2025-11-04",
-        "quantity": 3,
+        "quantity": 2,
         "entry": 125.5897,
         "exit": 123.8386,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 17.75,
-        "pnl_eur": -7.87
-      },
-      {
-        "ticker": "SAN.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2025-10-27",
-        "exit_date": "2025-11-04",
-        "quantity": 6,
-        "entry": 84.0495,
-        "exit": 81.4179,
-        "reason": "STOP",
-        "risk_theoretical_eur": 19.27,
-        "pnl_eur": -19.26
-      },
-      {
-        "ticker": "AC.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2025-10-23",
-        "exit_date": "2025-11-05",
-        "quantity": 10,
-        "entry": 40.981,
-        "exit": 44.1885,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 14.57,
-        "pnl_eur": 29.09
+        "risk_theoretical_eur": 11.83,
+        "pnl_eur": -5.25
       },
       {
         "ticker": "LR.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-11-04",
         "exit_date": "2025-11-06",
-        "quantity": 1,
+        "quantity": 4,
         "entry": 145.7792,
         "exit": 128.5307,
         "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 4.97,
-        "pnl_eur": -18.21
+        "risk_theoretical_eur": 19.86,
+        "pnl_eur": -72.83
       },
       {
-        "ticker": "SAF.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-11-05",
+        "ticker": "AC.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-10-27",
         "exit_date": "2025-11-07",
-        "quantity": 1,
-        "entry": 305.4763,
-        "exit": 297.0689,
-        "reason": "STOP",
-        "risk_theoretical_eur": 10.52,
-        "pnl_eur": -10.52
+        "quantity": 7,
+        "entry": 43.7325,
+        "exit": 44.1012,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 11.85,
+        "pnl_eur": 0.43
+      },
+      {
+        "ticker": "ENGI.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-10-31",
+        "exit_date": "2025-11-13",
+        "quantity": 2,
+        "entry": 19.4203,
+        "exit": 20.8555,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 1.17,
+        "pnl_eur": 2.59
       },
       {
         "ticker": "AIR.PA",
@@ -558,304 +618,340 @@
         "pnl_eur": -14.17
       },
       {
-        "ticker": "GLE.PA",
-        "strategy": "REBOND_POTENTIEL",
+        "ticker": "CA.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-11-14",
+        "exit_date": "2025-11-14",
+        "quantity": 4,
+        "entry": 12.6278,
+        "exit": 12.3369,
+        "reason": "STOP",
+        "risk_theoretical_eur": 1.51,
+        "pnl_eur": -1.51
+      },
+      {
+        "ticker": "SAF.PA",
+        "strategy": "TENDANCE",
         "entry_date": "2025-11-04",
         "exit_date": "2025-11-17",
         "quantity": 1,
-        "entry": 52.794,
-        "exit": 56.6231,
+        "entry": 303.6945,
+        "exit": 302.1986,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 2.96,
-        "pnl_eur": 3.45
+        "risk_theoretical_eur": 10.47,
+        "pnl_eur": -3.62
       },
       {
-        "ticker": "CAP.PA",
+        "ticker": "ACA.PA",
         "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-11-06",
-        "exit_date": "2025-11-19",
-        "quantity": 2,
-        "entry": 123.7471,
-        "exit": 123.3547,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 13.97,
-        "pnl_eur": -2.51
+        "entry_date": "2025-11-17",
+        "exit_date": "2025-11-18",
+        "quantity": 1,
+        "entry": 14.7226,
+        "exit": 14.2751,
+        "reason": "STOP",
+        "risk_theoretical_eur": 0.55,
+        "pnl_eur": -0.55
       },
       {
         "ticker": "BN.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-11-17",
         "exit_date": "2025-11-20",
-        "quantity": 6,
+        "quantity": 7,
         "entry": 76.0648,
         "exit": 74.4795,
         "reason": "STOP",
-        "risk_theoretical_eur": 12.68,
-        "pnl_eur": -12.67
+        "risk_theoretical_eur": 14.79,
+        "pnl_eur": -14.79
+      },
+      {
+        "ticker": "GLE.PA",
+        "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-11-10",
+        "exit_date": "2025-11-21",
+        "quantity": 6,
+        "entry": 54.6286,
+        "exit": 55.0649,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 17.35,
+        "pnl_eur": 0.31
       },
       {
         "ticker": "RNO.PA",
         "strategy": "REBOND_POTENTIEL",
         "entry_date": "2025-11-11",
         "exit_date": "2025-11-24",
-        "quantity": 12,
+        "quantity": 10,
         "entry": 32.1784,
         "exit": 31.7985,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 19.68,
-        "pnl_eur": -7.25
-      },
-      {
-        "ticker": "TTE.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2025-11-12",
-        "exit_date": "2025-11-25",
-        "quantity": 5,
-        "entry": 52.8607,
-        "exit": 53.392,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 8.75,
-        "pnl_eur": 0.8
+        "risk_theoretical_eur": 16.4,
+        "pnl_eur": -6.04
       },
       {
         "ticker": "EN.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-11-18",
         "exit_date": "2025-12-01",
-        "quantity": 3,
+        "quantity": 7,
         "entry": 39.9379,
         "exit": 41.2669,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 4.25,
-        "pnl_eur": 3.13
-      },
-      {
-        "ticker": "ENGI.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-11-20",
-        "exit_date": "2025-12-03",
-        "quantity": 21,
-        "entry": 20.64,
-        "exit": 20.7129,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 14.16,
-        "pnl_eur": -1.51
+        "risk_theoretical_eur": 9.93,
+        "pnl_eur": 7.31
       },
       {
         "ticker": "MT.AS",
         "strategy": "TENDANCE",
-        "entry_date": "2025-11-21",
-        "exit_date": "2025-12-04",
-        "quantity": 8,
-        "entry": 33.8764,
-        "exit": 36.4063,
+        "entry_date": "2025-11-19",
+        "exit_date": "2025-12-02",
+        "quantity": 1,
+        "entry": 33.5684,
+        "exit": 37.0012,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 12.4,
-        "pnl_eur": 18.27
+        "risk_theoretical_eur": 1.52,
+        "pnl_eur": 3.19
+      },
+      {
+        "ticker": "MT.AS",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-12-03",
+        "exit_date": "2025-12-04",
+        "quantity": 1,
+        "entry": 37.423,
+        "exit": 36.0894,
+        "reason": "STOP",
+        "risk_theoretical_eur": 1.59,
+        "pnl_eur": -1.59
       },
       {
         "ticker": "ACA.PA",
         "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-11-24",
+        "exit_date": "2025-12-05",
+        "quantity": 36,
+        "entry": 14.6367,
+        "exit": 15.144,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 19.53,
+        "pnl_eur": 14.51
+      },
+      {
+        "ticker": "DG.PA",
+        "strategy": "REBOND_POTENTIEL",
+        "entry_date": "2025-11-24",
+        "exit_date": "2025-12-05",
+        "quantity": 3,
+        "entry": 115.7958,
+        "exit": 115.8045,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 12.13,
+        "pnl_eur": -2.41
+      },
+      {
+        "ticker": "BNP.PA",
+        "strategy": "REBOND_POTENTIEL",
         "entry_date": "2025-11-25",
         "exit_date": "2025-12-08",
-        "quantity": 37,
-        "entry": 14.5599,
-        "exit": 15.2387,
+        "quantity": 5,
+        "entry": 66.282,
+        "exit": 71.7551,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 19.67,
-        "pnl_eur": 21.25
+        "risk_theoretical_eur": 15.18,
+        "pnl_eur": 24.95
       },
       {
         "ticker": "CS.PA",
         "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2025-11-27",
-        "exit_date": "2025-12-10",
-        "quantity": 8,
-        "entry": 36.5866,
-        "exit": 36.9847,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 9.06,
-        "pnl_eur": 1.13
-      },
-      {
-        "ticker": "ML.PA",
-        "strategy": "REBOND_POTENTIEL",
         "entry_date": "2025-12-02",
         "exit_date": "2025-12-15",
-        "quantity": 5,
-        "entry": 26.8182,
-        "exit": 26.9653,
+        "quantity": 11,
+        "entry": 36.5677,
+        "exit": 38.3985,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 4.66,
-        "pnl_eur": -0.21
+        "risk_theoretical_eur": 11.56,
+        "pnl_eur": 17.25
       },
       {
         "ticker": "STLAP.PA",
         "strategy": "CASSURE",
-        "entry_date": "2025-12-04",
-        "exit_date": "2025-12-17",
-        "quantity": 23,
-        "entry": 9.9099,
-        "exit": 10.014,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 13.85,
-        "pnl_eur": 0.79
-      },
-      {
-        "ticker": "CAP.PA",
-        "strategy": "CASSURE",
         "entry_date": "2025-12-05",
         "exit_date": "2025-12-18",
-        "quantity": 1,
-        "entry": 139.0215,
-        "exit": 142.712,
+        "quantity": 2,
+        "entry": 10.2903,
+        "exit": 9.998,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 6.99,
-        "pnl_eur": 2.7
+        "risk_theoretical_eur": 1.24,
+        "pnl_eur": -0.73
+      },
+      {
+        "ticker": "EN.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2025-12-08",
+        "exit_date": "2025-12-19",
+        "quantity": 15,
+        "entry": 41.4648,
+        "exit": 42.7045,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 19.98,
+        "pnl_eur": 14.18
       },
       {
         "ticker": "MT.AS",
         "strategy": "TENDANCE",
+        "entry_date": "2025-12-08",
+        "exit_date": "2025-12-19",
+        "quantity": 7,
+        "entry": 36.1812,
+        "exit": 37.7646,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 11.03,
+        "pnl_eur": 9.27
+      },
+      {
+        "ticker": "ML.PA",
+        "strategy": "REBOND_POTENTIEL",
         "entry_date": "2025-12-09",
         "exit_date": "2025-12-22",
-        "quantity": 12,
-        "entry": 36.817,
-        "exit": 38.0125,
+        "quantity": 17,
+        "entry": 26.799,
+        "exit": 26.9079,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 18.71,
-        "pnl_eur": 11.2
+        "risk_theoretical_eur": 15.55,
+        "pnl_eur": -1.34
       },
       {
         "ticker": "ACA.PA",
         "strategy": "TENDANCE",
-        "entry_date": "2025-12-11",
-        "exit_date": "2025-12-24",
-        "quantity": 34,
-        "entry": 15.4679,
-        "exit": 15.8158,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 15.62,
-        "pnl_eur": 8.1
-      },
-      {
-        "ticker": "GLE.PA",
-        "strategy": "TENDANCE",
         "entry_date": "2025-12-16",
         "exit_date": "2025-12-31",
-        "quantity": 1,
-        "entry": 62.6307,
-        "exit": 66.9271,
+        "quantity": 26,
+        "entry": 15.5222,
+        "exit": 15.8248,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 2.64,
-        "pnl_eur": 3.84
+        "risk_theoretical_eur": 12.15,
+        "pnl_eur": 5.02
       },
       {
-        "ticker": "PUB.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-12-18",
-        "exit_date": "2026-01-05",
-        "quantity": 4,
-        "entry": 84.8419,
-        "exit": 83.927,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 14.97,
-        "pnl_eur": -6.02
-      },
-      {
-        "ticker": "EN.PA",
+        "ticker": "ENGI.PA",
         "strategy": "CASSURE",
         "entry_date": "2025-12-19",
         "exit_date": "2026-01-06",
-        "quantity": 6,
-        "entry": 42.9244,
-        "exit": 43.3466,
+        "quantity": 2,
+        "entry": 21.0307,
+        "exit": 22.1299,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 7.81,
-        "pnl_eur": 0.72
+        "risk_theoretical_eur": 1.14,
+        "pnl_eur": 1.9
+      },
+      {
+        "ticker": "CS.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-12-22",
+        "exit_date": "2026-01-07",
+        "quantity": 18,
+        "entry": 38.6454,
+        "exit": 37.8561,
+        "reason": "STOP",
+        "risk_theoretical_eur": 19.03,
+        "pnl_eur": -19.03
+      },
+      {
+        "ticker": "ERF.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2025-12-22",
+        "exit_date": "2026-01-07",
+        "quantity": 5,
+        "entry": 61.1974,
+        "exit": 68.1245,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 11.06,
+        "pnl_eur": 32.37
       },
       {
         "ticker": "SAVE.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-01-02",
         "exit_date": "2026-01-07",
-        "quantity": 1,
+        "quantity": 6,
         "entry": 61.2701,
         "exit": 59.7802,
         "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 1.84,
-        "pnl_eur": -1.91
+        "risk_theoretical_eur": 11.04,
+        "pnl_eur": -11.48
       },
       {
-        "ticker": "ERF.PA",
+        "ticker": "EN.PA",
         "strategy": "TENDANCE",
         "entry_date": "2025-12-23",
         "exit_date": "2026-01-08",
-        "quantity": 8,
-        "entry": 61.3359,
-        "exit": 67.9863,
+        "quantity": 13,
+        "entry": 42.7804,
+        "exit": 44.372,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 17.92,
-        "pnl_eur": 49.58
+        "risk_theoretical_eur": 16.6,
+        "pnl_eur": 16.73
       },
       {
-        "ticker": "ACA.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2025-12-29",
-        "exit_date": "2026-01-12",
-        "quantity": 39,
-        "entry": 15.879,
-        "exit": 15.9059,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 16.33,
-        "pnl_eur": -3.29
-      },
-      {
-        "ticker": "AIR.PA",
+        "ticker": "DG.PA",
         "strategy": "CASSURE",
-        "entry_date": "2026-01-06",
+        "entry_date": "2026-01-08",
+        "exit_date": "2026-01-09",
+        "quantity": 5,
+        "entry": 119.1153,
+        "exit": 116.3512,
+        "reason": "STOP",
+        "risk_theoretical_eur": 17.94,
+        "pnl_eur": -17.94
+      },
+      {
+        "ticker": "URW.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2026-01-08",
+        "exit_date": "2026-01-13",
+        "quantity": 1,
+        "entry": 90.5729,
+        "exit": 88.6458,
+        "reason": "STOP",
+        "risk_theoretical_eur": 2.55,
+        "pnl_eur": -2.55
+      },
+      {
+        "ticker": "ML.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2026-01-14",
         "exit_date": "2026-01-19",
-        "quantity": 2,
-        "entry": 205.3642,
-        "exit": 206.3762,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 15.18,
-        "pnl_eur": -0.86
+        "quantity": 9,
+        "entry": 28.8097,
+        "exit": 28.161,
+        "reason": "STOP",
+        "risk_theoretical_eur": 7.63,
+        "pnl_eur": -7.63
       },
       {
         "ticker": "ENGI.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-01-07",
         "exit_date": "2026-01-20",
-        "quantity": 13,
+        "quantity": 3,
         "entry": 22.1647,
         "exit": 22.672,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 8.31,
-        "pnl_eur": 4.55
-      },
-      {
-        "ticker": "ML.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-01-13",
-        "exit_date": "2026-01-20",
-        "quantity": 24,
-        "entry": 28.7235,
-        "exit": 28.0259,
-        "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 19.9,
-        "pnl_eur": -21.51
+        "risk_theoretical_eur": 1.92,
+        "pnl_eur": 1.05
       },
       {
         "ticker": "MT.AS",
         "strategy": "CASSURE",
         "entry_date": "2026-01-08",
         "exit_date": "2026-01-21",
-        "quantity": 1,
+        "quantity": 12,
         "entry": 40.6318,
         "exit": 43.2077,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 1.64,
-        "pnl_eur": 2.28
+        "risk_theoretical_eur": 19.66,
+        "pnl_eur": 27.39
       },
       {
         "ticker": "SAF.PA",
@@ -870,100 +966,100 @@
         "pnl_eur": -11.03
       },
       {
+        "ticker": "BNP.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2026-01-12",
+        "exit_date": "2026-01-23",
+        "quantity": 6,
+        "entry": 81.1942,
+        "exit": 82.7597,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 18.97,
+        "pnl_eur": 5.95
+      },
+      {
         "ticker": "AIR.PA",
         "strategy": "TENDANCE",
         "entry_date": "2026-01-20",
         "exit_date": "2026-01-26",
-        "quantity": 2,
+        "quantity": 1,
         "entry": 205.4134,
         "exit": 198.8266,
         "reason": "STOP",
-        "risk_theoretical_eur": 16.0,
-        "pnl_eur": -16.0
-      },
-      {
-        "ticker": "ERF.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2026-01-21",
-        "exit_date": "2026-01-29",
-        "quantity": 7,
-        "entry": 69.9823,
-        "exit": 67.6958,
-        "reason": "STOP",
-        "risk_theoretical_eur": 19.38,
-        "pnl_eur": -19.38
+        "risk_theoretical_eur": 8.0,
+        "pnl_eur": -8.0
       },
       {
         "ticker": "MT.AS",
         "strategy": "CASSURE",
         "entry_date": "2026-01-22",
         "exit_date": "2026-02-04",
-        "quantity": 7,
+        "quantity": 11,
         "entry": 43.7313,
         "exit": 47.1339,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 12.72,
-        "pnl_eur": 21.59
+        "risk_theoretical_eur": 19.98,
+        "pnl_eur": 33.93
       },
       {
         "ticker": "ML.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-01-23",
         "exit_date": "2026-02-05",
-        "quantity": 11,
+        "quantity": 12,
         "entry": 29.748,
         "exit": 31.485,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 11.37,
-        "pnl_eur": 16.75
+        "risk_theoretical_eur": 12.4,
+        "pnl_eur": 18.27
+      },
+      {
+        "ticker": "TTE.PA",
+        "strategy": "TENDANCE",
+        "entry_date": "2026-01-26",
+        "exit_date": "2026-02-06",
+        "quantity": 9,
+        "entry": 56.5416,
+        "exit": 60.3952,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 17.91,
+        "pnl_eur": 31.0
       },
       {
         "ticker": "ORA.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-01-27",
         "exit_date": "2026-02-09",
-        "quantity": 31,
+        "quantity": 18,
         "entry": 14.8792,
         "exit": 16.1693,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 16.53,
-        "pnl_eur": 36.62
-      },
-      {
-        "ticker": "LR.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-01-30",
-        "exit_date": "2026-02-12",
-        "quantity": 3,
-        "entry": 133.0728,
-        "exit": 146.471,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 15.93,
-        "pnl_eur": 37.26
-      },
-      {
-        "ticker": "TTE.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-01-30",
-        "exit_date": "2026-02-12",
-        "quantity": 1,
-        "entry": 58.3596,
-        "exit": 62.0551,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 2.11,
-        "pnl_eur": 3.27
+        "risk_theoretical_eur": 9.6,
+        "pnl_eur": 21.27
       },
       {
         "ticker": "AI.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-02-05",
         "exit_date": "2026-02-18",
-        "quantity": 3,
+        "quantity": 4,
         "entry": 149.8842,
         "exit": 149.1047,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 13.91,
-        "pnl_eur": -5.48
+        "risk_theoretical_eur": 18.54,
+        "pnl_eur": -7.3
+      },
+      {
+        "ticker": "CA.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2026-02-05",
+        "exit_date": "2026-02-18",
+        "quantity": 3,
+        "entry": 13.7928,
+        "exit": 13.4037,
+        "reason": "STOP",
+        "risk_theoretical_eur": 1.45,
+        "pnl_eur": -1.45
       },
       {
         "ticker": "MT.AS",
@@ -982,120 +1078,96 @@
         "strategy": "TENDANCE",
         "entry_date": "2026-02-19",
         "exit_date": "2026-02-19",
-        "quantity": 1,
+        "quantity": 2,
         "entry": 189.8256,
         "exit": 182.9338,
         "reason": "STOP",
-        "risk_theoretical_eur": 8.2,
-        "pnl_eur": -8.2
+        "risk_theoretical_eur": 16.39,
+        "pnl_eur": -16.39
+      },
+      {
+        "ticker": "DG.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2026-02-09",
+        "exit_date": "2026-02-20",
+        "quantity": 3,
+        "entry": 128.5926,
+        "exit": 134.5292,
+        "reason": "TIME_EXIT",
+        "risk_theoretical_eur": 15.43,
+        "pnl_eur": 15.05
       },
       {
         "ticker": "STMPA.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-02-10",
         "exit_date": "2026-02-23",
-        "quantity": 9,
+        "quantity": 7,
         "entry": 27.1733,
         "exit": 28.285,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 16.51,
-        "pnl_eur": 8.26
-      },
-      {
-        "ticker": "LR.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-02-13",
-        "exit_date": "2026-02-26",
-        "quantity": 2,
-        "entry": 146.912,
-        "exit": 151.337,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 13.5,
-        "pnl_eur": 6.76
-      },
-      {
-        "ticker": "ML.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-02-13",
-        "exit_date": "2026-02-26",
-        "quantity": 4,
-        "entry": 32.1321,
-        "exit": 32.6412,
-        "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 5.16,
-        "pnl_eur": 1.13
+        "risk_theoretical_eur": 12.84,
+        "pnl_eur": 6.42
       },
       {
         "ticker": "STMPA.PA",
         "strategy": "TENDANCE",
         "entry_date": "2026-02-24",
         "exit_date": "2026-03-02",
-        "quantity": 9,
+        "quantity": 7,
         "entry": 28.6449,
         "exit": 27.0794,
         "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 15.7,
-        "pnl_eur": -15.84
+        "risk_theoretical_eur": 12.21,
+        "pnl_eur": -12.32
       },
       {
-        "ticker": "CS.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-02-27",
-        "exit_date": "2026-03-02",
-        "quantity": 15,
-        "entry": 38.7493,
-        "exit": 37.7591,
-        "reason": "STOP",
-        "risk_theoretical_eur": 18.87,
-        "pnl_eur": -18.87
-      },
-      {
-        "ticker": "SAF.PA",
+        "ticker": "MT.AS",
         "strategy": "TENDANCE",
-        "entry_date": "2026-03-03",
-        "exit_date": "2026-03-03",
-        "quantity": 1,
-        "entry": 328.8374,
-        "exit": 316.7626,
-        "reason": "STOP",
-        "risk_theoretical_eur": 14.34,
-        "pnl_eur": -14.33
-      },
-      {
-        "ticker": "URW.PA",
-        "strategy": "TENDANCE",
-        "entry_date": "2026-03-03",
+        "entry_date": "2026-02-20",
         "exit_date": "2026-03-03",
         "quantity": 2,
-        "entry": 96.523,
-        "exit": 93.5431,
+        "entry": 54.2701,
+        "exit": 51.2823,
         "reason": "STOP",
-        "risk_theoretical_eur": 7.29,
-        "pnl_eur": -7.29
+        "risk_theoretical_eur": 6.71,
+        "pnl_eur": -6.71
       },
       {
         "ticker": "ORA.PA",
-        "strategy": "CASSURE",
-        "entry_date": "2026-02-20",
-        "exit_date": "2026-03-05",
-        "quantity": 25,
-        "entry": 17.4216,
-        "exit": 17.0995,
+        "strategy": "TENDANCE",
+        "entry_date": "2026-02-19",
+        "exit_date": "2026-03-04",
+        "quantity": 7,
+        "entry": 16.9629,
+        "exit": 17.1872,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 19.42,
-        "pnl_eur": -11.07
+        "risk_theoretical_eur": 4.7,
+        "pnl_eur": 0.73
       },
       {
         "ticker": "CA.PA",
         "strategy": "TENDANCE",
         "entry_date": "2026-02-20",
         "exit_date": "2026-03-05",
-        "quantity": 8,
+        "quantity": 31,
         "entry": 14.1562,
         "exit": 14.1651,
         "reason": "TIME_EXIT",
-        "risk_theoretical_eur": 5.07,
-        "pnl_eur": -0.72
+        "risk_theoretical_eur": 19.63,
+        "pnl_eur": -2.8
+      },
+      {
+        "ticker": "AI.PA",
+        "strategy": "CASSURE",
+        "entry_date": "2026-02-23",
+        "exit_date": "2026-03-05",
+        "quantity": 3,
+        "entry": 155.8354,
+        "exit": 151.5848,
+        "reason": "STOP",
+        "risk_theoretical_eur": 15.98,
+        "pnl_eur": -15.98
       },
       {
         "ticker": "SU.PA",
@@ -1110,40 +1182,28 @@
         "pnl_eur": -12.92
       },
       {
-        "ticker": "CS.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2026-03-04",
-        "exit_date": "2026-03-06",
-        "quantity": 2,
-        "entry": 36.8699,
-        "exit": 35.6648,
-        "reason": "STOP",
-        "risk_theoretical_eur": 2.92,
-        "pnl_eur": -2.92
-      },
-      {
         "ticker": "ENGI.PA",
         "strategy": "TENDANCE",
         "entry_date": "2026-03-04",
         "exit_date": "2026-03-09",
-        "quantity": 14,
+        "quantity": 5,
         "entry": 25.7571,
         "exit": 24.4694,
         "reason": "GAP_BELOW_STOP",
-        "risk_theoretical_eur": 18.69,
-        "pnl_eur": -20.49
+        "risk_theoretical_eur": 6.67,
+        "pnl_eur": -7.32
       },
       {
         "ticker": "TEP.PA",
-        "strategy": "REBOND_POTENTIEL",
-        "entry_date": "2026-03-10",
-        "exit_date": "2026-03-12",
-        "quantity": 4,
-        "entry": 51.1881,
-        "exit": 46.9488,
+        "strategy": "CASSURE",
+        "entry_date": "2026-03-05",
+        "exit_date": "2026-03-10",
+        "quantity": 1,
+        "entry": 52.5208,
+        "exit": 48.6337,
         "reason": "STOP",
-        "risk_theoretical_eur": 18.33,
-        "pnl_eur": -18.33
+        "risk_theoretical_eur": 4.24,
+        "pnl_eur": -4.24
       },
       {
         "ticker": "EDEN.PA",
@@ -2217,68 +2277,64 @@
         "ticker": "PUB.PA",
         "strategy": "TENDANCE",
         "entry_date": "2026-10-20",
-        "exit_date": "2026-10-28",
+        "exit_date": "2026-10-29",
         "quantity": 4,
         "entry": 101.8017,
-        "exit": 98.3016,
+        "exit": 98.6413,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 17.56,
-        "pnl_eur": -16.8
+        "pnl_eur": -15.45
       },
       {
         "ticker": "TEP.PA",
         "strategy": "TENDANCE",
         "entry_date": "2026-10-20",
-        "exit_date": "2026-10-28",
+        "exit_date": "2026-10-29",
         "quantity": 3,
         "entry": 76.4764,
-        "exit": 79.0209,
+        "exit": 79.6203,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 12.5,
-        "pnl_eur": 6.0
+        "pnl_eur": 7.79
       },
       {
         "ticker": "AC.PA",
         "strategy": "REBOND_POTENTIEL",
         "entry_date": "2026-10-20",
-        "exit_date": "2026-10-28",
+        "exit_date": "2026-10-29",
         "quantity": 2,
         "entry": 45.5855,
-        "exit": 45.944,
+        "exit": 46.3236,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 3.89,
-        "pnl_eur": 0.08
+        "pnl_eur": 0.83
       },
       {
         "ticker": "ERF.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-10-22",
-        "exit_date": "2026-10-28",
+        "exit_date": "2026-10-29",
         "quantity": 2,
         "entry": 80.8007,
-        "exit": 86.1538,
+        "exit": 86.3136,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 6.85,
-        "pnl_eur": 9.54
+        "pnl_eur": 9.86
       },
       {
         "ticker": "EL.PA",
         "strategy": "CASSURE",
         "entry_date": "2026-10-23",
-        "exit_date": "2026-10-28",
+        "exit_date": "2026-10-29",
         "quantity": 1,
         "entry": 176.8767,
-        "exit": 177.5223,
+        "exit": 179.1707,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 9.89,
-        "pnl_eur": -0.59
+        "pnl_eur": 1.05
       }
     ],
     "equity_curve": [
-      {
-        "date": "2024-10-28",
-        "equity_eur": 5000.0
-      },
       {
         "date": "2024-10-29",
         "equity_eur": 5000.0
@@ -3097,1227 +3153,1227 @@
       },
       {
         "date": "2025-08-19",
-        "equity_eur": 4993.25
+        "equity_eur": 5000.0
       },
       {
         "date": "2025-08-20",
-        "equity_eur": 5019.22
+        "equity_eur": 5008.71
       },
       {
         "date": "2025-08-21",
-        "equity_eur": 5005.03
+        "equity_eur": 4985.71
       },
       {
         "date": "2025-08-22",
-        "equity_eur": 5010.63
+        "equity_eur": 4982.94
       },
       {
         "date": "2025-08-25",
-        "equity_eur": 4971.71
+        "equity_eur": 4946.12
       },
       {
         "date": "2025-08-26",
-        "equity_eur": 4946.87
+        "equity_eur": 4927.85
       },
       {
         "date": "2025-08-27",
-        "equity_eur": 4946.49
+        "equity_eur": 4924.09
       },
       {
         "date": "2025-08-28",
-        "equity_eur": 4932.54
+        "equity_eur": 4912.05
       },
       {
         "date": "2025-08-29",
-        "equity_eur": 4923.11
+        "equity_eur": 4895.96
       },
       {
         "date": "2025-09-01",
-        "equity_eur": 4918.82
+        "equity_eur": 4891.16
       },
       {
         "date": "2025-09-02",
-        "equity_eur": 4911.11
+        "equity_eur": 4894.51
       },
       {
         "date": "2025-09-03",
-        "equity_eur": 4911.11
+        "equity_eur": 4893.32
       },
       {
         "date": "2025-09-04",
-        "equity_eur": 4913.07
+        "equity_eur": 4896.24
       },
       {
         "date": "2025-09-05",
-        "equity_eur": 4911.63
+        "equity_eur": 4896.91
       },
       {
         "date": "2025-09-08",
-        "equity_eur": 4917.98
+        "equity_eur": 4896.73
       },
       {
         "date": "2025-09-09",
-        "equity_eur": 4919.4
+        "equity_eur": 4890.16
       },
       {
         "date": "2025-09-10",
-        "equity_eur": 4908.55
+        "equity_eur": 4869.57
       },
       {
         "date": "2025-09-11",
-        "equity_eur": 4918.99
+        "equity_eur": 4877.17
       },
       {
         "date": "2025-09-12",
-        "equity_eur": 4927.39
+        "equity_eur": 4881.35
       },
       {
         "date": "2025-09-15",
-        "equity_eur": 4936.58
+        "equity_eur": 4874.09
       },
       {
         "date": "2025-09-16",
-        "equity_eur": 4940.58
+        "equity_eur": 4873.67
       },
       {
         "date": "2025-09-17",
-        "equity_eur": 4939.11
+        "equity_eur": 4868.85
       },
       {
         "date": "2025-09-18",
-        "equity_eur": 4939.76
+        "equity_eur": 4879.42
       },
       {
         "date": "2025-09-19",
-        "equity_eur": 4922.88
+        "equity_eur": 4868.53
       },
       {
         "date": "2025-09-22",
-        "equity_eur": 4930.95
+        "equity_eur": 4879.56
       },
       {
         "date": "2025-09-23",
-        "equity_eur": 4943.52
+        "equity_eur": 4883.21
       },
       {
         "date": "2025-09-24",
-        "equity_eur": 4938.15
+        "equity_eur": 4873.67
       },
       {
         "date": "2025-09-25",
-        "equity_eur": 4917.04
+        "equity_eur": 4850.66
       },
       {
         "date": "2025-09-26",
-        "equity_eur": 4917.92
+        "equity_eur": 4850.89
       },
       {
         "date": "2025-09-29",
-        "equity_eur": 4927.2
+        "equity_eur": 4852.32
       },
       {
         "date": "2025-09-30",
-        "equity_eur": 4918.98
+        "equity_eur": 4856.48
       },
       {
         "date": "2025-10-01",
-        "equity_eur": 4930.12
+        "equity_eur": 4863.57
       },
       {
         "date": "2025-10-02",
-        "equity_eur": 4940.44
+        "equity_eur": 4885.46
       },
       {
         "date": "2025-10-03",
-        "equity_eur": 4921.9
+        "equity_eur": 4876.96
       },
       {
         "date": "2025-10-06",
-        "equity_eur": 4895.03
+        "equity_eur": 4842.76
       },
       {
         "date": "2025-10-07",
-        "equity_eur": 4889.59
+        "equity_eur": 4844.1
       },
       {
         "date": "2025-10-08",
-        "equity_eur": 4892.57
+        "equity_eur": 4875.29
       },
       {
         "date": "2025-10-09",
-        "equity_eur": 4881.3
+        "equity_eur": 4852.55
       },
       {
         "date": "2025-10-10",
-        "equity_eur": 4851.01
+        "equity_eur": 4814.03
       },
       {
         "date": "2025-10-13",
-        "equity_eur": 4863.65
+        "equity_eur": 4810.71
       },
       {
         "date": "2025-10-14",
-        "equity_eur": 4855.7
+        "equity_eur": 4791.39
       },
       {
         "date": "2025-10-15",
-        "equity_eur": 4860.09
+        "equity_eur": 4782.7
       },
       {
         "date": "2025-10-16",
-        "equity_eur": 4874.16
+        "equity_eur": 4797.57
       },
       {
         "date": "2025-10-17",
-        "equity_eur": 4857.24
+        "equity_eur": 4794.71
       },
       {
         "date": "2025-10-20",
-        "equity_eur": 4868.58
+        "equity_eur": 4795.26
       },
       {
         "date": "2025-10-21",
-        "equity_eur": 4846.87
+        "equity_eur": 4780.69
       },
       {
         "date": "2025-10-22",
-        "equity_eur": 4829.5
+        "equity_eur": 4788.49
       },
       {
         "date": "2025-10-23",
-        "equity_eur": 4821.45
+        "equity_eur": 4782.38
       },
       {
         "date": "2025-10-24",
-        "equity_eur": 4848.93
+        "equity_eur": 4765.25
       },
       {
         "date": "2025-10-27",
-        "equity_eur": 4850.59
+        "equity_eur": 4768.23
       },
       {
         "date": "2025-10-28",
-        "equity_eur": 4843.54
+        "equity_eur": 4741.41
       },
       {
         "date": "2025-10-29",
-        "equity_eur": 4847.6
+        "equity_eur": 4728.98
       },
       {
         "date": "2025-10-30",
-        "equity_eur": 4840.18
+        "equity_eur": 4721.31
       },
       {
         "date": "2025-10-31",
-        "equity_eur": 4838.17
+        "equity_eur": 4713.2
       },
       {
         "date": "2025-11-03",
-        "equity_eur": 4825.66
+        "equity_eur": 4701.19
       },
       {
         "date": "2025-11-04",
-        "equity_eur": 4812.46
+        "equity_eur": 4695.69
       },
       {
         "date": "2025-11-05",
-        "equity_eur": 4814.31
+        "equity_eur": 4696.49
       },
       {
         "date": "2025-11-06",
-        "equity_eur": 4780.72
+        "equity_eur": 4615.67
       },
       {
         "date": "2025-11-07",
-        "equity_eur": 4772.3
+        "equity_eur": 4613.67
       },
       {
         "date": "2025-11-10",
-        "equity_eur": 4790.37
+        "equity_eur": 4631.39
       },
       {
         "date": "2025-11-11",
-        "equity_eur": 4807.62
+        "equity_eur": 4639.73
       },
       {
         "date": "2025-11-12",
-        "equity_eur": 4823.36
+        "equity_eur": 4660.52
       },
       {
         "date": "2025-11-13",
-        "equity_eur": 4828.37
+        "equity_eur": 4661.57
       },
       {
         "date": "2025-11-14",
-        "equity_eur": 4808.56
+        "equity_eur": 4635.16
       },
       {
         "date": "2025-11-17",
-        "equity_eur": 4794.56
+        "equity_eur": 4624.8
       },
       {
         "date": "2025-11-18",
-        "equity_eur": 4761.88
+        "equity_eur": 4595.44
       },
       {
         "date": "2025-11-19",
-        "equity_eur": 4761.94
+        "equity_eur": 4599.44
       },
       {
         "date": "2025-11-20",
-        "equity_eur": 4751.32
+        "equity_eur": 4591.84
       },
       {
         "date": "2025-11-21",
-        "equity_eur": 4755.75
+        "equity_eur": 4592.02
       },
       {
         "date": "2025-11-24",
-        "equity_eur": 4761.73
+        "equity_eur": 4582.82
       },
       {
         "date": "2025-11-25",
-        "equity_eur": 4779.04
+        "equity_eur": 4603.49
       },
       {
         "date": "2025-11-26",
-        "equity_eur": 4792.62
+        "equity_eur": 4615.62
       },
       {
         "date": "2025-11-27",
-        "equity_eur": 4789.09
+        "equity_eur": 4621.66
       },
       {
         "date": "2025-11-28",
-        "equity_eur": 4798.09
+        "equity_eur": 4627.25
       },
       {
         "date": "2025-12-01",
-        "equity_eur": 4795.61
+        "equity_eur": 4628.12
       },
       {
         "date": "2025-12-02",
-        "equity_eur": 4802.15
+        "equity_eur": 4638.81
       },
       {
         "date": "2025-12-03",
-        "equity_eur": 4788.26
+        "equity_eur": 4616.62
       },
       {
         "date": "2025-12-04",
-        "equity_eur": 4801.35
+        "equity_eur": 4633.0
       },
       {
         "date": "2025-12-05",
-        "equity_eur": 4805.61
+        "equity_eur": 4629.35
       },
       {
         "date": "2025-12-08",
-        "equity_eur": 4806.15
+        "equity_eur": 4641.87
       },
       {
         "date": "2025-12-09",
-        "equity_eur": 4807.15
+        "equity_eur": 4641.16
       },
       {
         "date": "2025-12-10",
-        "equity_eur": 4813.96
+        "equity_eur": 4636.5
       },
       {
         "date": "2025-12-11",
-        "equity_eur": 4824.9
+        "equity_eur": 4654.86
       },
       {
         "date": "2025-12-12",
-        "equity_eur": 4820.06
+        "equity_eur": 4661.22
       },
       {
         "date": "2025-12-15",
-        "equity_eur": 4830.45
+        "equity_eur": 4681.85
       },
       {
         "date": "2025-12-16",
-        "equity_eur": 4826.75
+        "equity_eur": 4680.46
       },
       {
         "date": "2025-12-17",
-        "equity_eur": 4824.19
+        "equity_eur": 4678.39
       },
       {
         "date": "2025-12-18",
-        "equity_eur": 4832.98
+        "equity_eur": 4695.42
       },
       {
         "date": "2025-12-19",
-        "equity_eur": 4826.75
+        "equity_eur": 4687.68
       },
       {
         "date": "2025-12-22",
-        "equity_eur": 4824.09
+        "equity_eur": 4680.19
       },
       {
         "date": "2025-12-23",
-        "equity_eur": 4816.85
+        "equity_eur": 4674.86
       },
       {
         "date": "2025-12-24",
-        "equity_eur": 4817.66
+        "equity_eur": 4676.22
       },
       {
         "date": "2025-12-29",
-        "equity_eur": 4814.49
+        "equity_eur": 4669.03
       },
       {
         "date": "2025-12-30",
-        "equity_eur": 4825.96
+        "equity_eur": 4683.48
       },
       {
         "date": "2025-12-31",
-        "equity_eur": 4818.82
+        "equity_eur": 4673.93
       },
       {
         "date": "2026-01-02",
-        "equity_eur": 4824.46
+        "equity_eur": 4678.27
       },
       {
         "date": "2026-01-05",
-        "equity_eur": 4863.95
+        "equity_eur": 4703.83
       },
       {
         "date": "2026-01-06",
-        "equity_eur": 4867.04
+        "equity_eur": 4702.14
       },
       {
         "date": "2026-01-07",
-        "equity_eur": 4871.92
+        "equity_eur": 4702.39
       },
       {
         "date": "2026-01-08",
-        "equity_eur": 4879.57
+        "equity_eur": 4688.42
       },
       {
         "date": "2026-01-09",
-        "equity_eur": 4882.34
+        "equity_eur": 4671.92
       },
       {
         "date": "2026-01-12",
-        "equity_eur": 4882.47
+        "equity_eur": 4684.05
       },
       {
         "date": "2026-01-13",
-        "equity_eur": 4891.87
+        "equity_eur": 4689.46
       },
       {
         "date": "2026-01-14",
-        "equity_eur": 4881.78
+        "equity_eur": 4691.33
       },
       {
         "date": "2026-01-15",
-        "equity_eur": 4885.82
+        "equity_eur": 4697.4
       },
       {
         "date": "2026-01-16",
-        "equity_eur": 4886.42
+        "equity_eur": 4695.61
       },
       {
         "date": "2026-01-19",
-        "equity_eur": 4856.8
+        "equity_eur": 4683.71
       },
       {
         "date": "2026-01-20",
-        "equity_eur": 4840.73
+        "equity_eur": 4672.41
       },
       {
         "date": "2026-01-21",
-        "equity_eur": 4833.54
+        "equity_eur": 4688.7
       },
       {
         "date": "2026-01-22",
-        "equity_eur": 4849.31
+        "equity_eur": 4718.9
       },
       {
         "date": "2026-01-23",
-        "equity_eur": 4841.39
+        "equity_eur": 4710.35
       },
       {
         "date": "2026-01-26",
-        "equity_eur": 4825.5
+        "equity_eur": 4698.02
       },
       {
         "date": "2026-01-27",
-        "equity_eur": 4839.14
+        "equity_eur": 4713.47
       },
       {
         "date": "2026-01-28",
-        "equity_eur": 4844.34
+        "equity_eur": 4729.2
       },
       {
         "date": "2026-01-29",
-        "equity_eur": 4822.83
+        "equity_eur": 4728.0
       },
       {
         "date": "2026-01-30",
-        "equity_eur": 4824.69
+        "equity_eur": 4734.57
       },
       {
         "date": "2026-02-02",
-        "equity_eur": 4847.6
+        "equity_eur": 4755.7
       },
       {
         "date": "2026-02-03",
-        "equity_eur": 4869.6
+        "equity_eur": 4783.23
       },
       {
         "date": "2026-02-04",
-        "equity_eur": 4884.28
+        "equity_eur": 4801.06
       },
       {
         "date": "2026-02-05",
-        "equity_eur": 4882.78
+        "equity_eur": 4783.95
       },
       {
         "date": "2026-02-06",
-        "equity_eur": 4897.97
+        "equity_eur": 4793.48
       },
       {
         "date": "2026-02-09",
-        "equity_eur": 4901.86
+        "equity_eur": 4790.55
       },
       {
         "date": "2026-02-10",
-        "equity_eur": 4913.51
+        "equity_eur": 4806.33
       },
       {
         "date": "2026-02-11",
-        "equity_eur": 4940.55
+        "equity_eur": 4819.55
       },
       {
         "date": "2026-02-12",
-        "equity_eur": 4936.47
+        "equity_eur": 4809.15
       },
       {
         "date": "2026-02-13",
-        "equity_eur": 4941.31
+        "equity_eur": 4816.19
       },
       {
         "date": "2026-02-16",
-        "equity_eur": 4940.84
+        "equity_eur": 4819.29
       },
       {
         "date": "2026-02-17",
-        "equity_eur": 4942.55
+        "equity_eur": 4825.42
       },
       {
         "date": "2026-02-18",
-        "equity_eur": 4953.08
+        "equity_eur": 4828.25
       },
       {
         "date": "2026-02-19",
-        "equity_eur": 4933.99
+        "equity_eur": 4811.29
       },
       {
         "date": "2026-02-20",
-        "equity_eur": 4937.35
+        "equity_eur": 4812.06
       },
       {
         "date": "2026-02-23",
-        "equity_eur": 4940.69
+        "equity_eur": 4827.52
       },
       {
         "date": "2026-02-24",
-        "equity_eur": 4951.65
+        "equity_eur": 4842.05
       },
       {
         "date": "2026-02-25",
-        "equity_eur": 4953.7
+        "equity_eur": 4847.69
       },
       {
         "date": "2026-02-26",
-        "equity_eur": 4942.97
+        "equity_eur": 4842.78
       },
       {
         "date": "2026-02-27",
-        "equity_eur": 4951.29
+        "equity_eur": 4839.5
       },
       {
         "date": "2026-03-02",
-        "equity_eur": 4908.92
+        "equity_eur": 4815.64
       },
       {
         "date": "2026-03-03",
-        "equity_eur": 4871.38
+        "equity_eur": 4775.98
       },
       {
         "date": "2026-03-04",
-        "equity_eur": 4871.92
+        "equity_eur": 4773.94
       },
       {
         "date": "2026-03-05",
-        "equity_eur": 4848.69
+        "equity_eur": 4756.03
       },
       {
         "date": "2026-03-06",
-        "equity_eur": 4845.71
+        "equity_eur": 4753.96
       },
       {
         "date": "2026-03-09",
-        "equity_eur": 4833.8
+        "equity_eur": 4745.69
       },
       {
         "date": "2026-03-10",
-        "equity_eur": 4824.5
+        "equity_eur": 4745.46
       },
       {
         "date": "2026-03-11",
-        "equity_eur": 4819.52
+        "equity_eur": 4740.18
       },
       {
         "date": "2026-03-12",
-        "equity_eur": 4817.3
+        "equity_eur": 4745.39
       },
       {
         "date": "2026-03-13",
-        "equity_eur": 4814.69
+        "equity_eur": 4742.79
       },
       {
         "date": "2026-03-16",
-        "equity_eur": 4799.98
+        "equity_eur": 4728.07
       },
       {
         "date": "2026-03-17",
-        "equity_eur": 4804.52
+        "equity_eur": 4732.61
       },
       {
         "date": "2026-03-18",
-        "equity_eur": 4805.64
+        "equity_eur": 4733.74
       },
       {
         "date": "2026-03-19",
-        "equity_eur": 4792.59
+        "equity_eur": 4720.68
       },
       {
         "date": "2026-03-20",
-        "equity_eur": 4773.58
+        "equity_eur": 4701.67
       },
       {
         "date": "2026-03-23",
-        "equity_eur": 4770.73
+        "equity_eur": 4698.83
       },
       {
         "date": "2026-03-24",
-        "equity_eur": 4770.14
+        "equity_eur": 4698.24
       },
       {
         "date": "2026-03-25",
-        "equity_eur": 4785.32
+        "equity_eur": 4713.42
       },
       {
         "date": "2026-03-26",
-        "equity_eur": 4792.55
+        "equity_eur": 4720.65
       },
       {
         "date": "2026-03-27",
-        "equity_eur": 4798.12
+        "equity_eur": 4726.21
       },
       {
         "date": "2026-03-30",
-        "equity_eur": 4797.52
+        "equity_eur": 4725.62
       },
       {
         "date": "2026-03-31",
-        "equity_eur": 4806.72
+        "equity_eur": 4734.82
       },
       {
         "date": "2026-04-01",
-        "equity_eur": 4825.65
+        "equity_eur": 4753.75
       },
       {
         "date": "2026-04-02",
-        "equity_eur": 4830.75
+        "equity_eur": 4758.85
       },
       {
         "date": "2026-04-07",
-        "equity_eur": 4803.11
+        "equity_eur": 4731.2
       },
       {
         "date": "2026-04-08",
-        "equity_eur": 4820.29
+        "equity_eur": 4748.39
       },
       {
         "date": "2026-04-09",
-        "equity_eur": 4816.73
+        "equity_eur": 4744.82
       },
       {
         "date": "2026-04-10",
-        "equity_eur": 4815.44
+        "equity_eur": 4743.53
       },
       {
         "date": "2026-04-13",
-        "equity_eur": 4810.26
+        "equity_eur": 4738.36
       },
       {
         "date": "2026-04-14",
-        "equity_eur": 4832.41
+        "equity_eur": 4760.51
       },
       {
         "date": "2026-04-15",
-        "equity_eur": 4808.81
-      },
-      {
-        "date": "2026-04-16",
-        "equity_eur": 4794.86
-      },
-      {
-        "date": "2026-04-17",
-        "equity_eur": 4832.18
-      },
-      {
-        "date": "2026-04-20",
-        "equity_eur": 4815.92
-      },
-      {
-        "date": "2026-04-21",
-        "equity_eur": 4803.73
-      },
-      {
-        "date": "2026-04-22",
-        "equity_eur": 4786.43
-      },
-      {
-        "date": "2026-04-23",
-        "equity_eur": 4798.97
-      },
-      {
-        "date": "2026-04-24",
-        "equity_eur": 4810.45
-      },
-      {
-        "date": "2026-04-27",
-        "equity_eur": 4798.34
-      },
-      {
-        "date": "2026-04-28",
-        "equity_eur": 4804.84
-      },
-      {
-        "date": "2026-04-29",
-        "equity_eur": 4784.88
-      },
-      {
-        "date": "2026-04-30",
-        "equity_eur": 4789.86
-      },
-      {
-        "date": "2026-05-04",
-        "equity_eur": 4772.43
-      },
-      {
-        "date": "2026-05-05",
-        "equity_eur": 4786.11
-      },
-      {
-        "date": "2026-05-06",
-        "equity_eur": 4816.31
-      },
-      {
-        "date": "2026-05-07",
-        "equity_eur": 4807.71
-      },
-      {
-        "date": "2026-05-08",
-        "equity_eur": 4798.59
-      },
-      {
-        "date": "2026-05-11",
-        "equity_eur": 4797.85
-      },
-      {
-        "date": "2026-05-12",
-        "equity_eur": 4771.79
-      },
-      {
-        "date": "2026-05-13",
-        "equity_eur": 4785.41
-      },
-      {
-        "date": "2026-05-14",
-        "equity_eur": 4784.54
-      },
-      {
-        "date": "2026-05-15",
-        "equity_eur": 4767.81
-      },
-      {
-        "date": "2026-05-18",
-        "equity_eur": 4773.16
-      },
-      {
-        "date": "2026-05-19",
-        "equity_eur": 4770.81
-      },
-      {
-        "date": "2026-05-20",
-        "equity_eur": 4786.16
-      },
-      {
-        "date": "2026-05-21",
-        "equity_eur": 4766.23
-      },
-      {
-        "date": "2026-05-22",
-        "equity_eur": 4758.76
-      },
-      {
-        "date": "2026-05-25",
-        "equity_eur": 4772.62
-      },
-      {
-        "date": "2026-05-26",
-        "equity_eur": 4752.09
-      },
-      {
-        "date": "2026-05-27",
-        "equity_eur": 4766.24
-      },
-      {
-        "date": "2026-05-28",
-        "equity_eur": 4760.71
-      },
-      {
-        "date": "2026-05-29",
-        "equity_eur": 4741.58
-      },
-      {
-        "date": "2026-06-01",
-        "equity_eur": 4732.88
-      },
-      {
-        "date": "2026-06-02",
-        "equity_eur": 4733.76
-      },
-      {
-        "date": "2026-06-03",
-        "equity_eur": 4720.04
-      },
-      {
-        "date": "2026-06-04",
-        "equity_eur": 4724.78
-      },
-      {
-        "date": "2026-06-05",
-        "equity_eur": 4695.49
-      },
-      {
-        "date": "2026-06-08",
-        "equity_eur": 4699.74
-      },
-      {
-        "date": "2026-06-09",
-        "equity_eur": 4709.17
-      },
-      {
-        "date": "2026-06-10",
-        "equity_eur": 4712.9
-      },
-      {
-        "date": "2026-06-11",
-        "equity_eur": 4702.2
-      },
-      {
-        "date": "2026-06-12",
-        "equity_eur": 4737.1
-      },
-      {
-        "date": "2026-06-15",
-        "equity_eur": 4742.74
-      },
-      {
-        "date": "2026-06-16",
-        "equity_eur": 4754.44
-      },
-      {
-        "date": "2026-06-17",
-        "equity_eur": 4741.65
-      },
-      {
-        "date": "2026-06-18",
-        "equity_eur": 4734.9
-      },
-      {
-        "date": "2026-06-19",
-        "equity_eur": 4721.73
-      },
-      {
-        "date": "2026-06-22",
-        "equity_eur": 4719.05
-      },
-      {
-        "date": "2026-06-23",
-        "equity_eur": 4728.14
-      },
-      {
-        "date": "2026-06-24",
-        "equity_eur": 4736.95
-      },
-      {
-        "date": "2026-06-25",
-        "equity_eur": 4752.27
-      },
-      {
-        "date": "2026-06-26",
-        "equity_eur": 4730.71
-      },
-      {
-        "date": "2026-06-29",
-        "equity_eur": 4726.0
-      },
-      {
-        "date": "2026-06-30",
-        "equity_eur": 4735.28
-      },
-      {
-        "date": "2026-07-01",
-        "equity_eur": 4741.38
-      },
-      {
-        "date": "2026-07-02",
-        "equity_eur": 4770.06
-      },
-      {
-        "date": "2026-07-03",
-        "equity_eur": 4759.47
-      },
-      {
-        "date": "2026-07-06",
-        "equity_eur": 4755.96
-      },
-      {
-        "date": "2026-07-07",
-        "equity_eur": 4758.5
-      },
-      {
-        "date": "2026-07-08",
-        "equity_eur": 4729.07
-      },
-      {
-        "date": "2026-07-09",
-        "equity_eur": 4726.89
-      },
-      {
-        "date": "2026-07-10",
-        "equity_eur": 4729.63
-      },
-      {
-        "date": "2026-07-13",
-        "equity_eur": 4748.55
-      },
-      {
-        "date": "2026-07-14",
-        "equity_eur": 4749.45
-      },
-      {
-        "date": "2026-07-15",
         "equity_eur": 4736.91
       },
       {
+        "date": "2026-04-16",
+        "equity_eur": 4722.95
+      },
+      {
+        "date": "2026-04-17",
+        "equity_eur": 4760.28
+      },
+      {
+        "date": "2026-04-20",
+        "equity_eur": 4744.02
+      },
+      {
+        "date": "2026-04-21",
+        "equity_eur": 4731.83
+      },
+      {
+        "date": "2026-04-22",
+        "equity_eur": 4714.52
+      },
+      {
+        "date": "2026-04-23",
+        "equity_eur": 4727.06
+      },
+      {
+        "date": "2026-04-24",
+        "equity_eur": 4738.55
+      },
+      {
+        "date": "2026-04-27",
+        "equity_eur": 4726.43
+      },
+      {
+        "date": "2026-04-28",
+        "equity_eur": 4732.93
+      },
+      {
+        "date": "2026-04-29",
+        "equity_eur": 4712.97
+      },
+      {
+        "date": "2026-04-30",
+        "equity_eur": 4717.95
+      },
+      {
+        "date": "2026-05-04",
+        "equity_eur": 4700.52
+      },
+      {
+        "date": "2026-05-05",
+        "equity_eur": 4714.2
+      },
+      {
+        "date": "2026-05-06",
+        "equity_eur": 4744.41
+      },
+      {
+        "date": "2026-05-07",
+        "equity_eur": 4735.8
+      },
+      {
+        "date": "2026-05-08",
+        "equity_eur": 4726.69
+      },
+      {
+        "date": "2026-05-11",
+        "equity_eur": 4725.95
+      },
+      {
+        "date": "2026-05-12",
+        "equity_eur": 4699.88
+      },
+      {
+        "date": "2026-05-13",
+        "equity_eur": 4713.5
+      },
+      {
+        "date": "2026-05-14",
+        "equity_eur": 4712.64
+      },
+      {
+        "date": "2026-05-15",
+        "equity_eur": 4695.91
+      },
+      {
+        "date": "2026-05-18",
+        "equity_eur": 4701.25
+      },
+      {
+        "date": "2026-05-19",
+        "equity_eur": 4698.9
+      },
+      {
+        "date": "2026-05-20",
+        "equity_eur": 4714.25
+      },
+      {
+        "date": "2026-05-21",
+        "equity_eur": 4694.32
+      },
+      {
+        "date": "2026-05-22",
+        "equity_eur": 4686.86
+      },
+      {
+        "date": "2026-05-25",
+        "equity_eur": 4700.71
+      },
+      {
+        "date": "2026-05-26",
+        "equity_eur": 4680.19
+      },
+      {
+        "date": "2026-05-27",
+        "equity_eur": 4694.33
+      },
+      {
+        "date": "2026-05-28",
+        "equity_eur": 4688.81
+      },
+      {
+        "date": "2026-05-29",
+        "equity_eur": 4669.68
+      },
+      {
+        "date": "2026-06-01",
+        "equity_eur": 4660.97
+      },
+      {
+        "date": "2026-06-02",
+        "equity_eur": 4661.86
+      },
+      {
+        "date": "2026-06-03",
+        "equity_eur": 4648.13
+      },
+      {
+        "date": "2026-06-04",
+        "equity_eur": 4652.88
+      },
+      {
+        "date": "2026-06-05",
+        "equity_eur": 4623.58
+      },
+      {
+        "date": "2026-06-08",
+        "equity_eur": 4627.83
+      },
+      {
+        "date": "2026-06-09",
+        "equity_eur": 4637.27
+      },
+      {
+        "date": "2026-06-10",
+        "equity_eur": 4641.0
+      },
+      {
+        "date": "2026-06-11",
+        "equity_eur": 4630.29
+      },
+      {
+        "date": "2026-06-12",
+        "equity_eur": 4665.2
+      },
+      {
+        "date": "2026-06-15",
+        "equity_eur": 4670.83
+      },
+      {
+        "date": "2026-06-16",
+        "equity_eur": 4682.54
+      },
+      {
+        "date": "2026-06-17",
+        "equity_eur": 4669.75
+      },
+      {
+        "date": "2026-06-18",
+        "equity_eur": 4662.99
+      },
+      {
+        "date": "2026-06-19",
+        "equity_eur": 4649.83
+      },
+      {
+        "date": "2026-06-22",
+        "equity_eur": 4647.14
+      },
+      {
+        "date": "2026-06-23",
+        "equity_eur": 4656.23
+      },
+      {
+        "date": "2026-06-24",
+        "equity_eur": 4665.04
+      },
+      {
+        "date": "2026-06-25",
+        "equity_eur": 4680.37
+      },
+      {
+        "date": "2026-06-26",
+        "equity_eur": 4658.81
+      },
+      {
+        "date": "2026-06-29",
+        "equity_eur": 4654.1
+      },
+      {
+        "date": "2026-06-30",
+        "equity_eur": 4663.38
+      },
+      {
+        "date": "2026-07-01",
+        "equity_eur": 4669.47
+      },
+      {
+        "date": "2026-07-02",
+        "equity_eur": 4698.15
+      },
+      {
+        "date": "2026-07-03",
+        "equity_eur": 4687.56
+      },
+      {
+        "date": "2026-07-06",
+        "equity_eur": 4684.06
+      },
+      {
+        "date": "2026-07-07",
+        "equity_eur": 4686.59
+      },
+      {
+        "date": "2026-07-08",
+        "equity_eur": 4657.16
+      },
+      {
+        "date": "2026-07-09",
+        "equity_eur": 4654.99
+      },
+      {
+        "date": "2026-07-10",
+        "equity_eur": 4657.73
+      },
+      {
+        "date": "2026-07-13",
+        "equity_eur": 4676.65
+      },
+      {
+        "date": "2026-07-14",
+        "equity_eur": 4677.55
+      },
+      {
+        "date": "2026-07-15",
+        "equity_eur": 4665.01
+      },
+      {
         "date": "2026-07-16",
-        "equity_eur": 4743.59
+        "equity_eur": 4671.69
       },
       {
         "date": "2026-07-17",
-        "equity_eur": 4740.21
+        "equity_eur": 4668.3
       },
       {
         "date": "2026-07-20",
-        "equity_eur": 4745.9
+        "equity_eur": 4673.99
       },
       {
         "date": "2026-07-21",
-        "equity_eur": 4733.31
+        "equity_eur": 4661.41
       },
       {
         "date": "2026-07-22",
-        "equity_eur": 4735.96
+        "equity_eur": 4664.05
       },
       {
         "date": "2026-07-23",
-        "equity_eur": 4721.68
+        "equity_eur": 4649.77
       },
       {
         "date": "2026-07-24",
-        "equity_eur": 4727.36
+        "equity_eur": 4655.45
       },
       {
         "date": "2026-07-27",
-        "equity_eur": 4736.34
+        "equity_eur": 4664.44
       },
       {
         "date": "2026-07-28",
-        "equity_eur": 4760.15
+        "equity_eur": 4688.24
       },
       {
         "date": "2026-07-29",
-        "equity_eur": 4753.42
+        "equity_eur": 4681.52
       },
       {
         "date": "2026-07-30",
-        "equity_eur": 4763.74
+        "equity_eur": 4691.84
       },
       {
         "date": "2026-07-31",
-        "equity_eur": 4775.9
+        "equity_eur": 4703.99
       },
       {
         "date": "2026-08-03",
-        "equity_eur": 4787.31
+        "equity_eur": 4715.4
       },
       {
         "date": "2026-08-04",
-        "equity_eur": 4803.47
+        "equity_eur": 4731.56
       },
       {
         "date": "2026-08-05",
-        "equity_eur": 4809.73
+        "equity_eur": 4737.82
       },
       {
         "date": "2026-08-06",
-        "equity_eur": 4800.76
+        "equity_eur": 4728.85
       },
       {
         "date": "2026-08-07",
-        "equity_eur": 4797.89
+        "equity_eur": 4725.99
       },
       {
         "date": "2026-08-10",
-        "equity_eur": 4803.58
+        "equity_eur": 4731.67
       },
       {
         "date": "2026-08-11",
-        "equity_eur": 4803.16
+        "equity_eur": 4731.25
       },
       {
         "date": "2026-08-12",
-        "equity_eur": 4809.14
+        "equity_eur": 4737.23
       },
       {
         "date": "2026-08-13",
-        "equity_eur": 4802.81
+        "equity_eur": 4730.9
       },
       {
         "date": "2026-08-14",
-        "equity_eur": 4799.43
+        "equity_eur": 4727.52
       },
       {
         "date": "2026-08-17",
-        "equity_eur": 4792.22
+        "equity_eur": 4720.32
       },
       {
         "date": "2026-08-18",
-        "equity_eur": 4758.89
+        "equity_eur": 4686.99
       },
       {
         "date": "2026-08-19",
-        "equity_eur": 4747.13
+        "equity_eur": 4675.23
       },
       {
         "date": "2026-08-20",
-        "equity_eur": 4734.49
+        "equity_eur": 4662.58
       },
       {
         "date": "2026-08-21",
-        "equity_eur": 4744.76
+        "equity_eur": 4672.86
       },
       {
         "date": "2026-08-24",
-        "equity_eur": 4753.79
+        "equity_eur": 4681.89
       },
       {
         "date": "2026-08-25",
-        "equity_eur": 4752.72
+        "equity_eur": 4680.82
       },
       {
         "date": "2026-08-26",
-        "equity_eur": 4744.28
+        "equity_eur": 4672.38
       },
       {
         "date": "2026-08-27",
-        "equity_eur": 4733.06
+        "equity_eur": 4661.16
       },
       {
         "date": "2026-08-28",
-        "equity_eur": 4730.17
+        "equity_eur": 4658.27
       },
       {
         "date": "2026-08-31",
-        "equity_eur": 4731.18
+        "equity_eur": 4659.27
       },
       {
         "date": "2026-09-01",
-        "equity_eur": 4734.47
+        "equity_eur": 4662.56
       },
       {
         "date": "2026-09-02",
-        "equity_eur": 4733.02
+        "equity_eur": 4661.11
       },
       {
         "date": "2026-09-03",
-        "equity_eur": 4734.19
+        "equity_eur": 4662.28
       },
       {
         "date": "2026-09-04",
-        "equity_eur": 4754.06
+        "equity_eur": 4682.16
       },
       {
         "date": "2026-09-07",
-        "equity_eur": 4742.86
+        "equity_eur": 4670.95
       },
       {
         "date": "2026-09-08",
-        "equity_eur": 4755.79
+        "equity_eur": 4683.88
       },
       {
         "date": "2026-09-09",
-        "equity_eur": 4736.32
+        "equity_eur": 4664.41
       },
       {
         "date": "2026-09-10",
-        "equity_eur": 4728.37
+        "equity_eur": 4656.47
       },
       {
         "date": "2026-09-11",
-        "equity_eur": 4721.46
+        "equity_eur": 4649.56
       },
       {
         "date": "2026-09-14",
-        "equity_eur": 4724.3
+        "equity_eur": 4652.4
       },
       {
         "date": "2026-09-15",
-        "equity_eur": 4727.43
+        "equity_eur": 4655.52
       },
       {
         "date": "2026-09-16",
-        "equity_eur": 4733.41
+        "equity_eur": 4661.51
       },
       {
         "date": "2026-09-17",
-        "equity_eur": 4737.5
+        "equity_eur": 4665.6
       },
       {
         "date": "2026-09-18",
-        "equity_eur": 4694.44
+        "equity_eur": 4622.53
       },
       {
         "date": "2026-09-21",
-        "equity_eur": 4700.68
+        "equity_eur": 4628.78
       },
       {
         "date": "2026-09-22",
-        "equity_eur": 4695.16
+        "equity_eur": 4623.26
       },
       {
         "date": "2026-09-23",
-        "equity_eur": 4662.6
+        "equity_eur": 4590.7
       },
       {
         "date": "2026-09-24",
-        "equity_eur": 4657.55
+        "equity_eur": 4585.64
       },
       {
         "date": "2026-09-25",
-        "equity_eur": 4656.64
+        "equity_eur": 4584.74
       },
       {
         "date": "2026-09-28",
-        "equity_eur": 4678.08
+        "equity_eur": 4606.18
       },
       {
         "date": "2026-09-29",
-        "equity_eur": 4668.62
+        "equity_eur": 4596.71
       },
       {
         "date": "2026-09-30",
-        "equity_eur": 4654.32
+        "equity_eur": 4582.42
       },
       {
         "date": "2026-10-01",
-        "equity_eur": 4629.56
+        "equity_eur": 4557.66
       },
       {
         "date": "2026-10-02",
-        "equity_eur": 4652.72
+        "equity_eur": 4580.82
       },
       {
         "date": "2026-10-05",
-        "equity_eur": 4644.87
+        "equity_eur": 4572.96
       },
       {
         "date": "2026-10-06",
-        "equity_eur": 4646.74
+        "equity_eur": 4574.84
       },
       {
         "date": "2026-10-07",
-        "equity_eur": 4633.67
+        "equity_eur": 4561.77
       },
       {
         "date": "2026-10-08",
-        "equity_eur": 4618.42
+        "equity_eur": 4546.51
       },
       {
         "date": "2026-10-09",
-        "equity_eur": 4633.66
+        "equity_eur": 4561.75
       },
       {
         "date": "2026-10-12",
-        "equity_eur": 4630.15
+        "equity_eur": 4558.24
       },
       {
         "date": "2026-10-13",
-        "equity_eur": 4646.83
+        "equity_eur": 4574.92
       },
       {
         "date": "2026-10-14",
-        "equity_eur": 4645.47
+        "equity_eur": 4573.56
       },
       {
         "date": "2026-10-15",
-        "equity_eur": 4661.36
+        "equity_eur": 4589.45
       },
       {
         "date": "2026-10-16",
-        "equity_eur": 4654.98
+        "equity_eur": 4583.07
       },
       {
         "date": "2026-10-19",
-        "equity_eur": 4638.66
+        "equity_eur": 4566.75
       },
       {
         "date": "2026-10-20",
-        "equity_eur": 4625.52
+        "equity_eur": 4553.62
       },
       {
         "date": "2026-10-21",
-        "equity_eur": 4631.63
+        "equity_eur": 4559.72
       },
       {
         "date": "2026-10-22",
-        "equity_eur": 4636.88
+        "equity_eur": 4564.97
       },
       {
         "date": "2026-10-23",
-        "equity_eur": 4641.98
+        "equity_eur": 4570.08
       },
       {
         "date": "2026-10-26",
-        "equity_eur": 4633.78
+        "equity_eur": 4561.88
       },
       {
         "date": "2026-10-27",
-        "equity_eur": 4639.3
+        "equity_eur": 4567.4
       },
       {
-        "date": "2026-10-28",
-        "equity_eur": 4625.42
+        "date": "2026-10-29",
+        "equity_eur": 4559.38
       }
     ]
   },

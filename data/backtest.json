@@ -1,6 +1,6 @@
 {
   "schema_version": "6.0",
-  "generated_utc": "2026-10-28T21:39:44.042975+00:00",
+  "generated_utc": "2026-10-29T08:25:55.842439+00:00",
   "rules": {
     "fee_pct": 0.35,
     "max_risk_eur": 20,
@@ -50,23 +50,23 @@
         "metrics": {
           "trades": 11,
           "wins_pct": 27.27,
-          "net_pnl_eur": -70.28,
-          "avg_pnl_eur": -6.39,
-          "profit_factor": 0.537,
+          "net_pnl_eur": -74.24,
+          "avg_pnl_eur": -6.75,
+          "profit_factor": 0.523,
           "max_drawdown_eur_sequential": 128.48,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
+            "signal_date": "2025-08-22",
+            "entry_date": "2025-08-25",
             "exit_date": "2025-08-26",
-            "entry": 44.85,
+            "entry": 45.03,
             "exit": 43.19,
-            "quantity": 10,
-            "pnl_eur": -19.68,
+            "quantity": 11,
+            "pnl_eur": -23.64,
             "reason": "GAP_BELOW_STOP",
-            "risk_at_stop_eur": 18.64
+            "risk_at_stop_eur": 19.21
           },
           {
             "signal_date": "2025-10-16",
@@ -787,10 +787,10 @@
         "metrics": {
           "trades": 9,
           "wins_pct": 44.44,
-          "net_pnl_eur": -20.92,
-          "avg_pnl_eur": -2.32,
-          "profit_factor": 0.721,
-          "max_drawdown_eur_sequential": 48.78,
+          "net_pnl_eur": -10.8,
+          "avg_pnl_eur": -1.2,
+          "profit_factor": 0.833,
+          "max_drawdown_eur_sequential": 38.66,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
@@ -885,11 +885,11 @@
           {
             "signal_date": "2026-10-21",
             "entry_date": "2026-10-22",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 196.9,
-            "exit": 191.92,
+            "exit": 197.0,
             "quantity": 2,
-            "pnl_eur": -12.68,
+            "pnl_eur": -2.56,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 17.35
           }
@@ -898,10 +898,10 @@
       "REBOND_POTENTIEL": {
         "metrics": {
           "trades": 7,
-          "wins_pct": 42.86,
-          "net_pnl_eur": 19.47,
-          "avg_pnl_eur": 2.78,
-          "profit_factor": 1.686,
+          "wins_pct": 57.14,
+          "net_pnl_eur": 29.6,
+          "avg_pnl_eur": 4.23,
+          "profit_factor": 2.129,
           "max_drawdown_eur_sequential": 26.22,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -975,11 +975,11 @@
           {
             "signal_date": "2026-10-19",
             "entry_date": "2026-10-20",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 191.66,
-            "exit": 191.92,
+            "exit": 197.0,
             "quantity": 2,
-            "pnl_eur": -2.17,
+            "pnl_eur": 7.96,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 16.43
           }
@@ -1079,36 +1079,47 @@
     "BN.PA": {
       "TENDANCE": {
         "metrics": {
-          "trades": 5,
-          "wins_pct": 20.0,
-          "net_pnl_eur": -45.07,
-          "avg_pnl_eur": -9.01,
-          "profit_factor": 0.304,
-          "max_drawdown_eur_sequential": 45.07,
+          "trades": 6,
+          "wins_pct": 33.33,
+          "net_pnl_eur": -36.09,
+          "avg_pnl_eur": -6.02,
+          "profit_factor": 0.522,
+          "max_drawdown_eur_sequential": 37.09,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
-            "exit_date": "2025-08-28",
-            "entry": 72.68,
-            "exit": 71.1457,
+            "signal_date": "2025-08-20",
+            "entry_date": "2025-08-21",
+            "exit_date": "2025-08-25",
+            "entry": 74.54,
+            "exit": 72.8689,
             "quantity": 9,
-            "pnl_eur": -18.34,
+            "pnl_eur": -19.68,
             "reason": "STOP",
-            "risk_at_stop_eur": 18.34
+            "risk_at_stop_eur": 19.68
           },
           {
-            "signal_date": "2025-09-03",
-            "entry_date": "2025-09-04",
-            "exit_date": "2025-09-17",
-            "entry": 74.42,
-            "exit": 73.9,
+            "signal_date": "2025-08-26",
+            "entry_date": "2025-08-27",
+            "exit_date": "2025-09-09",
+            "entry": 72.02,
+            "exit": 74.72,
             "quantity": 9,
-            "pnl_eur": -9.35,
+            "pnl_eur": 19.68,
             "reason": "TIME_EXIT",
-            "risk_at_stop_eur": 18.98
+            "risk_at_stop_eur": 18.35
+          },
+          {
+            "signal_date": "2025-09-10",
+            "entry_date": "2025-09-11",
+            "exit_date": "2025-09-22",
+            "entry": 74.58,
+            "exit": 73.0174,
+            "quantity": 9,
+            "pnl_eur": -18.71,
+            "reason": "STOP",
+            "risk_at_stop_eur": 18.71
           },
           {
             "signal_date": "2025-10-13",
@@ -1149,9 +1160,9 @@
         "metrics": {
           "trades": 9,
           "wins_pct": 44.44,
-          "net_pnl_eur": -23.62,
-          "avg_pnl_eur": -2.62,
-          "profit_factor": 0.752,
+          "net_pnl_eur": -17.22,
+          "avg_pnl_eur": -1.91,
+          "profit_factor": 0.819,
           "max_drawdown_eur_sequential": 95.18,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -1246,14 +1257,14 @@
           },
           {
             "signal_date": "2026-10-27",
-            "entry_date": "2026-10-28",
-            "exit_date": "2026-10-28",
-            "entry": 62.72,
-            "exit": 63.24,
+            "entry_date": "2026-10-29",
+            "exit_date": "2026-10-29",
+            "entry": 63.68,
+            "exit": 64.92,
             "quantity": 9,
-            "pnl_eur": 0.71,
+            "pnl_eur": 7.11,
             "reason": "TIME_EXIT",
-            "risk_at_stop_eur": 18.53
+            "risk_at_stop_eur": 18.59
           }
         ]
       },
@@ -1331,23 +1342,23 @@
         "metrics": {
           "trades": 10,
           "wins_pct": 30.0,
-          "net_pnl_eur": -119.87,
-          "avg_pnl_eur": -11.99,
+          "net_pnl_eur": -119.47,
+          "avg_pnl_eur": -11.95,
           "profit_factor": 0.095,
-          "max_drawdown_eur_sequential": 122.43,
+          "max_drawdown_eur_sequential": 122.03,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
+            "signal_date": "2025-08-20",
+            "entry_date": "2025-08-21",
             "exit_date": "2025-08-25",
-            "entry": 82.65,
-            "exit": 80.277,
+            "entry": 82.56,
+            "exit": 80.2537,
             "quantity": 6,
-            "pnl_eur": -17.66,
+            "pnl_eur": -17.26,
             "reason": "STOP",
-            "risk_at_stop_eur": 17.66
+            "risk_at_stop_eur": 17.26
           },
           {
             "signal_date": "2025-09-12",
@@ -1864,9 +1875,9 @@
         "metrics": {
           "trades": 3,
           "wins_pct": 33.33,
-          "net_pnl_eur": 1.98,
-          "avg_pnl_eur": 0.66,
-          "profit_factor": 1.079,
+          "net_pnl_eur": 2.87,
+          "avg_pnl_eur": 0.96,
+          "profit_factor": 1.119,
           "max_drawdown_eur_sequential": 20.52,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -1896,11 +1907,11 @@
           {
             "signal_date": "2026-10-23",
             "entry_date": "2026-10-26",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 123.8,
-            "exit": 122.45,
+            "exit": 122.9,
             "quantity": 2,
-            "pnl_eur": -4.42,
+            "pnl_eur": -3.53,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 13.81
           }
@@ -2033,9 +2044,9 @@
         "metrics": {
           "trades": 6,
           "wins_pct": 33.33,
-          "net_pnl_eur": -13.8,
-          "avg_pnl_eur": -2.3,
-          "profit_factor": 0.639,
+          "net_pnl_eur": -12.91,
+          "avg_pnl_eur": -2.15,
+          "profit_factor": 0.655,
           "max_drawdown_eur_sequential": 23.07,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -2098,11 +2109,11 @@
           {
             "signal_date": "2026-10-15",
             "entry_date": "2026-10-16",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 122.3,
-            "exit": 122.45,
+            "exit": 122.9,
             "quantity": 2,
-            "pnl_eur": -1.41,
+            "pnl_eur": -0.52,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 14.33
           }
@@ -2114,23 +2125,23 @@
         "metrics": {
           "trades": 4,
           "wins_pct": 50.0,
-          "net_pnl_eur": -15.19,
-          "avg_pnl_eur": -3.8,
-          "profit_factor": 0.613,
-          "max_drawdown_eur_sequential": 19.81,
+          "net_pnl_eur": -14.92,
+          "avg_pnl_eur": -3.73,
+          "profit_factor": 0.618,
+          "max_drawdown_eur_sequential": 19.54,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
+            "signal_date": "2025-08-20",
+            "entry_date": "2025-08-21",
             "exit_date": "2025-08-25",
-            "entry": 42.96,
-            "exit": 41.9362,
+            "entry": 43.28,
+            "exit": 42.2768,
             "quantity": 15,
-            "pnl_eur": -19.81,
+            "pnl_eur": -19.54,
             "reason": "STOP",
-            "risk_at_stop_eur": 19.81
+            "risk_at_stop_eur": 19.54
           },
           {
             "signal_date": "2026-06-18",
@@ -2171,10 +2182,10 @@
         "metrics": {
           "trades": 16,
           "wins_pct": 18.75,
-          "net_pnl_eur": -175.87,
-          "avg_pnl_eur": -10.99,
-          "profit_factor": 0.283,
-          "max_drawdown_eur_sequential": 175.87,
+          "net_pnl_eur": -178.23,
+          "avg_pnl_eur": -11.14,
+          "profit_factor": 0.28,
+          "max_drawdown_eur_sequential": 178.23,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
@@ -2345,14 +2356,14 @@
           },
           {
             "signal_date": "2026-10-27",
-            "entry_date": "2026-10-28",
-            "exit_date": "2026-10-28",
-            "entry": 42.45,
-            "exit": 42.59,
+            "entry_date": "2026-10-29",
+            "exit_date": "2026-10-29",
+            "entry": 42.76,
+            "exit": 42.72,
             "quantity": 13,
-            "pnl_eur": -2.05,
+            "pnl_eur": -4.41,
             "reason": "TIME_EXIT",
-            "risk_at_stop_eur": 18.61
+            "risk_at_stop_eur": 18.64
           }
         ]
       },
@@ -2937,23 +2948,23 @@
         "metrics": {
           "trades": 9,
           "wins_pct": 33.33,
-          "net_pnl_eur": -47.11,
-          "avg_pnl_eur": -5.23,
-          "profit_factor": 0.495,
-          "max_drawdown_eur_sequential": 71.27,
+          "net_pnl_eur": -46.56,
+          "avg_pnl_eur": -5.17,
+          "profit_factor": 0.498,
+          "max_drawdown_eur_sequential": 70.72,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
+            "signal_date": "2025-08-20",
+            "entry_date": "2025-08-21",
             "exit_date": "2025-08-26",
-            "entry": 26.2,
-            "exit": 25.3478,
+            "entry": 26.31,
+            "exit": 25.4876,
             "quantity": 19,
-            "pnl_eur": -19.62,
+            "pnl_eur": -19.07,
             "reason": "STOP",
-            "risk_at_stop_eur": 19.62
+            "risk_at_stop_eur": 19.07
           },
           {
             "signal_date": "2025-11-04",
@@ -3187,9 +3198,9 @@
         "metrics": {
           "trades": 5,
           "wins_pct": 20.0,
-          "net_pnl_eur": -24.83,
-          "avg_pnl_eur": -4.97,
-          "profit_factor": 0.683,
+          "net_pnl_eur": -21.54,
+          "avg_pnl_eur": -4.31,
+          "profit_factor": 0.725,
           "max_drawdown_eur_sequential": 78.24,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -3241,11 +3252,11 @@
           {
             "signal_date": "2026-10-15",
             "entry_date": "2026-10-16",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 149.85,
-            "exit": 177.7,
+            "exit": 179.35,
             "quantity": 2,
-            "pnl_eur": 53.41,
+            "pnl_eur": 56.7,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 14.19
           }
@@ -3255,9 +3266,9 @@
         "metrics": {
           "trades": 4,
           "wins_pct": 50.0,
-          "net_pnl_eur": 17.41,
-          "avg_pnl_eur": 4.35,
-          "profit_factor": 1.476,
+          "net_pnl_eur": 20.7,
+          "avg_pnl_eur": 5.18,
+          "profit_factor": 1.566,
           "max_drawdown_eur_sequential": 36.58,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -3298,11 +3309,11 @@
           {
             "signal_date": "2026-10-16",
             "entry_date": "2026-10-19",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 151.6,
-            "exit": 177.7,
+            "exit": 179.35,
             "quantity": 2,
-            "pnl_eur": 49.89,
+            "pnl_eur": 53.18,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 14.57
           }
@@ -3698,9 +3709,9 @@
         "metrics": {
           "trades": 9,
           "wins_pct": 22.22,
-          "net_pnl_eur": -88.39,
-          "avg_pnl_eur": -9.82,
-          "profit_factor": 0.276,
+          "net_pnl_eur": -87.14,
+          "avg_pnl_eur": -9.68,
+          "profit_factor": 0.286,
           "max_drawdown_eur_sequential": 102.35,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -3796,11 +3807,11 @@
           {
             "signal_date": "2026-10-26",
             "entry_date": "2026-10-27",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 23.1,
-            "exit": 23.46,
+            "exit": 23.52,
             "quantity": 21,
-            "pnl_eur": 4.14,
+            "pnl_eur": 5.39,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 19.47
           }
@@ -3880,9 +3891,9 @@
         "metrics": {
           "trades": 9,
           "wins_pct": 33.33,
-          "net_pnl_eur": -42.45,
-          "avg_pnl_eur": -4.72,
-          "profit_factor": 0.67,
+          "net_pnl_eur": -41.65,
+          "avg_pnl_eur": -4.63,
+          "profit_factor": 0.677,
           "max_drawdown_eur_sequential": 110.29,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -3978,11 +3989,11 @@
           {
             "signal_date": "2026-10-21",
             "entry_date": "2026-10-22",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 80.72,
-            "exit": 86.24,
+            "exit": 86.4,
             "quantity": 5,
-            "pnl_eur": 24.68,
+            "pnl_eur": 25.48,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 16.74
           }
@@ -4082,9 +4093,9 @@
         "metrics": {
           "trades": 5,
           "wins_pct": 60.0,
-          "net_pnl_eur": 52.8,
-          "avg_pnl_eur": 10.56,
-          "profit_factor": 2.391,
+          "net_pnl_eur": 53.6,
+          "avg_pnl_eur": 10.72,
+          "profit_factor": 2.412,
           "max_drawdown_eur_sequential": 19.83,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -4136,11 +4147,11 @@
           {
             "signal_date": "2026-10-21",
             "entry_date": "2026-10-22",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 80.72,
-            "exit": 86.24,
+            "exit": 86.4,
             "quantity": 5,
-            "pnl_eur": 24.68,
+            "pnl_eur": 25.48,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 16.74
           }
@@ -4152,23 +4163,23 @@
         "metrics": {
           "trades": 8,
           "wins_pct": 12.5,
-          "net_pnl_eur": -73.27,
-          "avg_pnl_eur": -9.16,
-          "profit_factor": 0.287,
-          "max_drawdown_eur_sequential": 73.27,
+          "net_pnl_eur": -98.88,
+          "avg_pnl_eur": -12.36,
+          "profit_factor": 0.23,
+          "max_drawdown_eur_sequential": 98.88,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
-            "exit_date": "2025-08-25",
-            "entry": 58.04,
-            "exit": 56.211,
-            "quantity": 8,
-            "pnl_eur": -17.83,
-            "reason": "STOP",
-            "risk_at_stop_eur": 17.83
+            "signal_date": "2025-08-20",
+            "entry_date": "2025-08-21",
+            "exit_date": "2025-08-26",
+            "entry": 57.44,
+            "exit": 53.0,
+            "quantity": 9,
+            "pnl_eur": -43.44,
+            "reason": "GAP_BELOW_STOP",
+            "risk_at_stop_eur": 19.83
           },
           {
             "signal_date": "2025-09-11",
@@ -5379,36 +5390,25 @@
     "MT.AS": {
       "TENDANCE": {
         "metrics": {
-          "trades": 15,
-          "wins_pct": 40.0,
-          "net_pnl_eur": 23.44,
-          "avg_pnl_eur": 1.56,
-          "profit_factor": 1.136,
+          "trades": 14,
+          "wins_pct": 42.86,
+          "net_pnl_eur": 42.46,
+          "avg_pnl_eur": 3.03,
+          "profit_factor": 1.278,
           "max_drawdown_eur_sequential": 69.86,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
-            "exit_date": "2025-08-21",
-            "entry": 29.59,
-            "exit": 28.4457,
-            "quantity": 14,
-            "pnl_eur": -18.86,
-            "reason": "STOP",
-            "risk_at_stop_eur": 18.86
-          },
-          {
-            "signal_date": "2025-08-22",
-            "entry_date": "2025-08-25",
+            "signal_date": "2025-08-20",
+            "entry_date": "2025-08-21",
             "exit_date": "2025-09-02",
-            "entry": 29.21,
-            "exit": 28.0533,
+            "entry": 29.24,
+            "exit": 28.0949,
             "quantity": 14,
-            "pnl_eur": -19.0,
+            "pnl_eur": -18.84,
             "reason": "STOP",
-            "risk_at_stop_eur": 19.0
+            "risk_at_stop_eur": 18.84
           },
           {
             "signal_date": "2025-09-22",
@@ -5636,26 +5636,15 @@
       },
       "CASSURE": {
         "metrics": {
-          "trades": 10,
-          "wins_pct": 60.0,
-          "net_pnl_eur": 25.23,
-          "avg_pnl_eur": 2.52,
-          "profit_factor": 1.453,
-          "max_drawdown_eur_sequential": 38.18,
+          "trades": 9,
+          "wins_pct": 66.67,
+          "net_pnl_eur": 44.09,
+          "avg_pnl_eur": 4.9,
+          "profit_factor": 2.196,
+          "max_drawdown_eur_sequential": 19.32,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
-          {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
-            "exit_date": "2025-08-21",
-            "entry": 29.59,
-            "exit": 28.4457,
-            "quantity": 14,
-            "pnl_eur": -18.86,
-            "reason": "STOP",
-            "risk_at_stop_eur": 18.86
-          },
           {
             "signal_date": "2025-09-26",
             "entry_date": "2025-09-29",
@@ -5763,9 +5752,9 @@
         "metrics": {
           "trades": 3,
           "wins_pct": 66.67,
-          "net_pnl_eur": 4.11,
-          "avg_pnl_eur": 1.37,
-          "profit_factor": 1.265,
+          "net_pnl_eur": 9.54,
+          "avg_pnl_eur": 3.18,
+          "profit_factor": 1.614,
           "max_drawdown_eur_sequential": 15.53,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -5795,11 +5784,11 @@
           {
             "signal_date": "2026-10-21",
             "entry_date": "2026-10-22",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 404.2,
-            "exit": 423.65,
+            "exit": 429.1,
             "quantity": 1,
-            "pnl_eur": 16.55,
+            "pnl_eur": 21.98,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 13.43
           }
@@ -5954,9 +5943,9 @@
         "metrics": {
           "trades": 6,
           "wins_pct": 16.67,
-          "net_pnl_eur": -53.63,
-          "avg_pnl_eur": -8.94,
-          "profit_factor": 0.216,
+          "net_pnl_eur": -48.2,
+          "avg_pnl_eur": -8.03,
+          "profit_factor": 0.295,
           "max_drawdown_eur_sequential": 68.38,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -6019,11 +6008,11 @@
           {
             "signal_date": "2026-10-15",
             "entry_date": "2026-10-16",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 406.0,
-            "exit": 423.65,
+            "exit": 429.1,
             "quantity": 1,
-            "pnl_eur": 14.75,
+            "pnl_eur": 20.18,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 14.26
           }
@@ -6263,10 +6252,10 @@
         "metrics": {
           "trades": 4,
           "wins_pct": 25.0,
-          "net_pnl_eur": -31.84,
-          "avg_pnl_eur": -7.96,
-          "profit_factor": 0.36,
-          "max_drawdown_eur_sequential": 33.63,
+          "net_pnl_eur": -30.15,
+          "avg_pnl_eur": -7.54,
+          "profit_factor": 0.372,
+          "max_drawdown_eur_sequential": 31.94,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
@@ -6306,12 +6295,12 @@
           {
             "signal_date": "2026-10-16",
             "entry_date": "2026-10-19",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 102.0,
-            "exit": 98.3152,
+            "exit": 98.74,
             "quantity": 4,
-            "pnl_eur": -17.54,
-            "reason": "STOP",
+            "pnl_eur": -15.85,
+            "reason": "TIME_EXIT",
             "risk_at_stop_eur": 17.54
           }
         ]
@@ -6320,9 +6309,9 @@
         "metrics": {
           "trades": 8,
           "wins_pct": 62.5,
-          "net_pnl_eur": 44.93,
-          "avg_pnl_eur": 5.62,
-          "profit_factor": 2.071,
+          "net_pnl_eur": 46.29,
+          "avg_pnl_eur": 5.79,
+          "profit_factor": 2.14,
           "max_drawdown_eur_sequential": 18.75,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -6407,11 +6396,11 @@
           {
             "signal_date": "2026-10-26",
             "entry_date": "2026-10-27",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 99.3,
-            "exit": 98.4,
+            "exit": 98.74,
             "quantity": 4,
-            "pnl_eur": -6.37,
+            "pnl_eur": -5.01,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 16.87
           }
@@ -7138,9 +7127,9 @@
         "metrics": {
           "trades": 13,
           "wins_pct": 38.46,
-          "net_pnl_eur": -76.0,
-          "avg_pnl_eur": -5.85,
-          "profit_factor": 0.495,
+          "net_pnl_eur": -72.65,
+          "avg_pnl_eur": -5.59,
+          "profit_factor": 0.518,
           "max_drawdown_eur_sequential": 91.62,
           "status": "ECHANTILLON_INSUFFISANT"
         },
@@ -7280,11 +7269,11 @@
           {
             "signal_date": "2026-10-20",
             "entry_date": "2026-10-21",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 73.55,
-            "exit": 75.51,
+            "exit": 76.07,
             "quantity": 6,
-            "pnl_eur": 8.63,
+            "pnl_eur": 11.98,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 17.25
           }
@@ -8641,11 +8630,11 @@
       "CASSURE": {
         "metrics": {
           "trades": 5,
-          "wins_pct": 60.0,
-          "net_pnl_eur": 16.81,
-          "avg_pnl_eur": 3.36,
-          "profit_factor": 1.797,
-          "max_drawdown_eur_sequential": 21.08,
+          "wins_pct": 80.0,
+          "net_pnl_eur": 19.86,
+          "avg_pnl_eur": 3.97,
+          "profit_factor": 1.994,
+          "max_drawdown_eur_sequential": 19.98,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
@@ -8696,11 +8685,11 @@
           {
             "signal_date": "2026-10-23",
             "entry_date": "2026-10-26",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 83.2,
-            "exit": 83.6,
+            "exit": 84.11,
             "quantity": 6,
-            "pnl_eur": -1.1,
+            "pnl_eur": 1.95,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 19.88
           }
@@ -9008,23 +8997,23 @@
         "metrics": {
           "trades": 12,
           "wins_pct": 50.0,
-          "net_pnl_eur": -7.72,
-          "avg_pnl_eur": -0.64,
-          "profit_factor": 0.921,
-          "max_drawdown_eur_sequential": 83.19,
+          "net_pnl_eur": -6.26,
+          "avg_pnl_eur": -0.52,
+          "profit_factor": 0.936,
+          "max_drawdown_eur_sequential": 83.24,
           "status": "ECHANTILLON_INSUFFISANT"
         },
         "trades": [
           {
-            "signal_date": "2025-08-19",
-            "entry_date": "2025-08-20",
+            "signal_date": "2025-08-21",
+            "entry_date": "2025-08-22",
             "exit_date": "2025-08-25",
-            "entry": 30.72,
-            "exit": 30.0218,
-            "quantity": 21,
-            "pnl_eur": -19.13,
+            "entry": 30.33,
+            "exit": 29.668,
+            "quantity": 22,
+            "pnl_eur": -19.18,
             "reason": "STOP",
-            "risk_at_stop_eur": 19.13
+            "risk_at_stop_eur": 19.18
           },
           {
             "signal_date": "2025-09-30",
@@ -9139,11 +9128,11 @@
           {
             "signal_date": "2026-10-19",
             "entry_date": "2026-10-20",
-            "exit_date": "2026-10-28",
+            "exit_date": "2026-10-29",
             "entry": 31.95,
-            "exit": 32.74,
+            "exit": 32.82,
             "quantity": 19,
-            "pnl_eur": 10.71,
+            "pnl_eur": 12.22,
             "reason": "TIME_EXIT",
             "risk_at_stop_eur": 19.98
           }
