@@ -1,0 +1,8 @@
+{
+ "version":"9.1", "capital_eur":2000,"risque_par_position_eur":20,"risque_cumule_eur":60,
+ "positions_max":3,"positions_par_secteur_max":2,"liquidite_min_eur":1000000,
+ "frais_pct_par_ordre":0.35,"ttf_pct":0.4,"slippage_pct_par_cote":0.1,
+ "stop_atr_min_multiple":1.5,"marge_sous_support_atr":0.2,
+ "ratio_gain_risque_filtre":false,"objectif_unique":true,
+ "simulation":{"max_conservation_seances":60,"strategies":["TENDANCE","REBOND_POTENTIEL","CASSURE"]}
+}

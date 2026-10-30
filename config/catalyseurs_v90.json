@@ -1,0 +1,1 @@
+{"version":"9.0","evenements":[],"instructions":"Ajouter seulement des événements documentés; chaque objet exige ticker, evenement, source, url_source https, date_publication YYYY-MM-DD et date_reexamen YYYY-MM-DD. Facultatifs: impact_attendu et risque_associe. Ne pas inventer de catalyseur."}
