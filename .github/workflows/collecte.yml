@@ -78,3 +78,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Veille V8.6 - scores prudents et comptes pluriannuels"
             git push
+          fi
