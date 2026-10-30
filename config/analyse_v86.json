@@ -1,0 +1,17 @@
+{
+  "version": "8.6",
+  "max_global": 5,
+  "max_par_strategie": 5,
+  "liquidite_min_eur_jour": 1000000,
+  "couverture_min_pct": 60,
+  "anciennete_comptes_max_mois": 21,
+  "poids": {"technique": 35, "fondamental": 45, "adequation_strategie": 20},
+  "fundamental": {
+    "poids": {"qualite_actuelle": 30, "qualite_pluriannuelle": 30, "valorisation_sectorielle": 20, "solidite": 20},
+    "min_paires_comparables_secteur": 5,
+    "penalite_couverture": true
+  },
+  "collecte_comptes": {"pause_secondes": 0.2, "max_erreurs_consecutives": 15},
+  "conserver_v83": true,
+  "achats_autorises": false
+}
