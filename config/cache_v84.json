@@ -1,0 +1,10 @@
+{
+  "version": "8.4",
+  "historique_annees": 5,
+  "chevauchement_jours": 10,
+  "verification_complete_mensuelle": true,
+  "tolerance_facteur_ajustement": 0.00001,
+  "minimum_seances_pour_calcul": 210,
+  "source": "Yahoo Finance via yfinance; source unique non indépendante",
+  "stockage": "data/historique_long"
+}
