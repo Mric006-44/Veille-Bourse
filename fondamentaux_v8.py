@@ -18,7 +18,36 @@ def clean(v):
  if isinstance(v,(str,int)): return v
  if isinstance(v,float): return round(v,8) if math.isfinite(v) else None
  return None
+def ratio(numerateur, denominateur):
+    if numerateur is None or denominateur is None:
+        return None
+    if denominateur <= 0:
+        return None
+    return numerateur / denominateur
 
+def ratios_complementaires(info):
+    dette = info.get("totalDebt")
+    tresorerie = info.get("totalCash")
+    fcf = info.get("freeCashflow")
+    capitalisation = info.get("marketCap")
+    ca = info.get("totalRevenue")
+
+    return {
+        "dette_nette": (
+            dette - tresorerie
+            if dette is not None and tresorerie is not None
+            else None
+        ),
+        "fcf_yield_pct": (
+            100 * ratio(fcf, capitalisation)
+            if fcf is not None else None
+        ),
+        "marge_fcf_pct": (
+            100 * ratio(fcf, ca)
+            if fcf is not None else None
+        )
+    }
+ 
 def extract(info):
  return {section:{k:clean(info.get(k)) for k in keys} for section,keys in FIELDS.items()}
 
