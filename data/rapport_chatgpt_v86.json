@@ -1,7 +1,7 @@
 {
   "schema_version": "8.6",
-  "genere_utc": "2026-10-30T17:48:04.504818+00:00",
-  "source_v83": "2026-10-30T17:48:04.381128+00:00",
+  "genere_utc": "2026-10-30T21:31:20.115311+00:00",
+  "source_v83": "2026-10-30T21:31:19.971692+00:00",
   "source_comptes": "2026-10-30T16:23:20.510266+00:00",
   "univers_analyse": 120,
   "univers_admissible_recherche": 99,
@@ -2491,153 +2491,6 @@
           "achat_autorise": false
         },
         {
-          "ticker": "AI.PA",
-          "date_seance": "2026-10-30",
-          "secteur": "Basic Materials",
-          "score_v83": 86.0,
-          "score_global_v86_100": 78.0,
-          "score_fondamental_prudent_100": 58.89,
-          "score_technique_100": 90.0,
-          "couverture_score_pct": 100.0,
-          "composantes_fondamentales": {
-            "qualite_actuelle": 75.0,
-            "qualite_pluriannuelle": 60.0,
-            "valorisation_sectorielle": 31.97,
-            "solidite": 60
-          },
-          "comparaison_sectorielle": {
-            "nb_societes": 9,
-            "per_percentile": 5.6,
-            "roic_percentile": 62.5,
-            "fcf_yield_percentile": 27.8
-          },
-          "indicateurs_pluriannuels": {
-            "exercices_disponibles": 4,
-            "date_dernier_exercice": "2025-12-31",
-            "croissance_ca_cagr_3ans_pct": -3.45,
-            "roic_pct": 10.1,
-            "marge_fcf_pct": 9.93,
-            "fcf_positif_3ans": true,
-            "dette_nette": 9963900000.0,
-            "dette_nette_sur_ebit": 2.006746958833481,
-            "piotroski_f_score": 6,
-            "piotroski_criteres": {
-              "roa_positive": true,
-              "cfo_positive": true,
-              "roa_increase": true,
-              "cfo_over_net_income": true,
-              "leverage_decrease": false,
-              "current_ratio_increase": true,
-              "no_dilution": false,
-              "gross_margin_increase": true,
-              "asset_turnover_increase": false
-            },
-            "piotroski_couverture": 9,
-            "altman_z_score": null
-          },
-          "donnees_manquantes": [],
-          "fraicheur_comptes": "A_JOUR",
-          "strategies": {
-            "croissance_momentum": {
-              "adequation_pct": 83.3,
-              "criteres": [
-                {
-                  "critere": "RSI",
-                  "satisfait": false
-                },
-                {
-                  "critere": "PERFORMANCE_1_AN",
-                  "satisfait": true
-                },
-                {
-                  "critere": "ADX",
-                  "satisfait": true
-                },
-                {
-                  "critere": "COURS_MM200",
-                  "satisfait": true
-                },
-                {
-                  "critere": "MACD",
-                  "satisfait": true
-                },
-                {
-                  "critere": "CROISSANCE_CA",
-                  "satisfait": true
-                }
-              ],
-              "criteres_tous_satisfaits": false
-            },
-            "value_rebond": {
-              "adequation_pct": 20.0,
-              "criteres": [
-                {
-                  "critere": "RSI",
-                  "satisfait": false
-                },
-                {
-                  "critere": "PER_PREVISIONNEL",
-                  "satisfait": false
-                },
-                {
-                  "critere": "FCF_YIELD",
-                  "satisfait": false
-                },
-                {
-                  "critere": "PROXIMITE_MM50",
-                  "satisfait": false
-                },
-                {
-                  "critere": "MACD",
-                  "satisfait": true
-                }
-              ],
-              "criteres_tous_satisfaits": false
-            },
-            "cassure": {
-              "adequation_pct": 100.0,
-              "criteres": [
-                {
-                  "critere": "RSI",
-                  "satisfait": true
-                },
-                {
-                  "critere": "ADX",
-                  "satisfait": true
-                },
-                {
-                  "critere": "VOLUME_RELATIF",
-                  "satisfait": true
-                },
-                {
-                  "critere": "CASSURE_HAUT20",
-                  "satisfait": true
-                },
-                {
-                  "critere": "MACD",
-                  "satisfait": true
-                }
-              ],
-              "criteres_tous_satisfaits": true
-            }
-          },
-          "admissible_recherche": true,
-          "exclusions_recherche": [],
-          "plan_exploratoire_v73": null,
-          "blocages_achat": [
-            "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
-            "CAPITAL_DISPONIBLE_INCONNU",
-            "ELIGIBILITE_PEA_NON_VERIFIEE",
-            "PAS_DE_SECONDE_SOURCE",
-            "PAS_DE_SOURCE_INDEPENDANTE",
-            "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-            "RISQUE_CUMULE_INCONNU",
-            "SPREAD_NON_VERIFIE"
-          ],
-          "statut": "SURVEILLANCE",
-          "achat_autorise": false
-        },
-        {
           "ticker": "ELIS.PA",
           "date_seance": "2026-10-30",
           "secteur": "Industrials",
@@ -2785,6 +2638,153 @@
             "RISQUE_CUMULE_INCONNU",
             "SPREAD_NON_VERIFIE",
             "TTF_INDETERMINEE"
+          ],
+          "statut": "SURVEILLANCE",
+          "achat_autorise": false
+        },
+        {
+          "ticker": "AI.PA",
+          "date_seance": "2026-10-30",
+          "secteur": "Basic Materials",
+          "score_v83": 78.0,
+          "score_global_v86_100": 75.3,
+          "score_fondamental_prudent_100": 52.89,
+          "score_technique_100": 90.0,
+          "couverture_score_pct": 100.0,
+          "composantes_fondamentales": {
+            "qualite_actuelle": 55.0,
+            "qualite_pluriannuelle": 60.0,
+            "valorisation_sectorielle": 31.97,
+            "solidite": 60
+          },
+          "comparaison_sectorielle": {
+            "nb_societes": 9,
+            "per_percentile": 5.6,
+            "roic_percentile": 62.5,
+            "fcf_yield_percentile": 27.8
+          },
+          "indicateurs_pluriannuels": {
+            "exercices_disponibles": 4,
+            "date_dernier_exercice": "2025-12-31",
+            "croissance_ca_cagr_3ans_pct": -3.45,
+            "roic_pct": 10.1,
+            "marge_fcf_pct": 9.93,
+            "fcf_positif_3ans": true,
+            "dette_nette": 9963900000.0,
+            "dette_nette_sur_ebit": 2.006746958833481,
+            "piotroski_f_score": 6,
+            "piotroski_criteres": {
+              "roa_positive": true,
+              "cfo_positive": true,
+              "roa_increase": true,
+              "cfo_over_net_income": true,
+              "leverage_decrease": false,
+              "current_ratio_increase": true,
+              "no_dilution": false,
+              "gross_margin_increase": true,
+              "asset_turnover_increase": false
+            },
+            "piotroski_couverture": 9,
+            "altman_z_score": null
+          },
+          "donnees_manquantes": [],
+          "fraicheur_comptes": "A_JOUR",
+          "strategies": {
+            "croissance_momentum": {
+              "adequation_pct": 83.3,
+              "criteres": [
+                {
+                  "critere": "RSI",
+                  "satisfait": false
+                },
+                {
+                  "critere": "PERFORMANCE_1_AN",
+                  "satisfait": true
+                },
+                {
+                  "critere": "ADX",
+                  "satisfait": true
+                },
+                {
+                  "critere": "COURS_MM200",
+                  "satisfait": true
+                },
+                {
+                  "critere": "MACD",
+                  "satisfait": true
+                },
+                {
+                  "critere": "CROISSANCE_CA",
+                  "satisfait": true
+                }
+              ],
+              "criteres_tous_satisfaits": false
+            },
+            "value_rebond": {
+              "adequation_pct": 20.0,
+              "criteres": [
+                {
+                  "critere": "RSI",
+                  "satisfait": false
+                },
+                {
+                  "critere": "PER_PREVISIONNEL",
+                  "satisfait": false
+                },
+                {
+                  "critere": "FCF_YIELD",
+                  "satisfait": false
+                },
+                {
+                  "critere": "PROXIMITE_MM50",
+                  "satisfait": false
+                },
+                {
+                  "critere": "MACD",
+                  "satisfait": true
+                }
+              ],
+              "criteres_tous_satisfaits": false
+            },
+            "cassure": {
+              "adequation_pct": 100.0,
+              "criteres": [
+                {
+                  "critere": "RSI",
+                  "satisfait": true
+                },
+                {
+                  "critere": "ADX",
+                  "satisfait": true
+                },
+                {
+                  "critere": "VOLUME_RELATIF",
+                  "satisfait": true
+                },
+                {
+                  "critere": "CASSURE_HAUT20",
+                  "satisfait": true
+                },
+                {
+                  "critere": "MACD",
+                  "satisfait": true
+                }
+              ],
+              "criteres_tous_satisfaits": true
+            }
+          },
+          "admissible_recherche": true,
+          "exclusions_recherche": [],
+          "plan_exploratoire_v73": null,
+          "blocages_achat": [
+            "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
+            "CAPITAL_DISPONIBLE_INCONNU",
+            "ELIGIBILITE_PEA_NON_VERIFIEE",
+            "PAS_DE_SECONDE_SOURCE",
+            "PAS_DE_SOURCE_INDEPENDANTE",
+            "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+            "RISQUE_CUMULE_INCONNU",
+            "SPREAD_NON_VERIFIE"
           ],
           "statut": "SURVEILLANCE",
           "achat_autorise": false
@@ -3895,13 +3895,13 @@
       "ticker": "AI.PA",
       "date_seance": "2026-10-30",
       "secteur": "Basic Materials",
-      "score_v83": 86.0,
-      "score_global_v86_100": 78.0,
-      "score_fondamental_prudent_100": 58.89,
+      "score_v83": 78.0,
+      "score_global_v86_100": 75.3,
+      "score_fondamental_prudent_100": 52.89,
       "score_technique_100": 90.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
-        "qualite_actuelle": 75.0,
+        "qualite_actuelle": 55.0,
         "qualite_pluriannuelle": 60.0,
         "valorisation_sectorielle": 31.97,
         "solidite": 60
@@ -10427,21 +10427,21 @@
       "date_seance": "2026-10-30",
       "secteur": "Industrials",
       "score_v83": 70.66,
-      "score_global_v86_100": 70.97,
-      "score_fondamental_prudent_100": 58.47,
+      "score_global_v86_100": 71.08,
+      "score_fondamental_prudent_100": 58.71,
       "score_technique_100": 80.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 55.0,
         "qualite_pluriannuelle": 80.0,
-        "valorisation_sectorielle": 29.87,
+        "valorisation_sectorielle": 31.07,
         "solidite": 60
       },
       "comparaison_sectorielle": {
         "nb_societes": 29,
         "per_percentile": 36.2,
         "roic_percentile": 15.9,
-        "fcf_yield_percentile": 37.5
+        "fcf_yield_percentile": 41.1
       },
       "indicateurs_pluriannuels": {
         "exercices_disponibles": 4,
@@ -10579,19 +10579,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 38.0,
-      "score_global_v86_100": 36.74,
-      "score_fondamental_prudent_100": 39.43,
+      "score_global_v86_100": 36.97,
+      "score_fondamental_prudent_100": 39.94,
       "score_technique_100": 20.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 45.0,
         "qualite_pluriannuelle": 40.0,
-        "valorisation_sectorielle": 59.63,
+        "valorisation_sectorielle": 62.2,
         "solidite": 10
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 73.1,
+        "per_percentile": 80.8,
         "roic_percentile": 25.0,
         "fcf_yield_percentile": 80.8
       },
@@ -11502,19 +11502,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Industrials",
       "score_v83": 83.2,
-      "score_global_v86_100": 80.7,
-      "score_fondamental_prudent_100": 90.9,
+      "score_global_v86_100": 80.81,
+      "score_fondamental_prudent_100": 91.13,
       "score_technique_100": 68.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 100.0,
         "qualite_pluriannuelle": 100.0,
-        "valorisation_sectorielle": 54.5,
+        "valorisation_sectorielle": 55.67,
         "solidite": 100
       },
       "comparaison_sectorielle": {
         "nb_societes": 29,
-        "per_percentile": 22.4,
+        "per_percentile": 25.9,
         "roic_percentile": 75.0,
         "fcf_yield_percentile": 66.1
       },
@@ -12747,19 +12747,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Industrials",
       "score_v83": 62.0,
-      "score_global_v86_100": 60.6,
-      "score_fondamental_prudent_100": 66.88,
+      "score_global_v86_100": 60.49,
+      "score_fondamental_prudent_100": 66.65,
       "score_technique_100": 30.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 75.0,
         "qualite_pluriannuelle": 80.0,
-        "valorisation_sectorielle": 41.9,
+        "valorisation_sectorielle": 40.73,
         "solidite": 60
       },
       "comparaison_sectorielle": {
         "nb_societes": 29,
-        "per_percentile": 25.9,
+        "per_percentile": 22.4,
         "roic_percentile": 65.9,
         "fcf_yield_percentile": 33.9
       },
@@ -13698,19 +13698,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 68.0,
-      "score_global_v86_100": 61.8,
-      "score_fondamental_prudent_100": 62.9,
+      "score_global_v86_100": 62.03,
+      "score_fondamental_prudent_100": 63.41,
       "score_technique_100": 50.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 80.0,
         "qualite_pluriannuelle": 80.0,
-        "valorisation_sectorielle": 64.5,
+        "valorisation_sectorielle": 67.07,
         "solidite": 10
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 50.0,
+        "per_percentile": 57.7,
         "roic_percentile": 55.0,
         "fcf_yield_percentile": 88.5
       },
@@ -14796,19 +14796,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 42.0,
-      "score_global_v86_100": 42.22,
-      "score_fondamental_prudent_100": 42.71,
+      "score_global_v86_100": 42.45,
+      "score_fondamental_prudent_100": 43.22,
       "score_technique_100": 20.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 45.0,
         "qualite_pluriannuelle": 60.0,
-        "valorisation_sectorielle": 46.03,
+        "valorisation_sectorielle": 48.6,
         "solidite": 10
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 65.4,
+        "per_percentile": 73.1,
         "roic_percentile": 15.0,
         "fcf_yield_percentile": 57.7
       },
@@ -16241,19 +16241,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 67.2,
-      "score_global_v86_100": 57.8,
-      "score_fondamental_prudent_100": 38.88,
+      "score_global_v86_100": 58.11,
+      "score_fondamental_prudent_100": 39.57,
       "score_technique_100": 58.0,
       "couverture_score_pct": 90.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 60.0,
         "qualite_pluriannuelle": 25.0,
-        "valorisation_sectorielle": 88.5,
+        "valorisation_sectorielle": 92.35,
         "solidite": null
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 80.8,
+        "per_percentile": 88.5,
         "roic_percentile": null,
         "fcf_yield_percentile": 96.2
       },
@@ -16711,21 +16711,21 @@
       "date_seance": "2026-10-30",
       "secteur": "Industrials",
       "score_v83": 54.0,
-      "score_global_v86_100": 57.16,
-      "score_fondamental_prudent_100": 77.02,
+      "score_global_v86_100": 57.05,
+      "score_fondamental_prudent_100": 76.78,
       "score_technique_100": 30.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 75.0,
         "qualite_pluriannuelle": 80.0,
-        "valorisation_sectorielle": 52.6,
+        "valorisation_sectorielle": 51.4,
         "solidite": 100
       },
       "comparaison_sectorielle": {
         "nb_societes": 29,
         "per_percentile": 19.0,
         "roic_percentile": 97.7,
-        "fcf_yield_percentile": 41.1
+        "fcf_yield_percentile": 37.5
       },
       "indicateurs_pluriannuels": {
         "exercices_disponibles": 4,
@@ -17659,19 +17659,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 50.8,
-      "score_global_v86_100": 42.22,
-      "score_fondamental_prudent_100": 26.71,
+      "score_global_v86_100": 42.45,
+      "score_fondamental_prudent_100": 27.22,
       "score_technique_100": 52.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 45.0,
         "qualite_pluriannuelle": 0.0,
-        "valorisation_sectorielle": 56.03,
+        "valorisation_sectorielle": 58.6,
         "solidite": 10
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 57.7,
+        "per_percentile": 65.4,
         "roic_percentile": 45.0,
         "fcf_yield_percentile": 65.4
       },
@@ -18423,19 +18423,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 57.2,
-      "score_global_v86_100": 46.89,
-      "score_fondamental_prudent_100": 15.75,
+      "score_global_v86_100": 45.43,
+      "score_fondamental_prudent_100": 12.52,
       "score_technique_100": 68.0,
       "couverture_score_pct": 90.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 35.0,
         "qualite_pluriannuelle": 0.0,
-        "valorisation_sectorielle": 35.0,
+        "valorisation_sectorielle": 17.03,
         "solidite": null
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 88.5,
+        "per_percentile": 34.6,
         "roic_percentile": 5.0,
         "fcf_yield_percentile": 11.5
       },
@@ -19541,19 +19541,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 68.0,
-      "score_global_v86_100": 67.41,
-      "score_fondamental_prudent_100": 75.36,
+      "score_global_v86_100": 67.64,
+      "score_fondamental_prudent_100": 75.87,
       "score_technique_100": 50.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 80.0,
         "qualite_pluriannuelle": 60.0,
-        "valorisation_sectorielle": 66.8,
+        "valorisation_sectorielle": 69.37,
         "solidite": 100
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 42.3,
+        "per_percentile": 50.0,
         "roic_percentile": 85.0,
         "fcf_yield_percentile": 73.1
       },
@@ -21415,19 +21415,19 @@
       "date_seance": "2026-10-30",
       "secteur": "Consumer Cyclical",
       "score_v83": 54.0,
-      "score_global_v86_100": 44.93,
-      "score_fondamental_prudent_100": 40.96,
+      "score_global_v86_100": 45.16,
+      "score_fondamental_prudent_100": 41.47,
       "score_technique_100": 30.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 65.0,
         "qualite_pluriannuelle": 40.0,
-        "valorisation_sectorielle": 37.3,
+        "valorisation_sectorielle": 39.87,
         "solidite": 10
       },
       "comparaison_sectorielle": {
         "nb_societes": 13,
-        "per_percentile": 34.6,
+        "per_percentile": 42.3,
         "roic_percentile": 35.0,
         "fcf_yield_percentile": 42.3
       },
@@ -21572,21 +21572,21 @@
       "date_seance": "2026-10-30",
       "secteur": "Technology",
       "score_v83": 78.66,
-      "score_global_v86_100": 80.46,
-      "score_fondamental_prudent_100": 64.0,
+      "score_global_v86_100": 80.23,
+      "score_fondamental_prudent_100": 63.5,
       "score_technique_100": 100.0,
       "couverture_score_pct": 100.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 55.0,
         "qualite_pluriannuelle": 75.0,
-        "valorisation_sectorielle": 25.0,
+        "valorisation_sectorielle": 22.5,
         "solidite": 100
       },
       "comparaison_sectorielle": {
         "nb_societes": 10,
         "per_percentile": 35.0,
         "roic_percentile": null,
-        "fcf_yield_percentile": 15.0
+        "fcf_yield_percentile": 10.0
       },
       "indicateurs_pluriannuels": {
         "exercices_disponibles": 4,
@@ -21729,21 +21729,21 @@
       "date_seance": "2026-10-30",
       "secteur": "Technology",
       "score_v83": 20.0,
-      "score_global_v86_100": 21.71,
-      "score_fondamental_prudent_100": 22.7,
+      "score_global_v86_100": 21.85,
+      "score_fondamental_prudent_100": 23.0,
       "score_technique_100": 10.0,
       "couverture_score_pct": 90.0,
       "composantes_fondamentales": {
         "qualite_actuelle": 20.0,
         "qualite_pluriannuelle": 40.0,
-        "valorisation_sectorielle": 36.1,
+        "valorisation_sectorielle": 37.77,
         "solidite": null
       },
       "comparaison_sectorielle": {
         "nb_societes": 10,
         "per_percentile": 95.0,
         "roic_percentile": 8.3,
-        "fcf_yield_percentile": 5.0
+        "fcf_yield_percentile": 10.0
       },
       "indicateurs_pluriannuels": {
         "exercices_disponibles": 4,

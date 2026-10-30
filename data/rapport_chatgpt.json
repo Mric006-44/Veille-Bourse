@@ -1,8 +1,8 @@
 {
   "schema_version": "7.0",
-  "genere_utc": "2026-10-30T17:48:03.489361+00:00",
-  "source_v4": "2026-10-30T17:48:01.597012+00:00",
-  "source_audit_v63": "2026-10-30T17:48:03.361327+00:00",
+  "genere_utc": "2026-10-30T21:30:16.086394+00:00",
+  "source_v4": "2026-10-30T21:30:14.145671+00:00",
+  "source_audit_v63": "2026-10-30T21:30:15.947249+00:00",
   "compteurs": {
     "titres_analyses": 120,
     "dossiers_a_etudier": 28,
@@ -12,7 +12,7 @@
       "CASSURE": 7,
       "TENDANCE": 8
     },
-    "changements_detectes": 60
+    "changements_detectes": 0
   },
   "top_dossiers_a_approfondir": [
     {
@@ -161,115 +161,7 @@
       "autorise_signal_achat": false
     }
   ],
-  "changements_depuis_rapport_precedent": [
-    {
-      "ticker": "LI.PA",
-      "score_precedent": 50,
-      "score_actuel": 70,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "SGO.PA",
-      "score_precedent": 48,
-      "score_actuel": 68,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "SK.PA",
-      "score_precedent": 32,
-      "score_actuel": 52,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "ABVX.PA",
-      "score_precedent": 20,
-      "score_actuel": 30,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "ACA.PA",
-      "score_precedent": 20,
-      "score_actuel": 30,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "AI.PA",
-      "score_precedent": 80,
-      "score_actuel": 90,
-      "nouvelles_configurations": [
-        "CASSURE"
-      ],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "AMUN.PA",
-      "score_precedent": 72,
-      "score_actuel": 82,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "APAM.AS",
-      "score_precedent": 10,
-      "score_actuel": 20,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "AYV.PA",
-      "score_precedent": 40,
-      "score_actuel": 50,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "BB.PA",
-      "score_precedent": 22,
-      "score_actuel": 32,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "BN.PA",
-      "score_precedent": 68,
-      "score_actuel": 78,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "CARM.PA",
-      "score_precedent": 68,
-      "score_actuel": 78,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "COFA.PA",
-      "score_precedent": 20,
-      "score_actuel": 30,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "COV.PA",
-      "score_precedent": 30,
-      "score_actuel": 40,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "CS.PA",
-      "score_precedent": 62,
-      "score_actuel": 72,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    }
-  ],
+  "changements_depuis_rapport_precedent": [],
   "avertissement": "EXPLORATOIRE. Source Yahoo non independamment validee. Aucun ordre ni signal achat autorise. Les scores ne sont pas predictifs.",
   "achats_autorises": 0
 }
