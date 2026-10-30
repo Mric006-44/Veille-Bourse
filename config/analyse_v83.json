@@ -1,0 +1,35 @@
+{
+  "version": "8.3",
+  "univers": "config/watchlist.json",
+  "calculs": {
+    "performances_seances": [126, 252],
+    "volatilite_seances": [20, 60],
+    "plus_haut_bas_252": true,
+    "bench_cac40": "^FCHI",
+    "cours_non_ajustes_alerte": true
+  },
+  "classement": {
+    "max_global": 5,
+    "max_par_strategie": 5,
+    "ponderation_globale": {"technique": 40, "fondamental": 40, "strategie": 20},
+    "couverture_fondamentale_min_pct": 50,
+    "exclure_anomalies": true,
+    "strategies": {
+      "croissance_momentum": {"rsi_min": 45, "rsi_max": 70, "performance_252j_min_pct": 10, "adx_min": 20, "cours_superieur_mm200": true, "macd_positif": true, "croissance_ca_min_pct": 0},
+      "value_rebond": {"rsi_min": 25, "rsi_max": 55, "per_forward_max": 22, "fcf_yield_min_pct": 3, "rebond_proximite_mm50_atr_max": 1.5},
+      "cassure": {"rsi_min": 50, "rsi_max": 80, "adx_min": 20, "ratio_volume_min": 1.2, "cours_superieur_haut20": true}
+    }
+  },
+  "securite_non_modifiable_par_scoring": {
+    "liquidite_min_20j_eur": 1000000,
+    "budget_tactique_total_eur": 2000,
+    "risque_max_position_eur": 20,
+    "risque_max_cumule_eur": 60,
+    "positions_max": 3,
+    "positions_par_secteur_max": 2,
+    "ratio_gain_risque_min": 2,
+    "frais_achat_pct": 0.35,
+    "frais_vente_pct": 0.35,
+    "ttf": "table_ttf_2026_et_validation_ISIN"
+  }
+}
