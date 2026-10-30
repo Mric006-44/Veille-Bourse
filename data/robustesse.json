@@ -1,6 +1,6 @@
 {
   "schema_version": "6.2",
-  "generated_utc": "2026-10-30T15:22:35.224502+00:00",
+  "generated_utc": "2026-10-30T15:49:24.614534+00:00",
   "periode": {
     "premiere_date_signaux": "2025-03-26",
     "date_separation": "2026-01-12",
@@ -58,10 +58,10 @@
       },
       "test": {
         "nombre_trades": 244,
-        "pnl_net_eur": -491.74,
-        "pnl_moyen_eur": -2.02,
+        "pnl_net_eur": -494.51,
+        "pnl_moyen_eur": -2.03,
         "taux_reussite_pct": 38.11,
-        "profit_factor": 0.643,
+        "profit_factor": 0.642,
         "perte_max_trade_eur": -30.7
       },
       "risque_max_observe_eur": 60.0
@@ -79,10 +79,10 @@
       },
       "test": {
         "nombre_trades": 143,
-        "pnl_net_eur": -272.17,
-        "pnl_moyen_eur": -1.9,
-        "taux_reussite_pct": 32.87,
-        "profit_factor": 0.71,
+        "pnl_net_eur": -273.47,
+        "pnl_moyen_eur": -1.91,
+        "taux_reussite_pct": 32.17,
+        "profit_factor": 0.709,
         "perte_max_trade_eur": -19.99
       },
       "risque_max_observe_eur": 60.0
@@ -100,10 +100,10 @@
       },
       "test": {
         "nombre_trades": 89,
-        "pnl_net_eur": -239.68,
-        "pnl_moyen_eur": -2.69,
+        "pnl_net_eur": -240.79,
+        "pnl_moyen_eur": -2.71,
         "taux_reussite_pct": 26.97,
-        "profit_factor": 0.665,
+        "profit_factor": 0.663,
         "perte_max_trade_eur": -24.55
       },
       "risque_max_observe_eur": 59.98
@@ -121,10 +121,10 @@
       },
       "test": {
         "nombre_trades": 221,
-        "pnl_net_eur": -527.15,
+        "pnl_net_eur": -529.11,
         "pnl_moyen_eur": -2.39,
         "taux_reussite_pct": 33.48,
-        "profit_factor": 0.489,
+        "profit_factor": 0.487,
         "perte_max_trade_eur": -32.82
       },
       "risque_max_observe_eur": 60.0
@@ -142,10 +142,10 @@
       },
       "test": {
         "nombre_trades": 128,
-        "pnl_net_eur": -440.45,
-        "pnl_moyen_eur": -3.44,
+        "pnl_net_eur": -442.92,
+        "pnl_moyen_eur": -3.46,
         "taux_reussite_pct": 35.94,
-        "profit_factor": 0.359,
+        "profit_factor": 0.356,
         "perte_max_trade_eur": -19.9
       },
       "risque_max_observe_eur": 60.0
@@ -163,10 +163,10 @@
       },
       "test": {
         "nombre_trades": 73,
-        "pnl_net_eur": -44.66,
-        "pnl_moyen_eur": -0.61,
+        "pnl_net_eur": -47.99,
+        "pnl_moyen_eur": -0.66,
         "taux_reussite_pct": 39.73,
-        "profit_factor": 0.899,
+        "profit_factor": 0.891,
         "perte_max_trade_eur": -21.49
       },
       "risque_max_observe_eur": 60.0
@@ -184,10 +184,10 @@
       },
       "test": {
         "nombre_trades": 211,
-        "pnl_net_eur": -448.59,
+        "pnl_net_eur": -449.36,
         "pnl_moyen_eur": -2.13,
         "taux_reussite_pct": 36.49,
-        "profit_factor": 0.439,
+        "profit_factor": 0.438,
         "perte_max_trade_eur": -25.53
       },
       "risque_max_observe_eur": 59.99
@@ -205,10 +205,10 @@
       },
       "test": {
         "nombre_trades": 119,
-        "pnl_net_eur": -306.5,
-        "pnl_moyen_eur": -2.58,
+        "pnl_net_eur": -307.63,
+        "pnl_moyen_eur": -2.59,
         "taux_reussite_pct": 35.29,
-        "profit_factor": 0.46,
+        "profit_factor": 0.458,
         "perte_max_trade_eur": -19.5
       },
       "risque_max_observe_eur": 59.99
@@ -226,10 +226,10 @@
       },
       "test": {
         "nombre_trades": 66,
-        "pnl_net_eur": -74.29,
-        "pnl_moyen_eur": -1.13,
+        "pnl_net_eur": -76.03,
+        "pnl_moyen_eur": -1.15,
         "taux_reussite_pct": 39.39,
-        "profit_factor": 0.805,
+        "profit_factor": 0.8,
         "perte_max_trade_eur": -22.13
       },
       "risque_max_observe_eur": 59.98
@@ -249,10 +249,10 @@
   },
   "resultat_test_scenario_selectionne": {
     "nombre_trades": 89,
-    "pnl_net_eur": -239.68,
-    "pnl_moyen_eur": -2.69,
+    "pnl_net_eur": -240.79,
+    "pnl_moyen_eur": -2.71,
     "taux_reussite_pct": 26.97,
-    "profit_factor": 0.665,
+    "profit_factor": 0.663,
     "perte_max_trade_eur": -24.55
   },
   "stress_slippage": [
@@ -268,10 +268,10 @@
       },
       "test": {
         "nombre_trades": 89,
-        "pnl_net_eur": -239.68,
-        "pnl_moyen_eur": -2.69,
+        "pnl_net_eur": -240.79,
+        "pnl_moyen_eur": -2.71,
         "taux_reussite_pct": 26.97,
-        "profit_factor": 0.665,
+        "profit_factor": 0.663,
         "perte_max_trade_eur": -24.55
       }
     },
@@ -287,10 +287,10 @@
       },
       "test": {
         "nombre_trades": 93,
-        "pnl_net_eur": -378.63,
-        "pnl_moyen_eur": -4.07,
+        "pnl_net_eur": -380.96,
+        "pnl_moyen_eur": -4.1,
         "taux_reussite_pct": 27.96,
-        "profit_factor": 0.519,
+        "profit_factor": 0.516,
         "perte_max_trade_eur": -25.88
       }
     },
@@ -306,10 +306,10 @@
       },
       "test": {
         "nombre_trades": 95,
-        "pnl_net_eur": -394.63,
-        "pnl_moyen_eur": -4.15,
+        "pnl_net_eur": -398.02,
+        "pnl_moyen_eur": -4.19,
         "taux_reussite_pct": 29.47,
-        "profit_factor": 0.511,
+        "profit_factor": 0.508,
         "perte_max_trade_eur": -37.48
       }
     }

@@ -1,6 +1,6 @@
 {
   "schema_version": "6.1",
-  "generated_utc": "2026-10-30T15:21:45.525812+00:00",
+  "generated_utc": "2026-10-30T15:47:24.029566+00:00",
   "source": "Yahoo Finance, historiques OHLC ajustes selon ratio Adj Close/Close (approximation)",
   "configuration": {
     "initial_capital_eur": 5000,
@@ -44,26 +44,26 @@
     "metrics": {
       "total": {
         "trades": 275,
-        "win_rate_pct": 36.36,
-        "net_pnl_eur": -365.88,
-        "profit_factor": 0.79,
-        "avg_pnl_eur": -1.33,
+        "win_rate_pct": 36.0,
+        "net_pnl_eur": -367.18,
+        "profit_factor": 0.789,
+        "avg_pnl_eur": -1.34,
         "max_drawdown_pct_mark_to_market": -8.1,
-        "return_pct_on_initial_capital": -7.32,
+        "return_pct_on_initial_capital": -7.34,
         "max_simultaneous_stop_risk_eur": 60.0
       },
       "chronological_test": {
         "trades": 164,
-        "win_rate_pct": 35.98,
-        "net_pnl_eur": -188.81,
-        "profit_factor": 0.813,
-        "avg_pnl_eur": -1.15
+        "win_rate_pct": 35.37,
+        "net_pnl_eur": -190.11,
+        "profit_factor": 0.812,
+        "avg_pnl_eur": -1.16
       }
     },
     "by_strategy": {
       "CASSURE": {
         "trades": 183,
-        "net_pnl_eur": -359.17
+        "net_pnl_eur": -360.47
       },
       "TENDANCE": {
         "trades": 77,
@@ -3332,10 +3332,10 @@
         "exit_date": "2026-10-30",
         "quantity": 1,
         "entry": 344.344,
-        "exit": 347.1525,
+        "exit": 345.654,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 14.0,
-        "pnl_eur": 0.39
+        "pnl_eur": -1.1
       },
       {
         "ticker": "BVI.PA",
@@ -3344,10 +3344,10 @@
         "exit_date": "2026-10-30",
         "quantity": 20,
         "entry": 29.1491,
-        "exit": 29.1508,
+        "exit": 29.1608,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 19.64,
-        "pnl_eur": -4.05
+        "pnl_eur": -3.85
       },
       {
         "ticker": "ERF.PA",
@@ -3356,10 +3356,10 @@
         "exit_date": "2026-10-30",
         "quantity": 1,
         "entry": 82.8828,
-        "exit": 87.8321,
+        "exit": 87.3925,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 3.54,
-        "pnl_eur": 4.35
+        "pnl_eur": 3.91
       },
       {
         "ticker": "RF.PA",
@@ -3368,10 +3368,10 @@
         "exit_date": "2026-10-30",
         "quantity": 8,
         "entry": 47.9479,
-        "exit": 49.1708,
+        "exit": 49.2107,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 15.53,
-        "pnl_eur": 7.06
+        "pnl_eur": 7.38
       },
       {
         "ticker": "AI.PA",
@@ -3380,10 +3380,10 @@
         "exit_date": "2026-10-30",
         "quantity": 1,
         "entry": 179.2591,
-        "exit": 180.8989,
+        "exit": 181.0088,
         "reason": "END_OF_TEST",
         "risk_theoretical_eur": 5.49,
-        "pnl_eur": 0.38
+        "pnl_eur": 0.49
       }
     ],
     "equity_curve": [
@@ -5841,7 +5841,7 @@
       },
       {
         "date": "2026-10-30",
-        "equity_eur": 4634.09
+        "equity_eur": 4632.78
       }
     ]
   },
