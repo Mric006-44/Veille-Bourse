@@ -1,10 +1,10 @@
 {
   "schema_version": "7.3",
-  "genere_utc": "2026-10-30T22:00:48.068071+00:00",
+  "genere_utc": "2026-10-30T22:16:04.967667+00:00",
   "sources": {
-    "v4": "2026-10-30T22:00:46.136796+00:00",
-    "v5": "2026-10-30T22:00:46.147817+00:00",
-    "v63": "2026-10-30T22:00:47.897268+00:00"
+    "v4": "2026-10-30T22:16:03.924272+00:00",
+    "v5": "2026-10-30T22:16:03.931285+00:00",
+    "v63": "2026-10-30T22:16:04.848813+00:00"
   },
   "regles": {
     "max_dossiers": 5,
@@ -566,11 +566,11 @@
         "plus_bas_55j_precedent": 101.3,
         "plus_haut_20j_precedent": 113.8,
         "plus_haut_55j_precedent": 116.3,
-        "volume": 59030,
-        "ratio_volume_20j": 0.5499,
+        "volume": 58643,
+        "ratio_volume_20j": 0.5464,
         "performance_20j_pct": 5.02,
         "force_relative_cac40_20j_pct": 4.11,
-        "valeur_echangee_moyenne20_eur_estimee": 11595902.51
+        "valeur_echangee_moyenne20_eur_estimee": 11593717.9
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -626,11 +626,11 @@
         "plus_bas_55j_precedent": 9.9,
         "plus_haut_20j_precedent": 11.625,
         "plus_haut_55j_precedent": 12.44,
-        "volume": 435138,
-        "ratio_volume_20j": 0.5022,
+        "volume": 440913,
+        "ratio_volume_20j": 0.5087,
         "performance_20j_pct": -8.51,
         "force_relative_cac40_20j_pct": -9.42,
-        "valeur_echangee_moyenne20_eur_estimee": 9164024.82
+        "valeur_echangee_moyenne20_eur_estimee": 9167022.04
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -817,11 +817,11 @@
         "plus_bas_55j_precedent": 53.5,
         "plus_haut_20j_precedent": 56.55,
         "plus_haut_55j_precedent": 62.55,
-        "volume": 183160,
-        "ratio_volume_20j": 0.9577,
+        "volume": 183027,
+        "ratio_volume_20j": 0.957,
         "performance_20j_pct": 4.09,
         "force_relative_cac40_20j_pct": 3.17,
-        "valeur_echangee_moyenne20_eur_estimee": 10552128.99
+        "valeur_echangee_moyenne20_eur_estimee": 10551756.26
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -877,11 +877,11 @@
         "plus_bas_55j_precedent": 14.475,
         "plus_haut_20j_precedent": 16.61,
         "plus_haut_55j_precedent": 17.055,
-        "volume": 1179428,
-        "ratio_volume_20j": 0.8674,
+        "volume": 1180106,
+        "ratio_volume_20j": 0.8679,
         "performance_20j_pct": 4.88,
         "force_relative_cac40_20j_pct": 3.96,
-        "valeur_echangee_moyenne20_eur_estimee": 21779808.11
+        "valeur_echangee_moyenne20_eur_estimee": 21780344.07
       },
       "ttf": {
         "statut": "OUI",
@@ -1009,11 +1009,11 @@
         "plus_bas_55j_precedent": 86.05,
         "plus_haut_20j_precedent": 91.05,
         "plus_haut_55j_precedent": 97.7,
-        "volume": 165912,
-        "ratio_volume_20j": 1.1394,
+        "volume": 164686,
+        "ratio_volume_20j": 1.1315,
         "performance_20j_pct": 2.47,
         "force_relative_cac40_20j_pct": 1.56,
-        "valeur_echangee_moyenne20_eur_estimee": 12917449.64
+        "valeur_echangee_moyenne20_eur_estimee": 12911862.14
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -1626,11 +1626,11 @@
         "plus_bas_55j_precedent": 3.58,
         "plus_haut_20j_precedent": 3.82,
         "plus_haut_55j_precedent": 3.978,
-        "volume": 1228634,
-        "ratio_volume_20j": 0.7482,
+        "volume": 1229758,
+        "ratio_volume_20j": 0.7489,
         "performance_20j_pct": 2.17,
         "force_relative_cac40_20j_pct": 1.25,
-        "valeur_echangee_moyenne20_eur_estimee": 6114176.52
+        "valeur_echangee_moyenne20_eur_estimee": 6114388.4
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -1818,11 +1818,11 @@
         "plus_bas_55j_precedent": 100.35,
         "plus_haut_20j_precedent": 127.2,
         "plus_haut_55j_precedent": 127.2,
-        "volume": 773843,
-        "ratio_volume_20j": 1.1748,
+        "volume": 766626,
+        "ratio_volume_20j": 1.1644,
         "performance_20j_pct": 17.22,
         "force_relative_cac40_20j_pct": 16.3,
-        "valeur_echangee_moyenne20_eur_estimee": 78920200.41
+        "valeur_echangee_moyenne20_eur_estimee": 78874137.91
       },
       "ttf": {
         "statut": "OUI",
@@ -1866,8 +1866,8 @@
         "macd_12_26": -0.0852,
         "macd_signal9": -0.1594,
         "macd_histogramme": 0.0742,
-        "atr14": 0.2296,
-        "atr_pct": 1.57,
+        "atr14": 0.2311,
+        "atr_pct": 1.58,
         "plus_bas_20j_precedent": 13.98,
         "plus_bas_55j_precedent": 13.98,
         "plus_haut_20j_precedent": 14.78,
@@ -1886,7 +1886,7 @@
       "plan_exploratoire": {
         "support_candidat": 14.436,
         "resistance_cible": 14.78,
-        "stop_invalidation_candidat": 14.3901,
+        "stop_invalidation_candidat": 14.3898,
         "quantite_theorique": null
       },
       "raisons_rejet_et_reserves": [
@@ -1932,11 +1932,11 @@
         "plus_bas_55j_precedent": 2.98,
         "plus_haut_20j_precedent": 3.478,
         "plus_haut_55j_precedent": 4.11,
-        "volume": 299873,
-        "ratio_volume_20j": 0.788,
+        "volume": 291631,
+        "ratio_volume_20j": 0.7672,
         "performance_20j_pct": -0.68,
         "force_relative_cac40_20j_pct": -1.6,
-        "valeur_echangee_moyenne20_eur_estimee": 1241913.29
+        "valeur_echangee_moyenne20_eur_estimee": 1240596.22
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -2053,11 +2053,11 @@
         "plus_bas_55j_precedent": 42.36,
         "plus_haut_20j_precedent": 44.46,
         "plus_haut_55j_precedent": 52.7,
-        "volume": 125931,
-        "ratio_volume_20j": 0.9121,
+        "volume": 124436,
+        "ratio_volume_20j": 0.9018,
         "performance_20j_pct": 1.24,
         "force_relative_cac40_20j_pct": 0.33,
-        "valeur_echangee_moyenne20_eur_estimee": 6014084.2
+        "valeur_echangee_moyenne20_eur_estimee": 6010799.69
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -2105,11 +2105,11 @@
         "mm50": 43.1202,
         "mm200": 41.6253,
         "rsi14": 49.18,
-        "adx14": 15.79,
+        "adx14": 15.75,
         "macd_12_26": -0.162,
         "macd_signal9": -0.2491,
         "macd_histogramme": 0.0871,
-        "atr14": 0.7157,
+        "atr14": 0.7136,
         "atr_pct": 1.68,
         "plus_bas_20j_precedent": 41.19,
         "plus_bas_55j_precedent": 41.19,
@@ -2130,13 +2130,13 @@
         "prix_signal_non_executable": 42.6,
         "support_candidat": 42.3445,
         "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
-        "stop_invalidation_candidat": 42.2014,
+        "stop_invalidation_candidat": 42.2018,
         "resistance_cible": 43.42,
         "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
-        "atr14": 0.7157,
+        "atr14": 0.7136,
         "ratio_gain_risque_net_estime": 0.28,
         "quantite_theorique_max": 21,
-        "risque_total_eur_estime": 19.97,
+        "risque_total_eur_estime": 19.96,
         "gain_potentiel_eur_estime": 5.51,
         "capital_avec_frais_et_ttf_eur_estime": 902.21,
         "courtages_aller_retour_eur_estimes": 6.32,
@@ -2186,11 +2186,11 @@
         "plus_bas_55j_precedent": 7.485,
         "plus_haut_20j_precedent": 8.2,
         "plus_haut_55j_precedent": 9.58,
-        "volume": 74556,
-        "ratio_volume_20j": 0.6064,
+        "volume": 74950,
+        "ratio_volume_20j": 0.6095,
         "performance_20j_pct": -0.44,
         "force_relative_cac40_20j_pct": -1.35,
-        "valeur_echangee_moyenne20_eur_estimee": 959746.1
+        "valeur_echangee_moyenne20_eur_estimee": 959902.22
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -2242,7 +2242,7 @@
         "macd_12_26": -0.0608,
         "macd_signal9": -0.0938,
         "macd_histogramme": 0.033,
-        "atr14": 0.1102,
+        "atr14": 0.1101,
         "atr_pct": 6.48,
         "plus_bas_20j_precedent": 1.534,
         "plus_bas_55j_precedent": 1.534,
@@ -2509,11 +2509,11 @@
         "plus_bas_55j_precedent": 19.895,
         "plus_haut_20j_precedent": 25.15,
         "plus_haut_55j_precedent": 25.15,
-        "volume": 2359508,
-        "ratio_volume_20j": 1.2516,
+        "volume": 2390541,
+        "ratio_volume_20j": 1.267,
         "performance_20j_pct": 22.44,
         "force_relative_cac40_20j_pct": 21.53,
-        "valeur_echangee_moyenne20_eur_estimee": 43898922.31
+        "valeur_echangee_moyenne20_eur_estimee": 43938116.99
       },
       "ttf": {
         "statut": "OUI",
@@ -2633,11 +2633,11 @@
         "plus_bas_55j_precedent": 138.3,
         "plus_haut_20j_precedent": 182.95,
         "plus_haut_55j_precedent": 182.95,
-        "volume": 1086858,
-        "ratio_volume_20j": 1.1843,
+        "volume": 1087058,
+        "ratio_volume_20j": 1.1845,
         "performance_20j_pct": 29.06,
         "force_relative_cac40_20j_pct": 28.15,
-        "valeur_echangee_moyenne20_eur_estimee": 150834776.04
+        "valeur_echangee_moyenne20_eur_estimee": 150836619.04
       },
       "ttf": {
         "statut": "OUI",
@@ -3130,11 +3130,11 @@
         "plus_bas_55j_precedent": 1.3535,
         "plus_haut_20j_precedent": 2.09,
         "plus_haut_55j_precedent": 2.257,
-        "volume": 4012920,
+        "volume": 4013220,
         "ratio_volume_20j": 1.1545,
         "performance_20j_pct": 18.34,
         "force_relative_cac40_20j_pct": 17.43,
-        "valeur_echangee_moyenne20_eur_estimee": 5943478.46
+        "valeur_echangee_moyenne20_eur_estimee": 5943505.46
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -3244,12 +3244,12 @@
         "mm50": 58.19,
         "mm200": 60.2725,
         "rsi14": 46.24,
-        "adx14": 9.15,
+        "adx14": 9.18,
         "macd_12_26": -0.3396,
         "macd_signal9": -0.294,
         "macd_histogramme": -0.0455,
-        "atr14": 2.3339,
-        "atr_pct": 4.1,
+        "atr14": 2.3375,
+        "atr_pct": 4.11,
         "plus_bas_20j_precedent": 54.25,
         "plus_bas_55j_precedent": 53.95,
         "plus_haut_20j_precedent": 61.65,
@@ -3268,7 +3268,7 @@
       "plan_exploratoire": {
         "support_candidat": 54.25,
         "resistance_cible": 61.65,
-        "stop_invalidation_candidat": 53.7832,
+        "stop_invalidation_candidat": 53.7825,
         "quantite_theorique": null
       },
       "raisons_rejet_et_reserves": [
@@ -3374,11 +3374,11 @@
         "plus_bas_55j_precedent": 11.15,
         "plus_haut_20j_precedent": 15.67,
         "plus_haut_55j_precedent": 15.67,
-        "volume": 1414095,
-        "ratio_volume_20j": 1.52,
+        "volume": 1359465,
+        "ratio_volume_20j": 1.4656,
         "performance_20j_pct": -20.89,
         "force_relative_cac40_20j_pct": -21.81,
-        "valeur_echangee_moyenne20_eur_estimee": 11890409.95
+        "valeur_echangee_moyenne20_eur_estimee": 11859953.73
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -3418,12 +3418,12 @@
         "mm50": 8.9824,
         "mm200": 10.1841,
         "rsi14": 43.65,
-        "adx14": 9.23,
+        "adx14": 9.2,
         "macd_12_26": -0.1569,
         "macd_signal9": -0.1382,
         "macd_histogramme": -0.0187,
-        "atr14": 0.407,
-        "atr_pct": 4.85,
+        "atr14": 0.4063,
+        "atr_pct": 4.84,
         "plus_bas_20j_precedent": 8.012,
         "plus_bas_55j_precedent": 8.012,
         "plus_haut_20j_precedent": 10.58,
@@ -3442,7 +3442,7 @@
       "plan_exploratoire": {
         "support_candidat": 8.012,
         "resistance_cible": 10.58,
-        "stop_invalidation_candidat": 7.9306,
+        "stop_invalidation_candidat": 7.9307,
         "quantite_theorique": null
       },
       "raisons_rejet_et_reserves": [
@@ -3810,11 +3810,11 @@
         "plus_bas_55j_precedent": 14.21,
         "plus_haut_20j_precedent": 15.49,
         "plus_haut_55j_precedent": 19.33,
-        "volume": 68571,
-        "ratio_volume_20j": 0.6265,
+        "volume": 67384,
+        "ratio_volume_20j": 0.616,
         "performance_20j_pct": -2.13,
         "force_relative_cac40_20j_pct": -3.05,
-        "valeur_echangee_moyenne20_eur_estimee": 1611306.06
+        "valeur_echangee_moyenne20_eur_estimee": 1610434.8
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -4052,11 +4052,11 @@
         "plus_bas_55j_precedent": 24.42,
         "plus_haut_20j_precedent": 35.1,
         "plus_haut_55j_precedent": 35.1,
-        "volume": 53209,
-        "ratio_volume_20j": 0.7669,
+        "volume": 52504,
+        "ratio_volume_20j": 0.7571,
         "performance_20j_pct": 16.42,
         "force_relative_cac40_20j_pct": 15.51,
-        "valeur_echangee_moyenne20_eur_estimee": 2266955.93
+        "valeur_echangee_moyenne20_eur_estimee": 2265736.28
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -4182,11 +4182,11 @@
         "plus_bas_55j_precedent": 34.12,
         "plus_haut_20j_precedent": 35.96,
         "plus_haut_55j_precedent": 39.42,
-        "volume": 952309,
-        "ratio_volume_20j": 1.6012,
+        "volume": 951755,
+        "ratio_volume_20j": 1.6004,
         "performance_20j_pct": 2.38,
         "force_relative_cac40_20j_pct": 1.47,
-        "valeur_echangee_moyenne20_eur_estimee": 20922077.24
+        "valeur_echangee_moyenne20_eur_estimee": 20921101.1
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -4637,11 +4637,11 @@
         "plus_bas_55j_precedent": 17.66,
         "plus_haut_20j_precedent": 18.68,
         "plus_haut_55j_precedent": 19.34,
-        "volume": 8159,
-        "ratio_volume_20j": 0.8111,
+        "volume": 8266,
+        "ratio_volume_20j": 0.8213,
         "performance_20j_pct": 1.11,
         "force_relative_cac40_20j_pct": 0.2,
-        "valeur_echangee_moyenne20_eur_estimee": 183238.28
+        "valeur_echangee_moyenne20_eur_estimee": 183335.65
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -4765,11 +4765,11 @@
         "plus_bas_55j_precedent": 34.76,
         "plus_haut_20j_precedent": 43.96,
         "plus_haut_55j_precedent": 43.96,
-        "volume": 82157,
-        "ratio_volume_20j": 1.9529,
+        "volume": 81301,
+        "ratio_volume_20j": 1.9345,
         "performance_20j_pct": -7.84,
         "force_relative_cac40_20j_pct": -8.76,
-        "valeur_echangee_moyenne20_eur_estimee": 1681617.45
+        "valeur_echangee_moyenne20_eur_estimee": 1679937.12
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -4889,12 +4889,12 @@
         "mm50": 28.2252,
         "mm200": 29.2669,
         "rsi14": 57.11,
-        "adx14": 34.83,
+        "adx14": 34.85,
         "macd_12_26": 0.5607,
         "macd_signal9": -0.7324,
         "macd_histogramme": 1.2931,
-        "atr14": 2.1065,
-        "atr_pct": 7.49,
+        "atr14": 2.1037,
+        "atr_pct": 7.48,
         "plus_bas_20j_precedent": 18.46,
         "plus_bas_55j_precedent": 18.46,
         "plus_haut_20j_precedent": 31.32,
@@ -4913,7 +4913,7 @@
       "plan_exploratoire": {
         "support_candidat": 23.56,
         "resistance_cible": 31.32,
-        "stop_invalidation_candidat": 23.1387,
+        "stop_invalidation_candidat": 23.1393,
         "quantite_theorique": null
       },
       "raisons_rejet_et_reserves": [
@@ -5022,11 +5022,11 @@
         "plus_bas_55j_precedent": 21.12,
         "plus_haut_20j_precedent": 22.7,
         "plus_haut_55j_precedent": 25.3,
-        "volume": 374980,
-        "ratio_volume_20j": 5.833,
+        "volume": 385149,
+        "ratio_volume_20j": 5.9442,
         "performance_20j_pct": 12.92,
         "force_relative_cac40_20j_pct": 12.01,
-        "valeur_echangee_moyenne20_eur_estimee": 1479789.36
+        "valeur_echangee_moyenne20_eur_estimee": 1492673.48
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -5475,11 +5475,11 @@
         "plus_bas_55j_precedent": 44.34,
         "plus_haut_20j_precedent": 49.24,
         "plus_haut_55j_precedent": 52.65,
-        "volume": 40074,
-        "ratio_volume_20j": 0.6623,
+        "volume": 39984,
+        "ratio_volume_20j": 0.6608,
         "performance_20j_pct": 10.45,
         "force_relative_cac40_20j_pct": 9.53,
-        "valeur_echangee_moyenne20_eur_estimee": 2806006.67
+        "valeur_echangee_moyenne20_eur_estimee": 2805784.01
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -5539,11 +5539,11 @@
         "plus_bas_55j_precedent": 57.86,
         "plus_haut_20j_precedent": 68.72,
         "plus_haut_55j_precedent": 69.2,
-        "volume": 778932,
-        "ratio_volume_20j": 0.9871,
+        "volume": 778182,
+        "ratio_volume_20j": 0.9862,
         "performance_20j_pct": 15.46,
         "force_relative_cac40_20j_pct": 14.54,
-        "valeur_echangee_moyenne20_eur_estimee": 51585831.23
+        "valeur_echangee_moyenne20_eur_estimee": 51583293.23
       },
       "ttf": {
         "statut": "OUI",
@@ -5817,11 +5817,11 @@
         "plus_bas_55j_precedent": 31.49,
         "plus_haut_20j_precedent": 35.91,
         "plus_haut_55j_precedent": 38.25,
-        "volume": 816859,
-        "ratio_volume_20j": 1.1321,
+        "volume": 822000,
+        "ratio_volume_20j": 1.1388,
         "performance_20j_pct": -2.57,
         "force_relative_cac40_20j_pct": -3.49,
-        "valeur_echangee_moyenne20_eur_estimee": 24197385.15
+        "valeur_echangee_moyenne20_eur_estimee": 24206245.67
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -5949,11 +5949,11 @@
         "plus_bas_55j_precedent": 69.75,
         "plus_haut_20j_precedent": 76.66,
         "plus_haut_55j_precedent": 79.36,
-        "volume": 8148069,
-        "ratio_volume_20j": 3.3633,
+        "volume": 8148311,
+        "ratio_volume_20j": 3.3634,
         "performance_20j_pct": 12.61,
         "force_relative_cac40_20j_pct": 11.7,
-        "valeur_echangee_moyenne20_eur_estimee": 179186776.46
+        "valeur_echangee_moyenne20_eur_estimee": 179187741.31
       },
       "ttf": {
         "statut": "OUI",
@@ -6138,11 +6138,11 @@
         "plus_bas_55j_precedent": 3.53,
         "plus_haut_20j_precedent": 4.418,
         "plus_haut_55j_precedent": 5.51,
-        "volume": 611977,
+        "volume": 611980,
         "ratio_volume_20j": 0.6209,
         "performance_20j_pct": 0.43,
         "force_relative_cac40_20j_pct": -0.48,
-        "valeur_echangee_moyenne20_eur_estimee": 3958613.25
+        "valeur_echangee_moyenne20_eur_estimee": 3958613.88
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -6198,11 +6198,11 @@
         "plus_bas_55j_precedent": 63.52,
         "plus_haut_20j_precedent": 68.52,
         "plus_haut_55j_precedent": 84.84,
-        "volume": 1106254,
-        "ratio_volume_20j": 1.0308,
+        "volume": 1102970,
+        "ratio_volume_20j": 1.0279,
         "performance_20j_pct": 1.16,
         "force_relative_cac40_20j_pct": 0.25,
-        "valeur_echangee_moyenne20_eur_estimee": 71330517.64
+        "valeur_echangee_moyenne20_eur_estimee": 71319371.74
       },
       "ttf": {
         "statut": "OUI",
@@ -6269,11 +6269,11 @@
         "plus_bas_55j_precedent": 51.85,
         "plus_haut_20j_precedent": 58.35,
         "plus_haut_55j_precedent": 60.8,
-        "volume": 62695,
-        "ratio_volume_20j": 1.4077,
+        "volume": 62507,
+        "ratio_volume_20j": 1.4038,
         "performance_20j_pct": 0.75,
         "force_relative_cac40_20j_pct": -0.17,
-        "valeur_echangee_moyenne20_eur_estimee": 2444698.77
+        "valeur_echangee_moyenne20_eur_estimee": 2444192.11
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -6439,21 +6439,21 @@
         "mm50": 170.97,
         "mm200": 149.408,
         "rsi14": 71.83,
-        "adx14": 39.81,
+        "adx14": 39.82,
         "macd_12_26": 5.6498,
         "macd_signal9": 4.2307,
         "macd_histogramme": 1.4191,
-        "atr14": 5.3119,
+        "atr14": 5.3191,
         "atr_pct": 2.78,
         "plus_bas_20j_precedent": 161.2,
         "plus_bas_55j_precedent": 154.9,
         "plus_haut_20j_precedent": 191.5,
         "plus_haut_55j_precedent": 191.5,
-        "volume": 68878,
-        "ratio_volume_20j": 1.7072,
+        "volume": 68541,
+        "ratio_volume_20j": 1.6996,
         "performance_20j_pct": 17.02,
         "force_relative_cac40_20j_pct": 16.11,
-        "valeur_echangee_moyenne20_eur_estimee": 7202271.47
+        "valeur_echangee_moyenne20_eur_estimee": 7199051.44
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -6463,7 +6463,7 @@
       "plan_exploratoire": {
         "support_candidat": 177.05,
         "resistance_cible": 191.5,
-        "stop_invalidation_candidat": 175.9876,
+        "stop_invalidation_candidat": 175.9862,
         "quantite_theorique": null
       },
       "raisons_rejet_et_reserves": [
@@ -6642,11 +6642,11 @@
         "plus_bas_55j_precedent": 38.61,
         "plus_haut_20j_precedent": 52.41,
         "plus_haut_55j_precedent": 52.41,
-        "volume": 2865560,
-        "ratio_volume_20j": 1.2612,
+        "volume": 2878699,
+        "ratio_volume_20j": 1.2666,
         "performance_20j_pct": -16.81,
         "force_relative_cac40_20j_pct": -17.72,
-        "valeur_echangee_moyenne20_eur_estimee": 99373443.43
+        "valeur_echangee_moyenne20_eur_estimee": 99400956.5
       },
       "ttf": {
         "statut": "NON",
@@ -6784,11 +6784,11 @@
         "plus_bas_55j_precedent": 53.45,
         "plus_haut_20j_precedent": 60.65,
         "plus_haut_55j_precedent": 60.65,
-        "volume": 333609,
-        "ratio_volume_20j": 0.999,
+        "volume": 332189,
+        "ratio_volume_20j": 0.9949,
         "performance_20j_pct": 8.72,
         "force_relative_cac40_20j_pct": 7.81,
-        "valeur_echangee_moyenne20_eur_estimee": 19033825.37
+        "valeur_echangee_moyenne20_eur_estimee": 19029664.77
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -6977,11 +6977,11 @@
         "plus_bas_55j_precedent": 5.705,
         "plus_haut_20j_precedent": 6.085,
         "plus_haut_55j_precedent": 7.1,
-        "volume": 405618,
-        "ratio_volume_20j": 1.3253,
+        "volume": 407976,
+        "ratio_volume_20j": 1.3325,
         "performance_20j_pct": -0.58,
         "force_relative_cac40_20j_pct": -1.5,
-        "valeur_echangee_moyenne20_eur_estimee": 1801319.38
+        "valeur_echangee_moyenne20_eur_estimee": 1802022.06
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7037,11 +7037,11 @@
         "plus_bas_55j_precedent": 122.1,
         "plus_haut_20j_precedent": 130.8,
         "plus_haut_55j_precedent": 158.8,
-        "volume": 15608,
-        "ratio_volume_20j": 0.7824,
+        "volume": 15435,
+        "ratio_volume_20j": 0.7741,
         "performance_20j_pct": 1.92,
         "force_relative_cac40_20j_pct": 1.0,
-        "valeur_echangee_moyenne20_eur_estimee": 2522852.2
+        "valeur_echangee_moyenne20_eur_estimee": 2521748.46
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7357,11 +7357,11 @@
         "plus_bas_55j_precedent": 30.06,
         "plus_haut_20j_precedent": 33.09,
         "plus_haut_55j_precedent": 34.59,
-        "volume": 1253084,
-        "ratio_volume_20j": 0.7184,
+        "volume": 1252120,
+        "ratio_volume_20j": 0.7179,
         "performance_20j_pct": 7.42,
         "force_relative_cac40_20j_pct": 6.5,
-        "valeur_echangee_moyenne20_eur_estimee": 55643797.46
+        "valeur_echangee_moyenne20_eur_estimee": 55642206.37
       },
       "ttf": {
         "statut": "OUI",
@@ -7430,11 +7430,11 @@
         "plus_bas_55j_precedent": 81.7,
         "plus_haut_20j_precedent": 103.3,
         "plus_haut_55j_precedent": 103.3,
-        "volume": 25880,
-        "ratio_volume_20j": 0.9639,
+        "volume": 26436,
+        "ratio_volume_20j": 0.9836,
         "performance_20j_pct": 10.87,
         "force_relative_cac40_20j_pct": 9.96,
-        "valeur_echangee_moyenne20_eur_estimee": 2436078.42
+        "valeur_echangee_moyenne20_eur_estimee": 2438686.06
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7552,11 +7552,11 @@
         "plus_bas_55j_precedent": 1.397,
         "plus_haut_20j_precedent": 1.5935,
         "plus_haut_55j_precedent": 1.704,
-        "volume": 5534897,
-        "ratio_volume_20j": 2.7775,
+        "volume": 5563414,
+        "ratio_volume_20j": 2.7898,
         "performance_20j_pct": 14.42,
         "force_relative_cac40_20j_pct": 13.5,
-        "valeur_echangee_moyenne20_eur_estimee": 3038986.0
+        "valeur_echangee_moyenne20_eur_estimee": 3041305.85
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7737,11 +7737,11 @@
         "plus_bas_55j_precedent": 3.73,
         "plus_haut_20j_precedent": 4.895,
         "plus_haut_55j_precedent": 7.29,
-        "volume": 181763,
-        "ratio_volume_20j": 0.9621,
+        "volume": 180636,
+        "ratio_volume_20j": 0.9564,
         "performance_20j_pct": -15.58,
         "force_relative_cac40_20j_pct": -16.5,
-        "valeur_echangee_moyenne20_eur_estimee": 830735.71
+        "valeur_echangee_moyenne20_eur_estimee": 830523.55
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7799,11 +7799,11 @@
         "plus_bas_55j_precedent": 16.14,
         "plus_haut_20j_precedent": 19.0,
         "plus_haut_55j_precedent": 19.82,
-        "volume": 25708,
-        "ratio_volume_20j": 0.6529,
+        "volume": 25524,
+        "ratio_volume_20j": 0.6484,
         "performance_20j_pct": 7.82,
         "force_relative_cac40_20j_pct": 6.91,
-        "valeur_echangee_moyenne20_eur_estimee": 708119.95
+        "valeur_echangee_moyenne20_eur_estimee": 707957.66
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7863,11 +7863,11 @@
         "plus_bas_55j_precedent": 114.6,
         "plus_haut_20j_precedent": 140.6,
         "plus_haut_55j_precedent": 140.6,
-        "volume": 45833,
-        "ratio_volume_20j": 1.1046,
+        "volume": 45746,
+        "ratio_volume_20j": 1.1026,
         "performance_20j_pct": 4.33,
         "force_relative_cac40_20j_pct": 3.42,
-        "valeur_echangee_moyenne20_eur_estimee": 5211072.29
+        "valeur_echangee_moyenne20_eur_estimee": 5210485.91
       },
       "ttf": {
         "statut": "A_VERIFIER",
@@ -7924,11 +7924,11 @@
         "plus_bas_55j_precedent": 10.07,
         "plus_haut_20j_precedent": 12.198,
         "plus_haut_55j_precedent": 14.978,
-        "volume": 547166,
-        "ratio_volume_20j": 1.4004,
+        "volume": 538111,
+        "ratio_volume_20j": 1.3788,
         "performance_20j_pct": -5.96,
         "force_relative_cac40_20j_pct": -6.87,
-        "valeur_echangee_moyenne20_eur_estimee": 4150737.66
+        "valeur_echangee_moyenne20_eur_estimee": 4146278.98
       },
       "ttf": {
         "statut": "A_VERIFIER",

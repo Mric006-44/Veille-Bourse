@@ -1,8 +1,8 @@
 {
   "schema_version": "9.1",
-  "genere_utc": "2026-10-30T22:01:40.986089+00:00",
-  "source_v86": "2026-10-30T22:01:40.823602+00:00",
-  "source_catalyseurs": "2026-10-30T22:01:40.939284+00:00",
+  "genere_utc": "2026-10-30T22:18:32.389233+00:00",
+  "source_v86": "2026-10-30T22:18:32.289104+00:00",
+  "source_catalyseurs": "2026-10-30T22:18:32.360436+00:00",
   "top_5_global": [
     {
       "ticker": "IPN.PA",
@@ -81,7 +81,7 @@
       "secteur": "Technology",
       "score_v86_100": 88.21,
       "valorisation": {
-        "per_previsionnel": 9.572801,
+        "per_previsionnel": 9.651344,
         "ev_ebitda": 8.699,
         "fcf_yield_pct": 11.47,
         "roic_pct": 12.41,
@@ -94,7 +94,7 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 191.5,
-      "stop_candidat": 175.9876,
+      "stop_candidat": 175.9862,
       "ratio_gain_risque_brut_informatif": 0.03,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
@@ -149,25 +149,25 @@
       "achat_autorise": false
     },
     {
-      "ticker": "ITP.PA",
-      "secteur": "Consumer Defensive",
-      "score_v86_100": 84.5,
+      "ticker": "PUB.PA",
+      "secteur": "Communication Services",
+      "score_v86_100": 87.26,
       "valorisation": {
-        "per_previsionnel": 23.579762,
-        "ev_ebitda": 19.947,
-        "fcf_yield_pct": 4.32,
-        "roic_pct": 19.62,
-        "per_percentile_sectoriel": 31.2,
+        "per_previsionnel": 11.717192,
+        "ev_ebitda": 9.675,
+        "fcf_yield_pct": 8.07,
+        "roic_pct": 14.88,
+        "per_percentile_sectoriel": 81.2,
         "roic_percentile_sectoriel": 93.8,
-        "nb_comparables": 8,
-        "interpretation": "VALORISATION_INTERMEDIAIRE",
+        "nb_comparables": 10,
+        "interpretation": "DECOTE_RELATIVE_INDICATIVE",
         "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
       },
       "catalyseurs": [],
       "catalyseur_documente": false,
-      "objectif_unique_indicatif": 35.1,
-      "stop_candidat": 32.3935,
-      "ratio_gain_risque_brut_informatif": 0.23,
+      "objectif_unique_indicatif": 105.2,
+      "stop_candidat": 96.9237,
+      "ratio_gain_risque_brut_informatif": 1.57,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -176,10 +176,10 @@
         "PAS_DE_SOURCE_INDEPENDANTE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE"
+        "SPREAD_NON_VERIFIE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false
@@ -265,7 +265,7 @@
       "secteur": "Technology",
       "score_v86_100": 88.21,
       "valorisation": {
-        "per_previsionnel": 9.572801,
+        "per_previsionnel": 9.651344,
         "ev_ebitda": 8.699,
         "fcf_yield_pct": 11.47,
         "roic_pct": 12.41,
@@ -278,7 +278,7 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 191.5,
-      "stop_candidat": 175.9876,
+      "stop_candidat": 175.9862,
       "ratio_gain_risque_brut_informatif": 0.03,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
@@ -333,25 +333,25 @@
       "achat_autorise": false
     },
     {
-      "ticker": "ITP.PA",
-      "secteur": "Consumer Defensive",
-      "score_v86_100": 84.5,
+      "ticker": "PUB.PA",
+      "secteur": "Communication Services",
+      "score_v86_100": 87.26,
       "valorisation": {
-        "per_previsionnel": 23.579762,
-        "ev_ebitda": 19.947,
-        "fcf_yield_pct": 4.32,
-        "roic_pct": 19.62,
-        "per_percentile_sectoriel": 31.2,
+        "per_previsionnel": 11.717192,
+        "ev_ebitda": 9.675,
+        "fcf_yield_pct": 8.07,
+        "roic_pct": 14.88,
+        "per_percentile_sectoriel": 81.2,
         "roic_percentile_sectoriel": 93.8,
-        "nb_comparables": 8,
-        "interpretation": "VALORISATION_INTERMEDIAIRE",
+        "nb_comparables": 10,
+        "interpretation": "DECOTE_RELATIVE_INDICATIVE",
         "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
       },
       "catalyseurs": [],
       "catalyseur_documente": false,
-      "objectif_unique_indicatif": 35.1,
-      "stop_candidat": 32.3935,
-      "ratio_gain_risque_brut_informatif": 0.23,
+      "objectif_unique_indicatif": 105.2,
+      "stop_candidat": 96.9237,
+      "ratio_gain_risque_brut_informatif": 1.57,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -360,10 +360,10 @@
         "PAS_DE_SOURCE_INDEPENDANTE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE"
+        "SPREAD_NON_VERIFIE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false

@@ -1,8 +1,8 @@
 {
   "schema_version": "8.3",
-  "genere_utc": "2026-10-30T22:01:40.685071+00:00",
-  "date_source_technique": "2026-10-30T22:00:46.136796+00:00",
-  "date_source_fondamentale": "2026-10-30T22:01:39.679892+00:00",
+  "genere_utc": "2026-10-30T22:17:06.797102+00:00",
+  "date_source_technique": "2026-10-30T22:16:03.924272+00:00",
+  "date_source_fondamentale": "2026-10-30T22:17:06.186436+00:00",
   "source": "Yahoo Finance/yfinance source unique; comptes non audites; cours non ajustes",
   "univers_analyse": 120,
   "univers_admissible_recherche": 99,
@@ -25,9 +25,9 @@
         "mm200": 19.9597,
         "atr14": 0.7489,
         "close": 25.26,
-        "ratio_volume_20j": 1.2516,
+        "ratio_volume_20j": 1.267,
         "plus_haut_20j_precedent": 25.15,
-        "valeur_echangee_moyenne20_eur_estimee": 43898922.31,
+        "valeur_echangee_moyenne20_eur_estimee": 43938116.99,
         "performance_126j_pct": 27.16,
         "performance_252j_pct": 5.07,
         "volatilite_20j_pct": 32.68,
@@ -48,7 +48,7 @@
         "marge_operationnelle_pct": 23.53,
         "roe_pct": 14.9,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:53.832802+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:11.803944+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -192,7 +192,7 @@
         "marge_operationnelle_pct": 28.49,
         "roe_pct": 11.44,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:22.178493+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:45.675040+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -318,9 +318,9 @@
         "mm200": 84.5552,
         "atr14": 1.7385,
         "close": 91.15,
-        "ratio_volume_20j": 1.1394,
+        "ratio_volume_20j": 1.1315,
         "plus_haut_20j_precedent": 91.05,
-        "valeur_echangee_moyenne20_eur_estimee": 12917449.64,
+        "valeur_echangee_moyenne20_eur_estimee": 12911862.14,
         "performance_126j_pct": 7.74,
         "performance_252j_pct": 41.54,
         "volatilite_20j_pct": 17.64,
@@ -335,13 +335,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 11.245174,
+        "per_previsionnel": 11.351338,
         "ev_ebitda": null,
         "croissance_ca_pct": 11.4,
         "marge_operationnelle_pct": 48.57,
         "roe_pct": null,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:08.280133+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:28.765320+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -484,13 +484,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 19.14732,
+        "per_previsionnel": 19.158289,
         "ev_ebitda": 17.092,
         "croissance_ca_pct": 16.7,
         "marge_operationnelle_pct": 58.44,
         "roe_pct": 16.73,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:16.579472+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:39.081912+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -639,7 +639,7 @@
         "marge_operationnelle_pct": 18.09,
         "roe_pct": 13.61,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:36.474241+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:02.406744+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -791,7 +791,7 @@
           "marge_operationnelle_pct": 28.49,
           "roe_pct": 11.44,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:22.178493+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:45.675040+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -918,9 +918,9 @@
           "mm200": 84.5552,
           "atr14": 1.7385,
           "close": 91.15,
-          "ratio_volume_20j": 1.1394,
+          "ratio_volume_20j": 1.1315,
           "plus_haut_20j_precedent": 91.05,
-          "valeur_echangee_moyenne20_eur_estimee": 12917449.64,
+          "valeur_echangee_moyenne20_eur_estimee": 12911862.14,
           "performance_126j_pct": 7.74,
           "performance_252j_pct": 41.54,
           "volatilite_20j_pct": 17.64,
@@ -935,13 +935,13 @@
           "roic_pct": null,
           "piotroski_f_score": null,
           "altman_z_score": null,
-          "per_previsionnel": 11.245174,
+          "per_previsionnel": 11.351338,
           "ev_ebitda": null,
           "croissance_ca_pct": 11.4,
           "marge_operationnelle_pct": 48.57,
           "roe_pct": null,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:08.280133+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:28.765320+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1091,7 +1091,7 @@
           "marge_operationnelle_pct": 7.7,
           "roe_pct": 15.74,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:07.860589+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:28.221974+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1218,9 +1218,9 @@
           "mm200": 50.1562,
           "atr14": 1.1897,
           "close": 58.6,
-          "ratio_volume_20j": 0.999,
+          "ratio_volume_20j": 0.9949,
           "plus_haut_20j_precedent": 60.65,
-          "valeur_echangee_moyenne20_eur_estimee": 19033825.37,
+          "valeur_echangee_moyenne20_eur_estimee": 19029664.77,
           "performance_126j_pct": 36.09,
           "performance_252j_pct": 23.47,
           "volatilite_20j_pct": 25.75,
@@ -1241,7 +1241,7 @@
           "marge_operationnelle_pct": 2.9,
           "roe_pct": 8.0,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:33.347441+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:58.610037+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1391,7 +1391,7 @@
           "marge_operationnelle_pct": 19.83,
           "roe_pct": 7.69,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:15.295824+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:37.631309+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1543,7 +1543,7 @@
           "marge_operationnelle_pct": 12.51,
           "roe_pct": 14.16,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:00:58.519223+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:17.192968+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1705,7 +1705,7 @@
           "marge_operationnelle_pct": 11.19,
           "roe_pct": 16.32,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:05.320534+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:25.222680+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1867,7 +1867,7 @@
           "marge_operationnelle_pct": 14.24,
           "roe_pct": 15.82,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:37.325715+00:00",
+          "date_collecte_utc": "2026-10-30T22:17:03.462349+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -1992,7 +1992,7 @@
           "mm20": 14.436,
           "mm50": 14.9472,
           "mm200": 16.3776,
-          "atr14": 0.2296,
+          "atr14": 0.2311,
           "close": 14.66,
           "ratio_volume_20j": 1.0416,
           "plus_haut_20j_precedent": 14.78,
@@ -2017,7 +2017,7 @@
           "marge_operationnelle_pct": 59.35,
           "roe_pct": 8.7,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:12.343048+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:34.053322+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -2109,7 +2109,7 @@
         "plan_exploratoire_v73": {
           "support_candidat": 14.436,
           "resistance_cible": 14.78,
-          "stop_invalidation_candidat": 14.3901,
+          "stop_invalidation_candidat": 14.3898,
           "quantite_theorique": null
         },
         "blocages_achat": [
@@ -2167,7 +2167,7 @@
           "marge_operationnelle_pct": 9.57,
           "roe_pct": 10.16,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:35.593379+00:00",
+          "date_collecte_utc": "2026-10-30T22:17:01.358900+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -2296,9 +2296,9 @@
           "mm200": 19.9597,
           "atr14": 0.7489,
           "close": 25.26,
-          "ratio_volume_20j": 1.2516,
+          "ratio_volume_20j": 1.267,
           "plus_haut_20j_precedent": 25.15,
-          "valeur_echangee_moyenne20_eur_estimee": 43898922.31,
+          "valeur_echangee_moyenne20_eur_estimee": 43938116.99,
           "performance_126j_pct": 27.16,
           "performance_252j_pct": 5.07,
           "volatilite_20j_pct": 32.68,
@@ -2319,7 +2319,7 @@
           "marge_operationnelle_pct": 23.53,
           "roe_pct": 14.9,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:00:53.832802+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:11.803944+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -2459,12 +2459,12 @@
           "piotroski_f_score": null,
           "altman_z_score": null,
           "per_previsionnel": 10.666124,
-          "ev_ebitda": 6.083,
+          "ev_ebitda": 6.131,
           "croissance_ca_pct": 4.9,
           "marge_operationnelle_pct": 12.58,
           "roe_pct": 10.72,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:15.723980+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:38.127286+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -2614,7 +2614,7 @@
           "marge_operationnelle_pct": 20.11,
           "roe_pct": 13.97,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:00:49.207839+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:06.240086+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -2759,7 +2759,7 @@
           "marge_operationnelle_pct": 28.49,
           "roe_pct": 11.44,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:22.178493+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:45.675040+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -2886,9 +2886,9 @@
           "mm200": 84.5552,
           "atr14": 1.7385,
           "close": 91.15,
-          "ratio_volume_20j": 1.1394,
+          "ratio_volume_20j": 1.1315,
           "plus_haut_20j_precedent": 91.05,
-          "valeur_echangee_moyenne20_eur_estimee": 12917449.64,
+          "valeur_echangee_moyenne20_eur_estimee": 12911862.14,
           "performance_126j_pct": 7.74,
           "performance_252j_pct": 41.54,
           "volatilite_20j_pct": 17.64,
@@ -2903,13 +2903,13 @@
           "roic_pct": null,
           "piotroski_f_score": null,
           "altman_z_score": null,
-          "per_previsionnel": 11.245174,
+          "per_previsionnel": 11.351338,
           "ev_ebitda": null,
           "croissance_ca_pct": 11.4,
           "marge_operationnelle_pct": 48.57,
           "roe_pct": null,
           "source": "Yahoo Finance / yfinance .info",
-          "date_collecte_utc": "2026-10-30T22:01:08.280133+00:00",
+          "date_collecte_utc": "2026-10-30T22:16:28.765320+00:00",
           "donnees_officielles_validees": false
         },
         "strategies": {
@@ -3062,7 +3062,7 @@
         "marge_operationnelle_pct": -8617.93,
         "roe_pct": -252.35,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:06.200823+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:26.169999+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -3214,7 +3214,7 @@
         "marge_operationnelle_pct": 14.75,
         "roe_pct": 7.96,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:48.802356+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:05.754674+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -3375,7 +3375,7 @@
         "marge_operationnelle_pct": 43.59,
         "roe_pct": 8.61,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:53.027299+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:10.762898+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -3512,9 +3512,9 @@
         "mm200": 110.0975,
         "atr14": 2.5063,
         "close": 112.9,
-        "ratio_volume_20j": 0.5499,
+        "ratio_volume_20j": 0.5464,
         "plus_haut_20j_precedent": 113.8,
-        "valeur_echangee_moyenne20_eur_estimee": 11595902.51,
+        "valeur_echangee_moyenne20_eur_estimee": 11593717.9,
         "performance_126j_pct": 4.44,
         "performance_252j_pct": -8.06,
         "volatilite_20j_pct": 29.97,
@@ -3535,7 +3535,7 @@
         "marge_operationnelle_pct": 15.77,
         "roe_pct": 12.82,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:06.623149+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:26.712640+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -3661,9 +3661,9 @@
         "mm200": 11.1972,
         "atr14": 0.3362,
         "close": 10.38,
-        "ratio_volume_20j": 0.5022,
+        "ratio_volume_20j": 0.5087,
         "plus_haut_20j_precedent": 11.625,
-        "valeur_echangee_moyenne20_eur_estimee": 9164024.82,
+        "valeur_echangee_moyenne20_eur_estimee": 9167022.04,
         "performance_126j_pct": -2.26,
         "performance_252j_pct": -12.88,
         "volatilite_20j_pct": 30.4,
@@ -3684,7 +3684,7 @@
         "marge_operationnelle_pct": 5.43,
         "roe_pct": 63.09,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:07.026747+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:27.273312+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -3833,7 +3833,7 @@
         "marge_operationnelle_pct": 20.11,
         "roe_pct": 13.97,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:49.207839+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:06.240086+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -3977,7 +3977,7 @@
         "marge_operationnelle_pct": 9.41,
         "roe_pct": 23.53,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:49.697472+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:06.721122+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -4115,9 +4115,9 @@
         "mm200": 58.0132,
         "atr14": 1.206,
         "close": 56.05,
-        "ratio_volume_20j": 0.9577,
+        "ratio_volume_20j": 0.957,
         "plus_haut_20j_precedent": 56.55,
-        "valeur_echangee_moyenne20_eur_estimee": 10552128.99,
+        "valeur_echangee_moyenne20_eur_estimee": 10551756.26,
         "performance_126j_pct": -10.03,
         "performance_252j_pct": 13.6,
         "volatilite_20j_pct": 15.53,
@@ -4138,7 +4138,7 @@
         "marge_operationnelle_pct": 7.85,
         "roe_pct": 0.86,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:07.460151+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:27.751521+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -4249,10 +4249,10 @@
     {
       "ticker": "ALO.PA",
       "date_seance": "2026-10-30",
-      "score_global_100": 46.68,
+      "score_global_100": 56.0,
       "score_technique_100": 40.0,
-      "score_fondamental_100": 46.7,
-      "couverture_fondamentale_pct": 75.0,
+      "score_fondamental_100": 60.0,
+      "couverture_fondamentale_pct": 100.0,
       "indicateurs_techniques": {
         "performance_20j_pct": 4.88,
         "performance_60j_pct": -5.1,
@@ -4264,9 +4264,9 @@
         "mm200": 19.1235,
         "atr14": 0.4343,
         "close": 15.81,
-        "ratio_volume_20j": 0.8674,
+        "ratio_volume_20j": 0.8679,
         "plus_haut_20j_precedent": 16.61,
-        "valeur_echangee_moyenne20_eur_estimee": 21779808.11,
+        "valeur_echangee_moyenne20_eur_estimee": 21780344.07,
         "performance_126j_pct": -9.84,
         "performance_252j_pct": -25.74,
         "volatilite_20j_pct": 29.59,
@@ -4276,7 +4276,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": 1258000128.0,
-        "fcf_yield_pct": null,
+        "fcf_yield_pct": 7.76,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -4287,7 +4287,7 @@
         "marge_operationnelle_pct": 3.25,
         "roe_pct": 3.41,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:50.129497+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:07.193076+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -4322,7 +4322,7 @@
           "criteres_tous_satisfaits": false
         },
         "value_rebond": {
-          "adequation_pct": 60.0,
+          "adequation_pct": 80.0,
           "criteres": [
             {
               "critere": "RSI",
@@ -4334,7 +4334,7 @@
             },
             {
               "critere": "FCF_YIELD",
-              "satisfait": false
+              "satisfait": true
             },
             {
               "critere": "PROXIMITE_MM50",
@@ -4451,7 +4451,7 @@
         "marge_operationnelle_pct": 7.7,
         "roe_pct": 15.74,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:07.860589+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:28.221974+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -4577,9 +4577,9 @@
         "mm200": 84.5552,
         "atr14": 1.7385,
         "close": 91.15,
-        "ratio_volume_20j": 1.1394,
+        "ratio_volume_20j": 1.1315,
         "plus_haut_20j_precedent": 91.05,
-        "valeur_echangee_moyenne20_eur_estimee": 12917449.64,
+        "valeur_echangee_moyenne20_eur_estimee": 12911862.14,
         "performance_126j_pct": 7.74,
         "performance_252j_pct": 41.54,
         "volatilite_20j_pct": 17.64,
@@ -4594,13 +4594,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 11.245174,
+        "per_previsionnel": 11.351338,
         "ev_ebitda": null,
         "croissance_ca_pct": 11.4,
         "marge_operationnelle_pct": 48.57,
         "roe_pct": null,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:08.280133+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:28.765320+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -4749,7 +4749,7 @@
         "marge_operationnelle_pct": 7.81,
         "roe_pct": 3.95,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:08.675604+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:29.243343+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -4893,7 +4893,7 @@
         "marge_operationnelle_pct": 71.37,
         "roe_pct": 11.08,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:09.071414+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:29.813588+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5042,7 +5042,7 @@
         "marge_operationnelle_pct": 7.97,
         "roe_pct": 6.23,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:09.472641+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:30.330420+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5180,7 +5180,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": 1879000064.0,
-        "fcf_yield_pct": 93.97,
+        "fcf_yield_pct": 95.6,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -5191,7 +5191,7 @@
         "marge_operationnelle_pct": 2.08,
         "roe_pct": null,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:09.911865+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:30.926829+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5343,7 +5343,7 @@
         "marge_operationnelle_pct": 12.15,
         "roe_pct": 8.77,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:10.338427+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:31.567263+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5492,7 +5492,7 @@
         "marge_operationnelle_pct": 14.79,
         "roe_pct": 6.94,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:10.738224+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:32.039357+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5630,7 +5630,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": -235899968.0,
-        "fcf_yield_pct": 5.53,
+        "fcf_yield_pct": 5.52,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -5641,7 +5641,7 @@
         "marge_operationnelle_pct": 15.23,
         "roe_pct": 11.22,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:11.132243+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:32.520907+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5790,7 +5790,7 @@
         "marge_operationnelle_pct": 13.3,
         "roe_pct": 12.19,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:53.429927+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:11.256802+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -5951,7 +5951,7 @@
         "marge_operationnelle_pct": 37.18,
         "roe_pct": 10.91,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:51.352360+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:08.709079+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -6089,9 +6089,9 @@
         "mm200": 4.4676,
         "atr14": 0.0679,
         "close": 3.77,
-        "ratio_volume_20j": 0.7482,
+        "ratio_volume_20j": 0.7489,
         "plus_haut_20j_precedent": 3.82,
-        "valeur_echangee_moyenne20_eur_estimee": 6114176.52,
+        "valeur_echangee_moyenne20_eur_estimee": 6114388.4,
         "performance_126j_pct": -28.87,
         "performance_252j_pct": -20.66,
         "volatilite_20j_pct": 20.73,
@@ -6112,7 +6112,7 @@
         "marge_operationnelle_pct": -4.74,
         "roe_pct": 1.03,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:11.535157+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:33.006996+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -6261,7 +6261,7 @@
         "marge_operationnelle_pct": 12.77,
         "roe_pct": 32.93,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:11.942744+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:33.575820+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -6410,7 +6410,7 @@
         "marge_operationnelle_pct": 1.86,
         "roe_pct": 8.43,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:52.590129+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:10.200006+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -6547,9 +6547,9 @@
         "mm200": 105.4345,
         "atr14": 3.9091,
         "close": 127.65,
-        "ratio_volume_20j": 1.1748,
+        "ratio_volume_20j": 1.1644,
         "plus_haut_20j_precedent": 127.2,
-        "valeur_echangee_moyenne20_eur_estimee": 78920200.41,
+        "valeur_echangee_moyenne20_eur_estimee": 78874137.91,
         "performance_126j_pct": 21.69,
         "performance_252j_pct": -0.23,
         "volatilite_20j_pct": 27.46,
@@ -6570,7 +6570,7 @@
         "marge_operationnelle_pct": 10.49,
         "roe_pct": 12.2,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:52.191067+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:09.666674+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -6689,7 +6689,7 @@
         "mm20": 14.436,
         "mm50": 14.9472,
         "mm200": 16.3776,
-        "atr14": 0.2296,
+        "atr14": 0.2311,
         "close": 14.66,
         "ratio_volume_20j": 1.0416,
         "plus_haut_20j_precedent": 14.78,
@@ -6714,7 +6714,7 @@
         "marge_operationnelle_pct": 59.35,
         "roe_pct": 8.7,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:12.343048+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:34.053322+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -6806,7 +6806,7 @@
       "plan_exploratoire_v73": {
         "support_candidat": 14.436,
         "resistance_cible": 14.78,
-        "stop_invalidation_candidat": 14.3901,
+        "stop_invalidation_candidat": 14.3898,
         "quantite_theorique": null
       },
       "blocages_achat": [
@@ -6840,9 +6840,9 @@
         "mm200": 3.884,
         "atr14": 0.146,
         "close": 3.196,
-        "ratio_volume_20j": 0.788,
+        "ratio_volume_20j": 0.7672,
         "plus_haut_20j_precedent": 3.478,
-        "valeur_echangee_moyenne20_eur_estimee": 1241913.29,
+        "valeur_echangee_moyenne20_eur_estimee": 1240596.22,
         "performance_126j_pct": -24.27,
         "performance_252j_pct": -9.0,
         "volatilite_20j_pct": 39.74,
@@ -6863,7 +6863,7 @@
         "marge_operationnelle_pct": 5.79,
         "roe_pct": 0.67,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:12.774936+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:34.594895+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7015,7 +7015,7 @@
         "marge_operationnelle_pct": 18.61,
         "roe_pct": 9.66,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:13.190097+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:35.077336+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7141,9 +7141,9 @@
         "mm200": 52.5166,
         "atr14": 0.7767,
         "close": 43.94,
-        "ratio_volume_20j": 0.9121,
+        "ratio_volume_20j": 0.9018,
         "plus_haut_20j_precedent": 44.46,
-        "valeur_echangee_moyenne20_eur_estimee": 6014084.2,
+        "valeur_echangee_moyenne20_eur_estimee": 6010799.69,
         "performance_126j_pct": -21.25,
         "performance_252j_pct": -20.18,
         "volatilite_20j_pct": 17.35,
@@ -7164,7 +7164,7 @@
         "marge_operationnelle_pct": 74.42,
         "roe_pct": 8.53,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:13.594170+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:35.564743+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7283,12 +7283,12 @@
         "performance_20j_pct": 1.26,
         "performance_60j_pct": -5.44,
         "rsi14": 49.18,
-        "adx14": 15.79,
+        "adx14": 15.75,
         "macd_histogramme": 0.0871,
         "mm20": 42.3445,
         "mm50": 43.1202,
         "mm200": 41.6253,
-        "atr14": 0.7157,
+        "atr14": 0.7136,
         "close": 42.6,
         "ratio_volume_20j": 1.0682,
         "plus_haut_20j_precedent": 43.42,
@@ -7313,7 +7313,7 @@
         "marge_operationnelle_pct": 11.98,
         "roe_pct": 14.88,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:50.953591+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:08.170791+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7406,13 +7406,13 @@
         "prix_signal_non_executable": 42.6,
         "support_candidat": 42.3445,
         "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
-        "stop_invalidation_candidat": 42.2014,
+        "stop_invalidation_candidat": 42.2018,
         "resistance_cible": 43.42,
         "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
-        "atr14": 0.7157,
+        "atr14": 0.7136,
         "ratio_gain_risque_net_estime": 0.28,
         "quantite_theorique_max": 21,
-        "risque_total_eur_estime": 19.97,
+        "risque_total_eur_estime": 19.96,
         "gain_potentiel_eur_estime": 5.51,
         "capital_avec_frais_et_ttf_eur_estime": 902.21,
         "courtages_aller_retour_eur_estimes": 6.32,
@@ -7451,9 +7451,9 @@
         "mm200": 8.9682,
         "atr14": 0.1826,
         "close": 7.925,
-        "ratio_volume_20j": 0.6064,
+        "ratio_volume_20j": 0.6095,
         "plus_haut_20j_precedent": 8.2,
-        "valeur_echangee_moyenne20_eur_estimee": 959746.1,
+        "valeur_echangee_moyenne20_eur_estimee": 959902.22,
         "performance_126j_pct": -17.66,
         "performance_252j_pct": 36.87,
         "volatilite_20j_pct": 19.17,
@@ -7463,7 +7463,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": 653800032.0,
-        "fcf_yield_pct": 7.45,
+        "fcf_yield_pct": 7.44,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -7474,7 +7474,7 @@
         "marge_operationnelle_pct": 5.31,
         "roe_pct": 11.89,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:14.030873+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:36.074026+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7603,7 +7603,7 @@
         "mm20": 1.7241,
         "mm50": 2.0213,
         "mm200": 2.9276,
-        "atr14": 0.1102,
+        "atr14": 0.1101,
         "close": 1.7,
         "ratio_volume_20j": 0.9805,
         "plus_haut_20j_precedent": 1.956,
@@ -7628,7 +7628,7 @@
         "marge_operationnelle_pct": -4043.75,
         "roe_pct": -205.79,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:14.460628+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:36.560983+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7784,7 +7784,7 @@
         "marge_operationnelle_pct": 8.72,
         "roe_pct": 16.1,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:14.893815+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:37.061530+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -7933,7 +7933,7 @@
         "marge_operationnelle_pct": 11.19,
         "roe_pct": 16.32,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:05.320534+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:25.222680+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8094,7 +8094,7 @@
         "marge_operationnelle_pct": 19.83,
         "roe_pct": 7.69,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:15.295824+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:37.631309+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8220,9 +8220,9 @@
         "mm200": 19.9597,
         "atr14": 0.7489,
         "close": 25.26,
-        "ratio_volume_20j": 1.2516,
+        "ratio_volume_20j": 1.267,
         "plus_haut_20j_precedent": 25.15,
-        "valeur_echangee_moyenne20_eur_estimee": 43898922.31,
+        "valeur_echangee_moyenne20_eur_estimee": 43938116.99,
         "performance_126j_pct": 27.16,
         "performance_252j_pct": 5.07,
         "volatilite_20j_pct": 32.68,
@@ -8243,7 +8243,7 @@
         "marge_operationnelle_pct": 23.53,
         "roe_pct": 14.9,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:53.832802+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:11.803944+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8387,7 +8387,7 @@
         "marge_operationnelle_pct": 32.04,
         "roe_pct": null,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:54.258034+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:12.282263+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8524,9 +8524,9 @@
         "mm200": 183.8922,
         "atr14": 6.1039,
         "close": 184.3,
-        "ratio_volume_20j": 1.1843,
+        "ratio_volume_20j": 1.1845,
         "plus_haut_20j_precedent": 182.95,
-        "valeur_echangee_moyenne20_eur_estimee": 150834776.04,
+        "valeur_echangee_moyenne20_eur_estimee": 150836619.04,
         "performance_126j_pct": 4.54,
         "performance_252j_pct": -41.75,
         "volatilite_20j_pct": 62.13,
@@ -8547,7 +8547,7 @@
         "marge_operationnelle_pct": 15.37,
         "roe_pct": 6.72,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:55.083111+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:13.260220+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8686,12 +8686,12 @@
         "piotroski_f_score": null,
         "altman_z_score": null,
         "per_previsionnel": 10.666124,
-        "ev_ebitda": 6.083,
+        "ev_ebitda": 6.131,
         "croissance_ca_pct": 4.9,
         "marge_operationnelle_pct": 12.58,
         "roe_pct": 10.72,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:15.723980+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:38.127286+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8840,7 +8840,7 @@
         "marge_operationnelle_pct": 6.21,
         "roe_pct": -10.64,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:16.170100+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:38.612358+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -8992,7 +8992,7 @@
         "marge_operationnelle_pct": 4.83,
         "roe_pct": 9.71,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:51.759960+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:09.188991+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -9153,7 +9153,7 @@
         "marge_operationnelle_pct": 14.74,
         "roe_pct": 12.22,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:54.650867+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:12.756763+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -9308,13 +9308,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 19.14732,
+        "per_previsionnel": 19.158289,
         "ev_ebitda": 17.092,
         "croissance_ca_pct": 16.7,
         "marge_operationnelle_pct": 58.44,
         "roe_pct": 16.73,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:16.579472+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:39.081912+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -9463,7 +9463,7 @@
         "marge_operationnelle_pct": 1.44,
         "roe_pct": -38.73,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:16.978837+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:39.581168+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -9612,7 +9612,7 @@
         "marge_operationnelle_pct": 16.17,
         "roe_pct": 11.33,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:55.569721+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:13.745489+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -9735,7 +9735,7 @@
         "close": 1.8,
         "ratio_volume_20j": 1.1545,
         "plus_haut_20j_precedent": 2.09,
-        "valeur_echangee_moyenne20_eur_estimee": 5943478.46,
+        "valeur_echangee_moyenne20_eur_estimee": 5943505.46,
         "performance_126j_pct": -36.62,
         "performance_252j_pct": -46.19,
         "volatilite_20j_pct": 134.56,
@@ -9756,7 +9756,7 @@
         "marge_operationnelle_pct": -2.73,
         "roe_pct": -14.46,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:17.430948+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:40.073127+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -9910,7 +9910,7 @@
         "marge_operationnelle_pct": -8.43,
         "roe_pct": 31.22,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:17.828832+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:40.616123+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10029,12 +10029,12 @@
         "performance_20j_pct": -3.89,
         "performance_60j_pct": -10.04,
         "rsi14": 46.24,
-        "adx14": 9.15,
+        "adx14": 9.18,
         "macd_histogramme": -0.0455,
         "mm20": 57.7475,
         "mm50": 58.19,
         "mm200": 60.2725,
-        "atr14": 2.3339,
+        "atr14": 2.3375,
         "close": 56.9,
         "ratio_volume_20j": 0.7805,
         "plus_haut_20j_precedent": 61.65,
@@ -10059,7 +10059,7 @@
         "marge_operationnelle_pct": 12.92,
         "roe_pct": 12.7,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:18.256670+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:41.183971+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10151,7 +10151,7 @@
       "plan_exploratoire_v73": {
         "support_candidat": 54.25,
         "resistance_cible": 61.65,
-        "stop_invalidation_candidat": 53.7832,
+        "stop_invalidation_candidat": 53.7825,
         "quantite_theorique": null
       },
       "blocages_achat": [
@@ -10208,7 +10208,7 @@
         "marge_operationnelle_pct": 11.05,
         "roe_pct": 8.71,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:18.666373+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:41.730161+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10334,9 +10334,9 @@
         "mm200": 12.8964,
         "atr14": 0.6108,
         "close": 11.15,
-        "ratio_volume_20j": 1.52,
+        "ratio_volume_20j": 1.4656,
         "plus_haut_20j_precedent": 15.67,
-        "valeur_echangee_moyenne20_eur_estimee": 11890409.95,
+        "valeur_echangee_moyenne20_eur_estimee": 11859953.73,
         "performance_126j_pct": -2.87,
         "performance_252j_pct": -6.93,
         "volatilite_20j_pct": 62.54,
@@ -10357,7 +10357,7 @@
         "marge_operationnelle_pct": 4.82,
         "roe_pct": 6.56,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:19.064049+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:42.291553+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10471,12 +10471,12 @@
         "performance_20j_pct": -2.42,
         "performance_60j_pct": -8.01,
         "rsi14": 43.65,
-        "adx14": 9.23,
+        "adx14": 9.2,
         "macd_histogramme": -0.0187,
         "mm20": 8.7281,
         "mm50": 8.9824,
         "mm200": 10.1841,
-        "atr14": 0.407,
+        "atr14": 0.4063,
         "close": 8.386,
         "ratio_volume_20j": 0.8894,
         "plus_haut_20j_precedent": 10.58,
@@ -10501,7 +10501,7 @@
         "marge_operationnelle_pct": 5.07,
         "roe_pct": -25.66,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:19.481375+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:42.766736+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10593,7 +10593,7 @@
       "plan_exploratoire_v73": {
         "support_candidat": 8.012,
         "resistance_cible": 10.58,
-        "stop_invalidation_candidat": 7.9306,
+        "stop_invalidation_candidat": 7.9307,
         "quantite_theorique": null
       },
       "blocages_achat": [
@@ -10650,7 +10650,7 @@
         "marge_operationnelle_pct": 35.8,
         "roe_pct": 13.26,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:19.900782+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:43.243926+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10799,7 +10799,7 @@
         "marge_operationnelle_pct": 64.41,
         "roe_pct": 1.6,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:20.349926+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:43.712147+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -10948,7 +10948,7 @@
         "marge_operationnelle_pct": 39.78,
         "roe_pct": 9.62,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:01.919292+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:21.337010+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11109,7 +11109,7 @@
         "marge_operationnelle_pct": 64.11,
         "roe_pct": 79.59,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:20.783863+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:44.186758+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11258,7 +11258,7 @@
         "marge_operationnelle_pct": 10.3,
         "roe_pct": 19.35,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:03.702933+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:23.260621+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11396,9 +11396,9 @@
         "mm200": 19.1162,
         "atr14": 0.3321,
         "close": 14.68,
-        "ratio_volume_20j": 0.6265,
+        "ratio_volume_20j": 0.616,
         "plus_haut_20j_precedent": 15.49,
-        "valeur_echangee_moyenne20_eur_estimee": 1611306.06,
+        "valeur_echangee_moyenne20_eur_estimee": 1610434.8,
         "performance_126j_pct": -27.47,
         "performance_252j_pct": -29.01,
         "volatilite_20j_pct": 22.56,
@@ -11419,7 +11419,7 @@
         "marge_operationnelle_pct": 16.5,
         "roe_pct": -5.24,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:21.237118+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:44.661899+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11568,7 +11568,7 @@
         "marge_operationnelle_pct": 3.73,
         "roe_pct": 10.49,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:21.700152+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:45.202121+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11717,7 +11717,7 @@
         "marge_operationnelle_pct": 28.49,
         "roe_pct": 11.44,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:22.178493+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:45.675040+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11866,7 +11866,7 @@
         "marge_operationnelle_pct": 8.46,
         "roe_pct": 11.9,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:22.607851+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:46.173437+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -11992,9 +11992,9 @@
         "mm200": 25.2945,
         "atr14": 0.8176,
         "close": 34.6,
-        "ratio_volume_20j": 0.7669,
+        "ratio_volume_20j": 0.7571,
         "plus_haut_20j_precedent": 35.1,
-        "valeur_echangee_moyenne20_eur_estimee": 2266955.93,
+        "valeur_echangee_moyenne20_eur_estimee": 2265736.28,
         "performance_126j_pct": 55.52,
         "performance_252j_pct": 28.47,
         "volatilite_20j_pct": 32.07,
@@ -12009,13 +12009,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 23.579762,
+        "per_previsionnel": 23.849567,
         "ev_ebitda": 19.947,
         "croissance_ca_pct": -7.3,
         "marge_operationnelle_pct": 21.07,
         "roe_pct": 17.13,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:23.019811+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:46.646782+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -12164,7 +12164,7 @@
         "marge_operationnelle_pct": 12.76,
         "roe_pct": -1.6,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:56.433069+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:14.713102+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -12301,9 +12301,9 @@
         "mm200": 35.4114,
         "atr14": 0.5488,
         "close": 35.24,
-        "ratio_volume_20j": 1.6012,
+        "ratio_volume_20j": 1.6004,
         "plus_haut_20j_precedent": 35.96,
-        "valeur_echangee_moyenne20_eur_estimee": 20922077.24,
+        "valeur_echangee_moyenne20_eur_estimee": 20921101.1,
         "performance_126j_pct": 2.56,
         "performance_252j_pct": 5.76,
         "volatilite_20j_pct": 17.57,
@@ -12324,7 +12324,7 @@
         "marge_operationnelle_pct": 63.94,
         "roe_pct": 13.67,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:23.439253+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:47.182075+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -12473,7 +12473,7 @@
         "marge_operationnelle_pct": 19.05,
         "roe_pct": 18.21,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:56.856428+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:15.191441+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -12634,7 +12634,7 @@
         "marge_operationnelle_pct": 42.48,
         "roe_pct": 35.31,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:23.879569+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:47.675304+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -12783,7 +12783,7 @@
         "marge_operationnelle_pct": 22.52,
         "roe_pct": 16.59,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:57.655993+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:16.175045+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -12944,7 +12944,7 @@
         "marge_operationnelle_pct": 84.58,
         "roe_pct": 2.17,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:24.283604+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:48.153491+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13093,7 +13093,7 @@
         "marge_operationnelle_pct": 12.58,
         "roe_pct": 8.02,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:24.684800+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:48.696362+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13242,7 +13242,7 @@
         "marge_operationnelle_pct": null,
         "roe_pct": null,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:58.072905+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:16.651290+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13382,9 +13382,9 @@
         "mm200": 18.5127,
         "atr14": 0.2953,
         "close": 18.2,
-        "ratio_volume_20j": 0.8111,
+        "ratio_volume_20j": 0.8213,
         "plus_haut_20j_precedent": 18.68,
-        "valeur_echangee_moyenne20_eur_estimee": 183238.28,
+        "valeur_echangee_moyenne20_eur_estimee": 183335.65,
         "performance_126j_pct": 0.33,
         "performance_252j_pct": -3.09,
         "volatilite_20j_pct": 15.14,
@@ -13405,7 +13405,7 @@
         "marge_operationnelle_pct": 5.2,
         "roe_pct": 27.78,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:25.164882+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:49.170866+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13553,7 +13553,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": 65000000.0,
-        "fcf_yield_pct": 1.78,
+        "fcf_yield_pct": 1.79,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -13564,7 +13564,7 @@
         "marge_operationnelle_pct": 7.66,
         "roe_pct": 6.89,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:25.569567+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:49.708404+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13690,9 +13690,9 @@
         "mm200": 34.4686,
         "atr14": 1.9755,
         "close": 39.26,
-        "ratio_volume_20j": 1.9529,
+        "ratio_volume_20j": 1.9345,
         "plus_haut_20j_precedent": 43.96,
-        "valeur_echangee_moyenne20_eur_estimee": 1681617.45,
+        "valeur_echangee_moyenne20_eur_estimee": 1679937.12,
         "performance_126j_pct": 14.66,
         "performance_252j_pct": 83.03,
         "volatilite_20j_pct": 77.96,
@@ -13713,7 +13713,7 @@
         "marge_operationnelle_pct": 9.24,
         "roe_pct": 1.77,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:25.965570+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:50.185018+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13869,7 +13869,7 @@
         "marge_operationnelle_pct": 6.29,
         "roe_pct": 3.28,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:50.531665+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:07.693929+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -13999,12 +13999,12 @@
         "performance_20j_pct": 23.01,
         "performance_60j_pct": -15.96,
         "rsi14": 57.11,
-        "adx14": 34.83,
+        "adx14": 34.85,
         "macd_histogramme": 1.2931,
         "mm20": 23.56,
         "mm50": 28.2252,
         "mm200": 29.2669,
-        "atr14": 2.1065,
+        "atr14": 2.1037,
         "close": 28.12,
         "ratio_volume_20j": 0.6348,
         "plus_haut_20j_precedent": 31.32,
@@ -14029,7 +14029,7 @@
         "marge_operationnelle_pct": -322.88,
         "roe_pct": null,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:26.363798+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:50.651263+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -14123,7 +14123,7 @@
       "plan_exploratoire_v73": {
         "support_candidat": 23.56,
         "resistance_cible": 31.32,
-        "stop_invalidation_candidat": 23.1387,
+        "stop_invalidation_candidat": 23.1393,
         "quantite_theorique": null
       },
       "blocages_achat": [
@@ -14181,7 +14181,7 @@
         "marge_operationnelle_pct": 6.31,
         "roe_pct": 9.84,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:26.762756+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:51.144026+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -14307,9 +14307,9 @@
         "mm200": 22.9047,
         "atr14": 0.7057,
         "close": 25.34,
-        "ratio_volume_20j": 5.833,
+        "ratio_volume_20j": 5.9442,
         "plus_haut_20j_precedent": 22.7,
-        "valeur_echangee_moyenne20_eur_estimee": 1479789.36,
+        "valeur_echangee_moyenne20_eur_estimee": 1492673.48,
         "performance_126j_pct": 11.24,
         "performance_252j_pct": 21.36,
         "volatilite_20j_pct": 53.42,
@@ -14330,7 +14330,7 @@
         "marge_operationnelle_pct": 7.47,
         "roe_pct": -14.96,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:27.162838+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:51.686505+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -14474,7 +14474,7 @@
         "marge_operationnelle_pct": 4.17,
         "roe_pct": 9.28,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:27.650073+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:52.223948+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -14626,7 +14626,7 @@
         "marge_operationnelle_pct": 21.29,
         "roe_pct": 19.41,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:57.255475+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:15.687961+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -14788,7 +14788,7 @@
         "marge_operationnelle_pct": 12.51,
         "roe_pct": 14.16,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:58.519223+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:17.192968+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -14949,7 +14949,7 @@
         "marge_operationnelle_pct": 27.48,
         "roe_pct": 50.67,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:28.080668+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:52.695164+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -15063,7 +15063,7 @@
       "score_global_100": 88.66,
       "score_technique_100": 80.0,
       "score_fondamental_100": 100.0,
-      "couverture_fondamentale_pct": 75.0,
+      "couverture_fondamentale_pct": 100.0,
       "indicateurs_techniques": {
         "performance_20j_pct": 6.27,
         "performance_60j_pct": 0.15,
@@ -15087,18 +15087,18 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": 3321999872.0,
-        "fcf_yield_pct": null,
+        "fcf_yield_pct": 8.07,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 11.637757,
+        "per_previsionnel": 11.717192,
         "ev_ebitda": 9.675,
         "croissance_ca_pct": 3.0,
         "marge_operationnelle_pct": 14.14,
         "roe_pct": 16.18,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:59.376282+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:18.207818+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -15133,7 +15133,7 @@
           "criteres_tous_satisfaits": false
         },
         "value_rebond": {
-          "adequation_pct": 60.0,
+          "adequation_pct": 80.0,
           "criteres": [
             {
               "critere": "RSI",
@@ -15145,7 +15145,7 @@
             },
             {
               "critere": "FCF_YIELD",
-              "satisfait": false
+              "satisfait": true
             },
             {
               "critere": "PROXIMITE_MM50",
@@ -15259,7 +15259,7 @@
         "marge_operationnelle_pct": 13.04,
         "roe_pct": 4.07,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:28.472897+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:53.171840+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -15385,9 +15385,9 @@
         "mm200": 46.1736,
         "atr14": 0.9934,
         "close": 49.48,
-        "ratio_volume_20j": 0.6623,
+        "ratio_volume_20j": 0.6608,
         "plus_haut_20j_precedent": 49.24,
-        "valeur_echangee_moyenne20_eur_estimee": 2806006.67,
+        "valeur_echangee_moyenne20_eur_estimee": 2805784.01,
         "performance_126j_pct": 2.4,
         "performance_252j_pct": -15.85,
         "volatilite_20j_pct": 17.83,
@@ -15408,7 +15408,7 @@
         "marge_operationnelle_pct": 20.69,
         "roe_pct": -1.77,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:28.865888+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:53.639967+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -15541,9 +15541,9 @@
         "mm200": 66.8122,
         "atr14": 1.7212,
         "close": 67.68,
-        "ratio_volume_20j": 0.9871,
+        "ratio_volume_20j": 0.9862,
         "plus_haut_20j_precedent": 68.72,
-        "valeur_echangee_moyenne20_eur_estimee": 51585831.23,
+        "valeur_echangee_moyenne20_eur_estimee": 51583293.23,
         "performance_126j_pct": 5.72,
         "performance_252j_pct": -18.97,
         "volatilite_20j_pct": 30.55,
@@ -15564,7 +15564,7 @@
         "marge_operationnelle_pct": 19.59,
         "roe_pct": 7.56,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:58.931757+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:17.727008+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -15725,7 +15725,7 @@
         "marge_operationnelle_pct": 42.24,
         "roe_pct": 25.45,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:56.003139+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:14.229335+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -15887,7 +15887,7 @@
         "marge_operationnelle_pct": 5.1,
         "roe_pct": 5.0,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:00:59.808569+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:18.741656+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16048,7 +16048,7 @@
         "marge_operationnelle_pct": 7.54,
         "roe_pct": 12.0,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:29.334734+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:54.114945+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16174,9 +16174,9 @@
         "mm200": 36.0643,
         "atr14": 1.064,
         "close": 34.47,
-        "ratio_volume_20j": 1.1321,
+        "ratio_volume_20j": 1.1388,
         "plus_haut_20j_precedent": 35.91,
-        "valeur_echangee_moyenne20_eur_estimee": 24197385.15,
+        "valeur_echangee_moyenne20_eur_estimee": 24206245.67,
         "performance_126j_pct": -8.69,
         "performance_252j_pct": 17.85,
         "volatilite_20j_pct": 38.53,
@@ -16191,13 +16191,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 11.255805,
+        "per_previsionnel": 11.623084,
         "ev_ebitda": 12.322,
         "croissance_ca_pct": 2.2,
         "marge_operationnelle_pct": 5.9,
         "roe_pct": 12.61,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:29.827822+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:54.657709+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16346,7 +16346,7 @@
         "marge_operationnelle_pct": 14.6,
         "roe_pct": 27.49,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:00.243104+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:19.253974+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16483,9 +16483,9 @@
         "mm200": 76.6263,
         "atr14": 1.681,
         "close": 79.74,
-        "ratio_volume_20j": 3.3633,
+        "ratio_volume_20j": 3.3634,
         "plus_haut_20j_precedent": 76.66,
-        "valeur_echangee_moyenne20_eur_estimee": 179186776.46,
+        "valeur_echangee_moyenne20_eur_estimee": 179187741.31,
         "performance_126j_pct": 8.14,
         "performance_252j_pct": -7.61,
         "volatilite_20j_pct": 25.12,
@@ -16506,7 +16506,7 @@
         "marge_operationnelle_pct": 21.03,
         "roe_pct": 5.71,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:01.072549+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:20.316777+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16650,7 +16650,7 @@
         "marge_operationnelle_pct": 2.54,
         "roe_pct": 4.28,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:05.722865+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:25.696801+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16817,7 +16817,7 @@
         "marge_operationnelle_pct": 5.95,
         "roe_pct": 13.02,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:30.261582+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:55.141519+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -16945,7 +16945,7 @@
         "close": 4.182,
         "ratio_volume_20j": 0.6209,
         "plus_haut_20j_precedent": 4.418,
-        "valeur_echangee_moyenne20_eur_estimee": 3958613.25,
+        "valeur_echangee_moyenne20_eur_estimee": 3958613.88,
         "performance_126j_pct": -43.49,
         "performance_252j_pct": -36.73,
         "volatilite_20j_pct": 63.5,
@@ -16966,7 +16966,7 @@
         "marge_operationnelle_pct": -5.56,
         "roe_pct": -9.93,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:30.698232+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:55.611382+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -17092,9 +17092,9 @@
         "mm200": 76.5744,
         "atr14": 1.5964,
         "close": 67.88,
-        "ratio_volume_20j": 1.0308,
+        "ratio_volume_20j": 1.0279,
         "plus_haut_20j_precedent": 68.52,
-        "valeur_echangee_moyenne20_eur_estimee": 71330517.64,
+        "valeur_echangee_moyenne20_eur_estimee": 71319371.74,
         "performance_126j_pct": -15.34,
         "performance_252j_pct": -16.9,
         "volatilite_20j_pct": 20.75,
@@ -17115,7 +17115,7 @@
         "marge_operationnelle_pct": 10.8,
         "roe_pct": 11.04,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:00.637142+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:19.765848+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -17253,9 +17253,9 @@
         "mm200": 51.99,
         "atr14": 1.7112,
         "close": 53.9,
-        "ratio_volume_20j": 1.4077,
+        "ratio_volume_20j": 1.4038,
         "plus_haut_20j_precedent": 58.35,
-        "valeur_echangee_moyenne20_eur_estimee": 2444698.77,
+        "valeur_echangee_moyenne20_eur_estimee": 2444192.11,
         "performance_126j_pct": 0.28,
         "performance_252j_pct": 15.57,
         "volatilite_20j_pct": 33.63,
@@ -17276,7 +17276,7 @@
         "marge_operationnelle_pct": 4.23,
         "roe_pct": 4.92,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:31.121897+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:56.087860+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -17425,7 +17425,7 @@
         "marge_operationnelle_pct": -10.75,
         "roe_pct": -15.2,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:31.572864+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:56.564577+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -17574,7 +17574,7 @@
         "marge_operationnelle_pct": 6.4,
         "roe_pct": 0.78,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:32.066671+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:57.110385+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -17693,16 +17693,16 @@
         "performance_20j_pct": 17.02,
         "performance_60j_pct": 1.87,
         "rsi14": 71.83,
-        "adx14": 39.81,
+        "adx14": 39.82,
         "macd_histogramme": 1.4191,
         "mm20": 177.05,
         "mm50": 170.97,
         "mm200": 149.408,
-        "atr14": 5.3119,
+        "atr14": 5.3191,
         "close": 191.1,
-        "ratio_volume_20j": 1.7072,
+        "ratio_volume_20j": 1.6996,
         "plus_haut_20j_precedent": 191.5,
-        "valeur_echangee_moyenne20_eur_estimee": 7202271.47,
+        "valeur_echangee_moyenne20_eur_estimee": 7199051.44,
         "performance_126j_pct": 36.89,
         "performance_252j_pct": 45.88,
         "volatilite_20j_pct": 21.59,
@@ -17717,13 +17717,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 9.572801,
+        "per_previsionnel": 9.651344,
         "ev_ebitda": 8.699,
         "croissance_ca_pct": 4.1,
         "marge_operationnelle_pct": 8.51,
         "roe_pct": 14.58,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:32.462051+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:57.583237+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -17815,7 +17815,7 @@
       "plan_exploratoire_v73": {
         "support_candidat": 177.05,
         "resistance_cible": 191.5,
-        "stop_invalidation_candidat": 175.9876,
+        "stop_invalidation_candidat": 175.9862,
         "quantite_theorique": null
       },
       "blocages_achat": [
@@ -17872,7 +17872,7 @@
         "marge_operationnelle_pct": 4.42,
         "roe_pct": 15.1,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:32.861352+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:58.075506+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18021,7 +18021,7 @@
         "marge_operationnelle_pct": -0.55,
         "roe_pct": -26.48,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:02.382885+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:21.817996+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18159,9 +18159,9 @@
         "mm200": 43.9134,
         "atr14": 1.9462,
         "close": 41.88,
-        "ratio_volume_20j": 1.2612,
+        "ratio_volume_20j": 1.2666,
         "plus_haut_20j_precedent": 52.41,
-        "valeur_echangee_moyenne20_eur_estimee": 99373443.43,
+        "valeur_echangee_moyenne20_eur_estimee": 99400956.5,
         "performance_126j_pct": -13.21,
         "performance_252j_pct": 101.49,
         "volatilite_20j_pct": 49.88,
@@ -18182,7 +18182,7 @@
         "marge_operationnelle_pct": 9.66,
         "roe_pct": 2.95,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:02.782626+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:22.293102+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18342,7 +18342,7 @@
         "marge_operationnelle_pct": 18.2,
         "roe_pct": 18.62,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:01.471400+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:20.857092+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18479,9 +18479,9 @@
         "mm200": 50.1562,
         "atr14": 1.1897,
         "close": 58.6,
-        "ratio_volume_20j": 0.999,
+        "ratio_volume_20j": 0.9949,
         "plus_haut_20j_precedent": 60.65,
-        "valeur_echangee_moyenne20_eur_estimee": 19033825.37,
+        "valeur_echangee_moyenne20_eur_estimee": 19029664.77,
         "performance_126j_pct": 36.09,
         "performance_252j_pct": 23.47,
         "volatilite_20j_pct": 25.75,
@@ -18502,7 +18502,7 @@
         "marge_operationnelle_pct": 2.9,
         "roe_pct": 8.0,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:33.347441+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:58.610037+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18651,7 +18651,7 @@
         "marge_operationnelle_pct": -0.67,
         "roe_pct": 12.63,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:33.909555+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:59.094506+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18789,7 +18789,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": 3978700032.0,
-        "fcf_yield_pct": 24.1,
+        "fcf_yield_pct": 24.75,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -18800,7 +18800,7 @@
         "marge_operationnelle_pct": 10.7,
         "roe_pct": 11.4,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:03.202553+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:22.768814+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -18938,9 +18938,9 @@
         "mm200": 6.875,
         "atr14": 0.1106,
         "close": 5.96,
-        "ratio_volume_20j": 1.3253,
+        "ratio_volume_20j": 1.3325,
         "plus_haut_20j_precedent": 6.085,
-        "valeur_echangee_moyenne20_eur_estimee": 1801319.38,
+        "valeur_echangee_moyenne20_eur_estimee": 1802022.06,
         "performance_126j_pct": -11.7,
         "performance_252j_pct": -23.59,
         "volatilite_20j_pct": 20.51,
@@ -18961,7 +18961,7 @@
         "marge_operationnelle_pct": 12.39,
         "roe_pct": 6.69,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:34.320680+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:59.865479+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -19087,9 +19087,9 @@
         "mm200": 149.8165,
         "atr14": 2.8873,
         "close": 127.6,
-        "ratio_volume_20j": 0.7824,
+        "ratio_volume_20j": 0.7741,
         "plus_haut_20j_precedent": 130.8,
-        "valeur_echangee_moyenne20_eur_estimee": 2522852.2,
+        "valeur_echangee_moyenne20_eur_estimee": 2521748.46,
         "performance_126j_pct": -18.05,
         "performance_252j_pct": -11.82,
         "volatilite_20j_pct": 17.45,
@@ -19110,7 +19110,7 @@
         "marge_operationnelle_pct": 8.94,
         "roe_pct": 12.27,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:34.789183+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:00.338875+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -19253,13 +19253,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 8.469592,
+        "per_previsionnel": 8.583549,
         "ev_ebitda": 4.615,
         "croissance_ca_pct": 41.1,
         "marge_operationnelle_pct": 21.37,
         "roe_pct": 17.83,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:04.107236+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:23.791793+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -19420,7 +19420,7 @@
         "marge_operationnelle_pct": -148.86,
         "roe_pct": -95.05,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:35.179842+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:00.882595+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -19564,7 +19564,7 @@
         "marge_operationnelle_pct": 66.92,
         "roe_pct": 8.63,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:04.507822+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:24.270491+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -19725,7 +19725,7 @@
         "marge_operationnelle_pct": 9.57,
         "roe_pct": 10.16,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:35.593379+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:01.358900+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -19851,9 +19851,9 @@
         "mm200": 33.8152,
         "atr14": 0.4975,
         "close": 33.01,
-        "ratio_volume_20j": 0.7184,
+        "ratio_volume_20j": 0.7179,
         "plus_haut_20j_precedent": 33.09,
-        "valeur_echangee_moyenne20_eur_estimee": 55643797.46,
+        "valeur_echangee_moyenne20_eur_estimee": 55642206.37,
         "performance_126j_pct": -8.08,
         "performance_252j_pct": 14.94,
         "volatilite_20j_pct": 16.06,
@@ -19874,7 +19874,7 @@
         "marge_operationnelle_pct": 7.95,
         "roe_pct": 13.43,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:04.918143+00:00",
+        "date_collecte_utc": "2026-10-30T22:16:24.743303+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20012,9 +20012,9 @@
         "mm200": 106.173,
         "atr14": 4.3525,
         "close": 93.8,
-        "ratio_volume_20j": 0.9639,
+        "ratio_volume_20j": 0.9836,
         "plus_haut_20j_precedent": 103.3,
-        "valeur_echangee_moyenne20_eur_estimee": 2436078.42,
+        "valeur_echangee_moyenne20_eur_estimee": 2438686.06,
         "performance_126j_pct": -17.14,
         "performance_252j_pct": -13.94,
         "volatilite_20j_pct": 52.34,
@@ -20029,13 +20029,13 @@
         "roic_pct": null,
         "piotroski_f_score": null,
         "altman_z_score": null,
-        "per_previsionnel": 7.274615,
+        "per_previsionnel": 7.260693,
         "ev_ebitda": 3.13,
         "croissance_ca_pct": 43.2,
         "marge_operationnelle_pct": 0.66,
         "roe_pct": 4.97,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:36.038035+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:01.863308+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20184,7 +20184,7 @@
         "marge_operationnelle_pct": 18.09,
         "roe_pct": 13.61,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:36.474241+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:02.406744+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20310,9 +20310,9 @@
         "mm200": 1.9281,
         "atr14": 0.0543,
         "close": 1.627,
-        "ratio_volume_20j": 2.7775,
+        "ratio_volume_20j": 2.7898,
         "plus_haut_20j_precedent": 1.5935,
-        "valeur_echangee_moyenne20_eur_estimee": 3038986.0,
+        "valeur_echangee_moyenne20_eur_estimee": 3041305.85,
         "performance_126j_pct": -21.4,
         "performance_252j_pct": -45.59,
         "volatilite_20j_pct": 37.34,
@@ -20333,7 +20333,7 @@
         "marge_operationnelle_pct": -35.0,
         "roe_pct": 0.34,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:36.913489+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:02.947332+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20485,7 +20485,7 @@
         "marge_operationnelle_pct": 14.24,
         "roe_pct": 15.82,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:37.325715+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:03.462349+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20629,12 +20629,12 @@
         "piotroski_f_score": null,
         "altman_z_score": null,
         "per_previsionnel": 15.928572,
-        "ev_ebitda": -5.813,
+        "ev_ebitda": -5.611,
         "croissance_ca_pct": -27.7,
         "marge_operationnelle_pct": -74.92,
         "roe_pct": -117.85,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:37.764917+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:04.025697+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20765,9 +20765,9 @@
         "mm200": 6.5317,
         "atr14": 0.1762,
         "close": 3.765,
-        "ratio_volume_20j": 0.9621,
+        "ratio_volume_20j": 0.9564,
         "plus_haut_20j_precedent": 4.895,
-        "valeur_echangee_moyenne20_eur_estimee": 830735.71,
+        "valeur_echangee_moyenne20_eur_estimee": 830523.55,
         "performance_126j_pct": -46.82,
         "performance_252j_pct": -47.16,
         "volatilite_20j_pct": 43.2,
@@ -20788,7 +20788,7 @@
         "marge_operationnelle_pct": 9.33,
         "roe_pct": -10.09,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:38.216147+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:04.504589+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -20919,9 +20919,9 @@
         "mm200": 19.2333,
         "atr14": 0.5489,
         "close": 17.64,
-        "ratio_volume_20j": 0.6529,
+        "ratio_volume_20j": 0.6484,
         "plus_haut_20j_precedent": 19.0,
-        "valeur_echangee_moyenne20_eur_estimee": 708119.95,
+        "valeur_echangee_moyenne20_eur_estimee": 707957.66,
         "performance_126j_pct": -10.73,
         "performance_252j_pct": -20.68,
         "volatilite_20j_pct": 30.72,
@@ -20942,7 +20942,7 @@
         "marge_operationnelle_pct": 11.33,
         "roe_pct": 5.36,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:38.627932+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:04.979079+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -21073,9 +21073,9 @@
         "mm200": 124.643,
         "atr14": 5.3237,
         "close": 134.8,
-        "ratio_volume_20j": 1.1046,
+        "ratio_volume_20j": 1.1026,
         "plus_haut_20j_precedent": 140.6,
-        "valeur_echangee_moyenne20_eur_estimee": 5211072.29,
+        "valeur_echangee_moyenne20_eur_estimee": 5210485.91,
         "performance_126j_pct": 13.28,
         "performance_252j_pct": -39.61,
         "volatilite_20j_pct": 36.5,
@@ -21085,7 +21085,7 @@
       },
       "indicateurs_fondamentaux": {
         "dette_nette": -186826000.0,
-        "fcf_yield_pct": -23.45,
+        "fcf_yield_pct": -23.65,
         "marge_fcf_pct": null,
         "roic_pct": null,
         "piotroski_f_score": null,
@@ -21096,7 +21096,7 @@
         "marge_operationnelle_pct": 9.32,
         "roe_pct": 76.71,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:39.025879+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:05.461303+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
@@ -21225,9 +21225,9 @@
         "mm200": 12.2084,
         "atr14": 0.6912,
         "close": 9.848,
-        "ratio_volume_20j": 1.4004,
+        "ratio_volume_20j": 1.3788,
         "plus_haut_20j_precedent": 12.198,
-        "valeur_echangee_moyenne20_eur_estimee": 4150737.66,
+        "valeur_echangee_moyenne20_eur_estimee": 4146278.98,
         "performance_126j_pct": -4.02,
         "performance_252j_pct": -55.34,
         "volatilite_20j_pct": 59.73,
@@ -21248,7 +21248,7 @@
         "marge_operationnelle_pct": 4.59,
         "roe_pct": -21.25,
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:01:39.429744+00:00",
+        "date_collecte_utc": "2026-10-30T22:17:05.936303+00:00",
         "donnees_officielles_validees": false
       },
       "strategies": {
