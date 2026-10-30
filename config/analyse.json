@@ -1,0 +1,42 @@
+
+{
+  "version": "8.1",
+  "indicateurs_techniques": {
+    "rsi_periode": 14,
+    "macd": [12, 26, 9],
+    "moyennes_mobiles": [20, 50, 200],
+    "atr_periode": 14,
+    "adx_periode": 14,
+    "performances_seances": [21, 63, 126, 252],
+    "volatilite_seances": [20, 60],
+    "plus_hauts_bas_seances": [20, 55, 252],
+    "volumes_moyenne_seances": 20
+  },
+  "indicateurs_fondamentaux": {
+    "fcf_yield": true,
+    "dette_nette": true,
+    "marge_fcf": true,
+    "roic": true,
+    "piotroski": true,
+    "altman": false
+  },
+  "strategies": {
+    "momentum": {
+      "rsi_min": 45,
+      "rsi_max": 70,
+      "performance_252j_min_pct": 10,
+      "adx_min": 20
+    },
+    "value_rebond": {
+      "rsi_min": 25,
+      "rsi_max": 55,
+      "performance_252j_min_pct": null,
+      "adx_min": null
+    }
+  },
+  "filtres_obligatoires": {
+    "liquidite_moyenne_20j_min_eur": 1000000,
+    "max_dossiers": 5
+  }
+}
+  
