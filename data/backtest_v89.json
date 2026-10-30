@@ -1,0 +1,7392 @@
+{
+  "schema_version": "8.9",
+  "genere_utc": "2026-10-30T22:02:07.386516+00:00",
+  "univers_configure": 120,
+  "univers_valide": 109,
+  "erreurs_historiques": {
+    "ABVX.PA": "GAP_AJUSTE_EXTREME",
+    "ALO.PA": "GAP_AJUSTE_EXTREME",
+    "ATO.PA": "GAP_AJUSTE_EXTREME",
+    "CLARI.PA": "GAP_AJUSTE_EXTREME",
+    "DBV.PA": "GAP_AJUSTE_EXTREME",
+    "EMEIS.PA": "GAP_AJUSTE_EXTREME",
+    "ETL.PA": "GAP_AJUSTE_EXTREME",
+    "NANO.PA": "GAP_AJUSTE_EXTREME",
+    "VIV.PA": "GAP_AJUSTE_EXTREME",
+    "VU.PA": "GAP_AJUSTE_EXTREME",
+    "WLN.PA": "GAP_AJUSTE_EXTREME"
+  },
+  "resultat": {
+    "capital_initial_eur": 2000.0,
+    "valeur_finale_mtm_eur": 2206.26,
+    "pnl_mtm_eur": 206.26,
+    "cagr_pct": 1.98,
+    "max_drawdown_pct": 12.37,
+    "sharpe_indicatif": 0.312,
+    "sortino_indicatif": 0.44,
+    "calmar_indicatif": 0.16,
+    "max_positions_observe": 3,
+    "max_risque_ouvert_eur": 58.58,
+    "trades_clos": 93,
+    "positions_finales": [
+      "ERF.PA",
+      "AI.PA",
+      "AIR.PA"
+    ],
+    "rejets": {
+      "ttf_inconnue": 261,
+      "max_positions": 17890,
+      "taille_nulle": 4,
+      "secteur": 2
+    },
+    "equity_curve": [
+      {
+        "date": "2021-11-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-05",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-12",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-18",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-19",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-23",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-26",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-29",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-11-30",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-06",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-13",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-20",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-23",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-27",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-29",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-30",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2021-12-31",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-05",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-06",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-12",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-13",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-18",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-19",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-20",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-26",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-27",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-01-31",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-18",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-23",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-02-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-18",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-23",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-29",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-30",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-03-31",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-05",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-06",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-12",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-13",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-19",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-20",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-26",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-27",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-04-29",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-05",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-06",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-12",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-13",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-18",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-19",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-20",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-23",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-26",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-27",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-30",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-05-31",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-06",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-13",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-20",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-23",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-24",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-27",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-29",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-06-30",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-05",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-06",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-07",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-12",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-13",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-14",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-18",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-19",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-20",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-21",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-22",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-25",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-26",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-27",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-28",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-07-29",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-01",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-02",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-03",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-04",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-05",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-08",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-09",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-10",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-11",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-12",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-15",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-16",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-17",
+        "valeur_eur": 2000.0,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-18",
+        "valeur_eur": 1984.19,
+        "positions": 2
+      },
+      {
+        "date": "2022-08-19",
+        "valeur_eur": 1979.03,
+        "positions": 2
+      },
+      {
+        "date": "2022-08-22",
+        "valeur_eur": 1968.15,
+        "positions": 1
+      },
+      {
+        "date": "2022-08-23",
+        "valeur_eur": 1960.7,
+        "positions": 2
+      },
+      {
+        "date": "2022-08-24",
+        "valeur_eur": 1946.98,
+        "positions": 2
+      },
+      {
+        "date": "2022-08-25",
+        "valeur_eur": 1947.03,
+        "positions": 2
+      },
+      {
+        "date": "2022-08-26",
+        "valeur_eur": 1934.22,
+        "positions": 2
+      },
+      {
+        "date": "2022-08-29",
+        "valeur_eur": 1930.53,
+        "positions": 1
+      },
+      {
+        "date": "2022-08-30",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-08-31",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-01",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-02",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-05",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-06",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-07",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-08",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-09",
+        "valeur_eur": 1920.59,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-12",
+        "valeur_eur": 1923.82,
+        "positions": 2
+      },
+      {
+        "date": "2022-09-13",
+        "valeur_eur": 1913.18,
+        "positions": 3
+      },
+      {
+        "date": "2022-09-14",
+        "valeur_eur": 1904.5,
+        "positions": 3
+      },
+      {
+        "date": "2022-09-15",
+        "valeur_eur": 1906.44,
+        "positions": 3
+      },
+      {
+        "date": "2022-09-16",
+        "valeur_eur": 1894.47,
+        "positions": 3
+      },
+      {
+        "date": "2022-09-19",
+        "valeur_eur": 1892.49,
+        "positions": 2
+      },
+      {
+        "date": "2022-09-20",
+        "valeur_eur": 1875.58,
+        "positions": 3
+      },
+      {
+        "date": "2022-09-21",
+        "valeur_eur": 1882.31,
+        "positions": 3
+      },
+      {
+        "date": "2022-09-22",
+        "valeur_eur": 1870.71,
+        "positions": 2
+      },
+      {
+        "date": "2022-09-23",
+        "valeur_eur": 1842.37,
+        "positions": 2
+      },
+      {
+        "date": "2022-09-26",
+        "valeur_eur": 1832.08,
+        "positions": 1
+      },
+      {
+        "date": "2022-09-27",
+        "valeur_eur": 1830.38,
+        "positions": 1
+      },
+      {
+        "date": "2022-09-28",
+        "valeur_eur": 1827.1,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-29",
+        "valeur_eur": 1827.1,
+        "positions": 0
+      },
+      {
+        "date": "2022-09-30",
+        "valeur_eur": 1827.1,
+        "positions": 0
+      },
+      {
+        "date": "2022-10-03",
+        "valeur_eur": 1819.77,
+        "positions": 1
+      },
+      {
+        "date": "2022-10-04",
+        "valeur_eur": 1828.43,
+        "positions": 2
+      },
+      {
+        "date": "2022-10-05",
+        "valeur_eur": 1827.68,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-06",
+        "valeur_eur": 1814.82,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-07",
+        "valeur_eur": 1821.31,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-10",
+        "valeur_eur": 1811.89,
+        "positions": 2
+      },
+      {
+        "date": "2022-10-11",
+        "valeur_eur": 1803.38,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-12",
+        "valeur_eur": 1798.06,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-13",
+        "valeur_eur": 1811.2,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-14",
+        "valeur_eur": 1819.99,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-17",
+        "valeur_eur": 1829.26,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-18",
+        "valeur_eur": 1824.84,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-19",
+        "valeur_eur": 1826.59,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-20",
+        "valeur_eur": 1834.35,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-21",
+        "valeur_eur": 1832.44,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-24",
+        "valeur_eur": 1841.17,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-25",
+        "valeur_eur": 1842.0,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-26",
+        "valeur_eur": 1843.79,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-27",
+        "valeur_eur": 1848.59,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-28",
+        "valeur_eur": 1844.8,
+        "positions": 3
+      },
+      {
+        "date": "2022-10-31",
+        "valeur_eur": 1848.49,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-01",
+        "valeur_eur": 1859.36,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-02",
+        "valeur_eur": 1854.1,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-03",
+        "valeur_eur": 1854.96,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-04",
+        "valeur_eur": 1871.47,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-07",
+        "valeur_eur": 1879.67,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-08",
+        "valeur_eur": 1876.99,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-09",
+        "valeur_eur": 1871.35,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-10",
+        "valeur_eur": 1879.45,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-11",
+        "valeur_eur": 1889.35,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-14",
+        "valeur_eur": 1888.71,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-15",
+        "valeur_eur": 1894.1,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-16",
+        "valeur_eur": 1891.67,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-17",
+        "valeur_eur": 1884.54,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-18",
+        "valeur_eur": 1888.34,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-21",
+        "valeur_eur": 1877.45,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-22",
+        "valeur_eur": 1895.27,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-23",
+        "valeur_eur": 1892.59,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-24",
+        "valeur_eur": 1893.81,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-25",
+        "valeur_eur": 1899.16,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-28",
+        "valeur_eur": 1893.4,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-29",
+        "valeur_eur": 1904.9,
+        "positions": 3
+      },
+      {
+        "date": "2022-11-30",
+        "valeur_eur": 1914.49,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-01",
+        "valeur_eur": 1906.53,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-02",
+        "valeur_eur": 1907.59,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-05",
+        "valeur_eur": 1902.65,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-06",
+        "valeur_eur": 1904.17,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-07",
+        "valeur_eur": 1894.45,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-08",
+        "valeur_eur": 1899.45,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-09",
+        "valeur_eur": 1898.17,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-12",
+        "valeur_eur": 1899.67,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-13",
+        "valeur_eur": 1913.33,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-14",
+        "valeur_eur": 1904.48,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-15",
+        "valeur_eur": 1886.39,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-16",
+        "valeur_eur": 1875.58,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-19",
+        "valeur_eur": 1882.58,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-20",
+        "valeur_eur": 1886.67,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-21",
+        "valeur_eur": 1903.4,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-22",
+        "valeur_eur": 1901.11,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-23",
+        "valeur_eur": 1903.37,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-27",
+        "valeur_eur": 1907.83,
+        "positions": 2
+      },
+      {
+        "date": "2022-12-28",
+        "valeur_eur": 1892.62,
+        "positions": 2
+      },
+      {
+        "date": "2022-12-29",
+        "valeur_eur": 1895.69,
+        "positions": 3
+      },
+      {
+        "date": "2022-12-30",
+        "valeur_eur": 1876.27,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-02",
+        "valeur_eur": 1889.35,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-03",
+        "valeur_eur": 1901.77,
+        "positions": 2
+      },
+      {
+        "date": "2023-01-04",
+        "valeur_eur": 1929.69,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-05",
+        "valeur_eur": 1937.82,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-06",
+        "valeur_eur": 1928.42,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-09",
+        "valeur_eur": 1915.69,
+        "positions": 2
+      },
+      {
+        "date": "2023-01-10",
+        "valeur_eur": 1905.54,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-11",
+        "valeur_eur": 1895.95,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-12",
+        "valeur_eur": 1914.07,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-13",
+        "valeur_eur": 1916.67,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-16",
+        "valeur_eur": 1896.95,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-17",
+        "valeur_eur": 1898.26,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-18",
+        "valeur_eur": 1901.01,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-19",
+        "valeur_eur": 1890.97,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-20",
+        "valeur_eur": 1901.69,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-23",
+        "valeur_eur": 1902.17,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-24",
+        "valeur_eur": 1910.94,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-25",
+        "valeur_eur": 1908.68,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-26",
+        "valeur_eur": 1909.44,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-27",
+        "valeur_eur": 1897.66,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-30",
+        "valeur_eur": 1899.51,
+        "positions": 3
+      },
+      {
+        "date": "2023-01-31",
+        "valeur_eur": 1907.04,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-01",
+        "valeur_eur": 1910.9,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-02",
+        "valeur_eur": 1906.35,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-03",
+        "valeur_eur": 1901.12,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-06",
+        "valeur_eur": 1892.73,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-07",
+        "valeur_eur": 1886.91,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-08",
+        "valeur_eur": 1898.52,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-09",
+        "valeur_eur": 1897.45,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-10",
+        "valeur_eur": 1903.77,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-13",
+        "valeur_eur": 1909.0,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-14",
+        "valeur_eur": 1928.14,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-15",
+        "valeur_eur": 1939.3,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-16",
+        "valeur_eur": 2003.34,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-17",
+        "valeur_eur": 2010.77,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-20",
+        "valeur_eur": 2010.61,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-21",
+        "valeur_eur": 2007.72,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-22",
+        "valeur_eur": 2009.58,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-23",
+        "valeur_eur": 2009.47,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-24",
+        "valeur_eur": 2007.04,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-27",
+        "valeur_eur": 2014.84,
+        "positions": 3
+      },
+      {
+        "date": "2023-02-28",
+        "valeur_eur": 2013.55,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-01",
+        "valeur_eur": 1997.71,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-02",
+        "valeur_eur": 1999.36,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-03",
+        "valeur_eur": 2005.25,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-06",
+        "valeur_eur": 2014.95,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-07",
+        "valeur_eur": 2006.78,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-08",
+        "valeur_eur": 2009.31,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-09",
+        "valeur_eur": 2007.63,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-10",
+        "valeur_eur": 1994.91,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-13",
+        "valeur_eur": 1964.68,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-14",
+        "valeur_eur": 1976.21,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-15",
+        "valeur_eur": 1945.83,
+        "positions": 2
+      },
+      {
+        "date": "2023-03-16",
+        "valeur_eur": 1952.64,
+        "positions": 2
+      },
+      {
+        "date": "2023-03-17",
+        "valeur_eur": 1935.58,
+        "positions": 2
+      },
+      {
+        "date": "2023-03-20",
+        "valeur_eur": 1940.64,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-21",
+        "valeur_eur": 1961.46,
+        "positions": 2
+      },
+      {
+        "date": "2023-03-22",
+        "valeur_eur": 1963.77,
+        "positions": 2
+      },
+      {
+        "date": "2023-03-23",
+        "valeur_eur": 1989.03,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-24",
+        "valeur_eur": 1983.56,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-27",
+        "valeur_eur": 1994.0,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-28",
+        "valeur_eur": 1991.95,
+        "positions": 2
+      },
+      {
+        "date": "2023-03-29",
+        "valeur_eur": 2002.53,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-30",
+        "valeur_eur": 1996.28,
+        "positions": 3
+      },
+      {
+        "date": "2023-03-31",
+        "valeur_eur": 2003.77,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-03",
+        "valeur_eur": 2005.69,
+        "positions": 2
+      },
+      {
+        "date": "2023-04-04",
+        "valeur_eur": 1996.12,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-05",
+        "valeur_eur": 2000.93,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-06",
+        "valeur_eur": 2012.7,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-11",
+        "valeur_eur": 2016.79,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-12",
+        "valeur_eur": 2019.79,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-13",
+        "valeur_eur": 2019.86,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-14",
+        "valeur_eur": 2027.6,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-17",
+        "valeur_eur": 2027.37,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-18",
+        "valeur_eur": 2021.72,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-19",
+        "valeur_eur": 2024.06,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-20",
+        "valeur_eur": 2005.94,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-21",
+        "valeur_eur": 2010.09,
+        "positions": 2
+      },
+      {
+        "date": "2023-04-24",
+        "valeur_eur": 2001.93,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-25",
+        "valeur_eur": 2005.51,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-26",
+        "valeur_eur": 1999.99,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-27",
+        "valeur_eur": 1997.86,
+        "positions": 3
+      },
+      {
+        "date": "2023-04-28",
+        "valeur_eur": 1992.82,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-02",
+        "valeur_eur": 1969.45,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-03",
+        "valeur_eur": 1981.56,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-04",
+        "valeur_eur": 1984.09,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-05",
+        "valeur_eur": 2003.52,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-08",
+        "valeur_eur": 2003.34,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-09",
+        "valeur_eur": 2008.61,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-10",
+        "valeur_eur": 1994.03,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-11",
+        "valeur_eur": 1988.37,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-12",
+        "valeur_eur": 1992.28,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-15",
+        "valeur_eur": 1997.45,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-16",
+        "valeur_eur": 1984.35,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-17",
+        "valeur_eur": 1975.71,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-18",
+        "valeur_eur": 1983.79,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-19",
+        "valeur_eur": 1997.26,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-22",
+        "valeur_eur": 1983.85,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-23",
+        "valeur_eur": 1987.03,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-24",
+        "valeur_eur": 1982.16,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-25",
+        "valeur_eur": 1962.66,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-26",
+        "valeur_eur": 1970.76,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-29",
+        "valeur_eur": 1971.87,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-30",
+        "valeur_eur": 1958.91,
+        "positions": 3
+      },
+      {
+        "date": "2023-05-31",
+        "valeur_eur": 1955.67,
+        "positions": 2
+      },
+      {
+        "date": "2023-06-01",
+        "valeur_eur": 1942.83,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-02",
+        "valeur_eur": 1951.47,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-05",
+        "valeur_eur": 1946.22,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-06",
+        "valeur_eur": 1961.71,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-07",
+        "valeur_eur": 1950.95,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-08",
+        "valeur_eur": 1949.91,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-09",
+        "valeur_eur": 1940.44,
+        "positions": 2
+      },
+      {
+        "date": "2023-06-12",
+        "valeur_eur": 1938.14,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-13",
+        "valeur_eur": 1935.74,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-14",
+        "valeur_eur": 1932.95,
+        "positions": 2
+      },
+      {
+        "date": "2023-06-15",
+        "valeur_eur": 1926.91,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-16",
+        "valeur_eur": 1937.41,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-19",
+        "valeur_eur": 1927.54,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-20",
+        "valeur_eur": 1930.37,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-21",
+        "valeur_eur": 1926.18,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-22",
+        "valeur_eur": 1921.7,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-23",
+        "valeur_eur": 1915.0,
+        "positions": 2
+      },
+      {
+        "date": "2023-06-26",
+        "valeur_eur": 1903.74,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-27",
+        "valeur_eur": 1904.54,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-28",
+        "valeur_eur": 1915.42,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-29",
+        "valeur_eur": 1918.54,
+        "positions": 3
+      },
+      {
+        "date": "2023-06-30",
+        "valeur_eur": 1930.06,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-03",
+        "valeur_eur": 1928.17,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-04",
+        "valeur_eur": 1925.16,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-05",
+        "valeur_eur": 1920.83,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-06",
+        "valeur_eur": 1905.63,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-07",
+        "valeur_eur": 1906.48,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-10",
+        "valeur_eur": 1906.87,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-11",
+        "valeur_eur": 1913.81,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-12",
+        "valeur_eur": 1929.13,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-13",
+        "valeur_eur": 1938.82,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-14",
+        "valeur_eur": 1937.2,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-17",
+        "valeur_eur": 1932.63,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-18",
+        "valeur_eur": 1934.77,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-19",
+        "valeur_eur": 1940.05,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-20",
+        "valeur_eur": 1942.33,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-21",
+        "valeur_eur": 1929.94,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-24",
+        "valeur_eur": 1924.23,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-25",
+        "valeur_eur": 1910.94,
+        "positions": 2
+      },
+      {
+        "date": "2023-07-26",
+        "valeur_eur": 1916.16,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-27",
+        "valeur_eur": 1933.85,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-28",
+        "valeur_eur": 1928.14,
+        "positions": 3
+      },
+      {
+        "date": "2023-07-31",
+        "valeur_eur": 1928.39,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-01",
+        "valeur_eur": 1930.45,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-02",
+        "valeur_eur": 1920.96,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-03",
+        "valeur_eur": 1905.04,
+        "positions": 2
+      },
+      {
+        "date": "2023-08-04",
+        "valeur_eur": 1901.19,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-07",
+        "valeur_eur": 1902.23,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-08",
+        "valeur_eur": 1903.18,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-09",
+        "valeur_eur": 1903.01,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-10",
+        "valeur_eur": 1905.76,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-11",
+        "valeur_eur": 1898.09,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-14",
+        "valeur_eur": 1895.59,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-15",
+        "valeur_eur": 1888.24,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-16",
+        "valeur_eur": 1884.65,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-17",
+        "valeur_eur": 1883.95,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-18",
+        "valeur_eur": 1881.67,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-21",
+        "valeur_eur": 1886.66,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-22",
+        "valeur_eur": 1889.14,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-23",
+        "valeur_eur": 1887.96,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-24",
+        "valeur_eur": 1888.96,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-25",
+        "valeur_eur": 1890.63,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-28",
+        "valeur_eur": 1896.75,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-29",
+        "valeur_eur": 1877.92,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-30",
+        "valeur_eur": 1881.98,
+        "positions": 3
+      },
+      {
+        "date": "2023-08-31",
+        "valeur_eur": 1887.1,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-01",
+        "valeur_eur": 1878.71,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-04",
+        "valeur_eur": 1875.42,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-05",
+        "valeur_eur": 1868.28,
+        "positions": 2
+      },
+      {
+        "date": "2023-09-06",
+        "valeur_eur": 1863.3,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-07",
+        "valeur_eur": 1860.49,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-08",
+        "valeur_eur": 1868.72,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-11",
+        "valeur_eur": 1871.99,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-12",
+        "valeur_eur": 1873.35,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-13",
+        "valeur_eur": 1866.66,
+        "positions": 2
+      },
+      {
+        "date": "2023-09-14",
+        "valeur_eur": 1867.84,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-15",
+        "valeur_eur": 1875.98,
+        "positions": 2
+      },
+      {
+        "date": "2023-09-18",
+        "valeur_eur": 1859.94,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-19",
+        "valeur_eur": 1867.64,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-20",
+        "valeur_eur": 1869.88,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-21",
+        "valeur_eur": 1858.03,
+        "positions": 2
+      },
+      {
+        "date": "2023-09-22",
+        "valeur_eur": 1843.24,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-25",
+        "valeur_eur": 1841.57,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-26",
+        "valeur_eur": 1835.45,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-27",
+        "valeur_eur": 1840.49,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-28",
+        "valeur_eur": 1842.98,
+        "positions": 3
+      },
+      {
+        "date": "2023-09-29",
+        "valeur_eur": 1845.72,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-02",
+        "valeur_eur": 1835.57,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-03",
+        "valeur_eur": 1818.98,
+        "positions": 2
+      },
+      {
+        "date": "2023-10-04",
+        "valeur_eur": 1822.49,
+        "positions": 2
+      },
+      {
+        "date": "2023-10-05",
+        "valeur_eur": 1819.1,
+        "positions": 2
+      },
+      {
+        "date": "2023-10-06",
+        "valeur_eur": 1827.39,
+        "positions": 2
+      },
+      {
+        "date": "2023-10-09",
+        "valeur_eur": 1813.63,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-10",
+        "valeur_eur": 1832.21,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-11",
+        "valeur_eur": 1831.68,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-12",
+        "valeur_eur": 1826.06,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-13",
+        "valeur_eur": 1814.4,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-16",
+        "valeur_eur": 1811.7,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-17",
+        "valeur_eur": 1806.48,
+        "positions": 2
+      },
+      {
+        "date": "2023-10-18",
+        "valeur_eur": 1798.05,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-19",
+        "valeur_eur": 1790.79,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-20",
+        "valeur_eur": 1786.51,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-23",
+        "valeur_eur": 1792.16,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-24",
+        "valeur_eur": 1798.21,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-25",
+        "valeur_eur": 1796.9,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-26",
+        "valeur_eur": 1796.16,
+        "positions": 2
+      },
+      {
+        "date": "2023-10-27",
+        "valeur_eur": 1776.75,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-30",
+        "valeur_eur": 1782.43,
+        "positions": 3
+      },
+      {
+        "date": "2023-10-31",
+        "valeur_eur": 1783.51,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-01",
+        "valeur_eur": 1789.31,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-02",
+        "valeur_eur": 1795.4,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-03",
+        "valeur_eur": 1791.94,
+        "positions": 2
+      },
+      {
+        "date": "2023-11-06",
+        "valeur_eur": 1777.88,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-07",
+        "valeur_eur": 1782.14,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-08",
+        "valeur_eur": 1787.82,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-09",
+        "valeur_eur": 1788.28,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-10",
+        "valeur_eur": 1790.81,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-13",
+        "valeur_eur": 1801.27,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-14",
+        "valeur_eur": 1810.56,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-15",
+        "valeur_eur": 1808.37,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-16",
+        "valeur_eur": 1814.63,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-17",
+        "valeur_eur": 1822.01,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-20",
+        "valeur_eur": 1826.86,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-21",
+        "valeur_eur": 1831.61,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-22",
+        "valeur_eur": 1841.49,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-23",
+        "valeur_eur": 1843.38,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-24",
+        "valeur_eur": 1845.45,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-27",
+        "valeur_eur": 1841.05,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-28",
+        "valeur_eur": 1847.76,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-29",
+        "valeur_eur": 1855.17,
+        "positions": 3
+      },
+      {
+        "date": "2023-11-30",
+        "valeur_eur": 1857.19,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-01",
+        "valeur_eur": 1861.47,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-04",
+        "valeur_eur": 1854.53,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-05",
+        "valeur_eur": 1861.51,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-06",
+        "valeur_eur": 1866.21,
+        "positions": 2
+      },
+      {
+        "date": "2023-12-07",
+        "valeur_eur": 1866.0,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-08",
+        "valeur_eur": 1892.91,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-11",
+        "valeur_eur": 1894.83,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-12",
+        "valeur_eur": 1902.35,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-13",
+        "valeur_eur": 1901.9,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-14",
+        "valeur_eur": 1897.69,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-15",
+        "valeur_eur": 1890.01,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-18",
+        "valeur_eur": 1879.15,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-19",
+        "valeur_eur": 1882.19,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-20",
+        "valeur_eur": 1878.05,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-21",
+        "valeur_eur": 1873.84,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-22",
+        "valeur_eur": 1875.71,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-27",
+        "valeur_eur": 1878.52,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-28",
+        "valeur_eur": 1873.42,
+        "positions": 3
+      },
+      {
+        "date": "2023-12-29",
+        "valeur_eur": 1874.23,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-02",
+        "valeur_eur": 1870.64,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-03",
+        "valeur_eur": 1838.03,
+        "positions": 2
+      },
+      {
+        "date": "2024-01-04",
+        "valeur_eur": 1844.93,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-05",
+        "valeur_eur": 1839.91,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-08",
+        "valeur_eur": 1854.93,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-09",
+        "valeur_eur": 1852.0,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-10",
+        "valeur_eur": 1853.32,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-11",
+        "valeur_eur": 1853.14,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-12",
+        "valeur_eur": 1885.6,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-15",
+        "valeur_eur": 1884.17,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-16",
+        "valeur_eur": 1878.77,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-17",
+        "valeur_eur": 1869.51,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-18",
+        "valeur_eur": 1882.36,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-19",
+        "valeur_eur": 1865.69,
+        "positions": 2
+      },
+      {
+        "date": "2024-01-22",
+        "valeur_eur": 1864.16,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-23",
+        "valeur_eur": 1846.9,
+        "positions": 2
+      },
+      {
+        "date": "2024-01-24",
+        "valeur_eur": 1852.84,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-25",
+        "valeur_eur": 1853.43,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-26",
+        "valeur_eur": 1854.76,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-29",
+        "valeur_eur": 1861.47,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-30",
+        "valeur_eur": 1861.68,
+        "positions": 3
+      },
+      {
+        "date": "2024-01-31",
+        "valeur_eur": 1861.59,
+        "positions": 2
+      },
+      {
+        "date": "2024-02-01",
+        "valeur_eur": 1854.69,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-02",
+        "valeur_eur": 1856.14,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-05",
+        "valeur_eur": 1850.8,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-06",
+        "valeur_eur": 1860.29,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-07",
+        "valeur_eur": 1855.46,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-08",
+        "valeur_eur": 1872.62,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-09",
+        "valeur_eur": 1871.83,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-12",
+        "valeur_eur": 1872.41,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-13",
+        "valeur_eur": 1855.27,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-14",
+        "valeur_eur": 1852.65,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-15",
+        "valeur_eur": 1853.57,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-16",
+        "valeur_eur": 1859.79,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-19",
+        "valeur_eur": 1852.2,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-20",
+        "valeur_eur": 1849.94,
+        "positions": 2
+      },
+      {
+        "date": "2024-02-21",
+        "valeur_eur": 1845.79,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-22",
+        "valeur_eur": 1872.59,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-23",
+        "valeur_eur": 1875.12,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-26",
+        "valeur_eur": 1871.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-27",
+        "valeur_eur": 1872.16,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-28",
+        "valeur_eur": 1871.6,
+        "positions": 3
+      },
+      {
+        "date": "2024-02-29",
+        "valeur_eur": 1868.62,
+        "positions": 2
+      },
+      {
+        "date": "2024-03-01",
+        "valeur_eur": 1849.2,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-04",
+        "valeur_eur": 1849.42,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-05",
+        "valeur_eur": 1852.85,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-06",
+        "valeur_eur": 1851.78,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-07",
+        "valeur_eur": 1862.18,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-08",
+        "valeur_eur": 1868.64,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-11",
+        "valeur_eur": 1869.93,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-12",
+        "valeur_eur": 1884.97,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-13",
+        "valeur_eur": 1892.39,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-14",
+        "valeur_eur": 1884.97,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-15",
+        "valeur_eur": 1885.42,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-18",
+        "valeur_eur": 1883.62,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-19",
+        "valeur_eur": 1888.81,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-20",
+        "valeur_eur": 1887.7,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-21",
+        "valeur_eur": 1892.51,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-22",
+        "valeur_eur": 1891.32,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-25",
+        "valeur_eur": 1893.92,
+        "positions": 2
+      },
+      {
+        "date": "2024-03-26",
+        "valeur_eur": 1891.97,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-27",
+        "valeur_eur": 1893.56,
+        "positions": 3
+      },
+      {
+        "date": "2024-03-28",
+        "valeur_eur": 1894.99,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-02",
+        "valeur_eur": 1889.28,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-03",
+        "valeur_eur": 1892.59,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-04",
+        "valeur_eur": 1891.6,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-05",
+        "valeur_eur": 1871.72,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-08",
+        "valeur_eur": 1873.25,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-09",
+        "valeur_eur": 1862.61,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-10",
+        "valeur_eur": 1862.15,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-11",
+        "valeur_eur": 1849.67,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-12",
+        "valeur_eur": 1847.97,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-15",
+        "valeur_eur": 1852.35,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-16",
+        "valeur_eur": 1837.16,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-17",
+        "valeur_eur": 1842.11,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-18",
+        "valeur_eur": 1850.14,
+        "positions": 2
+      },
+      {
+        "date": "2024-04-19",
+        "valeur_eur": 1850.1,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-22",
+        "valeur_eur": 1848.49,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-23",
+        "valeur_eur": 1867.92,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-24",
+        "valeur_eur": 1864.8,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-25",
+        "valeur_eur": 1852.97,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-26",
+        "valeur_eur": 1867.17,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-29",
+        "valeur_eur": 1870.92,
+        "positions": 3
+      },
+      {
+        "date": "2024-04-30",
+        "valeur_eur": 1871.87,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-02",
+        "valeur_eur": 1862.42,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-03",
+        "valeur_eur": 1863.88,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-06",
+        "valeur_eur": 1882.03,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-07",
+        "valeur_eur": 1887.89,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-08",
+        "valeur_eur": 1908.41,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-09",
+        "valeur_eur": 1920.85,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-10",
+        "valeur_eur": 1933.09,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-13",
+        "valeur_eur": 1934.63,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-14",
+        "valeur_eur": 1929.62,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-15",
+        "valeur_eur": 1936.46,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-16",
+        "valeur_eur": 1928.89,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-17",
+        "valeur_eur": 1921.59,
+        "positions": 2
+      },
+      {
+        "date": "2024-05-20",
+        "valeur_eur": 1925.29,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-21",
+        "valeur_eur": 1922.81,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-22",
+        "valeur_eur": 1923.23,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-23",
+        "valeur_eur": 1925.37,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-24",
+        "valeur_eur": 1932.03,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-27",
+        "valeur_eur": 1933.89,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-28",
+        "valeur_eur": 1927.22,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-29",
+        "valeur_eur": 1912.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-30",
+        "valeur_eur": 1918.09,
+        "positions": 3
+      },
+      {
+        "date": "2024-05-31",
+        "valeur_eur": 1919.2,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-03",
+        "valeur_eur": 1919.73,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-04",
+        "valeur_eur": 1914.85,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-05",
+        "valeur_eur": 1920.13,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-06",
+        "valeur_eur": 1922.37,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-07",
+        "valeur_eur": 1914.47,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-10",
+        "valeur_eur": 1904.98,
+        "positions": 2
+      },
+      {
+        "date": "2024-06-11",
+        "valeur_eur": 1895.89,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-12",
+        "valeur_eur": 1917.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-13",
+        "valeur_eur": 1900.6,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-14",
+        "valeur_eur": 1878.13,
+        "positions": 2
+      },
+      {
+        "date": "2024-06-17",
+        "valeur_eur": 1879.17,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-18",
+        "valeur_eur": 1891.98,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-19",
+        "valeur_eur": 1868.51,
+        "positions": 2
+      },
+      {
+        "date": "2024-06-20",
+        "valeur_eur": 1865.11,
+        "positions": 1
+      },
+      {
+        "date": "2024-06-21",
+        "valeur_eur": 1853.06,
+        "positions": 2
+      },
+      {
+        "date": "2024-06-24",
+        "valeur_eur": 1858.92,
+        "positions": 2
+      },
+      {
+        "date": "2024-06-25",
+        "valeur_eur": 1853.94,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-26",
+        "valeur_eur": 1845.61,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-27",
+        "valeur_eur": 1835.6,
+        "positions": 3
+      },
+      {
+        "date": "2024-06-28",
+        "valeur_eur": 1829.03,
+        "positions": 2
+      },
+      {
+        "date": "2024-07-01",
+        "valeur_eur": 1827.24,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-02",
+        "valeur_eur": 1819.63,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-03",
+        "valeur_eur": 1834.19,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-04",
+        "valeur_eur": 1842.5,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-05",
+        "valeur_eur": 1830.78,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-08",
+        "valeur_eur": 1840.15,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-09",
+        "valeur_eur": 1831.85,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-10",
+        "valeur_eur": 1845.59,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-11",
+        "valeur_eur": 1852.32,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-12",
+        "valeur_eur": 1865.84,
+        "positions": 2
+      },
+      {
+        "date": "2024-07-15",
+        "valeur_eur": 1845.23,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-16",
+        "valeur_eur": 1838.76,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-17",
+        "valeur_eur": 1841.19,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-18",
+        "valeur_eur": 1840.01,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-19",
+        "valeur_eur": 1834.98,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-22",
+        "valeur_eur": 1840.7,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-23",
+        "valeur_eur": 1843.08,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-24",
+        "valeur_eur": 1841.33,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-25",
+        "valeur_eur": 1852.66,
+        "positions": 2
+      },
+      {
+        "date": "2024-07-26",
+        "valeur_eur": 1858.03,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-29",
+        "valeur_eur": 1843.87,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-30",
+        "valeur_eur": 1850.62,
+        "positions": 3
+      },
+      {
+        "date": "2024-07-31",
+        "valeur_eur": 1864.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-01",
+        "valeur_eur": 1852.8,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-02",
+        "valeur_eur": 1866.02,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-05",
+        "valeur_eur": 1841.64,
+        "positions": 2
+      },
+      {
+        "date": "2024-08-06",
+        "valeur_eur": 1826.48,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-07",
+        "valeur_eur": 1846.27,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-08",
+        "valeur_eur": 1837.76,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-09",
+        "valeur_eur": 1838.89,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-12",
+        "valeur_eur": 1836.43,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-13",
+        "valeur_eur": 1844.65,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-14",
+        "valeur_eur": 1851.01,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-15",
+        "valeur_eur": 1853.73,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-16",
+        "valeur_eur": 1857.99,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-19",
+        "valeur_eur": 1861.65,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-20",
+        "valeur_eur": 1857.15,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-21",
+        "valeur_eur": 1855.21,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-22",
+        "valeur_eur": 1863.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-23",
+        "valeur_eur": 1870.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-26",
+        "valeur_eur": 1876.25,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-27",
+        "valeur_eur": 1879.95,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-28",
+        "valeur_eur": 1885.03,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-29",
+        "valeur_eur": 1876.59,
+        "positions": 3
+      },
+      {
+        "date": "2024-08-30",
+        "valeur_eur": 1879.18,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-02",
+        "valeur_eur": 1896.02,
+        "positions": 2
+      },
+      {
+        "date": "2024-09-03",
+        "valeur_eur": 1891.7,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-04",
+        "valeur_eur": 1902.65,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-05",
+        "valeur_eur": 1894.16,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-06",
+        "valeur_eur": 1899.75,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-09",
+        "valeur_eur": 1912.22,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-10",
+        "valeur_eur": 1913.12,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-11",
+        "valeur_eur": 1905.03,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-12",
+        "valeur_eur": 1893.24,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-13",
+        "valeur_eur": 1893.43,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-16",
+        "valeur_eur": 1894.25,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-17",
+        "valeur_eur": 1884.81,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-18",
+        "valeur_eur": 1883.14,
+        "positions": 2
+      },
+      {
+        "date": "2024-09-19",
+        "valeur_eur": 1883.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-20",
+        "valeur_eur": 1880.62,
+        "positions": 2
+      },
+      {
+        "date": "2024-09-23",
+        "valeur_eur": 1869.36,
+        "positions": 2
+      },
+      {
+        "date": "2024-09-24",
+        "valeur_eur": 1869.91,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-25",
+        "valeur_eur": 1870.08,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-26",
+        "valeur_eur": 1876.55,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-27",
+        "valeur_eur": 1878.59,
+        "positions": 3
+      },
+      {
+        "date": "2024-09-30",
+        "valeur_eur": 1872.96,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-01",
+        "valeur_eur": 1870.03,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-02",
+        "valeur_eur": 1862.71,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-03",
+        "valeur_eur": 1852.09,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-04",
+        "valeur_eur": 1851.68,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-07",
+        "valeur_eur": 1850.71,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-08",
+        "valeur_eur": 1851.71,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-09",
+        "valeur_eur": 1861.82,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-10",
+        "valeur_eur": 1856.21,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-11",
+        "valeur_eur": 1863.87,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-14",
+        "valeur_eur": 1868.93,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-15",
+        "valeur_eur": 1873.28,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-16",
+        "valeur_eur": 1875.77,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-17",
+        "valeur_eur": 1876.51,
+        "positions": 2
+      },
+      {
+        "date": "2024-10-18",
+        "valeur_eur": 1875.08,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-21",
+        "valeur_eur": 1867.23,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-22",
+        "valeur_eur": 1858.93,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-23",
+        "valeur_eur": 1855.17,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-24",
+        "valeur_eur": 1858.39,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-25",
+        "valeur_eur": 1853.87,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-28",
+        "valeur_eur": 1863.54,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-29",
+        "valeur_eur": 1854.71,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-30",
+        "valeur_eur": 1849.15,
+        "positions": 3
+      },
+      {
+        "date": "2024-10-31",
+        "valeur_eur": 1840.77,
+        "positions": 2
+      },
+      {
+        "date": "2024-11-01",
+        "valeur_eur": 1843.39,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-04",
+        "valeur_eur": 1842.45,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-05",
+        "valeur_eur": 1846.21,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-06",
+        "valeur_eur": 1831.0,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-07",
+        "valeur_eur": 1816.15,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-08",
+        "valeur_eur": 1821.71,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-11",
+        "valeur_eur": 1826.68,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-12",
+        "valeur_eur": 1807.86,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-13",
+        "valeur_eur": 1800.54,
+        "positions": 1
+      },
+      {
+        "date": "2024-11-14",
+        "valeur_eur": 1803.18,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-15",
+        "valeur_eur": 1806.19,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-18",
+        "valeur_eur": 1805.75,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-19",
+        "valeur_eur": 1807.75,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-20",
+        "valeur_eur": 1807.67,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-21",
+        "valeur_eur": 1807.2,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-22",
+        "valeur_eur": 1814.61,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-25",
+        "valeur_eur": 1818.95,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-26",
+        "valeur_eur": 1811.1,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-27",
+        "valeur_eur": 1806.52,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-28",
+        "valeur_eur": 1812.09,
+        "positions": 3
+      },
+      {
+        "date": "2024-11-29",
+        "valeur_eur": 1814.99,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-02",
+        "valeur_eur": 1808.76,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-03",
+        "valeur_eur": 1809.44,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-04",
+        "valeur_eur": 1814.52,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-05",
+        "valeur_eur": 1825.89,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-06",
+        "valeur_eur": 1827.64,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-09",
+        "valeur_eur": 1821.74,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-10",
+        "valeur_eur": 1811.88,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-11",
+        "valeur_eur": 1818.76,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-12",
+        "valeur_eur": 1821.48,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-13",
+        "valeur_eur": 1822.09,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-16",
+        "valeur_eur": 1821.8,
+        "positions": 2
+      },
+      {
+        "date": "2024-12-17",
+        "valeur_eur": 1815.21,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-18",
+        "valeur_eur": 1818.32,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-19",
+        "valeur_eur": 1812.5,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-20",
+        "valeur_eur": 1812.21,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-23",
+        "valeur_eur": 1811.66,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-24",
+        "valeur_eur": 1810.63,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-27",
+        "valeur_eur": 1816.96,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-30",
+        "valeur_eur": 1815.51,
+        "positions": 3
+      },
+      {
+        "date": "2024-12-31",
+        "valeur_eur": 1822.94,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-02",
+        "valeur_eur": 1821.28,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-03",
+        "valeur_eur": 1806.88,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-06",
+        "valeur_eur": 1820.07,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-07",
+        "valeur_eur": 1818.51,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-08",
+        "valeur_eur": 1823.56,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-09",
+        "valeur_eur": 1826.09,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-10",
+        "valeur_eur": 1824.25,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-13",
+        "valeur_eur": 1820.51,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-14",
+        "valeur_eur": 1829.76,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-15",
+        "valeur_eur": 1842.3,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-16",
+        "valeur_eur": 1844.85,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-17",
+        "valeur_eur": 1850.7,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-20",
+        "valeur_eur": 1859.39,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-21",
+        "valeur_eur": 1863.0,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-22",
+        "valeur_eur": 1869.79,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-23",
+        "valeur_eur": 1874.77,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-24",
+        "valeur_eur": 1878.94,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-27",
+        "valeur_eur": 1881.92,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-28",
+        "valeur_eur": 1890.03,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-29",
+        "valeur_eur": 1896.1,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-30",
+        "valeur_eur": 1899.56,
+        "positions": 3
+      },
+      {
+        "date": "2025-01-31",
+        "valeur_eur": 1902.91,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-03",
+        "valeur_eur": 1891.14,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-04",
+        "valeur_eur": 1900.33,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-05",
+        "valeur_eur": 1902.35,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-06",
+        "valeur_eur": 1943.43,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-07",
+        "valeur_eur": 1953.07,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-10",
+        "valeur_eur": 1949.79,
+        "positions": 1
+      },
+      {
+        "date": "2025-02-11",
+        "valeur_eur": 1949.95,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-12",
+        "valeur_eur": 1953.43,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-13",
+        "valeur_eur": 1940.04,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-14",
+        "valeur_eur": 1943.99,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-17",
+        "valeur_eur": 1947.42,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-18",
+        "valeur_eur": 1955.04,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-19",
+        "valeur_eur": 1958.9,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-20",
+        "valeur_eur": 1944.19,
+        "positions": 2
+      },
+      {
+        "date": "2025-02-21",
+        "valeur_eur": 1947.46,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-24",
+        "valeur_eur": 1961.6,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-25",
+        "valeur_eur": 1970.1,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-26",
+        "valeur_eur": 1976.04,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-27",
+        "valeur_eur": 1993.83,
+        "positions": 3
+      },
+      {
+        "date": "2025-02-28",
+        "valeur_eur": 1990.95,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-03",
+        "valeur_eur": 1991.07,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-04",
+        "valeur_eur": 1999.03,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-05",
+        "valeur_eur": 2002.56,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-06",
+        "valeur_eur": 2013.03,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-07",
+        "valeur_eur": 2022.63,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-10",
+        "valeur_eur": 2008.46,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-11",
+        "valeur_eur": 2000.24,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-12",
+        "valeur_eur": 2001.84,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-13",
+        "valeur_eur": 2005.56,
+        "positions": 2
+      },
+      {
+        "date": "2025-03-14",
+        "valeur_eur": 2005.41,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-17",
+        "valeur_eur": 2008.75,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-18",
+        "valeur_eur": 2010.92,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-19",
+        "valeur_eur": 2013.77,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-20",
+        "valeur_eur": 2018.94,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-21",
+        "valeur_eur": 2019.74,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-24",
+        "valeur_eur": 2014.37,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-25",
+        "valeur_eur": 2024.41,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-26",
+        "valeur_eur": 2023.53,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-27",
+        "valeur_eur": 2027.71,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-28",
+        "valeur_eur": 2030.23,
+        "positions": 3
+      },
+      {
+        "date": "2025-03-31",
+        "valeur_eur": 2025.52,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-01",
+        "valeur_eur": 2032.05,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-02",
+        "valeur_eur": 2040.12,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-03",
+        "valeur_eur": 2058.73,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-04",
+        "valeur_eur": 2029.17,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-07",
+        "valeur_eur": 1973.7,
+        "positions": 2
+      },
+      {
+        "date": "2025-04-08",
+        "valeur_eur": 1990.66,
+        "positions": 2
+      },
+      {
+        "date": "2025-04-09",
+        "valeur_eur": 1965.08,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-10",
+        "valeur_eur": 1985.09,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-11",
+        "valeur_eur": 1994.43,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-14",
+        "valeur_eur": 2008.18,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-15",
+        "valeur_eur": 2016.06,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-16",
+        "valeur_eur": 2026.37,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-17",
+        "valeur_eur": 2024.33,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-22",
+        "valeur_eur": 2044.75,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-23",
+        "valeur_eur": 2046.68,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-24",
+        "valeur_eur": 2050.66,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-25",
+        "valeur_eur": 2053.25,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-28",
+        "valeur_eur": 2055.5,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-29",
+        "valeur_eur": 2063.12,
+        "positions": 3
+      },
+      {
+        "date": "2025-04-30",
+        "valeur_eur": 2073.06,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-02",
+        "valeur_eur": 2078.18,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-05",
+        "valeur_eur": 2076.75,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-06",
+        "valeur_eur": 2082.06,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-07",
+        "valeur_eur": 2088.84,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-08",
+        "valeur_eur": 2075.95,
+        "positions": 2
+      },
+      {
+        "date": "2025-05-09",
+        "valeur_eur": 2072.92,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-12",
+        "valeur_eur": 2071.18,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-13",
+        "valeur_eur": 2071.86,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-14",
+        "valeur_eur": 2084.79,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-15",
+        "valeur_eur": 2095.22,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-16",
+        "valeur_eur": 2096.78,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-19",
+        "valeur_eur": 2105.13,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-20",
+        "valeur_eur": 2118.56,
+        "positions": 2
+      },
+      {
+        "date": "2025-05-21",
+        "valeur_eur": 2118.5,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-22",
+        "valeur_eur": 2115.59,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-23",
+        "valeur_eur": 2098.72,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-26",
+        "valeur_eur": 2102.98,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-27",
+        "valeur_eur": 2104.22,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-28",
+        "valeur_eur": 2094.06,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-29",
+        "valeur_eur": 2089.09,
+        "positions": 3
+      },
+      {
+        "date": "2025-05-30",
+        "valeur_eur": 2093.38,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-02",
+        "valeur_eur": 2094.34,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-03",
+        "valeur_eur": 2099.01,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-04",
+        "valeur_eur": 2086.57,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-05",
+        "valeur_eur": 2085.04,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-06",
+        "valeur_eur": 2089.73,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-09",
+        "valeur_eur": 2096.34,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-10",
+        "valeur_eur": 2085.42,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-11",
+        "valeur_eur": 2073.32,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-12",
+        "valeur_eur": 2072.53,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-13",
+        "valeur_eur": 2064.05,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-16",
+        "valeur_eur": 2074.83,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-17",
+        "valeur_eur": 2063.3,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-18",
+        "valeur_eur": 2059.48,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-19",
+        "valeur_eur": 2044.12,
+        "positions": 2
+      },
+      {
+        "date": "2025-06-20",
+        "valeur_eur": 2050.06,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-23",
+        "valeur_eur": 2044.9,
+        "positions": 2
+      },
+      {
+        "date": "2025-06-24",
+        "valeur_eur": 2055.57,
+        "positions": 2
+      },
+      {
+        "date": "2025-06-25",
+        "valeur_eur": 2040.42,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-26",
+        "valeur_eur": 2003.88,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-27",
+        "valeur_eur": 2016.56,
+        "positions": 3
+      },
+      {
+        "date": "2025-06-30",
+        "valeur_eur": 2018.66,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-01",
+        "valeur_eur": 2040.85,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-02",
+        "valeur_eur": 2058.41,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-03",
+        "valeur_eur": 2054.93,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-04",
+        "valeur_eur": 2049.67,
+        "positions": 2
+      },
+      {
+        "date": "2025-07-07",
+        "valeur_eur": 2037.8,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-08",
+        "valeur_eur": 2049.78,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-09",
+        "valeur_eur": 2058.19,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-10",
+        "valeur_eur": 2067.22,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-11",
+        "valeur_eur": 2062.33,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-14",
+        "valeur_eur": 2056.49,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-15",
+        "valeur_eur": 2054.43,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-16",
+        "valeur_eur": 2047.99,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-17",
+        "valeur_eur": 2051.47,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-18",
+        "valeur_eur": 2058.58,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-21",
+        "valeur_eur": 2056.22,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-22",
+        "valeur_eur": 2056.34,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-23",
+        "valeur_eur": 2072.18,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-24",
+        "valeur_eur": 2057.21,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-25",
+        "valeur_eur": 2063.11,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-28",
+        "valeur_eur": 2062.8,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-29",
+        "valeur_eur": 2062.15,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-30",
+        "valeur_eur": 2063.17,
+        "positions": 3
+      },
+      {
+        "date": "2025-07-31",
+        "valeur_eur": 2058.99,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-01",
+        "valeur_eur": 2044.79,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-04",
+        "valeur_eur": 2050.66,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-05",
+        "valeur_eur": 2052.28,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-06",
+        "valeur_eur": 2057.28,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-07",
+        "valeur_eur": 2059.67,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-08",
+        "valeur_eur": 2063.48,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-11",
+        "valeur_eur": 2059.15,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-12",
+        "valeur_eur": 2069.19,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-13",
+        "valeur_eur": 2066.92,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-14",
+        "valeur_eur": 2066.0,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-15",
+        "valeur_eur": 2075.64,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-18",
+        "valeur_eur": 2068.31,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-19",
+        "valeur_eur": 2079.14,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-20",
+        "valeur_eur": 2081.9,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-21",
+        "valeur_eur": 2082.5,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-22",
+        "valeur_eur": 2090.18,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-25",
+        "valeur_eur": 2086.49,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-26",
+        "valeur_eur": 2078.15,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-27",
+        "valeur_eur": 2082.78,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-28",
+        "valeur_eur": 2087.7,
+        "positions": 3
+      },
+      {
+        "date": "2025-08-29",
+        "valeur_eur": 2085.38,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-01",
+        "valeur_eur": 2088.52,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-02",
+        "valeur_eur": 2094.97,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-03",
+        "valeur_eur": 2092.68,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-04",
+        "valeur_eur": 2090.92,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-05",
+        "valeur_eur": 2085.57,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-08",
+        "valeur_eur": 2091.58,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-09",
+        "valeur_eur": 2092.02,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-10",
+        "valeur_eur": 2093.41,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-11",
+        "valeur_eur": 2100.02,
+        "positions": 2
+      },
+      {
+        "date": "2025-09-12",
+        "valeur_eur": 2090.11,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-15",
+        "valeur_eur": 2105.15,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-16",
+        "valeur_eur": 2091.98,
+        "positions": 2
+      },
+      {
+        "date": "2025-09-17",
+        "valeur_eur": 2079.75,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-18",
+        "valeur_eur": 2084.82,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-19",
+        "valeur_eur": 2092.98,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-22",
+        "valeur_eur": 2097.77,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-23",
+        "valeur_eur": 2101.02,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-24",
+        "valeur_eur": 2091.37,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-25",
+        "valeur_eur": 2084.01,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-26",
+        "valeur_eur": 2103.67,
+        "positions": 2
+      },
+      {
+        "date": "2025-09-29",
+        "valeur_eur": 2105.19,
+        "positions": 3
+      },
+      {
+        "date": "2025-09-30",
+        "valeur_eur": 2101.32,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-01",
+        "valeur_eur": 2112.73,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-02",
+        "valeur_eur": 2116.77,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-03",
+        "valeur_eur": 2119.72,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-06",
+        "valeur_eur": 2086.25,
+        "positions": 2
+      },
+      {
+        "date": "2025-10-07",
+        "valeur_eur": 2078.12,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-08",
+        "valeur_eur": 2083.46,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-09",
+        "valeur_eur": 2084.82,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-10",
+        "valeur_eur": 2078.7,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-13",
+        "valeur_eur": 2081.31,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-14",
+        "valeur_eur": 2081.17,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-15",
+        "valeur_eur": 2084.13,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-16",
+        "valeur_eur": 2097.63,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-17",
+        "valeur_eur": 2128.71,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-20",
+        "valeur_eur": 2134.72,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-21",
+        "valeur_eur": 2140.91,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-22",
+        "valeur_eur": 2136.7,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-23",
+        "valeur_eur": 2122.1,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-24",
+        "valeur_eur": 2125.32,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-27",
+        "valeur_eur": 2127.22,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-28",
+        "valeur_eur": 2130.83,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-29",
+        "valeur_eur": 2131.93,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-30",
+        "valeur_eur": 2139.35,
+        "positions": 3
+      },
+      {
+        "date": "2025-10-31",
+        "valeur_eur": 2136.47,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-03",
+        "valeur_eur": 2131.24,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-04",
+        "valeur_eur": 2124.03,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-05",
+        "valeur_eur": 2128.49,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-06",
+        "valeur_eur": 2126.26,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-07",
+        "valeur_eur": 2122.12,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-10",
+        "valeur_eur": 2132.34,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-11",
+        "valeur_eur": 2138.27,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-12",
+        "valeur_eur": 2144.72,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-13",
+        "valeur_eur": 2150.89,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-14",
+        "valeur_eur": 2138.22,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-17",
+        "valeur_eur": 2135.0,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-18",
+        "valeur_eur": 2119.17,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-19",
+        "valeur_eur": 2113.78,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-20",
+        "valeur_eur": 2115.29,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-21",
+        "valeur_eur": 2113.03,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-24",
+        "valeur_eur": 2106.58,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-25",
+        "valeur_eur": 2116.25,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-26",
+        "valeur_eur": 2128.6,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-27",
+        "valeur_eur": 2128.86,
+        "positions": 3
+      },
+      {
+        "date": "2025-11-28",
+        "valeur_eur": 2126.14,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-01",
+        "valeur_eur": 2110.17,
+        "positions": 2
+      },
+      {
+        "date": "2025-12-02",
+        "valeur_eur": 2106.6,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-03",
+        "valeur_eur": 2104.89,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-04",
+        "valeur_eur": 2099.58,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-05",
+        "valeur_eur": 2101.12,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-08",
+        "valeur_eur": 2102.72,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-09",
+        "valeur_eur": 2088.06,
+        "positions": 2
+      },
+      {
+        "date": "2025-12-10",
+        "valeur_eur": 2095.83,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-11",
+        "valeur_eur": 2119.81,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-12",
+        "valeur_eur": 2126.85,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-15",
+        "valeur_eur": 2136.55,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-16",
+        "valeur_eur": 2134.35,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-17",
+        "valeur_eur": 2135.26,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-18",
+        "valeur_eur": 2135.59,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-19",
+        "valeur_eur": 2136.91,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-22",
+        "valeur_eur": 2134.78,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-23",
+        "valeur_eur": 2129.27,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-24",
+        "valeur_eur": 2130.47,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-29",
+        "valeur_eur": 2131.65,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-30",
+        "valeur_eur": 2136.27,
+        "positions": 3
+      },
+      {
+        "date": "2025-12-31",
+        "valeur_eur": 2135.57,
+        "positions": 2
+      },
+      {
+        "date": "2026-01-02",
+        "valeur_eur": 2140.28,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-05",
+        "valeur_eur": 2136.56,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-06",
+        "valeur_eur": 2132.17,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-07",
+        "valeur_eur": 2134.89,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-08",
+        "valeur_eur": 2134.39,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-09",
+        "valeur_eur": 2133.04,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-12",
+        "valeur_eur": 2134.09,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-13",
+        "valeur_eur": 2130.46,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-14",
+        "valeur_eur": 2132.5,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-15",
+        "valeur_eur": 2135.47,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-16",
+        "valeur_eur": 2133.22,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-19",
+        "valeur_eur": 2131.47,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-20",
+        "valeur_eur": 2122.73,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-21",
+        "valeur_eur": 2125.47,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-22",
+        "valeur_eur": 2145.01,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-23",
+        "valeur_eur": 2137.66,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-26",
+        "valeur_eur": 2141.78,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-27",
+        "valeur_eur": 2151.4,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-28",
+        "valeur_eur": 2153.43,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-29",
+        "valeur_eur": 2150.1,
+        "positions": 3
+      },
+      {
+        "date": "2026-01-30",
+        "valeur_eur": 2156.98,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-02",
+        "valeur_eur": 2173.54,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-03",
+        "valeur_eur": 2185.53,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-04",
+        "valeur_eur": 2177.52,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-05",
+        "valeur_eur": 2171.76,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-06",
+        "valeur_eur": 2186.61,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-09",
+        "valeur_eur": 2193.34,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-10",
+        "valeur_eur": 2187.0,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-11",
+        "valeur_eur": 2193.43,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-12",
+        "valeur_eur": 2180.14,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-13",
+        "valeur_eur": 2171.82,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-16",
+        "valeur_eur": 2183.58,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-17",
+        "valeur_eur": 2194.97,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-18",
+        "valeur_eur": 2210.12,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-19",
+        "valeur_eur": 2205.29,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-20",
+        "valeur_eur": 2217.54,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-23",
+        "valeur_eur": 2228.55,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-24",
+        "valeur_eur": 2224.0,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-25",
+        "valeur_eur": 2238.88,
+        "positions": 3
+      },
+      {
+        "date": "2026-02-26",
+        "valeur_eur": 2238.3,
+        "positions": 2
+      },
+      {
+        "date": "2026-02-27",
+        "valeur_eur": 2229.67,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-02",
+        "valeur_eur": 2212.23,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-03",
+        "valeur_eur": 2170.98,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-04",
+        "valeur_eur": 2182.85,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-05",
+        "valeur_eur": 2149.83,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-06",
+        "valeur_eur": 2138.08,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-09",
+        "valeur_eur": 2125.8,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-10",
+        "valeur_eur": 2126.81,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-11",
+        "valeur_eur": 2121.37,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-12",
+        "valeur_eur": 2127.41,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-13",
+        "valeur_eur": 2127.82,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-16",
+        "valeur_eur": 2119.18,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-17",
+        "valeur_eur": 2129.12,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-18",
+        "valeur_eur": 2120.13,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-19",
+        "valeur_eur": 2116.33,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-20",
+        "valeur_eur": 2110.03,
+        "positions": 3
+      },
+      {
+        "date": "2026-03-23",
+        "valeur_eur": 2100.47,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-24",
+        "valeur_eur": 2099.42,
+        "positions": 1
+      },
+      {
+        "date": "2026-03-25",
+        "valeur_eur": 2103.28,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-26",
+        "valeur_eur": 2105.3,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-27",
+        "valeur_eur": 2106.46,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-30",
+        "valeur_eur": 2114.01,
+        "positions": 2
+      },
+      {
+        "date": "2026-03-31",
+        "valeur_eur": 2112.62,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-01",
+        "valeur_eur": 2128.75,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-02",
+        "valeur_eur": 2136.09,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-07",
+        "valeur_eur": 2128.66,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-08",
+        "valeur_eur": 2139.17,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-09",
+        "valeur_eur": 2143.62,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-10",
+        "valeur_eur": 2137.3,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-13",
+        "valeur_eur": 2135.57,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-14",
+        "valeur_eur": 2145.11,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-15",
+        "valeur_eur": 2148.86,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-16",
+        "valeur_eur": 2146.02,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-17",
+        "valeur_eur": 2150.7,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-20",
+        "valeur_eur": 2150.18,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-21",
+        "valeur_eur": 2145.62,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-22",
+        "valeur_eur": 2137.69,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-23",
+        "valeur_eur": 2140.36,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-24",
+        "valeur_eur": 2129.64,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-27",
+        "valeur_eur": 2123.38,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-28",
+        "valeur_eur": 2127.53,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-29",
+        "valeur_eur": 2114.29,
+        "positions": 3
+      },
+      {
+        "date": "2026-04-30",
+        "valeur_eur": 2137.04,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-04",
+        "valeur_eur": 2119.32,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-05",
+        "valeur_eur": 2122.73,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-06",
+        "valeur_eur": 2139.91,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-07",
+        "valeur_eur": 2129.08,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-08",
+        "valeur_eur": 2122.12,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-11",
+        "valeur_eur": 2135.54,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-12",
+        "valeur_eur": 2128.79,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-13",
+        "valeur_eur": 2126.4,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-14",
+        "valeur_eur": 2134.41,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-15",
+        "valeur_eur": 2127.08,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-18",
+        "valeur_eur": 2141.43,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-19",
+        "valeur_eur": 2147.94,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-20",
+        "valeur_eur": 2155.08,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-21",
+        "valeur_eur": 2153.66,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-22",
+        "valeur_eur": 2151.57,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-25",
+        "valeur_eur": 2158.36,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-26",
+        "valeur_eur": 2155.67,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-27",
+        "valeur_eur": 2155.33,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-28",
+        "valeur_eur": 2140.62,
+        "positions": 3
+      },
+      {
+        "date": "2026-05-29",
+        "valeur_eur": 2136.59,
+        "positions": 2
+      },
+      {
+        "date": "2026-06-01",
+        "valeur_eur": 2124.24,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-02",
+        "valeur_eur": 2122.15,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-03",
+        "valeur_eur": 2122.61,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-04",
+        "valeur_eur": 2141.06,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-05",
+        "valeur_eur": 2151.19,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-08",
+        "valeur_eur": 2145.5,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-09",
+        "valeur_eur": 2161.3,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-10",
+        "valeur_eur": 2160.43,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-11",
+        "valeur_eur": 2152.52,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-12",
+        "valeur_eur": 2167.84,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-15",
+        "valeur_eur": 2169.6,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-16",
+        "valeur_eur": 2180.11,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-17",
+        "valeur_eur": 2178.5,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-18",
+        "valeur_eur": 2173.0,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-19",
+        "valeur_eur": 2167.75,
+        "positions": 2
+      },
+      {
+        "date": "2026-06-22",
+        "valeur_eur": 2174.62,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-23",
+        "valeur_eur": 2178.27,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-24",
+        "valeur_eur": 2193.2,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-25",
+        "valeur_eur": 2207.85,
+        "positions": 2
+      },
+      {
+        "date": "2026-06-26",
+        "valeur_eur": 2208.59,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-29",
+        "valeur_eur": 2206.37,
+        "positions": 3
+      },
+      {
+        "date": "2026-06-30",
+        "valeur_eur": 2212.47,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-01",
+        "valeur_eur": 2220.19,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-02",
+        "valeur_eur": 2238.14,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-03",
+        "valeur_eur": 2249.11,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-06",
+        "valeur_eur": 2231.0,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-07",
+        "valeur_eur": 2235.56,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-08",
+        "valeur_eur": 2209.57,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-09",
+        "valeur_eur": 2214.33,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-10",
+        "valeur_eur": 2219.86,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-13",
+        "valeur_eur": 2234.39,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-14",
+        "valeur_eur": 2238.81,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-15",
+        "valeur_eur": 2241.99,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-16",
+        "valeur_eur": 2251.02,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-17",
+        "valeur_eur": 2250.27,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-20",
+        "valeur_eur": 2257.18,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-21",
+        "valeur_eur": 2250.63,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-22",
+        "valeur_eur": 2253.52,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-23",
+        "valeur_eur": 2237.52,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-24",
+        "valeur_eur": 2246.92,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-27",
+        "valeur_eur": 2252.99,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-28",
+        "valeur_eur": 2261.07,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-29",
+        "valeur_eur": 2261.83,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-30",
+        "valeur_eur": 2252.45,
+        "positions": 3
+      },
+      {
+        "date": "2026-07-31",
+        "valeur_eur": 2247.09,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-03",
+        "valeur_eur": 2248.15,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-04",
+        "valeur_eur": 2258.5,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-05",
+        "valeur_eur": 2273.74,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-06",
+        "valeur_eur": 2267.96,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-07",
+        "valeur_eur": 2263.99,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-10",
+        "valeur_eur": 2252.2,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-11",
+        "valeur_eur": 2251.05,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-12",
+        "valeur_eur": 2242.82,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-13",
+        "valeur_eur": 2242.96,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-14",
+        "valeur_eur": 2247.41,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-17",
+        "valeur_eur": 2235.17,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-18",
+        "valeur_eur": 2235.47,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-19",
+        "valeur_eur": 2243.95,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-20",
+        "valeur_eur": 2243.15,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-21",
+        "valeur_eur": 2246.73,
+        "positions": 2
+      },
+      {
+        "date": "2026-08-24",
+        "valeur_eur": 2256.52,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-25",
+        "valeur_eur": 2258.05,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-26",
+        "valeur_eur": 2264.31,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-27",
+        "valeur_eur": 2256.99,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-28",
+        "valeur_eur": 2257.35,
+        "positions": 3
+      },
+      {
+        "date": "2026-08-31",
+        "valeur_eur": 2252.89,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-01",
+        "valeur_eur": 2254.33,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-02",
+        "valeur_eur": 2258.39,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-03",
+        "valeur_eur": 2260.12,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-04",
+        "valeur_eur": 2270.81,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-07",
+        "valeur_eur": 2258.55,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-08",
+        "valeur_eur": 2255.29,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-09",
+        "valeur_eur": 2248.27,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-10",
+        "valeur_eur": 2244.97,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-11",
+        "valeur_eur": 2238.4,
+        "positions": 2
+      },
+      {
+        "date": "2026-09-14",
+        "valeur_eur": 2244.65,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-15",
+        "valeur_eur": 2242.59,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-16",
+        "valeur_eur": 2240.79,
+        "positions": 2
+      },
+      {
+        "date": "2026-09-17",
+        "valeur_eur": 2240.5,
+        "positions": 2
+      },
+      {
+        "date": "2026-09-18",
+        "valeur_eur": 2226.41,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-21",
+        "valeur_eur": 2226.23,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-22",
+        "valeur_eur": 2213.93,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-23",
+        "valeur_eur": 2206.73,
+        "positions": 2
+      },
+      {
+        "date": "2026-09-24",
+        "valeur_eur": 2202.55,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-25",
+        "valeur_eur": 2199.7,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-28",
+        "valeur_eur": 2205.29,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-29",
+        "valeur_eur": 2194.55,
+        "positions": 3
+      },
+      {
+        "date": "2026-09-30",
+        "valeur_eur": 2182.87,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-01",
+        "valeur_eur": 2177.89,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-02",
+        "valeur_eur": 2170.76,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-05",
+        "valeur_eur": 2179.83,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-06",
+        "valeur_eur": 2180.11,
+        "positions": 2
+      },
+      {
+        "date": "2026-10-07",
+        "valeur_eur": 2180.5,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-08",
+        "valeur_eur": 2179.99,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-09",
+        "valeur_eur": 2184.74,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-12",
+        "valeur_eur": 2183.3,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-13",
+        "valeur_eur": 2188.82,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-14",
+        "valeur_eur": 2191.48,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-15",
+        "valeur_eur": 2208.94,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-16",
+        "valeur_eur": 2205.82,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-19",
+        "valeur_eur": 2202.23,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-20",
+        "valeur_eur": 2200.95,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-21",
+        "valeur_eur": 2183.86,
+        "positions": 2
+      },
+      {
+        "date": "2026-10-22",
+        "valeur_eur": 2183.1,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-23",
+        "valeur_eur": 2184.97,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-26",
+        "valeur_eur": 2192.02,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-27",
+        "valeur_eur": 2187.38,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-28",
+        "valeur_eur": 2187.62,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-29",
+        "valeur_eur": 2205.18,
+        "positions": 3
+      },
+      {
+        "date": "2026-10-30",
+        "valeur_eur": 2206.26,
+        "positions": 3
+      }
+    ],
+    "trades": [
+      {
+        "ticker": "SGO.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-08-18",
+        "sortie": "2022-08-22",
+        "motif": "STOP",
+        "quantite": 9,
+        "gain_net_eur": -19.28,
+        "risque_initial_eur": 19.28
+      },
+      {
+        "ticker": "ERF.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-08-18",
+        "sortie": "2022-08-24",
+        "motif": "STOP",
+        "quantite": 3,
+        "gain_net_eur": -19.37,
+        "risque_initial_eur": 19.37
+      },
+      {
+        "ticker": "EN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-08-23",
+        "sortie": "2022-08-29",
+        "motif": "GAP_STOP",
+        "quantite": 22,
+        "gain_net_eur": -21.05,
+        "risque_initial_eur": 19.49
+      },
+      {
+        "ticker": "CA.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-08-24",
+        "sortie": "2022-08-30",
+        "motif": "STOP",
+        "quantite": 35,
+        "gain_net_eur": -19.71,
+        "risque_initial_eur": 19.71
+      },
+      {
+        "ticker": "DG.PA",
+        "strategie": "TENDANCE",
+        "entree": "2022-09-13",
+        "sortie": "2022-09-19",
+        "motif": "STOP",
+        "quantite": 3,
+        "gain_net_eur": -16.73,
+        "risque_initial_eur": 16.73
+      },
+      {
+        "ticker": "SGO.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-09-12",
+        "sortie": "2022-09-22",
+        "motif": "STOP",
+        "quantite": 6,
+        "gain_net_eur": -18.63,
+        "risque_initial_eur": 18.63
+      },
+      {
+        "ticker": "RNO.PA",
+        "strategie": "TENDANCE",
+        "entree": "2022-09-23",
+        "sortie": "2022-09-23",
+        "motif": "STOP",
+        "quantite": 11,
+        "gain_net_eur": -18.93,
+        "risque_initial_eur": 18.93
+      },
+      {
+        "ticker": "ENGI.PA",
+        "strategie": "TENDANCE",
+        "entree": "2022-09-20",
+        "sortie": "2022-09-26",
+        "motif": "STOP",
+        "quantite": 33,
+        "gain_net_eur": -19.9,
+        "risque_initial_eur": 19.9
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "CASSURE",
+        "entree": "2022-09-12",
+        "sortie": "2022-09-28",
+        "motif": "STOP",
+        "quantite": 10,
+        "gain_net_eur": -19.3,
+        "risque_initial_eur": 19.3
+      },
+      {
+        "ticker": "RI.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-10-03",
+        "sortie": "2022-10-10",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -13.93,
+        "risque_initial_eur": 13.93
+      },
+      {
+        "ticker": "TTE.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-10-04",
+        "sortie": "2022-12-27",
+        "motif": "TEMPS",
+        "quantite": 8,
+        "gain_net_eur": 60.07,
+        "risque_initial_eur": 19.13
+      },
+      {
+        "ticker": "MT.AS",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-10-05",
+        "sortie": "2022-12-28",
+        "motif": "TEMPS",
+        "quantite": 6,
+        "gain_net_eur": 13.95,
+        "risque_initial_eur": 17.16
+      },
+      {
+        "ticker": "EL.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-10-11",
+        "sortie": "2023-01-03",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": 17.31,
+        "risque_initial_eur": 13.32
+      },
+      {
+        "ticker": "BN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-12-29",
+        "sortie": "2023-01-09",
+        "motif": "STOP",
+        "quantite": 13,
+        "gain_net_eur": -19.94,
+        "risque_initial_eur": 19.94
+      },
+      {
+        "ticker": "BNP.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-01-04",
+        "sortie": "2023-03-15",
+        "motif": "STOP",
+        "quantite": 4,
+        "gain_net_eur": -16.0,
+        "risque_initial_eur": 16.0
+      },
+      {
+        "ticker": "ORA.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2022-12-28",
+        "sortie": "2023-03-21",
+        "motif": "TEMPS",
+        "quantite": 83,
+        "gain_net_eur": 87.55,
+        "risque_initial_eur": 19.85
+      },
+      {
+        "ticker": "DSY.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-03-23",
+        "sortie": "2023-03-28",
+        "motif": "STOP",
+        "quantite": 11,
+        "gain_net_eur": -18.95,
+        "risque_initial_eur": 18.95
+      },
+      {
+        "ticker": "AIR.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-01-10",
+        "sortie": "2023-04-03",
+        "motif": "TEMPS",
+        "quantite": 3,
+        "gain_net_eur": 19.51,
+        "risque_initial_eur": 17.25
+      },
+      {
+        "ticker": "STLAP.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-04-04",
+        "sortie": "2023-04-21",
+        "motif": "STOP",
+        "quantite": 23,
+        "gain_net_eur": -19.75,
+        "risque_initial_eur": 19.75
+      },
+      {
+        "ticker": "EN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-04-24",
+        "sortie": "2023-05-31",
+        "motif": "STOP",
+        "quantite": 17,
+        "gain_net_eur": -19.42,
+        "risque_initial_eur": 19.42
+      },
+      {
+        "ticker": "ERF.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-06-01",
+        "sortie": "2023-06-09",
+        "motif": "STOP",
+        "quantite": 7,
+        "gain_net_eur": -18.52,
+        "risque_initial_eur": 18.52
+      },
+      {
+        "ticker": "SAN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-03-20",
+        "sortie": "2023-06-14",
+        "motif": "TEMPS",
+        "quantite": 7,
+        "gain_net_eur": 38.59,
+        "risque_initial_eur": 18.49
+      },
+      {
+        "ticker": "HO.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-03-29",
+        "sortie": "2023-06-23",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": -1.8,
+        "risque_initial_eur": 11.04
+      },
+      {
+        "ticker": "DSY.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-06-12",
+        "sortie": "2023-07-25",
+        "motif": "STOP",
+        "quantite": 6,
+        "gain_net_eur": -18.19,
+        "risque_initial_eur": 18.19
+      },
+      {
+        "ticker": "VIE.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-06-15",
+        "sortie": "2023-08-03",
+        "motif": "STOP",
+        "quantite": 12,
+        "gain_net_eur": -18.52,
+        "risque_initial_eur": 18.52
+      },
+      {
+        "ticker": "CA.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-07-26",
+        "sortie": "2023-09-05",
+        "motif": "STOP",
+        "quantite": 28,
+        "gain_net_eur": -19.39,
+        "risque_initial_eur": 19.39
+      },
+      {
+        "ticker": "CAP.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-09-06",
+        "sortie": "2023-09-13",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -13.51,
+        "risque_initial_eur": 13.51
+      },
+      {
+        "ticker": "HO.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-06-26",
+        "sortie": "2023-09-15",
+        "motif": "TEMPS",
+        "quantite": 2,
+        "gain_net_eur": 5.82,
+        "risque_initial_eur": 19.45
+      },
+      {
+        "ticker": "AC.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-09-18",
+        "sortie": "2023-09-21",
+        "motif": "STOP",
+        "quantite": 13,
+        "gain_net_eur": -18.99,
+        "risque_initial_eur": 18.99
+      },
+      {
+        "ticker": "RNO.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-09-22",
+        "sortie": "2023-10-03",
+        "motif": "STOP",
+        "quantite": 11,
+        "gain_net_eur": -19.51,
+        "risque_initial_eur": 19.51
+      },
+      {
+        "ticker": "SU.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-10-09",
+        "sortie": "2023-10-17",
+        "motif": "STOP",
+        "quantite": 3,
+        "gain_net_eur": -17.35,
+        "risque_initial_eur": 17.35
+      },
+      {
+        "ticker": "EN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-08-04",
+        "sortie": "2023-10-26",
+        "motif": "TEMPS",
+        "quantite": 9,
+        "gain_net_eur": -11.55,
+        "risque_initial_eur": 18.56
+      },
+      {
+        "ticker": "HO.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-10-18",
+        "sortie": "2023-11-03",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -16.55,
+        "risque_initial_eur": 16.55
+      },
+      {
+        "ticker": "CAP.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-09-14",
+        "sortie": "2023-12-06",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": 19.26,
+        "risque_initial_eur": 11.6
+      },
+      {
+        "ticker": "KER.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-12-07",
+        "sortie": "2024-01-03",
+        "motif": "STOP",
+        "quantite": 1,
+        "gain_net_eur": -19.23,
+        "risque_initial_eur": 19.23
+      },
+      {
+        "ticker": "CA.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-01-04",
+        "sortie": "2024-01-19",
+        "motif": "STOP",
+        "quantite": 30,
+        "gain_net_eur": -19.53,
+        "risque_initial_eur": 19.53
+      },
+      {
+        "ticker": "AIR.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2023-10-27",
+        "sortie": "2024-01-23",
+        "motif": "TEMPS",
+        "quantite": 4,
+        "gain_net_eur": 71.42,
+        "risque_initial_eur": 18.72
+      },
+      {
+        "ticker": "AI.PA",
+        "strategie": "TENDANCE",
+        "entree": "2023-11-06",
+        "sortie": "2024-01-31",
+        "motif": "TEMPS",
+        "quantite": 4,
+        "gain_net_eur": 24.64,
+        "risque_initial_eur": 18.94
+      },
+      {
+        "ticker": "MT.AS",
+        "strategie": "TENDANCE",
+        "entree": "2024-02-01",
+        "sortie": "2024-02-20",
+        "motif": "STOP",
+        "quantite": 14,
+        "gain_net_eur": -18.73,
+        "risque_initial_eur": 18.73
+      },
+      {
+        "ticker": "BN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-01-22",
+        "sortie": "2024-02-29",
+        "motif": "STOP",
+        "quantite": 5,
+        "gain_net_eur": -17.05,
+        "risque_initial_eur": 17.05
+      },
+      {
+        "ticker": "DG.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-03-01",
+        "sortie": "2024-03-25",
+        "motif": "STOP",
+        "quantite": 4,
+        "gain_net_eur": -16.76,
+        "risque_initial_eur": 16.76
+      },
+      {
+        "ticker": "AC.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-01-24",
+        "sortie": "2024-04-18",
+        "motif": "TEMPS",
+        "quantite": 7,
+        "gain_net_eur": 21.92,
+        "risque_initial_eur": 18.35
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-02-21",
+        "sortie": "2024-05-17",
+        "motif": "TEMPS",
+        "quantite": 15,
+        "gain_net_eur": 52.84,
+        "risque_initial_eur": 19.31
+      },
+      {
+        "ticker": "EN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-03-26",
+        "sortie": "2024-06-10",
+        "motif": "STOP",
+        "quantite": 7,
+        "gain_net_eur": -17.51,
+        "risque_initial_eur": 17.51
+      },
+      {
+        "ticker": "HO.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-06-11",
+        "sortie": "2024-06-14",
+        "motif": "STOP",
+        "quantite": 1,
+        "gain_net_eur": -10.62,
+        "risque_initial_eur": 10.62
+      },
+      {
+        "ticker": "STMPA.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-06-17",
+        "sortie": "2024-06-19",
+        "motif": "STOP",
+        "quantite": 10,
+        "gain_net_eur": -19.45,
+        "risque_initial_eur": 19.45
+      },
+      {
+        "ticker": "BN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-05-20",
+        "sortie": "2024-06-20",
+        "motif": "STOP",
+        "quantite": 6,
+        "gain_net_eur": -18.87,
+        "risque_initial_eur": 18.87
+      },
+      {
+        "ticker": "PUB.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-06-25",
+        "sortie": "2024-06-28",
+        "motif": "STOP",
+        "quantite": 5,
+        "gain_net_eur": -18.61,
+        "risque_initial_eur": 18.61
+      },
+      {
+        "ticker": "SU.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-04-19",
+        "sortie": "2024-07-12",
+        "motif": "TEMPS",
+        "quantite": 2,
+        "gain_net_eur": 55.72,
+        "risque_initial_eur": 17.77
+      },
+      {
+        "ticker": "AC.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-06-21",
+        "sortie": "2024-07-25",
+        "motif": "STOP",
+        "quantite": 7,
+        "gain_net_eur": -19.34,
+        "risque_initial_eur": 19.34
+      },
+      {
+        "ticker": "AI.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-07-15",
+        "sortie": "2024-08-05",
+        "motif": "GAP_STOP",
+        "quantite": 3,
+        "gain_net_eur": -18.39,
+        "risque_initial_eur": 16.36
+      },
+      {
+        "ticker": "TEP.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-08-06",
+        "sortie": "2024-09-02",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -16.24,
+        "risque_initial_eur": 16.24
+      },
+      {
+        "ticker": "EL.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-09-03",
+        "sortie": "2024-09-18",
+        "motif": "STOP",
+        "quantite": 1,
+        "gain_net_eur": -15.41,
+        "risque_initial_eur": 15.41
+      },
+      {
+        "ticker": "SAN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-07-01",
+        "sortie": "2024-09-20",
+        "motif": "TEMPS",
+        "quantite": 5,
+        "gain_net_eur": 49.7,
+        "risque_initial_eur": 17.65
+      },
+      {
+        "ticker": "ACA.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-09-19",
+        "sortie": "2024-09-23",
+        "motif": "STOP",
+        "quantite": 24,
+        "gain_net_eur": -19.46,
+        "risque_initial_eur": 19.46
+      },
+      {
+        "ticker": "BN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2024-07-26",
+        "sortie": "2024-10-17",
+        "motif": "TEMPS",
+        "quantite": 9,
+        "gain_net_eur": 53.2,
+        "risque_initial_eur": 18.7
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-10-18",
+        "sortie": "2024-10-31",
+        "motif": "GAP_STOP",
+        "quantite": 13,
+        "gain_net_eur": -20.95,
+        "risque_initial_eur": 19.5
+      },
+      {
+        "ticker": "LR.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-09-23",
+        "sortie": "2024-11-13",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -14.74,
+        "risque_initial_eur": 14.74
+      },
+      {
+        "ticker": "BN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-11-01",
+        "sortie": "2024-11-13",
+        "motif": "STOP",
+        "quantite": 10,
+        "gain_net_eur": -19.87,
+        "risque_initial_eur": 19.87
+      },
+      {
+        "ticker": "URW.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-09-24",
+        "sortie": "2024-12-16",
+        "motif": "TEMPS",
+        "quantite": 3,
+        "gain_net_eur": -13.46,
+        "risque_initial_eur": 17.15
+      },
+      {
+        "ticker": "AC.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-11-14",
+        "sortie": "2025-02-10",
+        "motif": "TEMPS",
+        "quantite": 5,
+        "gain_net_eur": 30.31,
+        "risque_initial_eur": 17.17
+      },
+      {
+        "ticker": "EL.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-11-14",
+        "sortie": "2025-02-10",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": 41.69,
+        "risque_initial_eur": 14.45
+      },
+      {
+        "ticker": "PUB.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-02-11",
+        "sortie": "2025-02-20",
+        "motif": "STOP",
+        "quantite": 4,
+        "gain_net_eur": -18.88,
+        "risque_initial_eur": 18.88
+      },
+      {
+        "ticker": "GLE.PA",
+        "strategie": "TENDANCE",
+        "entree": "2024-12-17",
+        "sortie": "2025-03-13",
+        "motif": "TEMPS",
+        "quantite": 10,
+        "gain_net_eur": 117.73,
+        "risque_initial_eur": 19.76
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-03-14",
+        "sortie": "2025-04-07",
+        "motif": "GAP_STOP",
+        "quantite": 8,
+        "gain_net_eur": -29.34,
+        "risque_initial_eur": 18.34
+      },
+      {
+        "ticker": "ENGI.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-02-11",
+        "sortie": "2025-05-08",
+        "motif": "TEMPS",
+        "quantite": 27,
+        "gain_net_eur": 78.94,
+        "risque_initial_eur": 19.73
+      },
+      {
+        "ticker": "BN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-02-21",
+        "sortie": "2025-05-20",
+        "motif": "TEMPS",
+        "quantite": 5,
+        "gain_net_eur": 38.58,
+        "risque_initial_eur": 17.63
+      },
+      {
+        "ticker": "AC.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-05-09",
+        "sortie": "2025-06-19",
+        "motif": "STOP",
+        "quantite": 6,
+        "gain_net_eur": -18.53,
+        "risque_initial_eur": 18.53
+      },
+      {
+        "ticker": "ACA.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-05-21",
+        "sortie": "2025-06-23",
+        "motif": "STOP",
+        "quantite": 16,
+        "gain_net_eur": -18.98,
+        "risque_initial_eur": 18.98
+      },
+      {
+        "ticker": "CA.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2025-04-09",
+        "sortie": "2025-07-04",
+        "motif": "TEMPS",
+        "quantite": 39,
+        "gain_net_eur": 6.81,
+        "risque_initial_eur": 19.83
+      },
+      {
+        "ticker": "KER.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2025-06-20",
+        "sortie": "2025-09-11",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": 59.67,
+        "risque_initial_eur": 13.62
+      },
+      {
+        "ticker": "TTE.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2025-06-25",
+        "sortie": "2025-09-16",
+        "motif": "TEMPS",
+        "quantite": 8,
+        "gain_net_eur": -4.65,
+        "risque_initial_eur": 17.97
+      },
+      {
+        "ticker": "AIR.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-07-07",
+        "sortie": "2025-09-26",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": 17.64,
+        "risque_initial_eur": 15.37
+      },
+      {
+        "ticker": "ACA.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-09-12",
+        "sortie": "2025-10-06",
+        "motif": "STOP",
+        "quantite": 33,
+        "gain_net_eur": -19.55,
+        "risque_initial_eur": 19.55
+      },
+      {
+        "ticker": "AIR.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-09-29",
+        "sortie": "2025-12-01",
+        "motif": "STOP",
+        "quantite": 1,
+        "gain_net_eur": -15.24,
+        "risque_initial_eur": 15.24
+      },
+      {
+        "ticker": "EL.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-09-17",
+        "sortie": "2025-12-09",
+        "motif": "TEMPS",
+        "quantite": 1,
+        "gain_net_eur": 9.96,
+        "risque_initial_eur": 19.13
+      },
+      {
+        "ticker": "CA.PA",
+        "strategie": "TENDANCE",
+        "entree": "2025-10-07",
+        "sortie": "2025-12-31",
+        "motif": "TEMPS",
+        "quantite": 34,
+        "gain_net_eur": 35.32,
+        "risque_initial_eur": 19.61
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2025-12-02",
+        "sortie": "2026-02-26",
+        "motif": "TEMPS",
+        "quantite": 9,
+        "gain_net_eur": 13.81,
+        "risque_initial_eur": 18.29
+      },
+      {
+        "ticker": "BNP.PA",
+        "strategie": "TENDANCE",
+        "entree": "2026-02-27",
+        "sortie": "2026-03-03",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -17.8,
+        "risque_initial_eur": 17.8
+      },
+      {
+        "ticker": "MT.AS",
+        "strategie": "TENDANCE",
+        "entree": "2025-12-10",
+        "sortie": "2026-03-06",
+        "motif": "TEMPS",
+        "quantite": 5,
+        "gain_net_eur": 51.09,
+        "risque_initial_eur": 18.17
+      },
+      {
+        "ticker": "ACA.PA",
+        "strategie": "TENDANCE",
+        "entree": "2026-01-02",
+        "sortie": "2026-03-09",
+        "motif": "GAP_STOP",
+        "quantite": 18,
+        "gain_net_eur": -22.94,
+        "risque_initial_eur": 19.65
+      },
+      {
+        "ticker": "EDEN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-03-09",
+        "sortie": "2026-03-23",
+        "motif": "STOP",
+        "quantite": 14,
+        "gain_net_eur": -19.05,
+        "risque_initial_eur": 19.05
+      },
+      {
+        "ticker": "TEP.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-03-10",
+        "sortie": "2026-03-24",
+        "motif": "STOP",
+        "quantite": 2,
+        "gain_net_eur": -14.5,
+        "risque_initial_eur": 14.5
+      },
+      {
+        "ticker": "ENGI.PA",
+        "strategie": "TENDANCE",
+        "entree": "2026-03-04",
+        "sortie": "2026-05-29",
+        "motif": "TEMPS",
+        "quantite": 8,
+        "gain_net_eur": 3.21,
+        "risque_initial_eur": 19.04
+      },
+      {
+        "ticker": "SAN.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-03-25",
+        "sortie": "2026-06-19",
+        "motif": "TEMPS",
+        "quantite": 3,
+        "gain_net_eur": -4.42,
+        "risque_initial_eur": 15.05
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-03-31",
+        "sortie": "2026-06-25",
+        "motif": "TEMPS",
+        "quantite": 12,
+        "gain_net_eur": 69.91,
+        "risque_initial_eur": 19.79
+      },
+      {
+        "ticker": "AI.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-06-01",
+        "sortie": "2026-08-21",
+        "motif": "TEMPS",
+        "quantite": 3,
+        "gain_net_eur": 10.35,
+        "risque_initial_eur": 18.63
+      },
+      {
+        "ticker": "AC.PA",
+        "strategie": "TENDANCE",
+        "entree": "2026-06-22",
+        "sortie": "2026-09-11",
+        "motif": "TEMPS",
+        "quantite": 4,
+        "gain_net_eur": -10.67,
+        "risque_initial_eur": 19.58
+      },
+      {
+        "ticker": "STLAP.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-09-14",
+        "sortie": "2026-09-16",
+        "motif": "STOP",
+        "quantite": 65,
+        "gain_net_eur": -19.89,
+        "risque_initial_eur": 19.89
+      },
+      {
+        "ticker": "EDEN.PA",
+        "strategie": "TENDANCE",
+        "entree": "2026-06-26",
+        "sortie": "2026-09-17",
+        "motif": "TEMPS",
+        "quantite": 11,
+        "gain_net_eur": 74.6,
+        "risque_initial_eur": 19.63
+      },
+      {
+        "ticker": "CS.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-09-17",
+        "sortie": "2026-09-23",
+        "motif": "STOP",
+        "quantite": 12,
+        "gain_net_eur": -18.96,
+        "risque_initial_eur": 18.96
+      },
+      {
+        "ticker": "HO.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-09-18",
+        "sortie": "2026-10-06",
+        "motif": "STOP",
+        "quantite": 1,
+        "gain_net_eur": -19.96,
+        "risque_initial_eur": 19.96
+      },
+      {
+        "ticker": "CA.PA",
+        "strategie": "REBOND_POTENTIEL",
+        "entree": "2026-08-24",
+        "sortie": "2026-10-21",
+        "motif": "GAP_STOP",
+        "quantite": 17,
+        "gain_net_eur": -21.87,
+        "risque_initial_eur": 18.99
+      }
+    ]
+  },
+  "achats_autorises": 0,
+  "limitations": [
+    "Classification sectorielle ACTUELLE utilisee uniquement comme contrainte de concentration: biais historique possible",
+    "Univers actuel uniquement: biais de survivance; aucun fondamental historique point-in-time",
+    "Indices ajustés a posteriori et TTF 2026 appliquee retroactivement: approximations non investissables",
+    "Frais 0.35% et slippage hypothese 0.10%; pas de spreads historiques ni dividendes reconstitues",
+    "Aucun filtre R/R pour les signaux; objectif de cours non modele; portefeuille explore des signaux techniques",
+    "Priorite d entree par ordre de strategie puis ticker, sans connaissance du score historique",
+    "AUCUNE PREUVE DE SURPERFORMANCE HORS ECHANTILLON NI RECOMMANDATION D ACHAT"
+  ]
+}

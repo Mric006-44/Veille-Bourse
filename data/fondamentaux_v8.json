@@ -1,6 +1,6 @@
 {
   "schema_version": "8.0",
-  "genere_utc": "2026-10-30T21:31:18.962844+00:00",
+  "genere_utc": "2026-10-30T22:01:39.679892+00:00",
   "univers_configure": 120,
   "fiches_disponibles": 120,
   "erreurs": {},
@@ -24,8 +24,8 @@
           "trailingPE": 40.63158,
           "forwardPE": 17.43976,
           "priceToBook": 3.5404723,
-          "enterpriseToEbitda": 14.438,
-          "enterpriseToRevenue": 2.638,
+          "enterpriseToEbitda": 14.287,
+          "enterpriseToRevenue": 2.61,
           "trailingEps": 1.14,
           "forwardEps": 2.656,
           "priceToSalesTrailing12Months": 1.8789364
@@ -78,7 +78,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:17.133585+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:48.802356+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -103,8 +103,8 @@
           "trailingPE": 32.594593,
           "forwardPE": 25.091892,
           "priceToBook": 4.3419824,
-          "enterpriseToEbitda": 16.898,
-          "enterpriseToRevenue": 4.764,
+          "enterpriseToEbitda": 17.192,
+          "enterpriseToRevenue": 4.847,
           "trailingEps": 5.55,
           "forwardEps": 7.2095,
           "priceToSalesTrailing12Months": 4.268446
@@ -159,7 +159,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:17.674210+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:49.207839+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -184,8 +184,8 @@
           "trailingPE": 25.619173,
           "forwardPE": 22.183125,
           "priceToBook": 5.6881003,
-          "enterpriseToEbitda": 17.527,
-          "enterpriseToRevenue": 2.052,
+          "enterpriseToEbitda": 17.18,
+          "enterpriseToRevenue": 2.011,
           "trailingEps": 7.51,
           "forwardEps": 8.67326,
           "priceToSalesTrailing12Months": 1.9872482
@@ -238,7 +238,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:18.154047+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:49.697472+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -256,18 +256,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 7313959424,
-          "sharesOutstanding": 462616024
+          "marketCap": null,
+          "sharesOutstanding": null
         },
         "valorisation": {
           "trailingPE": 26.35,
           "forwardPE": 8.681566,
           "priceToBook": 0.7368912,
-          "enterpriseToEbitda": 7.642,
-          "enterpriseToRevenue": 0.46,
+          "enterpriseToEbitda": 7.518,
+          "enterpriseToRevenue": 0.453,
           "trailingEps": 0.6,
           "forwardEps": 1.8211,
-          "priceToSalesTrailing12Months": 0.38151163
+          "priceToSalesTrailing12Months": null
         },
         "croissance": {
           "revenueGrowth": 0.041,
@@ -317,7 +317,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:18.640019+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:50.129497+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -342,8 +342,8 @@
           "trailingPE": 26.40394,
           "forwardPE": 8.078298,
           "priceToBook": 0.8282483,
-          "enterpriseToEbitda": 9.703,
-          "enterpriseToRevenue": 0.841,
+          "enterpriseToEbitda": 9.54,
+          "enterpriseToRevenue": 0.827,
           "trailingEps": 2.03,
           "forwardEps": 6.635061,
           "priceToSalesTrailing12Months": 0.64130914
@@ -395,7 +395,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:19.115193+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:50.531665+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -417,12 +417,12 @@
           "sharesOutstanding": 2023266997
         },
         "valorisation": {
-          "trailingPE": 11.513513,
+          "trailingPE": 11.482479,
           "forwardPE": 9.513239,
           "priceToBook": 1.928387,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": 0.557,
-          "trailingEps": 3.7,
+          "trailingEps": 3.71,
           "forwardEps": 4.47797,
           "priceToSalesTrailing12Months": 0.89045984
         },
@@ -476,7 +476,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:19.681905+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:50.953591+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -557,7 +557,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:20.171301+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:51.352360+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -579,12 +579,12 @@
           "sharesOutstanding": 385371624
         },
         "valorisation": {
-          "trailingPE": 12.477064,
+          "trailingPE": 12.515337,
           "forwardPE": 10.565186,
           "priceToBook": 1.2557323,
           "enterpriseToEbitda": 5.95,
           "enterpriseToRevenue": 0.486,
-          "trailingEps": 3.27,
+          "trailingEps": 3.26,
           "forwardEps": 3.86174,
           "priceToSalesTrailing12Months": 0.27913085
         },
@@ -637,7 +637,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:20.661191+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:51.759960+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -719,7 +719,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:21.141659+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:52.191067+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -744,7 +744,7 @@
           "trailingPE": 6.0674415,
           "forwardPE": 7.225706,
           "priceToBook": 0.83407927,
-          "enterpriseToEbitda": 7.419,
+          "enterpriseToEbitda": 7.413,
           "enterpriseToRevenue": 0.315,
           "trailingEps": 2.15,
           "forwardEps": 1.80536,
@@ -801,7 +801,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:21.689759+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:52.590129+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -879,7 +879,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:22.236823+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:53.027299+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -962,7 +962,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:22.774924+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:53.429927+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1044,7 +1044,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:23.257802+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:53.832802+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1069,8 +1069,8 @@
           "trailingPE": 11.684466,
           "forwardPE": 10.000623,
           "priceToBook": -5.6515617,
-          "enterpriseToEbitda": 6.968,
-          "enterpriseToRevenue": 2.712,
+          "enterpriseToEbitda": 6.942,
+          "enterpriseToRevenue": 2.702,
           "trailingEps": 2.06,
           "forwardEps": 2.40685,
           "priceToSalesTrailing12Months": 1.9950783
@@ -1125,7 +1125,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:23.749168+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:54.258034+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1150,8 +1150,8 @@
           "trailingPE": 14.374233,
           "forwardPE": 11.0637865,
           "priceToBook": 1.7465523,
-          "enterpriseToEbitda": 9.177,
-          "enterpriseToRevenue": 1.75,
+          "enterpriseToEbitda": 9.146,
+          "enterpriseToRevenue": 1.744,
           "trailingEps": 1.63,
           "forwardEps": 2.11772,
           "priceToSalesTrailing12Months": 0.84332997
@@ -1206,7 +1206,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:24.304316+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:54.650867+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1286,7 +1286,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:24.787234+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:55.083111+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1368,7 +1368,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:25.260200+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:55.569721+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1390,12 +1390,12 @@
           "sharesOutstanding": 104735548
         },
         "valorisation": {
-          "trailingPE": 30.236092,
+          "trailingPE": 30.081396,
           "forwardPE": 26.894873,
           "priceToBook": 7.122092,
           "enterpriseToEbitda": 17.78,
           "enterpriseToRevenue": 7.777,
-          "trailingEps": 42.78,
+          "trailingEps": 43.0,
           "forwardEps": 48.09467,
           "priceToSalesTrailing12Months": 8.398453
         },
@@ -1448,7 +1448,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:25.738123+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:56.003139+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1473,8 +1473,8 @@
           "trailingPE": null,
           "forwardPE": 19.435446,
           "priceToBook": 1.5025486,
-          "enterpriseToEbitda": 12.683,
-          "enterpriseToRevenue": 2.208,
+          "enterpriseToEbitda": 12.74,
+          "enterpriseToRevenue": 2.218,
           "trailingEps": -2.98,
           "forwardEps": 9.13074,
           "priceToSalesTrailing12Months": 1.5052441
@@ -1528,7 +1528,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:26.304085+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:56.433069+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1550,12 +1550,12 @@
           "sharesOutstanding": 262113593
         },
         "valorisation": {
-          "trailingPE": 25.686275,
+          "trailingPE": 26.35815,
           "forwardPE": 19.080578,
           "priceToBook": 4.582342,
           "enterpriseToEbitda": 18.094,
           "enterpriseToRevenue": 3.971,
-          "trailingEps": 5.1,
+          "trailingEps": 4.97,
           "forwardEps": 6.86562,
           "priceToSalesTrailing12Months": 3.397471
         },
@@ -1610,7 +1610,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:26.779078+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:56.856428+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1691,7 +1691,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:27.257771+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:57.255475+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1713,12 +1713,12 @@
           "sharesOutstanding": 492965227
         },
         "valorisation": {
-          "trailingPE": 17.784925,
+          "trailingPE": 17.639015,
           "forwardPE": 16.031609,
           "priceToBook": 2.8023984,
           "enterpriseToEbitda": 10.839,
           "enterpriseToRevenue": 2.729,
-          "trailingEps": 21.76,
+          "trailingEps": 21.94,
           "forwardEps": 24.13981,
           "priceToSalesTrailing12Months": 2.395469
         },
@@ -1773,7 +1773,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:27.735273+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:57.655993+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1857,7 +1857,7 @@
         "decision": "ANALYSE_INCOMPLETE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:28.241385+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:58.072905+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1941,7 +1941,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:28.732663+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:58.519223+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2021,7 +2021,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:29.225349+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:58.931757+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2039,18 +2039,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 25009565696,
-          "sharesOutstanding": 249721079
+          "marketCap": null,
+          "sharesOutstanding": null
         },
         "valorisation": {
-          "trailingPE": 15.599689,
-          "forwardPE": 11.717192,
+          "trailingPE": 15.79653,
+          "forwardPE": 11.637757,
           "priceToBook": 2.3775609,
           "enterpriseToEbitda": 9.675,
           "enterpriseToRevenue": 1.604,
-          "trailingEps": 6.42,
-          "forwardEps": 8.54727,
-          "priceToSalesTrailing12Months": 1.4169725
+          "trailingEps": 6.34,
+          "forwardEps": 8.60561,
+          "priceToSalesTrailing12Months": null
         },
         "croissance": {
           "revenueGrowth": 0.03,
@@ -2103,7 +2103,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:29.850552+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:59.376282+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2128,8 +2128,8 @@
           "trailingPE": 8.455657,
           "forwardPE": 4.378949,
           "priceToBook": 0.39000788,
-          "enterpriseToEbitda": 9.786,
-          "enterpriseToRevenue": 1.004,
+          "enterpriseToEbitda": 9.762,
+          "enterpriseToRevenue": 1.001,
           "trailingEps": 3.27,
           "forwardEps": 6.3143,
           "priceToSalesTrailing12Months": 0.13217653
@@ -2185,7 +2185,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:30.329676+00:00",
+      "date_collecte_utc": "2026-10-30T22:00:59.808569+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2210,8 +2210,8 @@
           "trailingPE": 29.61332,
           "forwardPE": 21.726522,
           "priceToBook": 7.876018,
-          "enterpriseToEbitda": 18.733,
-          "enterpriseToRevenue": 3.417,
+          "enterpriseToEbitda": 18.509,
+          "enterpriseToRevenue": 3.377,
           "trailingEps": 9.31,
           "forwardEps": 12.68956,
           "priceToSalesTrailing12Months": 3.39936
@@ -2266,7 +2266,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:30.835961+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:00.243104+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2347,7 +2347,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:31.424432+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:00.637142+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2428,7 +2428,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:32.037109+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:01.072549+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2453,8 +2453,8 @@
           "trailingPE": 28.545673,
           "forwardPE": 18.859789,
           "priceToBook": 5.459394,
-          "enterpriseToEbitda": 18.284,
-          "enterpriseToRevenue": 3.706,
+          "enterpriseToEbitda": 17.617,
+          "enterpriseToRevenue": 3.571,
           "trailingEps": 8.32,
           "forwardEps": 12.59293,
           "priceToSalesTrailing12Months": 3.3219304
@@ -2510,7 +2510,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:32.829228+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:01.471400+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2536,7 +2536,7 @@
           "forwardPE": 6.5393186,
           "priceToBook": 0.59581494,
           "enterpriseToEbitda": null,
-          "enterpriseToRevenue": -16.926,
+          "enterpriseToRevenue": -16.965,
           "trailingEps": 8.17,
           "forwardEps": 9.32666,
           "priceToSalesTrailing12Months": 1.6654588
@@ -2590,7 +2590,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:33.369797+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:01.919292+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2615,8 +2615,8 @@
           "trailingPE": null,
           "forwardPE": 10.619231,
           "priceToBook": 0.17643677,
-          "enterpriseToEbitda": 6.717,
-          "enterpriseToRevenue": 0.238,
+          "enterpriseToEbitda": 6.679,
+          "enterpriseToRevenue": 0.237,
           "trailingEps": -5.38,
           "forwardEps": 0.39,
           "priceToSalesTrailing12Months": 0.07459344
@@ -2670,7 +2670,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:33.939518+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:02.382885+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2695,8 +2695,8 @@
           "trailingPE": 85.46939,
           "forwardPE": 17.42317,
           "priceToBook": 2.3579829,
-          "enterpriseToEbitda": 12.523,
-          "enterpriseToRevenue": 2.773,
+          "enterpriseToEbitda": 11.835,
+          "enterpriseToRevenue": 2.621,
           "trailingEps": 0.49,
           "forwardEps": 2.4036958,
           "priceToSalesTrailing12Months": 2.7403684
@@ -2750,7 +2750,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:34.412974+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:02.782626+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2768,8 +2768,8 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 4668130816,
-          "sharesOutstanding": 58133631
+          "marketCap": 4795054080,
+          "sharesOutstanding": 59714248
         },
         "valorisation": {
           "trailingPE": 10.151708,
@@ -2779,7 +2779,7 @@
           "enterpriseToRevenue": 0.867,
           "trailingEps": 7.91,
           "forwardEps": 14.27878,
-          "priceToSalesTrailing12Months": 0.4679361
+          "priceToSalesTrailing12Months": 0.48065898
         },
         "croissance": {
           "revenueGrowth": -0.046,
@@ -2831,7 +2831,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:34.912238+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:03.202553+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2856,8 +2856,8 @@
           "trailingPE": 32.465565,
           "forwardPE": 19.00969,
           "priceToBook": 6.048242,
-          "enterpriseToEbitda": 16.139,
-          "enterpriseToRevenue": 2.17,
+          "enterpriseToEbitda": 15.958,
+          "enterpriseToRevenue": 2.145,
           "trailingEps": 7.26,
           "forwardEps": 12.39894,
           "priceToSalesTrailing12Months": 2.123256
@@ -2912,7 +2912,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:35.450765+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:03.702933+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2934,13 +2934,13 @@
           "sharesOutstanding": 2202342312
         },
         "valorisation": {
-          "trailingPE": 10.026995,
-          "forwardPE": 8.583549,
-          "priceToBook": 1.790188,
+          "trailingPE": 9.910673,
+          "forwardPE": 8.469592,
+          "priceToBook": 1.6195645,
           "enterpriseToEbitda": 4.615,
           "enterpriseToRevenue": 1.046,
-          "trailingEps": 8.52,
-          "forwardEps": 9.952761,
+          "trailingEps": 8.62,
+          "forwardEps": 10.086673,
           "priceToSalesTrailing12Months": 0.8775594
         },
         "croissance": {
@@ -2995,7 +2995,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:36.004621+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:04.107236+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3076,7 +3076,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:36.498600+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:04.507822+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3158,7 +3158,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:37.041134+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:04.918143+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3183,8 +3183,8 @@
           "trailingPE": 12.053273,
           "forwardPE": 10.958185,
           "priceToBook": 1.96732,
-          "enterpriseToEbitda": 7.04,
-          "enterpriseToRevenue": 1.188,
+          "enterpriseToEbitda": 7.012,
+          "enterpriseToRevenue": 1.183,
           "trailingEps": 9.01,
           "forwardEps": 9.9104,
           "priceToSalesTrailing12Months": 0.79009795
@@ -3241,7 +3241,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:37.634532+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:05.320534+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3320,7 +3320,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:38.178447+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:05.722865+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3347,7 +3347,7 @@
           "priceToBook": 17.225975,
           "enterpriseToEbitda": -20.265,
           "enterpriseToRevenue": 1265.717,
-          "trailingEps": -5.27,
+          "trailingEps": -5.21,
           "forwardEps": -2.8972,
           "priceToSalesTrailing12Months": 1482.4668
         },
@@ -3397,7 +3397,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:38.654472+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:06.200823+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3422,8 +3422,8 @@
           "trailingPE": 18.723051,
           "forwardPE": 16.54038,
           "priceToBook": 2.5912325,
-          "enterpriseToEbitda": 10.006,
-          "enterpriseToRevenue": 3.147,
+          "enterpriseToEbitda": 9.973,
+          "enterpriseToRevenue": 3.137,
           "trailingEps": 6.03,
           "forwardEps": 6.82572,
           "priceToSalesTrailing12Months": 1.6531123
@@ -3479,7 +3479,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:39.138716+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:06.623149+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3559,7 +3559,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:39.614796+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:07.026747+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3638,7 +3638,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:40.150183+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:07.460151+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3720,7 +3720,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:40.693060+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:07.860589+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3742,13 +3742,13 @@
           "sharesOutstanding": 202202553
         },
         "valorisation": {
-          "trailingPE": 14.1317835,
-          "forwardPE": 11.351338,
+          "trailingPE": 13.852584,
+          "forwardPE": 11.245174,
           "priceToBook": 1.4747521,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": null,
-          "trailingEps": 6.45,
-          "forwardEps": 8.02989,
+          "trailingEps": 6.58,
+          "forwardEps": 8.1057,
           "priceToSalesTrailing12Months": 2.591105
         },
         "croissance": {
@@ -3802,7 +3802,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:41.233238+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:08.280133+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3883,7 +3883,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:41.704507+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:08.675604+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3901,18 +3901,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1728259712,
-          "sharesOutstanding": 25756480
+          "marketCap": 1727897472,
+          "sharesOutstanding": 25751080
         },
         "valorisation": {
           "trailingPE": 6.5145626,
           "forwardPE": 10.953939,
           "priceToBook": 0.69791144,
-          "enterpriseToEbitda": 18.061,
-          "enterpriseToRevenue": 14.191,
+          "enterpriseToEbitda": 18.137,
+          "enterpriseToRevenue": 14.251,
           "trailingEps": 10.3,
           "forwardEps": 6.12565,
-          "priceToSalesTrailing12Months": 6.6933885
+          "priceToSalesTrailing12Months": 6.6919856
         },
         "croissance": {
           "revenueGrowth": 0.048,
@@ -3966,7 +3966,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:42.314451+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:09.071414+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4047,7 +4047,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:42.797498+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:09.472641+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4065,8 +4065,8 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 533067072,
-          "sharesOutstanding": 19412494
+          "marketCap": 542339712,
+          "sharesOutstanding": 19750172
         },
         "valorisation": {
           "trailingPE": null,
@@ -4076,7 +4076,7 @@
           "enterpriseToRevenue": 0.327,
           "trailingEps": -62.06,
           "forwardEps": 4.94368,
-          "priceToSalesTrailing12Months": 0.07212381
+          "priceToSalesTrailing12Months": 0.07337839
         },
         "croissance": {
           "revenueGrowth": -0.152,
@@ -4128,7 +4128,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:43.303639+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:09.911865+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4153,8 +4153,8 @@
           "trailingPE": 7.5833335,
           "forwardPE": 6.6963468,
           "priceToBook": 0.64764076,
-          "enterpriseToEbitda": 13.157,
-          "enterpriseToRevenue": 1.64,
+          "enterpriseToEbitda": 13.141,
+          "enterpriseToRevenue": 1.639,
           "trailingEps": 1.2,
           "forwardEps": 1.35895,
           "priceToSalesTrailing12Months": 0.2781922
@@ -4210,7 +4210,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:43.809135+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:10.338427+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4291,7 +4291,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:44.382383+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:10.738224+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4309,8 +4309,8 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10674846720,
-          "sharesOutstanding": 117954114
+          "marketCap": 10651132928,
+          "sharesOutstanding": 117692084
         },
         "valorisation": {
           "trailingPE": 23.205128,
@@ -4320,7 +4320,7 @@
           "enterpriseToRevenue": 2.61,
           "trailingEps": 3.9,
           "forwardEps": 4.70886,
-          "priceToSalesTrailing12Months": 2.674998
+          "priceToSalesTrailing12Months": 2.6690555
         },
         "croissance": {
           "revenueGrowth": -0.039,
@@ -4373,7 +4373,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:44.858589+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:11.132243+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4450,7 +4450,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:45.414066+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:11.535157+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4530,7 +4530,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:45.888763+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:11.942744+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4555,8 +4555,8 @@
           "trailingPE": 6.915095,
           "forwardPE": 7.5627437,
           "priceToBook": 0.5942922,
-          "enterpriseToEbitda": 13.571,
-          "enterpriseToRevenue": 8.428,
+          "enterpriseToEbitda": 13.587,
+          "enterpriseToRevenue": 8.438,
           "trailingEps": 2.12,
           "forwardEps": 1.93845,
           "priceToSalesTrailing12Months": 3.61114
@@ -4611,7 +4611,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:46.370883+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:12.343048+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4692,7 +4692,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:46.908332+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:12.774936+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4771,7 +4771,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:47.395581+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:13.190097+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4851,7 +4851,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:47.875025+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:13.594170+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4869,8 +4869,8 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1255170432,
-          "sharesOutstanding": 158381124
+          "marketCap": 1254194432,
+          "sharesOutstanding": 158257962
         },
         "valorisation": {
           "trailingPE": 9.548193,
@@ -4880,7 +4880,7 @@
           "enterpriseToRevenue": 0.551,
           "trailingEps": 0.83,
           "forwardEps": 1.0461,
-          "priceToSalesTrailing12Months": 0.36183527
+          "priceToSalesTrailing12Months": 0.3615539
         },
         "croissance": {
           "revenueGrowth": 0.078,
@@ -4933,7 +4933,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:48.351549+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:14.030873+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5010,7 +5010,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:48.828091+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:14.460628+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5032,12 +5032,12 @@
           "sharesOutstanding": 212770592
         },
         "valorisation": {
-          "trailingPE": 15.869282,
+          "trailingPE": 15.766234,
           "forwardPE": 15.277263,
           "priceToBook": 2.2433708,
           "enterpriseToEbitda": 9.631,
           "enterpriseToRevenue": 2.105,
-          "trailingEps": 1.53,
+          "trailingEps": 1.54,
           "forwardEps": 1.58929,
           "priceToSalesTrailing12Months": 1.3813022
         },
@@ -5092,7 +5092,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:49.305288+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:14.893815+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5172,7 +5172,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:49.844633+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:15.295824+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5255,7 +5255,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:50.321682+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:15.723980+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5335,7 +5335,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:50.810444+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:16.170100+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5353,18 +5353,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 17713844224,
-          "sharesOutstanding": 99740109
+          "marketCap": null,
+          "sharesOutstanding": null
         },
         "valorisation": {
-          "trailingPE": 25.813953,
-          "forwardPE": 19.158289,
+          "trailingPE": 25.927008,
+          "forwardPE": 19.14732,
           "priceToBook": 3.900982,
           "enterpriseToEbitda": 17.092,
           "enterpriseToRevenue": 10.094,
-          "trailingEps": 6.88,
-          "forwardEps": 9.27014,
-          "priceToSalesTrailing12Months": 9.015926
+          "trailingEps": 6.85,
+          "forwardEps": 9.27545,
+          "priceToSalesTrailing12Months": null
         },
         "croissance": {
           "revenueGrowth": 0.167,
@@ -5415,7 +5415,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:51.286081+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:16.579472+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5440,8 +5440,8 @@
           "trailingPE": null,
           "forwardPE": 18.969107,
           "priceToBook": 2.492046,
-          "enterpriseToEbitda": 20.571,
-          "enterpriseToRevenue": 1.307,
+          "enterpriseToEbitda": 20.796,
+          "enterpriseToRevenue": 1.321,
           "trailingEps": -18.17,
           "forwardEps": 2.02329,
           "priceToSalesTrailing12Months": 0.36591762
@@ -5495,7 +5495,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:51.836673+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:16.978837+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5520,8 +5520,8 @@
           "trailingPE": null,
           "forwardPE": -15.88282,
           "priceToBook": 0.58555627,
-          "enterpriseToEbitda": 6.732,
-          "enterpriseToRevenue": 3.107,
+          "enterpriseToEbitda": 6.296,
+          "enterpriseToRevenue": 2.906,
           "trailingEps": -0.52,
           "forwardEps": -0.11333,
           "priceToSalesTrailing12Months": 1.7154108
@@ -5575,7 +5575,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:52.351494+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:17.430948+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5600,8 +5600,8 @@
           "trailingPE": null,
           "forwardPE": 32.009315,
           "priceToBook": -9.973857,
-          "enterpriseToEbitda": 35.525,
-          "enterpriseToRevenue": 3.808,
+          "enterpriseToEbitda": 35.584,
+          "enterpriseToRevenue": 3.814,
           "trailingEps": -4.89,
           "forwardEps": 3.93323,
           "priceToSalesTrailing12Months": 4.008094
@@ -5657,7 +5657,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:52.822076+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:17.828832+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5737,7 +5737,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:53.298185+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:18.256670+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5759,12 +5759,12 @@
           "sharesOutstanding": 45716777
         },
         "valorisation": {
-          "trailingPE": 34.673912,
+          "trailingPE": 34.117645,
           "forwardPE": 17.772974,
           "priceToBook": 2.5716474,
           "enterpriseToEbitda": 13.055,
           "enterpriseToRevenue": 1.734,
-          "trailingEps": 1.84,
+          "trailingEps": 1.87,
           "forwardEps": 3.58972,
           "priceToSalesTrailing12Months": 1.5797877
         },
@@ -5818,7 +5818,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:53.800479+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:18.666373+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5840,12 +5840,12 @@
           "sharesOutstanding": 241521122
         },
         "valorisation": {
-          "trailingPE": 13.433735,
+          "trailingPE": 13.597561,
           "forwardPE": 5.820782,
           "priceToBook": 0.7908362,
           "enterpriseToEbitda": 3.345,
           "enterpriseToRevenue": 0.354,
-          "trailingEps": 0.83,
+          "trailingEps": 0.82,
           "forwardEps": 1.91555,
           "priceToSalesTrailing12Months": 0.1305931
         },
@@ -5898,7 +5898,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:54.286579+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:19.064049+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5977,7 +5977,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:54.774310+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:19.481375+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6002,8 +6002,8 @@
           "trailingPE": 32.966667,
           "forwardPE": 31.175137,
           "priceToBook": 4.3926277,
-          "enterpriseToEbitda": 16.752,
-          "enterpriseToRevenue": 8.492,
+          "enterpriseToEbitda": 16.733,
+          "enterpriseToRevenue": 8.483,
           "trailingEps": 0.6,
           "forwardEps": 0.63448,
           "priceToSalesTrailing12Months": 6.202463
@@ -6058,7 +6058,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:55.282243+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:19.900782+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6138,7 +6138,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:55.761597+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:20.349926+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6160,12 +6160,12 @@
           "sharesOutstanding": 37077785
         },
         "valorisation": {
-          "trailingPE": 15.578858,
+          "trailingPE": 15.5658,
           "forwardPE": 15.149314,
           "priceToBook": 11.217832,
           "enterpriseToEbitda": 12.184,
           "enterpriseToRevenue": 8.242,
-          "trailingEps": 11.92,
+          "trailingEps": 11.93,
           "forwardEps": 12.25798,
           "priceToSalesTrailing12Months": 8.58843
         },
@@ -6220,7 +6220,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:56.303947+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:20.783863+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6245,8 +6245,8 @@
           "trailingPE": null,
           "forwardPE": 5.160329,
           "priceToBook": 0.31158468,
-          "enterpriseToEbitda": 16.952,
-          "enterpriseToRevenue": 3.3,
+          "enterpriseToEbitda": 16.931,
+          "enterpriseToRevenue": 3.296,
           "trailingEps": -2.47,
           "forwardEps": 2.84478,
           "priceToSalesTrailing12Months": 0.84464103
@@ -6301,7 +6301,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:56.785956+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:21.237118+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6381,7 +6381,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:57.337786+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:21.700152+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6463,7 +6463,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:58.010921+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:22.178493+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6544,7 +6544,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:58.558325+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:22.607851+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6566,13 +6566,13 @@
           "sharesOutstanding": 87831756
         },
         "valorisation": {
-          "trailingPE": 26.015036,
-          "forwardPE": 23.849567,
+          "trailingPE": 26.412214,
+          "forwardPE": 23.579762,
           "priceToBook": 4.2800593,
           "enterpriseToEbitda": 19.947,
           "enterpriseToRevenue": 3.522,
-          "trailingEps": 1.33,
-          "forwardEps": 1.45076,
+          "trailingEps": 1.31,
+          "forwardEps": 1.46736,
           "priceToSalesTrailing12Months": 3.50627
         },
         "croissance": {
@@ -6623,7 +6623,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:59.105305+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:23.019811+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6645,12 +6645,12 @@
           "sharesOutstanding": 286625891
         },
         "valorisation": {
-          "trailingPE": 7.387841,
+          "trailingPE": 7.372385,
           "forwardPE": 12.103519,
           "priceToBook": 1.0669736,
           "enterpriseToEbitda": 17.311,
           "enterpriseToRevenue": 11.393,
-          "trailingEps": 4.77,
+          "trailingEps": 4.78,
           "forwardEps": 2.91155,
           "priceToSalesTrailing12Months": 5.7744665
         },
@@ -6706,7 +6706,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:30:59.585442+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:23.439253+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6788,7 +6788,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:00.195320+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:23.879569+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6869,7 +6869,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:00.746678+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:24.283604+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6894,8 +6894,8 @@
           "trailingPE": null,
           "forwardPE": 17.004974,
           "priceToBook": 1.0774313,
-          "enterpriseToEbitda": 8.868,
-          "enterpriseToRevenue": 1.186,
+          "enterpriseToEbitda": 8.885,
+          "enterpriseToRevenue": 1.188,
           "trailingEps": -2.36,
           "forwardEps": 5.025,
           "priceToSalesTrailing12Months": 0.4178156
@@ -6949,7 +6949,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:01.230417+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:24.684800+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7031,7 +7031,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:01.709005+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:25.164882+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7049,18 +7049,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1261478144,
-          "sharesOutstanding": 125645235
+          "marketCap": 1265381376,
+          "sharesOutstanding": 126034000
         },
         "valorisation": {
           "trailingPE": 12.55,
           "forwardPE": 8.356013,
           "priceToBook": 1.078642,
-          "enterpriseToEbitda": 8.14,
-          "enterpriseToRevenue": 1.067,
+          "enterpriseToEbitda": 8.094,
+          "enterpriseToRevenue": 1.061,
           "trailingEps": 0.8,
           "forwardEps": 1.20153,
-          "priceToSalesTrailing12Months": 0.9954061
+          "priceToSalesTrailing12Months": 0.9984861
         },
         "croissance": {
           "revenueGrowth": 0.018,
@@ -7111,7 +7111,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:02.185093+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:25.569567+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7191,7 +7191,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:02.679344+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:25.965570+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7269,7 +7269,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:03.226495+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:26.363798+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7349,7 +7349,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:03.697345+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:26.762756+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7429,7 +7429,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:04.241282+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:27.162838+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7451,12 +7451,12 @@
           "sharesOutstanding": 142891831
         },
         "valorisation": {
-          "trailingPE": 6.642336,
+          "trailingPE": 6.594203,
           "forwardPE": 5.9857793,
           "priceToBook": 0.59418875,
           "enterpriseToEbitda": 4.418,
           "enterpriseToRevenue": 0.274,
-          "trailingEps": 1.37,
+          "trailingEps": 1.38,
           "forwardEps": 1.52027,
           "priceToSalesTrailing12Months": 0.12892283
         },
@@ -7509,7 +7509,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:04.785566+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:27.650073+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7592,7 +7592,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:05.393314+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:28.080668+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7617,8 +7617,8 @@
           "trailingPE": 33.766666,
           "forwardPE": 25.218956,
           "priceToBook": 1.375051,
-          "enterpriseToEbitda": 15.941,
-          "enterpriseToRevenue": 3.499,
+          "enterpriseToEbitda": 16.286,
+          "enterpriseToRevenue": 3.575,
           "trailingEps": 1.5,
           "forwardEps": 2.00841,
           "priceToSalesTrailing12Months": 2.8618238
@@ -7670,7 +7670,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:05.868454+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:28.472897+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7750,7 +7750,7 @@
         "decision": "ANALYSE_INCOMPLETE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:06.413586+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:28.865888+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7772,12 +7772,12 @@
           "sharesOutstanding": 103356130
         },
         "valorisation": {
-          "trailingPE": 10.870371,
+          "trailingPE": 10.836924,
           "forwardPE": 10.399043,
           "priceToBook": 1.2865285,
           "enterpriseToEbitda": 8.277,
           "enterpriseToRevenue": 0.756,
-          "trailingEps": 3.24,
+          "trailingEps": 3.25,
           "forwardEps": 3.38685,
           "priceToSalesTrailing12Months": 0.49679342
         },
@@ -7832,7 +7832,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:06.903212+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:29.334734+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7854,13 +7854,13 @@
           "sharesOutstanding": 308448880
         },
         "valorisation": {
-          "trailingPE": 14.793992,
-          "forwardPE": 11.623084,
+          "trailingPE": 15.0524025,
+          "forwardPE": 11.255805,
           "priceToBook": 1.8370284,
           "enterpriseToEbitda": 12.322,
           "enterpriseToRevenue": 0.764,
-          "trailingEps": 2.33,
-          "forwardEps": 2.96565,
+          "trailingEps": 2.29,
+          "forwardEps": 3.06242,
           "priceToSalesTrailing12Months": 0.5416816
         },
         "croissance": {
@@ -7914,7 +7914,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:07.371658+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:29.827822+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7936,12 +7936,12 @@
           "sharesOutstanding": 178663396
         },
         "valorisation": {
-          "trailingPE": 7.662971,
+          "trailingPE": 7.646018,
           "forwardPE": 7.5754757,
           "priceToBook": 1.4021991,
           "enterpriseToEbitda": 5.828,
           "enterpriseToRevenue": 0.519,
-          "trailingEps": 4.51,
+          "trailingEps": 4.52,
           "forwardEps": 4.56209,
           "priceToSalesTrailing12Months": 0.40513134
         },
@@ -7993,7 +7993,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:07.850269+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:30.261582+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8018,8 +8018,8 @@
           "trailingPE": null,
           "forwardPE": -13.839435,
           "priceToBook": 0.904999,
-          "enterpriseToEbitda": 6.27,
-          "enterpriseToRevenue": 2.498,
+          "enterpriseToEbitda": 6.225,
+          "enterpriseToRevenue": 2.48,
           "trailingEps": -0.74,
           "forwardEps": -0.30218,
           "priceToSalesTrailing12Months": 0.52363557
@@ -8072,7 +8072,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:08.453347+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:30.698232+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8153,7 +8153,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:08.945949+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:31.121897+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8178,8 +8178,8 @@
           "trailingPE": null,
           "forwardPE": 33.366352,
           "priceToBook": 3.233918,
-          "enterpriseToEbitda": 51.254,
-          "enterpriseToRevenue": 8.111,
+          "enterpriseToEbitda": 46.399,
+          "enterpriseToRevenue": 7.343,
           "trailingEps": -6.23,
           "forwardEps": 3.60393,
           "priceToSalesTrailing12Months": 7.266306
@@ -8232,7 +8232,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:09.422599+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:31.572864+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8311,7 +8311,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:09.964780+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:32.066671+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8333,13 +8333,13 @@
           "sharesOutstanding": 19309460
         },
         "valorisation": {
-          "trailingPE": 12.2972975,
-          "forwardPE": 9.651344,
+          "trailingPE": 12.664016,
+          "forwardPE": 9.572801,
           "priceToBook": 1.7604953,
           "enterpriseToEbitda": 8.699,
           "enterpriseToRevenue": 0.84,
-          "trailingEps": 15.54,
-          "forwardEps": 19.80035,
+          "trailingEps": 15.09,
+          "forwardEps": 19.96281,
           "priceToSalesTrailing12Months": 0.6402759
         },
         "croissance": {
@@ -8393,7 +8393,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:10.453094+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:32.462051+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8476,7 +8476,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:10.930589+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:32.861352+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8555,7 +8555,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:11.427996+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:33.347441+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8580,8 +8580,8 @@
           "trailingPE": 21.763159,
           "forwardPE": 11.334241,
           "priceToBook": 2.8107743,
-          "enterpriseToEbitda": 7.945,
-          "enterpriseToRevenue": 0.4,
+          "enterpriseToEbitda": 7.458,
+          "enterpriseToRevenue": 0.376,
           "trailingEps": 1.52,
           "forwardEps": 2.91859,
           "priceToSalesTrailing12Months": 0.7667736
@@ -8636,7 +8636,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:11.907085+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:33.909555+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8660,7 +8660,7 @@
         "valorisation": {
           "trailingPE": 10.101695,
           "forwardPE": 12.729603,
-          "priceToBook": 0.6367522,
+          "priceToBook": 0.6091578,
           "enterpriseToEbitda": 4.427,
           "enterpriseToRevenue": 0.42,
           "trailingEps": 0.59,
@@ -8716,7 +8716,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:12.456439+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:34.320680+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8741,8 +8741,8 @@
           "trailingPE": 9.652042,
           "forwardPE": 7.991718,
           "priceToBook": 1.1378735,
-          "enterpriseToEbitda": 5.505,
-          "enterpriseToRevenue": 0.558,
+          "enterpriseToEbitda": 5.5,
+          "enterpriseToRevenue": 0.557,
           "trailingEps": 13.22,
           "forwardEps": 15.96653,
           "priceToSalesTrailing12Months": 0.64439166
@@ -8798,7 +8798,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:12.952505+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:34.789183+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8823,8 +8823,8 @@
           "trailingPE": null,
           "forwardPE": 219.81789,
           "priceToBook": 0.3724476,
-          "enterpriseToEbitda": 2.471,
-          "enterpriseToRevenue": 0.672,
+          "enterpriseToEbitda": 2.428,
+          "enterpriseToRevenue": 0.66,
           "trailingEps": -11.16,
           "forwardEps": 0.01867,
           "priceToSalesTrailing12Months": 0.40871257
@@ -8877,7 +8877,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:13.452076+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:35.179842+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8959,7 +8959,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:13.933074+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:35.593379+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8981,13 +8981,13 @@
           "sharesOutstanding": 7219498
         },
         "valorisation": {
-          "trailingPE": 14.475309,
-          "forwardPE": 7.260693,
-          "priceToBook": 0.6869118,
+          "trailingPE": 13.855245,
+          "forwardPE": 7.274615,
+          "priceToBook": 0.68822896,
           "enterpriseToEbitda": 3.13,
           "enterpriseToRevenue": 1.407,
-          "trailingEps": 6.48,
-          "forwardEps": 12.918878,
+          "trailingEps": 6.77,
+          "forwardEps": 12.894154,
           "priceToSalesTrailing12Months": 0.6075623
         },
         "croissance": {
@@ -9041,7 +9041,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:14.575516+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:36.038035+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9063,12 +9063,12 @@
           "sharesOutstanding": 8381624
         },
         "valorisation": {
-          "trailingPE": 18.675995,
+          "trailingPE": 18.516542,
           "forwardPE": 14.926259,
           "priceToBook": 2.3896096,
           "enterpriseToEbitda": 10.61,
           "enterpriseToRevenue": 2.072,
-          "trailingEps": 18.58,
+          "trailingEps": 18.74,
           "forwardEps": 23.24762,
           "priceToSalesTrailing12Months": 1.9462774
         },
@@ -9124,7 +9124,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:15.060316+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:36.474241+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9201,7 +9201,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:15.621470+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:36.913489+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9226,8 +9226,8 @@
           "trailingPE": 13.786764,
           "forwardPE": 9.65584,
           "priceToBook": 1.7055972,
-          "enterpriseToEbitda": 4.971,
-          "enterpriseToRevenue": 1.049,
+          "enterpriseToEbitda": 4.829,
+          "enterpriseToRevenue": 1.019,
           "trailingEps": 1.36,
           "forwardEps": 1.94183,
           "priceToSalesTrailing12Months": 1.194229
@@ -9284,7 +9284,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:16.096834+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:37.325715+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9363,7 +9363,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:16.648213+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:37.764917+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9442,7 +9442,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:17.140536+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:38.216147+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9521,7 +9521,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:17.681565+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:38.627932+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9539,8 +9539,8 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2250586880,
-          "sharesOutstanding": 16695748
+          "marketCap": 2269604352,
+          "sharesOutstanding": 16836829
         },
         "valorisation": {
           "trailingPE": 8.510101,
@@ -9550,7 +9550,7 @@
           "enterpriseToRevenue": 1.22,
           "trailingEps": 15.84,
           "forwardEps": 11.06837,
-          "priceToSalesTrailing12Months": 1.3414828
+          "priceToSalesTrailing12Months": 1.3528183
         },
         "croissance": {
           "revenueGrowth": 0.335,
@@ -9603,7 +9603,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:18.160200+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:39.025879+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9682,7 +9682,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T21:31:18.712679+00:00",
+      "date_collecte_utc": "2026-10-30T22:01:39.429744+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,

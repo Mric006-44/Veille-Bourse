@@ -1,8 +1,8 @@
 {
   "schema_version": "8.0",
-  "genere_utc": "2026-10-30T21:31:19.078792+00:00",
-  "date_source_technique": "2026-10-30T21:30:16.135464+00:00",
-  "date_source_fondamentale": "2026-10-30T21:31:18.962844+00:00",
+  "genere_utc": "2026-10-30T22:01:39.801808+00:00",
+  "date_source_technique": "2026-10-30T22:00:48.068071+00:00",
+  "date_source_fondamentale": "2026-10-30T22:01:39.679892+00:00",
   "regles_tactiques_v73": {
     "max_dossiers": 5,
     "seuil_liquidite_eur": 1000000,
@@ -97,8 +97,8 @@
             "trailingPE": 33.766666,
             "forwardPE": 25.218956,
             "priceToBook": 1.375051,
-            "enterpriseToEbitda": 15.941,
-            "enterpriseToRevenue": 3.499,
+            "enterpriseToEbitda": 16.286,
+            "enterpriseToRevenue": 3.575,
             "trailingEps": 1.5,
             "forwardEps": 2.00841,
             "priceToSalesTrailing12Months": 2.8618238
@@ -150,7 +150,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T21:31:05.868454+00:00",
+        "date_collecte_utc": "2026-10-30T22:01:28.472897+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -249,8 +249,8 @@
             "currency": "EUR",
             "financialCurrency": "EUR",
             "quoteType": "EQUITY",
-            "marketCap": 4668130816,
-            "sharesOutstanding": 58133631
+            "marketCap": 4795054080,
+            "sharesOutstanding": 59714248
           },
           "valorisation": {
             "trailingPE": 10.151708,
@@ -260,7 +260,7 @@
             "enterpriseToRevenue": 0.867,
             "trailingEps": 7.91,
             "forwardEps": 14.27878,
-            "priceToSalesTrailing12Months": 0.4679361
+            "priceToSalesTrailing12Months": 0.48065898
           },
           "croissance": {
             "revenueGrowth": -0.046,
@@ -312,7 +312,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T21:30:34.912238+00:00",
+        "date_collecte_utc": "2026-10-30T22:01:03.202553+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -401,8 +401,8 @@
             "trailingPE": 32.594593,
             "forwardPE": 25.091892,
             "priceToBook": 4.3419824,
-            "enterpriseToEbitda": 16.898,
-            "enterpriseToRevenue": 4.764,
+            "enterpriseToEbitda": 17.192,
+            "enterpriseToRevenue": 4.847,
             "trailingEps": 5.55,
             "forwardEps": 7.2095,
             "priceToSalesTrailing12Months": 4.268446
@@ -457,7 +457,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T21:30:17.674210+00:00",
+        "date_collecte_utc": "2026-10-30T22:00:49.207839+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -607,7 +607,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T21:30:45.888763+00:00",
+        "date_collecte_utc": "2026-10-30T22:01:11.942744+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -757,7 +757,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T21:30:49.844633+00:00",
+        "date_collecte_utc": "2026-10-30T22:01:15.295824+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,

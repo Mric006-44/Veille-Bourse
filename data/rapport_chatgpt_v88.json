@@ -1,7 +1,7 @@
 {
   "schema_version": "8.8",
-  "genere_utc": "2026-10-30T21:31:20.191903+00:00",
-  "source_v86": "2026-10-30T21:31:20.115311+00:00",
+  "genere_utc": "2026-10-30T22:01:40.898823+00:00",
+  "source_v86": "2026-10-30T22:01:40.823602+00:00",
   "dossiers": [
     {
       "ticker": "IPN.PA",
@@ -42,7 +42,8 @@
         "ttf_estimee_eur": null,
         "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
-        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler"
+        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
+        "ratio_gain_risque_non_eliminatoire": 2.25
       }
     },
     {
@@ -90,19 +91,19 @@
         "SOURCE_INDEPENDANTE_ABSENTE",
         "SPREAD_NON_VERIFIE",
         "TTF_INDETERMINEE",
-        "TTF_ISIN_NON_VERIFIEE",
-        "RATIO_BRUT_INSUFFISANT"
+        "TTF_ISIN_NON_VERIFIEE"
       ],
       "notes": [
-        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs"
+        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs",
+        "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
         "prix_signal_non_executable": 191.1,
         "support_structurel": 177.05,
-        "stop_technique_candidat": 175.9862,
+        "stop_technique_candidat": 175.9876,
         "objectif_premiere_resistance": 191.5,
         "ratio_gain_risque_brut": 0.03,
-        "atr14": 5.3191,
+        "atr14": 5.3119,
         "quantite_theorique": null,
         "risque_estime_eur": null,
         "gain_net_estime_eur": null,
@@ -110,7 +111,8 @@
         "ttf_estimee_eur": null,
         "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
-        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler"
+        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
+        "ratio_gain_risque_non_eliminatoire": 0.03
       }
     },
     {
@@ -131,11 +133,11 @@
         "SOURCE_INDEPENDANTE_ABSENTE",
         "SPREAD_NON_VERIFIE",
         "TTF_INDETERMINEE",
-        "TTF_ISIN_NON_VERIFIEE",
-        "RATIO_BRUT_INSUFFISANT"
+        "TTF_ISIN_NON_VERIFIEE"
       ],
       "notes": [
-        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs"
+        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs",
+        "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
         "prix_signal_non_executable": 347.0,
@@ -151,18 +153,19 @@
         "ttf_estimee_eur": null,
         "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
-        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler"
+        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
+        "ratio_gain_risque_non_eliminatoire": 0.32
       }
     },
     {
-      "ticker": "PUB.PA",
+      "ticker": "ITP.PA",
       "statut": "SURVEILLANCE",
       "achat_autorise": false,
-      "score_global_v86_100": 87.26,
+      "score_global_v86_100": 84.5,
       "strategies": [],
       "date_seance": "2026-10-30",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
-      "fiscalite": "OUI_A_VALIDER_ISIN",
+      "fiscalite": "INCONNUE",
       "donnees_manquantes": [],
       "blocages": [
         "CATALYSEUR_NON_VALIDE",
@@ -171,27 +174,29 @@
         "SIGNAL_GRAPHIQUE_NON_CONFIRME",
         "SOURCE_INDEPENDANTE_ABSENTE",
         "SPREAD_NON_VERIFIE",
-        "TTF_ISIN_NON_VERIFIEE",
-        "RATIO_BRUT_INSUFFISANT"
+        "TTF_INDETERMINEE",
+        "TTF_ISIN_NON_VERIFIEE"
       ],
       "notes": [
-        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs"
+        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs",
+        "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 100.15,
-        "support_structurel": 99.24,
-        "stop_technique_candidat": 96.9237,
-        "objectif_premiere_resistance": 105.2,
-        "ratio_gain_risque_brut": 1.57,
-        "atr14": 2.1509,
-        "quantite_theorique": 4,
-        "risque_estime_eur": 18.06,
-        "gain_net_estime_eur": 14.9,
-        "cout_achat_estime_eur": 404.01,
-        "ttf_estimee_eur": 1.6,
-        "courtages_aller_retour_estimes_eur": 2.87,
+        "prix_signal_non_executable": 34.6,
+        "support_structurel": 32.557,
+        "stop_technique_candidat": 32.3935,
+        "objectif_premiere_resistance": 35.1,
+        "ratio_gain_risque_brut": 0.23,
+        "atr14": 0.8176,
+        "quantite_theorique": null,
+        "risque_estime_eur": null,
+        "gain_net_estime_eur": null,
+        "cout_achat_estime_eur": null,
+        "ttf_estimee_eur": null,
+        "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
-        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler"
+        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
+        "ratio_gain_risque_non_eliminatoire": 0.23
       }
     }
   ],
@@ -203,5 +208,6 @@
     "Top 5 recherche uniquement; plans non exécutables et non confirmés",
     "Frais, TTF indicative par ticker, niveaux et positionnement à confirmer manuellement",
     "Une absence de positions déclarées ne signifie pas que le portefeuille est vide"
-  ]
+  ],
+  "ratio_gain_risque_filtre": false
 }
