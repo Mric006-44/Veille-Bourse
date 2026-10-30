@@ -1,11 +1,18 @@
 name: Veille Bourse V8.4
+
 on:
   workflow_dispatch:
+    inputs:
+      run_backtests:
+        description: "Exécuter les backtests historiques"
+        type: boolean
+        default: false
   schedule:
     - cron: '15 18 * * 1-5'
       timezone: 'Europe/Paris'
     - cron: '0 8 * * 6'
-      timezone: 'Europe/Paris'
+      timezone: 'Europe/Paris' 
+      
 permissions:
   contents: write
 concurrency:
