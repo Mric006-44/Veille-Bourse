@@ -1,5 +1,4 @@
-name: Veille Bourse V8
-
+name: Veille Bourse V8.3
 on:
   workflow_dispatch:
   schedule:
@@ -7,14 +6,11 @@ on:
       timezone: 'Europe/Paris'
     - cron: '0 8 * * 6'
       timezone: 'Europe/Paris'
-
 permissions:
   contents: write
-
 concurrency:
   group: veille-bourse
   cancel-in-progress: false
-
 jobs:
   collecte:
     runs-on: ubuntu-latest
@@ -24,8 +20,10 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - name: Tests V8
-        run: python -m unittest discover -s tests -p 'test_v8.py'
+      - name: Tests V8 et V8.3
+        run: |
+          python -m unittest discover -s tests -p 'test_v8.py'
+          python -m unittest discover -s tests -p 'test_v83.py'
       - name: Collecte V4
         run: python collecte.py
       - name: Screening V5
@@ -36,22 +34,24 @@ jobs:
         run: python rapport_v7.py
       - name: Rapport enrichi V7.3
         run: python plans_v73.py
-      - name: Fondamentaux V8 - semaine ou premiere execution
-        if: github.event_name == 'workflow_dispatch' || (github.event.schedule == '0 8 * * 6')
+      - name: Fondamentaux V8 - semaine ou execution manuelle
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 8 * * 6'
         run: python fondamentaux_v8.py
-      - name: Fondamentaux V8 - amorcage automatique si absents
+      - name: Fondamentaux V8 - amorcage si absents
         if: github.event_name != 'workflow_dispatch' && github.event.schedule != '0 8 * * 6'
         run: |
           if [ ! -f data/fondamentaux_v8.json ]; then python fondamentaux_v8.py; fi
-      - name: Rapport ChatGPT V8
+      - name: Rapport ChatGPT V8 historique
         run: python rapport_v8.py
-      - name: Backtest V6 (manuel)
+      - name: Rapport ChatGPT V8.3 - top global et 3 strategies
+        run: python rapport_v83.py
+      - name: Backtest V6 historique - manuel
         if: github.event_name == 'workflow_dispatch'
         run: python backtest.py
-      - name: Portefeuille V6.1 (manuel)
+      - name: Portefeuille V6.1 - manuel
         if: github.event_name == 'workflow_dispatch'
         run: python portfolio_backtest.py
-      - name: Robustesse V6.2 (manuel)
+      - name: Robustesse V6.2 - manuel
         if: github.event_name == 'workflow_dispatch'
         run: python robustesse.py
       - name: Publication
@@ -60,6 +60,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Rapport V8 technique et fondamental"
+            git commit -m "Rapport V8.3 - top global et strategies"
             git push
-          fi
