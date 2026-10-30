@@ -1,8 +1,8 @@
 {
   "schema_version": "8.0",
-  "genere_utc": "2026-10-30T15:46:40.108506+00:00",
-  "date_source_technique": "2026-10-30T15:45:43.482261+00:00",
-  "date_source_fondamentale": "2026-10-30T15:46:39.989680+00:00",
+  "genere_utc": "2026-10-30T16:01:03.110722+00:00",
+  "date_source_technique": "2026-10-30T16:00:05.314287+00:00",
+  "date_source_fondamentale": "2026-10-30T16:01:03.003256+00:00",
   "regles_tactiques_v73": {
     "max_dossiers": 5,
     "seuil_liquidite_eur": 1000000,
@@ -27,26 +27,26 @@
           "actions_supplementaires"
         ],
         "indicateurs": {
-          "close": 29.19,
-          "mm20": 27.904,
-          "mm50": 27.566,
-          "mm200": 27.1928,
-          "rsi14": 67.15,
+          "close": 29.17,
+          "mm20": 27.903,
+          "mm50": 27.5656,
+          "mm200": 27.1927,
+          "rsi14": 66.96,
           "adx14": 28.62,
-          "macd_12_26": 0.5475,
-          "macd_signal9": 0.406,
-          "macd_histogramme": 0.1415,
+          "macd_12_26": 0.5459,
+          "macd_signal9": 0.4057,
+          "macd_histogramme": 0.1402,
           "atr14": 0.4525,
           "atr_pct": 1.55,
           "plus_bas_20j_precedent": 25.87,
           "plus_bas_55j_precedent": 25.87,
           "plus_haut_20j_precedent": 29.45,
           "plus_haut_55j_precedent": 29.45,
-          "volume": 219614,
-          "ratio_volume_20j": 0.2293,
-          "performance_20j_pct": 9.86,
-          "force_relative_cac40_20j_pct": 8.99,
-          "valeur_echangee_moyenne20_eur_estimee": 26558906.97
+          "volume": 227453,
+          "ratio_volume_20j": 0.2374,
+          "performance_20j_pct": 9.79,
+          "force_relative_cac40_20j_pct": 9.01,
+          "valeur_echangee_moyenne20_eur_estimee": 26570120.54
         },
         "ttf": {
           "statut": "A_VERIFIER",
@@ -54,9 +54,9 @@
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
         "plan_exploratoire": {
-          "support_candidat": 27.904,
+          "support_candidat": 27.903,
           "resistance_cible": 29.45,
-          "stop_invalidation_candidat": 27.8135,
+          "stop_invalidation_candidat": 27.8125,
           "quantite_theorique": null
         },
         "raisons_rejet_et_reserves": [
@@ -90,18 +90,18 @@
             "currency": "EUR",
             "financialCurrency": "EUR",
             "quoteType": "EQUITY",
-            "marketCap": 12910428160,
+            "marketCap": 12906005504,
             "sharesOutstanding": 442289395
           },
           "valorisation": {
-            "trailingPE": 25.83186,
-            "forwardPE": 17.858562,
-            "priceToBook": 7.819448,
+            "trailingPE": 25.82301,
+            "forwardPE": 17.852446,
+            "priceToBook": 7.816769,
             "enterpriseToEbitda": 12.298,
             "enterpriseToRevenue": 2.232,
             "trailingEps": 1.13,
             "forwardEps": 1.63451,
-            "priceToSalesTrailing12Months": 1.9131945
+            "priceToSalesTrailing12Months": 1.9125391
           },
           "croissance": {
             "revenueGrowth": 0.02,
@@ -152,7 +152,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T15:46:10.431513+00:00",
+        "date_collecte_utc": "2026-10-30T16:00:32.459419+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -177,26 +177,26 @@
           "actions_supplementaires"
         ],
         "indicateurs": {
-          "close": 222.2,
-          "mm20": 215.76,
-          "mm50": 205.416,
-          "mm200": 182.5047,
-          "rsi14": 58.86,
+          "close": 222.4,
+          "mm20": 215.77,
+          "mm50": 205.42,
+          "mm200": 182.5057,
+          "rsi14": 59.08,
           "adx14": 36.07,
-          "macd_12_26": 4.7054,
-          "macd_signal9": 4.2998,
-          "macd_histogramme": 0.4056,
-          "atr14": 7.1257,
-          "atr_pct": 3.21,
+          "macd_12_26": 4.7214,
+          "macd_signal9": 4.303,
+          "macd_histogramme": 0.4184,
+          "atr14": 7.1686,
+          "atr_pct": 3.22,
           "plus_bas_20j_precedent": 204.2,
           "plus_bas_55j_precedent": 178.3,
           "plus_haut_20j_precedent": 228.4,
           "plus_haut_55j_precedent": 228.4,
-          "volume": 20976,
-          "ratio_volume_20j": 0.2103,
-          "performance_20j_pct": 6.72,
-          "force_relative_cac40_20j_pct": 5.85,
-          "valeur_echangee_moyenne20_eur_estimee": 21495459.49
+          "volume": 21931,
+          "ratio_volume_20j": 0.2198,
+          "performance_20j_pct": 6.82,
+          "force_relative_cac40_20j_pct": 6.04,
+          "valeur_echangee_moyenne20_eur_estimee": 21506288.84
         },
         "ttf": {
           "statut": "A_VERIFIER",
@@ -204,9 +204,9 @@
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
         "plan_exploratoire": {
-          "support_candidat": 215.76,
+          "support_candidat": 215.77,
           "resistance_cible": 228.4,
-          "stop_invalidation_candidat": 214.3349,
+          "stop_invalidation_candidat": 214.3363,
           "quantite_theorique": null
         },
         "raisons_rejet_et_reserves": [
@@ -240,18 +240,18 @@
             "currency": "EUR",
             "financialCurrency": "EUR",
             "quoteType": "EQUITY",
-            "marketCap": 21618393088,
+            "marketCap": 21637851136,
             "sharesOutstanding": 97292500
           },
           "valorisation": {
-            "trailingPE": 66.72673,
-            "forwardPE": 36.653057,
-            "priceToBook": 4.945911,
+            "trailingPE": 66.78679,
+            "forwardPE": 36.686047,
+            "priceToBook": 4.9503627,
             "enterpriseToEbitda": 29.214,
             "enterpriseToRevenue": 7.973,
             "trailingEps": 3.33,
             "forwardEps": 6.06225,
-            "priceToSalesTrailing12Months": 7.0616035
+            "priceToSalesTrailing12Months": 7.0679593
           },
           "croissance": {
             "revenueGrowth": 0.08,
@@ -302,7 +302,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T15:46:13.968921+00:00",
+        "date_collecte_utc": "2026-10-30T16:00:36.336552+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -345,7 +345,7 @@
           "volume": 17619,
           "ratio_volume_20j": 0.6048,
           "performance_20j_pct": 1.29,
-          "force_relative_cac40_20j_pct": 0.42,
+          "force_relative_cac40_20j_pct": 0.51,
           "valeur_echangee_moyenne20_eur_estimee": 3645130.62
         },
         "ttf": {
@@ -454,7 +454,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T15:46:16.798471+00:00",
+        "date_collecte_utc": "2026-10-30T16:00:39.253639+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -497,11 +497,11 @@
           "plus_bas_55j_precedent": 24.42,
           "plus_haut_20j_precedent": 35.1,
           "plus_haut_55j_precedent": 35.1,
-          "volume": 23030,
-          "ratio_volume_20j": 0.3393,
+          "volume": 23109,
+          "ratio_volume_20j": 0.3405,
           "performance_20j_pct": 15.68,
-          "force_relative_cac40_20j_pct": 14.81,
-          "valeur_echangee_moyenne20_eur_estimee": 2214492.93
+          "force_relative_cac40_20j_pct": 14.9,
+          "valeur_echangee_moyenne20_eur_estimee": 2214628.74
         },
         "ttf": {
           "statut": "A_VERIFIER",
@@ -606,7 +606,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T15:46:22.114957+00:00",
+        "date_collecte_utc": "2026-10-30T16:00:44.725274+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
@@ -631,26 +631,26 @@
           "actions_supplementaires"
         ],
         "indicateurs": {
-          "close": 50.35,
-          "mm20": 47.6745,
-          "mm50": 45.3514,
-          "mm200": 42.7225,
-          "rsi14": 61.77,
+          "close": 50.65,
+          "mm20": 47.6895,
+          "mm50": 45.3574,
+          "mm200": 42.724,
+          "rsi14": 62.68,
           "adx14": 35.93,
-          "macd_12_26": 1.7926,
-          "macd_signal9": 1.7275,
-          "macd_histogramme": 0.0651,
+          "macd_12_26": 1.8166,
+          "macd_signal9": 1.7323,
+          "macd_histogramme": 0.0843,
           "atr14": 1.7838,
-          "atr_pct": 3.54,
+          "atr_pct": 3.52,
           "plus_bas_20j_precedent": 40.8,
           "plus_bas_55j_precedent": 40.8,
           "plus_haut_20j_precedent": 52.45,
           "plus_haut_55j_precedent": 52.45,
-          "volume": 28436,
-          "ratio_volume_20j": 0.3355,
-          "performance_20j_pct": 20.22,
-          "force_relative_cac40_20j_pct": 19.35,
-          "valeur_echangee_moyenne20_eur_estimee": 4056213.13
+          "volume": 28835,
+          "ratio_volume_20j": 0.3401,
+          "performance_20j_pct": 20.94,
+          "force_relative_cac40_20j_pct": 20.16,
+          "valeur_echangee_moyenne20_eur_estimee": 4057650.14
         },
         "ttf": {
           "statut": "A_VERIFIER",
@@ -658,9 +658,9 @@
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
         "plan_exploratoire": {
-          "support_candidat": 47.6745,
+          "support_candidat": 47.6895,
           "resistance_cible": 52.45,
-          "stop_invalidation_candidat": 47.3177,
+          "stop_invalidation_candidat": 47.3327,
           "quantite_theorique": null
         },
         "raisons_rejet_et_reserves": [
@@ -694,18 +694,18 @@
             "currency": "EUR",
             "financialCurrency": "EUR",
             "quoteType": "EQUITY",
-            "marketCap": 2671378944,
+            "marketCap": 2674021376,
             "sharesOutstanding": 52846274
           },
           "valorisation": {
-            "trailingPE": 33.7,
-            "forwardPE": 25.169163,
-            "priceToBook": 1.3723361,
+            "trailingPE": 33.733334,
+            "forwardPE": 25.19406,
+            "priceToBook": 1.3736935,
             "enterpriseToEbitda": 15.941,
             "enterpriseToRevenue": 3.499,
             "trailingEps": 1.5,
             "forwardEps": 2.00841,
-            "priceToSalesTrailing12Months": 2.8561735
+            "priceToSalesTrailing12Months": 2.8589988
           },
           "croissance": {
             "revenueGrowth": -0.012,
@@ -754,7 +754,7 @@
           "decision": "EXPLORATOIRE_NON_VALIDE"
         },
         "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T15:46:28.491328+00:00",
+        "date_collecte_utc": "2026-10-30T16:00:50.902459+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,

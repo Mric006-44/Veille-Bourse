@@ -1,6 +1,6 @@
 {
   "schema_version": "8.0",
-  "genere_utc": "2026-10-30T15:46:39.989680+00:00",
+  "genere_utc": "2026-10-30T16:01:03.003256+00:00",
   "univers_configure": 120,
   "fiches_disponibles": 120,
   "erreurs": {},
@@ -17,18 +17,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10634974208,
+          "marketCap": 10639560704,
           "sharesOutstanding": 229350316
         },
         "valorisation": {
-          "trailingPE": 40.675438,
-          "forwardPE": 17.458584,
-          "priceToBook": 3.5442939,
+          "trailingPE": 40.69298,
+          "forwardPE": 17.466114,
+          "priceToBook": 3.5458226,
           "enterpriseToEbitda": 14.438,
           "enterpriseToRevenue": 2.638,
           "trailingEps": 1.14,
           "forwardEps": 2.656,
-          "priceToSalesTrailing12Months": 1.8809646
+          "priceToSalesTrailing12Months": 1.8817759
         },
         "croissance": {
           "revenueGrowth": 0.005,
@@ -78,7 +78,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:44.500723+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:06.088784+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -96,18 +96,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 115571605504,
+          "marketCap": 115290808320,
           "sharesOutstanding": 638164573
         },
         "valorisation": {
-          "trailingPE": 32.63063,
-          "forwardPE": 25.067652,
-          "priceToBook": 4.3467827,
+          "trailingPE": 32.55135,
+          "forwardPE": 25.006748,
+          "priceToBook": 4.3362217,
           "enterpriseToEbitda": 16.898,
           "enterpriseToRevenue": 4.764,
           "trailingEps": 5.55,
           "forwardEps": 7.22445,
-          "priceToSalesTrailing12Months": 4.273165
+          "priceToSalesTrailing12Months": 4.262783
         },
         "croissance": {
           "revenueGrowth": 0.008,
@@ -159,7 +159,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:44.920525+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:06.551423+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -177,18 +177,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 152502452224,
+          "marketCap": 152344166400,
           "sharesOutstanding": 791480489
         },
         "valorisation": {
-          "trailingPE": 25.656456,
-          "forwardPE": 22.169395,
-          "priceToBook": 5.696378,
+          "trailingPE": 25.629826,
+          "forwardPE": 22.146385,
+          "priceToBook": 5.6904655,
           "enterpriseToEbitda": 17.527,
           "enterpriseToRevenue": 2.052,
           "trailingEps": 7.51,
           "forwardEps": 8.69126,
-          "priceToSalesTrailing12Months": 1.9901402
+          "priceToSalesTrailing12Months": 1.9880745
         },
         "croissance": {
           "revenueGrowth": -0.02,
@@ -238,7 +238,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:45.361905+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:07.026222+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -317,7 +317,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:45.783664+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:07.491253+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -335,18 +335,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 40408985600,
+          "marketCap": 40378908672,
           "sharesOutstanding": 751935008
         },
         "valorisation": {
-          "trailingPE": 26.472908,
-          "forwardPE": 8.099399,
-          "priceToBook": 0.83041173,
+          "trailingPE": 26.453203,
+          "forwardPE": 8.0933695,
+          "priceToBook": 0.8297936,
           "enterpriseToEbitda": 9.703,
           "enterpriseToRevenue": 0.841,
           "trailingEps": 2.03,
           "forwardEps": 6.635061,
-          "priceToSalesTrailing12Months": 0.6429842
+          "priceToSalesTrailing12Months": 0.6425056
         },
         "croissance": {
           "revenueGrowth": 0.052,
@@ -375,9 +375,9 @@
           "payoutRatio": 0.24260001
         },
         "estimations": {
-          "targetMeanPrice": 69.82939,
-          "targetLowPrice": 54.22972,
-          "targetHighPrice": 83.22015,
+          "targetMeanPrice": 69.806015,
+          "targetLowPrice": 54.211563,
+          "targetHighPrice": 83.19228,
           "numberOfAnalystOpinions": 14,
           "recommendationMean": 1.57143
         }
@@ -395,7 +395,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:46.217868+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:07.969169+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -476,7 +476,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:46.665841+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:08.472535+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -494,18 +494,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 93718962176,
+          "marketCap": 93609361408,
           "sharesOutstanding": 1096000000
         },
         "valorisation": {
-          "trailingPE": 7.4811897,
-          "forwardPE": 6.488904,
-          "priceToBook": 0.7722318,
+          "trailingPE": 7.472441,
+          "forwardPE": 6.4813156,
+          "priceToBook": 0.77132875,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": null,
           "trailingEps": 11.43,
           "forwardEps": 13.17788,
-          "priceToSalesTrailing12Months": 1.7789898
+          "priceToSalesTrailing12Months": 1.7769094
         },
         "croissance": {
           "revenueGrowth": 0.097,
@@ -557,7 +557,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:47.116902+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:08.922275+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -575,18 +575,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 15727015936,
+          "marketCap": 15696185344,
           "sharesOutstanding": 385371624
         },
         "valorisation": {
-          "trailingPE": 12.518405,
-          "forwardPE": 10.567775,
-          "priceToBook": 1.2560401,
+          "trailingPE": 12.493865,
+          "forwardPE": 10.547059,
+          "priceToBook": 1.2535778,
           "enterpriseToEbitda": 5.982,
           "enterpriseToRevenue": 0.488,
           "trailingEps": 3.26,
           "forwardEps": 3.86174,
-          "priceToSalesTrailing12Months": 0.27919927
+          "priceToSalesTrailing12Months": 0.27865195
         },
         "croissance": {
           "revenueGrowth": -0.01,
@@ -637,7 +637,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:47.530367+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:09.357803+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -655,18 +655,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 20640000000,
+          "marketCap": 20664786944,
           "sharesOutstanding": 165252200
         },
         "valorisation": {
-          "trailingPE": 15.870395,
-          "forwardPE": 9.093067,
-          "priceToBook": 1.8101974,
+          "trailingPE": 15.889454,
+          "forwardPE": 9.103988,
+          "priceToBook": 1.8123714,
           "enterpriseToEbitda": 9.294,
           "enterpriseToRevenue": 1.222,
           "trailingEps": 7.87,
           "forwardEps": 13.73574,
-          "priceToSalesTrailing12Months": 0.8805461
+          "priceToSalesTrailing12Months": 0.8816036
         },
         "croissance": {
           "revenueGrowth": 0.088,
@@ -719,7 +719,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:49.092148+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:09.880943+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -737,18 +737,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 9252042752,
+          "marketCap": 9244966912,
           "sharesOutstanding": 707613254
         },
         "valorisation": {
-          "trailingPE": 6.081395,
-          "forwardPE": 7.242323,
-          "priceToBook": 0.8359974,
+          "trailingPE": 6.0767436,
+          "forwardPE": 7.2367835,
+          "priceToBook": 0.835358,
           "enterpriseToEbitda": 7.419,
           "enterpriseToRevenue": 0.315,
           "trailingEps": 2.15,
           "forwardEps": 1.80536,
-          "priceToSalesTrailing12Months": 0.10935445
+          "priceToSalesTrailing12Months": 0.10927082
         },
         "croissance": {
           "revenueGrowth": 0.02,
@@ -801,7 +801,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:49.585382+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:10.361235+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -819,18 +819,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 45191852032,
+          "marketCap": 45161594880,
           "sharesOutstanding": 3025902350
         },
         "valorisation": {
-          "trailingPE": 7.5429296,
-          "forwardPE": 5.9809146,
-          "priceToBook": 0.64375,
+          "trailingPE": 7.537879,
+          "forwardPE": 5.9769096,
+          "priceToBook": 0.64331895,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": -13.337,
           "trailingEps": 1.98,
           "forwardEps": 2.49711,
-          "priceToSalesTrailing12Months": 1.7365452
+          "priceToSalesTrailing12Months": 1.7353826
         },
         "croissance": {
           "revenueGrowth": -0.063,
@@ -879,7 +879,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:50.009353+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:10.944168+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -897,18 +897,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 42355720192,
+          "marketCap": 42342834176,
           "sharesOutstanding": 644095494
         },
         "valorisation": {
-          "trailingPE": 21.774836,
-          "forwardPE": 15.661655,
-          "priceToBook": 2.4023674,
+          "trailingPE": 21.768211,
+          "forwardPE": 15.656891,
+          "priceToBook": 2.4016366,
           "enterpriseToEbitda": 11.213,
           "enterpriseToRevenue": 1.841,
           "trailingEps": 3.02,
           "forwardEps": 4.19879,
-          "priceToSalesTrailing12Months": 1.5412169
+          "priceToSalesTrailing12Months": 1.540748
         },
         "croissance": {
           "revenueGrowth": 0.014,
@@ -962,7 +962,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:50.442016+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:11.394812+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -980,18 +980,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 33220046848,
+          "marketCap": 33180622848,
           "sharesOutstanding": 1314084061
         },
         "valorisation": {
-          "trailingPE": 25.535355,
-          "forwardPE": 17.561655,
-          "priceToBook": 3.4615912,
+          "trailingPE": 25.50505,
+          "forwardPE": 17.540813,
+          "priceToBook": 3.4574833,
           "enterpriseToEbitda": 17.437,
           "enterpriseToRevenue": 5.105,
           "trailingEps": 0.99,
           "forwardEps": 1.4395,
-          "priceToSalesTrailing12Months": 5.274614
+          "priceToSalesTrailing12Months": 5.2683544
         },
         "croissance": {
           "revenueGrowth": 0.063,
@@ -1044,7 +1044,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:50.873077+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:11.860968+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1062,18 +1062,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 5540099584,
+          "marketCap": 5533251072,
           "sharesOutstanding": 228269437
         },
         "valorisation": {
-          "trailingPE": 11.781554,
-          "forwardPE": 10.014524,
-          "priceToBook": -5.698521,
+          "trailingPE": 11.766991,
+          "forwardPE": 10.002146,
+          "priceToBook": -5.691477,
           "enterpriseToEbitda": 6.968,
           "enterpriseToRevenue": 2.712,
           "trailingEps": 2.06,
           "forwardEps": 2.42348,
-          "priceToSalesTrailing12Months": 2.0116558
+          "priceToSalesTrailing12Months": 2.0091689
         },
         "croissance": {
           "revenueGrowth": 0.015,
@@ -1125,7 +1125,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:51.285335+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:12.362934+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1143,18 +1143,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 59551854592,
+          "marketCap": 59475632128,
           "sharesOutstanding": 2540607984
         },
         "valorisation": {
-          "trailingPE": 14.380368,
-          "forwardPE": 11.068508,
-          "priceToBook": 1.7472979,
+          "trailingPE": 14.361963,
+          "forwardPE": 11.054342,
+          "priceToBook": 1.7450615,
           "enterpriseToEbitda": 9.177,
           "enterpriseToRevenue": 1.75,
           "trailingEps": 1.63,
           "forwardEps": 2.11772,
-          "priceToSalesTrailing12Months": 0.8436899
+          "priceToSalesTrailing12Months": 0.84261006
         },
         "croissance": {
           "revenueGrowth": -0.036,
@@ -1206,7 +1206,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:51.716392+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:12.809203+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1224,18 +1224,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 84294672384,
+          "marketCap": 84157169664,
           "sharesOutstanding": 458372353
         },
         "valorisation": {
-          "trailingPE": 34.373833,
-          "forwardPE": 23.199251,
-          "priceToBook": 2.155162,
+          "trailingPE": 34.31776,
+          "forwardPE": 23.161406,
+          "priceToBook": 2.1516466,
           "enterpriseToEbitda": 16.401,
           "enterpriseToRevenue": 3.278,
           "trailingEps": 5.35,
           "forwardEps": 7.92698,
-          "priceToSalesTrailing12Months": 2.878425
+          "priceToSalesTrailing12Months": 2.8737297
         },
         "croissance": {
           "revenueGrowth": 0.057,
@@ -1286,7 +1286,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:52.132325+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:13.266806+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1304,18 +1304,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 14968897536,
+          "marketCap": 14986008576,
           "sharesOutstanding": 171112223
         },
         "valorisation": {
-          "trailingPE": 30.375,
-          "forwardPE": 18.444956,
-          "priceToBook": 4.194879,
+          "trailingPE": 30.409721,
+          "forwardPE": 18.46604,
+          "priceToBook": 4.199674,
           "enterpriseToEbitda": 12.363,
           "enterpriseToRevenue": 2.573,
           "trailingEps": 2.88,
           "forwardEps": 4.74276,
-          "priceToSalesTrailing12Months": 2.0267954
+          "priceToSalesTrailing12Months": 2.029112
         },
         "croissance": {
           "revenueGrowth": 0.025,
@@ -1368,7 +1368,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:52.568934+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:13.738595+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1386,18 +1386,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 135213596672,
+          "marketCap": 135632543744,
           "sharesOutstanding": 104735548
         },
         "valorisation": {
-          "trailingPE": 30.023256,
-          "forwardPE": 26.842892,
-          "priceToBook": 7.1083264,
+          "trailingPE": 30.11628,
+          "forwardPE": 26.926062,
+          "priceToBook": 7.1303506,
           "enterpriseToEbitda": 17.372,
           "enterpriseToRevenue": 7.599,
           "trailingEps": 43.0,
           "forwardEps": 48.09467,
-          "priceToSalesTrailing12Months": 8.38222
+          "priceToSalesTrailing12Months": 8.408192
         },
         "croissance": {
           "revenueGrowth": 0.016,
@@ -1448,7 +1448,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:52.991569+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:14.318862+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1466,18 +1466,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 21740189696,
+          "marketCap": 21779427328,
           "sharesOutstanding": 122618101
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 19.417923,
-          "priceToBook": 1.5011939,
+          "forwardPE": 19.452969,
+          "priceToBook": 1.5039032,
           "enterpriseToEbitda": 12.683,
           "enterpriseToRevenue": 2.208,
           "trailingEps": -2.98,
           "forwardEps": 9.13074,
-          "priceToSalesTrailing12Months": 1.5038869
+          "priceToSalesTrailing12Months": 1.5066012
         },
         "croissance": {
           "revenueGrowth": -0.029,
@@ -1528,7 +1528,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:53.450857+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:14.774746+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1546,18 +1546,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 34100981760,
+          "marketCap": 34087874560,
           "sharesOutstanding": 262113593
         },
         "valorisation": {
-          "trailingPE": 26.177065,
-          "forwardPE": 18.949492,
-          "priceToBook": 4.550861,
+          "trailingPE": 26.167004,
+          "forwardPE": 18.942207,
+          "priceToBook": 4.549112,
           "enterpriseToEbitda": 18.52,
           "enterpriseToRevenue": 4.064,
           "trailingEps": 4.97,
           "forwardEps": 6.86562,
-          "priceToSalesTrailing12Months": 3.3741298
+          "priceToSalesTrailing12Months": 3.372833
         },
         "croissance": {
           "revenueGrowth": 0.147,
@@ -1610,7 +1610,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:53.938491+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:15.283005+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1628,18 +1628,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 231805353984,
+          "marketCap": 231858683904,
           "sharesOutstanding": 533314966
         },
         "valorisation": {
-          "trailingPE": 36.897285,
-          "forwardPE": 28.558775,
-          "priceToBook": 6.8380976,
+          "trailingPE": 36.905773,
+          "forwardPE": 28.565346,
+          "priceToBook": 6.839671,
           "enterpriseToEbitda": 23.065,
           "enterpriseToRevenue": 5.263,
           "trailingEps": 11.78,
           "forwardEps": 15.21949,
-          "priceToSalesTrailing12Months": 5.1109333
+          "priceToSalesTrailing12Months": 5.112109
         },
         "croissance": {
           "revenueGrowth": 0.058,
@@ -1691,7 +1691,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:54.362954+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:15.758125+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1709,18 +1709,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 190481760256,
+          "marketCap": 190580359168,
           "sharesOutstanding": 492965227
         },
         "valorisation": {
-          "trailingPE": 17.611668,
-          "forwardPE": 16.006754,
-          "priceToBook": 2.7980537,
+          "trailingPE": 17.620783,
+          "forwardPE": 16.01504,
+          "priceToBook": 2.799502,
           "enterpriseToEbitda": 10.762,
           "enterpriseToRevenue": 2.71,
           "trailingEps": 21.94,
           "forwardEps": 24.13981,
-          "priceToSalesTrailing12Months": 2.3917549
+          "priceToSalesTrailing12Months": 2.3928382
         },
         "croissance": {
           "revenueGrowth": -0.029,
@@ -1773,7 +1773,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:54.792889+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:16.222488+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1795,9 +1795,9 @@
           "sharesOutstanding": 713302016
         },
         "valorisation": {
-          "trailingPE": 3.1113284,
-          "forwardPE": 9.155172,
-          "priceToBook": 0.3798555,
+          "trailingPE": 3.1083984,
+          "forwardPE": 9.146552,
+          "priceToBook": 0.37949783,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": null,
           "trailingEps": null,
@@ -1857,7 +1857,7 @@
         "decision": "ANALYSE_INCOMPLETE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:55.226745+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:16.763137+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1875,18 +1875,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 38697193472,
+          "marketCap": 38577594368,
           "sharesOutstanding": 2657774336
         },
         "valorisation": {
-          "trailingPE": 3.5862072,
-          "forwardPE": 12.838941,
-          "priceToBook": 1.215968,
+          "trailingPE": 3.5751233,
+          "forwardPE": 12.799259,
+          "priceToBook": 1.2122098,
           "enterpriseToEbitda": 7.187,
           "enterpriseToRevenue": 2.097,
           "trailingEps": 4.06,
           "forwardEps": 1.13405,
-          "priceToSalesTrailing12Months": 0.93266475
+          "priceToSalesTrailing12Months": 0.9297822
         },
         "croissance": {
           "revenueGrowth": 0.055,
@@ -1941,7 +1941,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:55.628097+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:17.201359+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -1959,18 +1959,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 16972234752,
+          "marketCap": 16992379904,
           "sharesOutstanding": 251813562
         },
         "valorisation": {
-          "trailingPE": 14.129979,
-          "forwardPE": 11.3733015,
-          "priceToBook": 1.0944046,
+          "trailingPE": 14.146751,
+          "forwardPE": 11.386801,
+          "priceToBook": 1.0957036,
           "enterpriseToEbitda": 10.731,
           "enterpriseToRevenue": 2.994,
           "trailingEps": 4.77,
           "forwardEps": 5.92616,
-          "priceToSalesTrailing12Months": 1.8047888
+          "priceToSalesTrailing12Months": 1.806931
         },
         "croissance": {
           "revenueGrowth": -0.132,
@@ -2021,7 +2021,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:56.074390+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:17.675906+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2043,9 +2043,9 @@
           "sharesOutstanding": null
         },
         "valorisation": {
-          "trailingPE": 15.7539425,
-          "forwardPE": 11.606382,
-          "priceToBook": 2.371151,
+          "trailingPE": 15.750789,
+          "forwardPE": 11.604058,
+          "priceToBook": 2.3706763,
           "enterpriseToEbitda": 9.609,
           "enterpriseToRevenue": 1.593,
           "trailingEps": 6.34,
@@ -2103,7 +2103,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:56.472301+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:18.159333+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2121,18 +2121,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 8015643648,
+          "marketCap": 7986705920,
           "sharesOutstanding": 289373409
         },
         "valorisation": {
-          "trailingPE": 8.470948,
-          "forwardPE": 4.386868,
-          "priceToBook": 0.39071316,
+          "trailingPE": 8.440367,
+          "forwardPE": 4.371031,
+          "priceToBook": 0.3893026,
           "enterpriseToEbitda": 9.786,
           "enterpriseToRevenue": 1.004,
           "trailingEps": 3.27,
           "forwardEps": 6.3143,
-          "priceToSalesTrailing12Months": 0.13241556
+          "priceToSalesTrailing12Months": 0.13193752
         },
         "croissance": {
           "revenueGrowth": 0.094,
@@ -2185,7 +2185,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:56.887905+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:18.713160+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2203,18 +2203,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 113864761344,
+          "marketCap": 113740587008,
           "sharesOutstanding": 413903152
         },
         "valorisation": {
-          "trailingPE": 29.548872,
-          "forwardPE": 21.67924,
-          "priceToBook": 7.858877,
+          "trailingPE": 29.516645,
+          "forwardPE": 21.655596,
+          "priceToBook": 7.8503065,
           "enterpriseToEbitda": 18.733,
           "enterpriseToRevenue": 3.417,
           "trailingEps": 9.31,
           "forwardEps": 12.68956,
-          "priceToSalesTrailing12Months": 3.3919618
+          "priceToSalesTrailing12Months": 3.3882627
         },
         "croissance": {
           "revenueGrowth": 0.16,
@@ -2266,7 +2266,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:57.323514+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:19.228411+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2284,18 +2284,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 32907096064,
+          "marketCap": 32936384512,
           "sharesOutstanding": 488091047
         },
         "valorisation": {
-          "trailingPE": 12.508348,
-          "forwardPE": 9.946315,
-          "priceToBook": 1.2989365,
+          "trailingPE": 12.519482,
+          "forwardPE": 9.955167,
+          "priceToBook": 1.3000926,
           "enterpriseToEbitda": 6.918,
           "enterpriseToRevenue": 0.985,
           "trailingEps": 5.39,
           "forwardEps": 6.77839,
-          "priceToSalesTrailing12Months": 0.7118741
+          "priceToSalesTrailing12Months": 0.7125077
         },
         "croissance": {
           "revenueGrowth": -0.011,
@@ -2347,7 +2347,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:57.759961+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:19.674273+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2365,18 +2365,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 95761637376,
+          "marketCap": 95557967872,
           "sharesOutstanding": 1198068685
         },
         "valorisation": {
-          "trailingPE": 24.593845,
-          "forwardPE": 8.827694,
-          "priceToBook": 1.3837099,
+          "trailingPE": 24.541538,
+          "forwardPE": 8.808919,
+          "priceToBook": 1.380767,
           "enterpriseToEbitda": 8.035,
           "enterpriseToRevenue": 2.224,
           "trailingEps": 3.25,
           "forwardEps": 9.05446,
-          "priceToSalesTrailing12Months": 1.9575552
+          "priceToSalesTrailing12Months": 1.9533917
         },
         "croissance": {
           "revenueGrowth": 0.146,
@@ -2428,7 +2428,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:58.251511+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:20.231732+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2446,18 +2446,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 140248645632,
+          "marketCap": 139984027648,
           "sharesOutstanding": 588044637
         },
         "valorisation": {
-          "trailingPE": 28.665867,
-          "forwardPE": 18.9392,
-          "priceToBook": 5.482381,
+          "trailingPE": 28.61178,
+          "forwardPE": 18.903465,
+          "priceToBook": 5.472037,
           "enterpriseToEbitda": 18.284,
           "enterpriseToRevenue": 3.706,
           "trailingEps": 8.32,
           "forwardEps": 12.59293,
-          "priceToSalesTrailing12Months": 3.3359177
+          "priceToSalesTrailing12Months": 3.3296235
         },
         "croissance": {
           "revenueGrowth": 0.098,
@@ -2510,7 +2510,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:58.699877+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:20.707550+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2528,18 +2528,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 43944308736,
+          "marketCap": 43900829696,
           "sharesOutstanding": 724675284
         },
         "valorisation": {
-          "trailingPE": 7.4222765,
-          "forwardPE": 6.5017915,
-          "priceToBook": 0.5923958,
+          "trailingPE": 7.4149327,
+          "forwardPE": 6.4953585,
+          "priceToBook": 0.59180963,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": -16.926,
           "trailingEps": 8.17,
           "forwardEps": 9.32666,
-          "priceToSalesTrailing12Months": 1.6559013
+          "priceToSalesTrailing12Months": 1.6542629
         },
         "croissance": {
           "revenueGrowth": 0.076,
@@ -2590,7 +2590,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:59.115215+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:21.179645+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2608,18 +2608,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 12006150144,
+          "marketCap": 11958223872,
           "sharesOutstanding": 2904596446
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 3.9745195,
-          "priceToBook": 0.17609595,
+          "forwardPE": 3.9586542,
+          "priceToBook": 0.17539302,
           "enterpriseToEbitda": 6.717,
           "enterpriseToRevenue": 0.238,
           "trailingEps": -5.38,
           "forwardEps": 1.04,
-          "priceToSalesTrailing12Months": 0.07444935
+          "priceToSalesTrailing12Months": 0.07415216
         },
         "croissance": {
           "revenueGrowth": 0.011,
@@ -2670,7 +2670,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:59.554662+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:21.647021+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2688,18 +2688,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 37435731968,
+          "marketCap": 37319458816,
           "sharesOutstanding": 894414873
         },
         "valorisation": {
-          "trailingPE": 85.418365,
-          "forwardPE": 17.41277,
-          "priceToBook": 2.356575,
+          "trailingPE": 85.15305,
+          "forwardPE": 17.358685,
+          "priceToBook": 2.3492556,
           "enterpriseToEbitda": 12.523,
           "enterpriseToRevenue": 2.773,
           "trailingEps": 0.49,
           "forwardEps": 2.4036958,
-          "priceToSalesTrailing12Months": 2.7387323
+          "priceToSalesTrailing12Months": 2.730226
         },
         "croissance": {
           "revenueGrowth": 0.179,
@@ -2728,9 +2728,9 @@
           "payoutRatio": 0.6316
         },
         "estimations": {
-          "targetMeanPrice": 67.86473,
-          "targetLowPrice": 45.343918,
-          "targetHighPrice": 82.52979,
+          "targetMeanPrice": 67.857155,
+          "targetLowPrice": 45.338856,
+          "targetHighPrice": 82.520584,
           "numberOfAnalystOpinions": 19,
           "recommendationMean": 1.8
         }
@@ -2750,7 +2750,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:45:59.951385+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:22.121177+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2768,18 +2768,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 4736534016,
+          "marketCap": 4740116992,
           "sharesOutstanding": 59714248
         },
         "valorisation": {
-          "trailingPE": 10.027813,
-          "forwardPE": 5.5550966,
-          "priceToBook": 1.0997269,
+          "trailingPE": 10.0353985,
+          "forwardPE": 5.5592985,
+          "priceToBook": 1.1005588,
           "enterpriseToEbitda": 5.459,
           "enterpriseToRevenue": 0.862,
           "trailingEps": 7.91,
           "forwardEps": 14.27878,
-          "priceToSalesTrailing12Months": 0.47479287
+          "priceToSalesTrailing12Months": 0.47515205
         },
         "croissance": {
           "revenueGrowth": -0.046,
@@ -2831,7 +2831,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:00.441801+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:22.608702+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2849,18 +2849,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 48392093696,
+          "marketCap": 48412651520,
           "sharesOutstanding": 205573883
         },
         "valorisation": {
-          "trailingPE": 32.42424,
-          "forwardPE": 18.980196,
-          "priceToBook": 6.0405436,
+          "trailingPE": 32.438015,
+          "forwardPE": 18.98826,
+          "priceToBook": 6.04311,
           "enterpriseToEbitda": 16.139,
           "enterpriseToRevenue": 2.17,
           "trailingEps": 7.26,
           "forwardEps": 12.4024,
-          "priceToSalesTrailing12Months": 2.1205537
+          "priceToSalesTrailing12Months": 2.1214545
         },
         "croissance": {
           "revenueGrowth": 0.067,
@@ -2912,7 +2912,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:00.866708+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:23.041899+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -2930,18 +2930,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 188212183040,
+          "marketCap": 188278243328,
           "sharesOutstanding": 2202342312
         },
         "valorisation": {
-          "trailingPE": 9.914153,
-          "forwardPE": 8.586562,
-          "priceToBook": 1.6201332,
+          "trailingPE": 9.917633,
+          "forwardPE": 8.589577,
+          "priceToBook": 1.6207019,
           "enterpriseToEbitda": 4.577,
           "enterpriseToRevenue": 1.038,
           "trailingEps": 8.62,
           "forwardEps": 9.952761,
-          "priceToSalesTrailing12Months": 0.87786764
+          "priceToSalesTrailing12Months": 0.87817574
         },
         "croissance": {
           "revenueGrowth": 0.411,
@@ -2970,9 +2970,9 @@
           "payoutRatio": 0.4
         },
         "estimations": {
-          "targetMeanPrice": 89.29225,
-          "targetLowPrice": 78.270744,
-          "targetHighPrice": 100.00042,
+          "targetMeanPrice": 89.28229,
+          "targetLowPrice": 78.26201,
+          "targetHighPrice": 99.98926,
           "numberOfAnalystOpinions": 22,
           "recommendationMean": 1.90909
         }
@@ -2995,7 +2995,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:01.306428+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:23.502876+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3013,18 +3013,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 13124669440,
+          "marketCap": 13104433152,
           "sharesOutstanding": 144544813
         },
         "valorisation": {
-          "trailingPE": 8.407408,
-          "forwardPE": 9.636754,
-          "priceToBook": 0.79903555,
+          "trailingPE": 8.394444,
+          "forwardPE": 9.621896,
+          "priceToBook": 0.7978036,
           "enterpriseToEbitda": 16.563,
           "enterpriseToRevenue": 10.813,
           "trailingEps": 10.8,
           "forwardEps": 9.42226,
-          "priceToSalesTrailing12Months": 3.707429
+          "priceToSalesTrailing12Months": 3.7017126
         },
         "croissance": {
           "revenueGrowth": -0.004,
@@ -3076,7 +3076,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:01.741561+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:23.995791+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3094,18 +3094,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 24480759808,
+          "marketCap": 24458496000,
           "sharesOutstanding": 742066023
         },
         "valorisation": {
-          "trailingPE": 19.180233,
-          "forwardPE": 12.513467,
-          "priceToBook": 3.3856733,
+          "trailingPE": 19.16279,
+          "forwardPE": 12.502087,
+          "priceToBook": 3.382594,
           "enterpriseToEbitda": 8.828,
           "enterpriseToRevenue": 1.143,
           "trailingEps": 1.72,
           "forwardEps": 2.63636,
-          "priceToSalesTrailing12Months": 0.549623
+          "priceToSalesTrailing12Months": 0.54912317
         },
         "croissance": {
           "revenueGrowth": 0.007,
@@ -3158,7 +3158,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:02.164368+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:24.446473+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3176,18 +3176,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 59876683776,
+          "marketCap": 59766464512,
           "sharesOutstanding": 551096972
         },
         "valorisation": {
-          "trailingPE": 12.058824,
-          "forwardPE": 10.96323,
-          "priceToBook": 1.9682258,
+          "trailingPE": 12.036625,
+          "forwardPE": 10.943049,
+          "priceToBook": 1.9646027,
           "enterpriseToEbitda": 7.04,
           "enterpriseToRevenue": 1.188,
           "trailingEps": 9.01,
           "forwardEps": 9.9104,
-          "priceToSalesTrailing12Months": 0.7904617
+          "priceToSalesTrailing12Months": 0.78900665
         },
         "croissance": {
           "revenueGrowth": 0.023,
@@ -3241,7 +3241,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:02.607076+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:24.963078+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3320,7 +3320,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:03.105471+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:25.452824+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3338,18 +3338,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 6911400448,
+          "marketCap": 6867629568,
           "sharesOutstanding": 87541485
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": -27.250446,
-          "priceToBook": 17.204182,
+          "forwardPE": -27.077866,
+          "priceToBook": 17.095226,
           "enterpriseToEbitda": -20.827,
           "enterpriseToRevenue": 1300.77,
           "trailingEps": -5.21,
           "forwardEps": -2.8972,
-          "priceToSalesTrailing12Months": 1480.5913
+          "priceToSalesTrailing12Months": 1471.2146
         },
         "croissance": {
           "revenueGrowth": -0.068,
@@ -3397,7 +3397,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:03.587561+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:25.895080+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3479,7 +3479,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:03.992122+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:26.358062+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3497,18 +3497,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2730688256,
+          "marketCap": 2728064000,
           "sharesOutstanding": 262440023
         },
         "valorisation": {
-          "trailingPE": 2.6679485,
-          "forwardPE": 2.4668906,
-          "priceToBook": -4.4295444,
+          "trailingPE": 2.6653848,
+          "forwardPE": 2.46452,
+          "priceToBook": -4.4252877,
           "enterpriseToEbitda": 3.825,
           "enterpriseToRevenue": 0.419,
           "trailingEps": 3.9,
           "forwardEps": 4.21786,
-          "priceToSalesTrailing12Months": 0.07994989
+          "priceToSalesTrailing12Months": 0.07987305
         },
         "croissance": {
           "revenueGrowth": 0.099,
@@ -3559,7 +3559,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:04.423814+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:26.795275+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3638,7 +3638,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:04.874064+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:27.269939+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3656,18 +3656,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 23591917568,
+          "marketCap": 23607324672,
           "sharesOutstanding": 77047411
         },
         "valorisation": {
-          "trailingPE": 23.71805,
-          "forwardPE": 16.264248,
-          "priceToBook": 3.599008,
+          "trailingPE": 23.73354,
+          "forwardPE": 16.27487,
+          "priceToBook": 3.6013587,
           "enterpriseToEbitda": 14.64,
           "enterpriseToRevenue": 1.556,
           "trailingEps": 12.91,
           "forwardEps": 18.82657,
-          "priceToSalesTrailing12Months": 2.6580238
+          "priceToSalesTrailing12Months": 2.6597598
         },
         "croissance": {
           "revenueGrowth": 0.451,
@@ -3720,7 +3720,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:05.303898+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:27.722518+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3738,18 +3738,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 18390323200,
+          "marketCap": 18380212224,
           "sharesOutstanding": 202202553
         },
         "valorisation": {
-          "trailingPE": 13.822188,
-          "forwardPE": 11.226676,
-          "priceToBook": 1.4715161,
+          "trailingPE": 13.81459,
+          "forwardPE": 11.220505,
+          "priceToBook": 1.4707073,
           "enterpriseToEbitda": null,
           "enterpriseToRevenue": null,
           "trailingEps": 6.58,
           "forwardEps": 8.10124,
-          "priceToSalesTrailing12Months": 2.5854197
+          "priceToSalesTrailing12Months": 2.5839982
         },
         "croissance": {
           "revenueGrowth": 0.114,
@@ -3802,7 +3802,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:05.699114+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:28.219806+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3820,18 +3820,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2491304960,
+          "marketCap": 2489855744,
           "sharesOutstanding": 72463783
         },
         "valorisation": {
-          "trailingPE": 19.645716,
-          "forwardPE": 7.7458606,
-          "priceToBook": 0.7613944,
+          "trailingPE": 19.634287,
+          "forwardPE": 7.7413545,
+          "priceToBook": 0.76095146,
           "enterpriseToEbitda": 12.509,
           "enterpriseToRevenue": 0.593,
           "trailingEps": 1.75,
           "forwardEps": 4.4385,
-          "priceToSalesTrailing12Months": 0.41301474
+          "priceToSalesTrailing12Months": 0.4127745
         },
         "croissance": {
           "revenueGrowth": 0.021,
@@ -3883,7 +3883,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:06.143904+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:28.690896+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3966,7 +3966,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:06.564040+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:29.125131+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -3984,18 +3984,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2930291200,
+          "marketCap": 2933704448,
           "sharesOutstanding": 34132686
         },
         "valorisation": {
-          "trailingPE": 21.302729,
-          "forwardPE": 9.809904,
-          "priceToBook": 1.2963187,
+          "trailingPE": 21.327541,
+          "forwardPE": 9.82133,
+          "priceToBook": 1.2978287,
           "enterpriseToEbitda": 8.184,
           "enterpriseToRevenue": 0.703,
           "trailingEps": 4.03,
           "forwardEps": 8.75136,
-          "priceToSalesTrailing12Months": 0.7105356
+          "priceToSalesTrailing12Months": 0.7113632
         },
         "croissance": {
           "revenueGrowth": 0.012,
@@ -4047,7 +4047,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:07.010884+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:29.575628+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4065,18 +4065,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 537204672,
+          "marketCap": 535229664,
           "sharesOutstanding": 19750172
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 5.5019746,
-          "priceToBook": -0.4203499,
+          "forwardPE": 5.4817467,
+          "priceToBook": -0.41880447,
           "enterpriseToEbitda": 5.179,
           "enterpriseToRevenue": 0.328,
           "trailingEps": -62.06,
           "forwardEps": 4.94368,
-          "priceToSalesTrailing12Months": 0.07268363
+          "priceToSalesTrailing12Months": 0.07241641
         },
         "croissance": {
           "revenueGrowth": -0.152,
@@ -4128,7 +4128,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:08.042630+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:30.021686+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4146,18 +4146,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 6984235520,
+          "marketCap": 6976585728,
           "sharesOutstanding": 764976506
         },
         "valorisation": {
-          "trailingPE": 7.608333,
-          "forwardPE": 6.7184224,
-          "priceToBook": 0.64977586,
+          "trailingPE": 7.5999994,
+          "forwardPE": 6.7110634,
+          "priceToBook": 0.6490641,
           "enterpriseToEbitda": 13.157,
           "enterpriseToRevenue": 1.64,
           "trailingEps": 1.2,
           "forwardEps": 1.35895,
-          "priceToSalesTrailing12Months": 0.2791093
+          "priceToSalesTrailing12Months": 0.2788036
         },
         "croissance": {
           "revenueGrowth": -0.024,
@@ -4210,7 +4210,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:08.693844+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:30.520013+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4228,18 +4228,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2579605760,
+          "marketCap": 2571544576,
           "sharesOutstanding": 40306341
         },
         "valorisation": {
-          "trailingPE": 22.145329,
-          "forwardPE": 12.695718,
-          "priceToBook": 1.511109,
+          "trailingPE": 22.076124,
+          "forwardPE": 12.656043,
+          "priceToBook": 1.5063868,
           "enterpriseToEbitda": 6.924,
           "enterpriseToRevenue": 1.206,
           "trailingEps": 2.89,
           "forwardEps": 5.04107,
-          "priceToSalesTrailing12Months": 1.2565674
+          "priceToSalesTrailing12Months": 1.2526406
         },
         "croissance": {
           "revenueGrowth": -0.035,
@@ -4291,7 +4291,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:09.107250+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:31.009430+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4309,18 +4309,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10645248000,
+          "marketCap": 10662901760,
           "sharesOutstanding": 117692084
         },
         "valorisation": {
-          "trailingPE": 23.192307,
-          "forwardPE": 19.208471,
-          "priceToBook": 2.4773355,
+          "trailingPE": 23.230768,
+          "forwardPE": 19.240326,
+          "priceToBook": 2.481444,
           "enterpriseToEbitda": 9.876,
           "enterpriseToRevenue": 2.6,
           "trailingEps": 3.9,
           "forwardEps": 4.70886,
-          "priceToSalesTrailing12Months": 2.6675808
+          "priceToSalesTrailing12Months": 2.6720047
         },
         "croissance": {
           "revenueGrowth": -0.039,
@@ -4373,7 +4373,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:09.563447+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:31.454959+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4391,18 +4391,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10564787200,
+          "marketCap": 10553547776,
           "sharesOutstanding": 2809783802
         },
         "valorisation": {
-          "trailingPE": 41.777775,
-          "forwardPE": 29.048208,
-          "priceToBook": 0.51296043,
+          "trailingPE": 41.733334,
+          "forwardPE": 29.017307,
+          "priceToBook": 0.51241475,
           "enterpriseToEbitda": -113.054,
           "enterpriseToRevenue": 3.041,
           "trailingEps": 0.09,
           "forwardEps": 0.12944,
-          "priceToSalesTrailing12Months": 3.4951491
+          "priceToSalesTrailing12Months": 3.4914308
         },
         "croissance": {
           "revenueGrowth": 0.063,
@@ -4450,7 +4450,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:10.027914+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:31.994203+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4468,18 +4468,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 12910428160,
+          "marketCap": 12906005504,
           "sharesOutstanding": 442289395
         },
         "valorisation": {
-          "trailingPE": 25.83186,
-          "forwardPE": 17.858562,
-          "priceToBook": 7.819448,
+          "trailingPE": 25.82301,
+          "forwardPE": 17.852446,
+          "priceToBook": 7.816769,
           "enterpriseToEbitda": 12.298,
           "enterpriseToRevenue": 2.232,
           "trailingEps": 1.13,
           "forwardEps": 1.63451,
-          "priceToSalesTrailing12Months": 1.9131945
+          "priceToSalesTrailing12Months": 1.9125391
         },
         "croissance": {
           "revenueGrowth": 0.02,
@@ -4530,7 +4530,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:10.431513+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:32.459419+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4611,7 +4611,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:10.875867+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:32.955165+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4629,18 +4629,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1139744512,
+          "marketCap": 1138315264,
           "sharesOutstanding": 357286663
         },
         "valorisation": {
-          "trailingPE": 106.333336,
-          "forwardPE": 11.310051,
-          "priceToBook": 0.31468877,
+          "trailingPE": 106.200005,
+          "forwardPE": 11.29587,
+          "priceToBook": 0.3142942,
           "enterpriseToEbitda": 13.159,
           "enterpriseToRevenue": 1.574,
           "trailingEps": 0.03,
           "forwardEps": 0.28205,
-          "priceToSalesTrailing12Months": 0.21288426
+          "priceToSalesTrailing12Months": 0.21261731
         },
         "croissance": {
           "revenueGrowth": 0.016,
@@ -4692,7 +4692,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:11.314985+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:33.432074+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4710,18 +4710,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2323431680,
+          "marketCap": 2326422016,
           "sharesOutstanding": 149512977
         },
         "valorisation": {
-          "trailingPE": 11.26087,
-          "forwardPE": 9.807324,
-          "priceToBook": 1.0714285,
+          "trailingPE": 11.275363,
+          "forwardPE": 9.819947,
+          "priceToBook": 1.0728076,
           "enterpriseToEbitda": 14.478,
           "enterpriseToRevenue": 3.04,
           "trailingEps": 1.38,
           "forwardEps": 1.58453,
-          "priceToSalesTrailing12Months": 1.2632667
+          "priceToSalesTrailing12Months": 1.2648926
         },
         "croissance": {
           "revenueGrowth": 0.035,
@@ -4771,7 +4771,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:11.720200+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:33.907818+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4789,18 +4789,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 4834218496,
+          "marketCap": 4829791744,
           "sharesOutstanding": 110673501
         },
         "valorisation": {
-          "trailingPE": 7.428571,
-          "forwardPE": 8.656533,
-          "priceToBook": 0.5717652,
+          "trailingPE": 7.4217687,
+          "forwardPE": 8.648606,
+          "priceToBook": 0.5712416,
           "enterpriseToEbitda": 18.969,
           "enterpriseToRevenue": 16.085,
           "trailingEps": 5.88,
           "forwardEps": 5.0459,
-          "priceToSalesTrailing12Months": 4.1261683
+          "priceToSalesTrailing12Months": 4.12239
         },
         "croissance": {
           "revenueGrowth": 0.045,
@@ -4851,7 +4851,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:12.161096+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:34.421260+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4869,18 +4869,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1247072768,
+          "marketCap": 1244698880,
           "sharesOutstanding": 158257962
         },
         "valorisation": {
-          "trailingPE": 9.493977,
-          "forwardPE": 7.5327406,
-          "priceToBook": 1.0608509,
+          "trailingPE": 9.4759035,
+          "forwardPE": 7.518401,
+          "priceToBook": 1.0588315,
           "enterpriseToEbitda": 8.044,
           "enterpriseToRevenue": 0.554,
           "trailingEps": 0.83,
           "forwardEps": 1.0461,
-          "priceToSalesTrailing12Months": 0.3595009
+          "priceToSalesTrailing12Months": 0.3588166
         },
         "croissance": {
           "revenueGrowth": 0.078,
@@ -4933,7 +4933,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:12.611258+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:34.891532+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -4951,18 +4951,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 544828928,
+          "marketCap": 540115904,
           "sharesOutstanding": 314203537
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": -11.637584,
-          "priceToBook": 4.118415,
+          "forwardPE": -11.536912,
+          "priceToBook": 4.0827885,
           "enterpriseToEbitda": -2.015,
           "enterpriseToRevenue": 110.045,
           "trailingEps": -0.52,
           "forwardEps": -0.149,
-          "priceToSalesTrailing12Months": 144.82428
+          "priceToSalesTrailing12Months": 143.57147
         },
         "croissance": {
           "revenueGrowth": -0.423,
@@ -5010,7 +5010,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:13.048825+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:35.436272+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5028,18 +5028,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 5183091712,
+          "marketCap": 5187346944,
           "sharesOutstanding": 212770592
         },
         "valorisation": {
-          "trailingPE": 15.818183,
-          "forwardPE": 15.3276,
-          "priceToBook": 2.2507622,
+          "trailingPE": 15.831169,
+          "forwardPE": 15.340182,
+          "priceToBook": 2.2526102,
           "enterpriseToEbitda": 9.579,
           "enterpriseToRevenue": 2.093,
           "trailingEps": 1.54,
           "forwardEps": 1.58929,
-          "priceToSalesTrailing12Months": 1.3858534
+          "priceToSalesTrailing12Months": 1.3869911
         },
         "croissance": {
           "revenueGrowth": 0.038,
@@ -5092,7 +5092,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:13.561550+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:35.898723+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5110,18 +5110,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 21618393088,
+          "marketCap": 21637851136,
           "sharesOutstanding": 97292500
         },
         "valorisation": {
-          "trailingPE": 66.72673,
-          "forwardPE": 36.653057,
-          "priceToBook": 4.945911,
+          "trailingPE": 66.78679,
+          "forwardPE": 36.686047,
+          "priceToBook": 4.9503627,
           "enterpriseToEbitda": 29.214,
           "enterpriseToRevenue": 7.973,
           "trailingEps": 3.33,
           "forwardEps": 6.06225,
-          "priceToSalesTrailing12Months": 7.0616035
+          "priceToSalesTrailing12Months": 7.0679593
         },
         "croissance": {
           "revenueGrowth": 0.08,
@@ -5172,7 +5172,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:13.968921+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:36.336552+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5190,18 +5190,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 5063672832,
+          "marketCap": 5054874112,
           "sharesOutstanding": 219968411
         },
         "valorisation": {
-          "trailingPE": 15.045753,
-          "forwardPE": 10.638396,
-          "priceToBook": 1.4308802,
+          "trailingPE": 15.019608,
+          "forwardPE": 10.61991,
+          "priceToBook": 1.4283938,
           "enterpriseToEbitda": 6.083,
           "enterpriseToRevenue": 1.89,
           "trailingEps": 1.53,
           "forwardEps": 2.16386,
-          "priceToSalesTrailing12Months": 1.03113
+          "priceToSalesTrailing12Months": 1.0293382
         },
         "croissance": {
           "revenueGrowth": 0.049,
@@ -5255,7 +5255,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:14.462728+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:36.781951+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5273,18 +5273,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1615976192,
+          "marketCap": 1611147648,
           "sharesOutstanding": 160953813
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 50.2,
-          "priceToBook": 1.1918329,
+          "forwardPE": 50.05,
+          "priceToBook": 1.1882716,
           "enterpriseToEbitda": 17.296,
           "enterpriseToRevenue": 1.644,
           "trailingEps": -1.22,
           "forwardEps": 0.2,
-          "priceToSalesTrailing12Months": 0.2693968
+          "priceToSalesTrailing12Months": 0.26859185
         },
         "croissance": {
           "revenueGrowth": 0.035,
@@ -5335,7 +5335,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:14.973974+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:37.265368+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5415,7 +5415,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:15.447939+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:37.780591+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5433,18 +5433,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1082752640,
+          "marketCap": 1083325952,
           "sharesOutstanding": 28659415
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 18.672558,
-          "priceToBook": 2.4530873,
+          "forwardPE": 18.682444,
+          "priceToBook": 2.454386,
           "enterpriseToEbitda": 20.571,
           "enterpriseToRevenue": 1.307,
           "trailingEps": -18.17,
           "forwardEps": 2.02329,
-          "priceToSalesTrailing12Months": 0.36019713
+          "priceToSalesTrailing12Months": 0.36038786
         },
         "croissance": {
           "revenueGrowth": 0.157,
@@ -5495,7 +5495,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:15.952776+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:38.259691+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5513,18 +5513,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2161299968,
+          "marketCap": 2154821888,
           "sharesOutstanding": 1177820111
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": -16.191652,
-          "priceToBook": 0.5969421,
+          "forwardPE": -16.143122,
+          "priceToBook": 0.5951529,
           "enterpriseToEbitda": 6.732,
           "enterpriseToRevenue": 3.107,
           "trailingEps": -0.52,
           "forwardEps": -0.11333,
-          "priceToSalesTrailing12Months": 1.7487661
+          "priceToSalesTrailing12Months": 1.7435244
         },
         "croissance": {
           "revenueGrowth": 0.011,
@@ -5575,7 +5575,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:16.352653+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:38.783855+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5657,7 +5657,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:16.798471+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:39.253639+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5675,18 +5675,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2873756416,
+          "marketCap": 2878824704,
           "sharesOutstanding": 50683535
         },
         "valorisation": {
-          "trailingPE": 135.0,
-          "forwardPE": 23.28676,
-          "priceToBook": 6.402439,
+          "trailingPE": 135.2381,
+          "forwardPE": 23.32783,
+          "priceToBook": 6.4137306,
           "enterpriseToEbitda": 30.11,
           "enterpriseToRevenue": 6.294,
           "trailingEps": 0.42,
           "forwardEps": 2.43486,
-          "priceToSalesTrailing12Months": 5.72717
+          "priceToSalesTrailing12Months": 5.737271
         },
         "croissance": {
           "revenueGrowth": 0.153,
@@ -5737,7 +5737,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:17.290147+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:39.685782+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5755,18 +5755,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2925873664,
+          "marketCap": 2916730368,
           "sharesOutstanding": 45716777
         },
         "valorisation": {
-          "trailingPE": 34.224598,
-          "forwardPE": 17.828688,
-          "priceToBook": 2.579709,
+          "trailingPE": 34.117645,
+          "forwardPE": 17.772974,
+          "priceToBook": 2.5716474,
           "enterpriseToEbitda": 13.186,
           "enterpriseToRevenue": 1.751,
           "trailingEps": 1.87,
           "forwardEps": 3.58972,
-          "priceToSalesTrailing12Months": 1.58474
+          "priceToSalesTrailing12Months": 1.5797877
         },
         "croissance": {
           "revenueGrowth": 0.044,
@@ -5818,7 +5818,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:17.704115+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:40.156726+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5836,18 +5836,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2713489664,
+          "marketCap": 2703828992,
           "sharesOutstanding": 241521122
         },
         "valorisation": {
-          "trailingPE": 13.70122,
-          "forwardPE": 5.865156,
-          "priceToBook": 0.796865,
+          "trailingPE": 13.652439,
+          "forwardPE": 5.8442745,
+          "priceToBook": 0.7940279,
           "enterpriseToEbitda": 3.397,
           "enterpriseToRevenue": 0.359,
           "trailingEps": 0.82,
           "forwardEps": 1.91555,
-          "priceToSalesTrailing12Months": 0.13158865
+          "priceToSalesTrailing12Months": 0.13112016
         },
         "croissance": {
           "revenueGrowth": -0.026,
@@ -5898,7 +5898,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:18.158558+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:40.596281+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5916,18 +5916,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1553810688,
+          "marketCap": 1549761408,
           "sharesOutstanding": 184057161
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 3.662473,
-          "priceToBook": 0.8143932,
+          "forwardPE": 3.6529284,
+          "priceToBook": 0.8122709,
           "enterpriseToEbitda": 4.424,
           "enterpriseToRevenue": 0.437,
           "trailingEps": -6.23,
           "forwardEps": 2.305,
-          "priceToSalesTrailing12Months": 0.07445331
+          "priceToSalesTrailing12Months": 0.07425928
         },
         "croissance": {
           "revenueGrowth": -0.043,
@@ -5977,7 +5977,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:18.580538+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:41.036822+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -5995,18 +5995,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10741109760,
+          "marketCap": 10735685632,
           "sharesOutstanding": 542480345
         },
         "valorisation": {
-          "trailingPE": 32.999996,
-          "forwardPE": 31.206656,
-          "priceToBook": 4.3970685,
+          "trailingPE": 32.983334,
+          "forwardPE": 31.190899,
+          "priceToBook": 4.3948483,
           "enterpriseToEbitda": 16.752,
           "enterpriseToRevenue": 8.492,
           "trailingEps": 0.6,
           "forwardEps": 0.63448,
-          "priceToSalesTrailing12Months": 6.208734
+          "priceToSalesTrailing12Months": 6.205599
         },
         "croissance": {
           "revenueGrowth": 0.108,
@@ -6058,7 +6058,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:19.046058+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:41.513912+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6076,18 +6076,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 4725276672,
+          "marketCap": 4721579008,
           "sharesOutstanding": 73947993
         },
         "valorisation": {
-          "trailingPE": 29.311926,
-          "forwardPE": 9.583889,
-          "priceToBook": 0.4659812,
+          "trailingPE": 29.28899,
+          "forwardPE": 9.576389,
+          "priceToBook": 0.46561655,
           "enterpriseToEbitda": 18.622,
           "enterpriseToRevenue": 13.139,
           "trailingEps": 2.18,
           "forwardEps": 6.66744,
-          "priceToSalesTrailing12Months": 5.347084
+          "priceToSalesTrailing12Months": 5.3429
         },
         "croissance": {
           "revenueGrowth": 0.041,
@@ -6138,7 +6138,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:19.466105+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:41.976945+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6156,18 +6156,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 6985454080,
+          "marketCap": 6955792384,
           "sharesOutstanding": 37077785
         },
         "valorisation": {
-          "trailingPE": 15.79212,
-          "forwardPE": 15.369578,
-          "priceToBook": 11.380934,
+          "trailingPE": 15.725063,
+          "forwardPE": 15.3043165,
+          "priceToBook": 11.332608,
           "enterpriseToEbitda": 12.56,
           "enterpriseToRevenue": 8.496,
           "trailingEps": 11.93,
           "forwardEps": 12.25798,
-          "priceToSalesTrailing12Months": 8.713303
+          "priceToSalesTrailing12Months": 8.676304
         },
         "croissance": {
           "revenueGrowth": -0.004,
@@ -6220,7 +6220,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:19.876332+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:42.463795+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6238,18 +6238,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1109613568,
+          "marketCap": 1105062784,
           "sharesOutstanding": 75845077
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 5.1427526,
-          "priceToBook": 0.31052342,
+          "forwardPE": 5.121661,
+          "priceToBook": 0.3092499,
           "enterpriseToEbitda": 16.952,
           "enterpriseToRevenue": 3.3,
           "trailingEps": -2.47,
           "forwardEps": 2.84478,
-          "priceToSalesTrailing12Months": 0.84176415
+          "priceToSalesTrailing12Months": 0.8383119
         },
         "croissance": {
           "revenueGrowth": -0.03,
@@ -6301,7 +6301,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:20.344016+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:42.924681+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6319,18 +6319,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2370823168,
+          "marketCap": 2377327616,
           "sharesOutstanding": 6504316
         },
         "valorisation": {
-          "trailingPE": 37.92924,
-          "forwardPE": 25.290476,
-          "priceToBook": 3.480644,
+          "trailingPE": 38.0333,
+          "forwardPE": 25.35986,
+          "priceToBook": 3.4901931,
           "enterpriseToEbitda": 42.796,
           "enterpriseToRevenue": 0.945,
           "trailingEps": 9.61,
           "forwardEps": 14.41254,
-          "priceToSalesTrailing12Months": 0.5839598
+          "priceToSalesTrailing12Months": 0.58556193
         },
         "croissance": {
           "revenueGrowth": 0.183,
@@ -6381,7 +6381,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:20.767417+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:43.372397+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6399,18 +6399,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 12955958272,
+          "marketCap": 12931232768,
           "sharesOutstanding": 82417038
         },
         "valorisation": {
-          "trailingPE": 25.436893,
-          "forwardPE": 10.931074,
-          "priceToBook": 2.7508967,
+          "trailingPE": 25.38835,
+          "forwardPE": 10.910213,
+          "priceToBook": 2.745647,
           "enterpriseToEbitda": 7.924,
           "enterpriseToRevenue": 2.758,
           "trailingEps": 6.18,
           "forwardEps": 14.38102,
-          "priceToSalesTrailing12Months": 3.019122
+          "priceToSalesTrailing12Months": 3.0133603
         },
         "croissance": {
           "revenueGrowth": 0.187,
@@ -6463,7 +6463,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:21.199980+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:43.809998+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6481,18 +6481,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1450675200,
+          "marketCap": 1453979776,
           "sharesOutstanding": 41306244
         },
         "valorisation": {
-          "trailingPE": 8.78,
-          "forwardPE": 6.2956553,
-          "priceToBook": 0.9623236,
+          "trailingPE": 8.8,
+          "forwardPE": 6.3099966,
+          "priceToBook": 0.96451575,
           "enterpriseToEbitda": 5.802,
           "enterpriseToRevenue": 0.722,
           "trailingEps": 4.0,
           "forwardEps": 5.57845,
-          "priceToSalesTrailing12Months": 0.5711871
+          "priceToSalesTrailing12Months": 0.5724882
         },
         "croissance": {
           "revenueGrowth": 0.013,
@@ -6544,7 +6544,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:21.630560+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:44.288747+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6623,7 +6623,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:22.114957+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:44.725274+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6641,18 +6641,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10057702400,
+          "marketCap": 10054836224,
           "sharesOutstanding": 286625891
         },
         "valorisation": {
-          "trailingPE": 7.341004,
-          "forwardPE": 12.052,
-          "priceToBook": 1.0624319,
+          "trailingPE": 7.338912,
+          "forwardPE": 12.048566,
+          "priceToBook": 1.0621291,
           "enterpriseToEbitda": 17.331,
           "enterpriseToRevenue": 11.406,
           "trailingEps": 4.78,
           "forwardEps": 2.91155,
-          "priceToSalesTrailing12Months": 5.749887
+          "priceToSalesTrailing12Months": 5.7482486
         },
         "croissance": {
           "revenueGrowth": 0.007,
@@ -6706,7 +6706,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:22.561870+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:45.207263+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6724,18 +6724,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 1642241152,
+          "marketCap": 1641242880,
           "sharesOutstanding": 199664570
         },
         "valorisation": {
-          "trailingPE": 3.9354072,
-          "forwardPE": 7.4283547,
-          "priceToBook": 1.1545833,
+          "trailingPE": 3.9330146,
+          "forwardPE": 7.423839,
+          "priceToBook": 1.1538814,
           "enterpriseToEbitda": 4.466,
           "enterpriseToRevenue": 2.17,
           "trailingEps": 2.09,
           "forwardEps": 1.1072439,
-          "priceToSalesTrailing12Months": 2.5071504
+          "priceToSalesTrailing12Months": 2.5056264
         },
         "croissance": {
           "revenueGrowth": 0.269,
@@ -6764,9 +6764,9 @@
           "payoutRatio": 0.1486
         },
         "estimations": {
-          "targetMeanPrice": 10.709885,
-          "targetLowPrice": 10.034527,
-          "targetHighPrice": 11.05652,
+          "targetMeanPrice": 10.70869,
+          "targetLowPrice": 10.033407,
+          "targetHighPrice": 11.055286,
           "numberOfAnalystOpinions": 3,
           "recommendationMean": 1.75
         }
@@ -6788,7 +6788,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:22.987123+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:45.655508+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6806,18 +6806,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 871048512,
+          "marketCap": 870118912,
           "sharesOutstanding": 92961425
         },
         "valorisation": {
-          "trailingPE": 16.438597,
-          "forwardPE": 7.05652,
-          "priceToBook": 0.5639822,
+          "trailingPE": 16.421053,
+          "forwardPE": 7.048989,
+          "priceToBook": 0.56338024,
           "enterpriseToEbitda": 18.765,
           "enterpriseToRevenue": 12.273,
           "trailingEps": 0.57,
           "forwardEps": 1.32785,
-          "priceToSalesTrailing12Months": 4.7326994
+          "priceToSalesTrailing12Months": 4.7276483
         },
         "croissance": {
           "revenueGrowth": 0.039,
@@ -6869,7 +6869,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:23.487184+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:46.114588+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -6887,18 +6887,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 3302539776,
+          "marketCap": 3304472320,
           "sharesOutstanding": 38648801
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 17.004974,
-          "priceToBook": 1.0774313,
+          "forwardPE": 17.014925,
+          "priceToBook": 1.0780618,
           "enterpriseToEbitda": 8.868,
           "enterpriseToRevenue": 1.186,
           "trailingEps": -2.36,
           "forwardEps": 5.025,
-          "priceToSalesTrailing12Months": 0.4178156
+          "priceToSalesTrailing12Months": 0.4180601
         },
         "croissance": {
           "revenueGrowth": 0.032,
@@ -6949,7 +6949,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:23.916669+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:46.614191+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7031,7 +7031,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:24.327115+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:47.040563+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7049,18 +7049,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1260339968,
+          "marketCap": 1262860800,
           "sharesOutstanding": 126034000
         },
         "valorisation": {
-          "trailingPE": 12.5,
-          "forwardPE": 8.322722,
-          "priceToBook": 1.0743448,
+          "trailingPE": 12.525001,
+          "forwardPE": 8.339368,
+          "priceToBook": 1.0764934,
           "enterpriseToEbitda": 8.14,
           "enterpriseToRevenue": 1.067,
           "trailingEps": 0.8,
           "forwardEps": 1.20153,
-          "priceToSalesTrailing12Months": 0.994508
+          "priceToSalesTrailing12Months": 0.99649715
         },
         "croissance": {
           "revenueGrowth": 0.018,
@@ -7111,7 +7111,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:24.870374+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:47.577673+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7129,18 +7129,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 967317504,
+          "marketCap": 963432704,
           "sharesOutstanding": 24280058
         },
         "valorisation": {
-          "trailingPE": 64.258064,
-          "forwardPE": 11.829014,
-          "priceToBook": 1.1979433,
+          "trailingPE": 64.0,
+          "forwardPE": 11.7815075,
+          "priceToBook": 1.1931323,
           "enterpriseToEbitda": 9.146,
           "enterpriseToRevenue": 1.307,
           "trailingEps": 0.62,
           "forwardEps": 3.36799,
-          "priceToSalesTrailing12Months": 0.8145831
+          "priceToSalesTrailing12Months": 0.8113117
         },
         "croissance": {
           "revenueGrowth": 0.002,
@@ -7191,7 +7191,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:25.273298+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:48.051890+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7209,18 +7209,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1469267968,
+          "marketCap": 1444814208,
           "sharesOutstanding": 50945492
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": -115.36,
-          "priceToBook": -43.8965,
+          "forwardPE": -113.44,
+          "priceToBook": -43.165905,
           "enterpriseToEbitda": -51.571,
           "enterpriseToRevenue": 133.503,
           "trailingEps": -1.09,
           "forwardEps": -0.25,
-          "priceToSalesTrailing12Months": 127.69581
+          "priceToSalesTrailing12Months": 125.5705
         },
         "croissance": {
           "revenueGrowth": -0.792,
@@ -7269,7 +7269,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:25.672934+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:48.516672+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7287,18 +7287,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 5216462848,
+          "marketCap": 5212104704,
           "sharesOutstanding": 43579474
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 12.779995,
-          "priceToBook": 2.4560394,
+          "forwardPE": 12.769319,
+          "priceToBook": 2.4539878,
           "enterpriseToEbitda": 8.96,
           "enterpriseToRevenue": 0.779,
           "trailingEps": -0.9,
           "forwardEps": 9.3662,
-          "priceToSalesTrailing12Months": 0.6087598
+          "priceToSalesTrailing12Months": 0.6082512
         },
         "croissance": {
           "revenueGrowth": 0.191,
@@ -7349,7 +7349,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:26.082749+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:48.985954+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7367,18 +7367,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2133789952,
+          "marketCap": 2135486208,
           "sharesOutstanding": 84808827
         },
         "valorisation": {
-          "trailingPE": 17.232876,
-          "forwardPE": 13.232563,
-          "priceToBook": 0.81659144,
+          "trailingPE": 17.246574,
+          "forwardPE": 13.058947,
+          "priceToBook": 0.8172406,
           "enterpriseToEbitda": 8.305,
           "enterpriseToRevenue": 0.997,
           "trailingEps": 1.46,
-          "forwardEps": 1.90137,
-          "priceToSalesTrailing12Months": 0.63367975
+          "forwardEps": 1.92818,
+          "priceToSalesTrailing12Months": 0.6341835
         },
         "croissance": {
           "revenueGrowth": 0.022,
@@ -7429,7 +7429,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:26.520138+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:49.435172+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7447,18 +7447,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1303173376,
+          "marketCap": 1299601152,
           "sharesOutstanding": 142891831
         },
         "valorisation": {
-          "trailingPE": 6.6086955,
-          "forwardPE": 5.9989343,
-          "priceToBook": 0.5954946,
+          "trailingPE": 6.59058,
+          "forwardPE": 5.98249,
+          "priceToBook": 0.59386224,
           "enterpriseToEbitda": 4.461,
           "enterpriseToRevenue": 0.277,
           "trailingEps": 1.38,
           "forwardEps": 1.52027,
-          "priceToSalesTrailing12Months": 0.12920617
+          "priceToSalesTrailing12Months": 0.128852
         },
         "croissance": {
           "revenueGrowth": -0.024,
@@ -7509,7 +7509,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:27.387715+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:49.963630+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7527,18 +7527,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1662695424,
+          "marketCap": 1658566272,
           "sharesOutstanding": 137640360
         },
         "valorisation": {
-          "trailingPE": 9.983471,
-          "forwardPE": 7.208411,
-          "priceToBook": 4.3235507,
+          "trailingPE": 9.958677,
+          "forwardPE": 7.19051,
+          "priceToBook": 4.3128133,
           "enterpriseToEbitda": 1.072,
           "enterpriseToRevenue": 0.381,
           "trailingEps": 1.21,
           "forwardEps": 1.67582,
-          "priceToSalesTrailing12Months": 1.2721463
+          "priceToSalesTrailing12Months": 1.2689872
         },
         "croissance": {
           "revenueGrowth": 0.032,
@@ -7592,7 +7592,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:28.057408+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:50.420549+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7610,18 +7610,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2671378944,
+          "marketCap": 2674021376,
           "sharesOutstanding": 52846274
         },
         "valorisation": {
-          "trailingPE": 33.7,
-          "forwardPE": 25.169163,
-          "priceToBook": 1.3723361,
+          "trailingPE": 33.733334,
+          "forwardPE": 25.19406,
+          "priceToBook": 1.3736935,
           "enterpriseToEbitda": 15.941,
           "enterpriseToRevenue": 3.499,
           "trailingEps": 1.5,
           "forwardEps": 2.00841,
-          "priceToSalesTrailing12Months": 2.8561735
+          "priceToSalesTrailing12Months": 2.8589988
         },
         "croissance": {
           "revenueGrowth": -0.012,
@@ -7670,7 +7670,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:28.491328+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:50.902459+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7750,7 +7750,7 @@
         "decision": "ANALYSE_INCOMPLETE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:28.924486+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:51.330220+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7832,7 +7832,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:29.378418+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:51.786731+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7850,18 +7850,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 10601388032,
+          "marketCap": 10585965568,
           "sharesOutstanding": 308448880
         },
         "valorisation": {
-          "trailingPE": 15.008734,
-          "forwardPE": 11.22315,
-          "priceToBook": 1.8316989,
+          "trailingPE": 14.986899,
+          "forwardPE": 11.206823,
+          "priceToBook": 1.8290343,
           "enterpriseToEbitda": 12.457,
           "enterpriseToRevenue": 0.773,
           "trailingEps": 2.29,
           "forwardEps": 3.06242,
-          "priceToSalesTrailing12Months": 0.54011005
+          "priceToSalesTrailing12Months": 0.53932434
         },
         "croissance": {
           "revenueGrowth": 0.022,
@@ -7914,7 +7914,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:29.851651+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:52.296635+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -7932,18 +7932,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 6221059072,
+          "marketCap": 6224632832,
           "sharesOutstanding": 178663396
         },
         "valorisation": {
-          "trailingPE": 7.70354,
-          "forwardPE": 7.632467,
-          "priceToBook": 1.412748,
+          "trailingPE": 7.707965,
+          "forwardPE": 7.636851,
+          "priceToBook": 1.4135596,
           "enterpriseToEbitda": 5.625,
           "enterpriseToRevenue": 0.501,
           "trailingEps": 4.52,
           "forwardEps": 4.56209,
-          "priceToSalesTrailing12Months": 0.4081792
+          "priceToSalesTrailing12Months": 0.40841368
         },
         "croissance": {
           "revenueGrowth": -0.049,
@@ -7993,7 +7993,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:30.245469+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:52.779906+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8011,18 +8011,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1716179456,
+          "marketCap": 1698268544,
           "sharesOutstanding": 356733841
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": -13.95195,
-          "priceToBook": 0.9123567,
+          "forwardPE": -13.806341,
+          "priceToBook": 0.9028349,
           "enterpriseToEbitda": 6.27,
           "enterpriseToRevenue": 2.498,
           "trailingEps": -0.74,
           "forwardEps": -0.30218,
-          "priceToSalesTrailing12Months": 0.52789277
+          "priceToSalesTrailing12Months": 0.52238345
         },
         "croissance": {
           "revenueGrowth": 0.61,
@@ -8072,7 +8072,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:30.726065+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:53.217907+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8153,7 +8153,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:31.150790+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:53.693686+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8171,18 +8171,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 4286074880,
+          "marketCap": 4303970816,
           "sharesOutstanding": 35791857
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 33.227615,
-          "priceToBook": 3.2204714,
+          "forwardPE": 33.366352,
+          "priceToBook": 3.233918,
           "enterpriseToEbitda": 51.254,
           "enterpriseToRevenue": 8.111,
           "trailingEps": -6.23,
           "forwardEps": 3.60393,
-          "priceToSalesTrailing12Months": 7.2360926
+          "priceToSalesTrailing12Months": 7.266306
         },
         "croissance": {
           "revenueGrowth": -0.346,
@@ -8232,7 +8232,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:31.608459+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:54.167001+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8250,18 +8250,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2486575872,
+          "marketCap": 2484486400,
           "sharesOutstanding": 104477978
         },
         "valorisation": {
-          "trailingPE": 793.3333,
-          "forwardPE": 10.076335,
-          "priceToBook": 2.3833365,
+          "trailingPE": 792.6667,
+          "forwardPE": 10.067867,
+          "priceToBook": 2.3813338,
           "enterpriseToEbitda": 7.528,
           "enterpriseToRevenue": 0.966,
           "trailingEps": 0.03,
           "forwardEps": 2.36197,
-          "priceToSalesTrailing12Months": 0.5436327
+          "priceToSalesTrailing12Months": 0.5431759
         },
         "croissance": {
           "revenueGrowth": -0.059,
@@ -8311,7 +8311,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:32.031014+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:54.687664+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8393,7 +8393,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:32.522790+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:55.161562+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8411,18 +8411,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 7368508416,
+          "marketCap": 7351616512,
           "sharesOutstanding": 168925007
         },
         "valorisation": {
-          "trailingPE": 24.505617,
-          "forwardPE": 12.657236,
-          "priceToBook": 3.5400097,
+          "trailingPE": 24.449438,
+          "forwardPE": 12.62822,
+          "priceToBook": 3.5318944,
           "enterpriseToEbitda": 12.494,
           "enterpriseToRevenue": 0.995,
           "trailingEps": 1.78,
           "forwardEps": 3.44625,
-          "priceToSalesTrailing12Months": 0.690815
+          "priceToSalesTrailing12Months": 0.6892313
         },
         "croissance": {
           "revenueGrowth": 0.035,
@@ -8476,7 +8476,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:32.954303+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:55.612980+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8555,7 +8555,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:33.361264+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:56.042420+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8573,18 +8573,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 5743803392,
+          "marketCap": 5719698432,
           "sharesOutstanding": 172176358
         },
         "valorisation": {
-          "trailingPE": 21.947369,
-          "forwardPE": 11.430177,
-          "priceToBook": 2.8345654,
+          "trailingPE": 21.855265,
+          "forwardPE": 11.382209,
+          "priceToBook": 2.8226697,
           "enterpriseToEbitda": 7.945,
           "enterpriseToRevenue": 0.4,
           "trailingEps": 1.52,
           "forwardEps": 2.91859,
-          "priceToSalesTrailing12Months": 0.7732638
+          "priceToSalesTrailing12Months": 0.77001864
         },
         "croissance": {
           "revenueGrowth": 0.147,
@@ -8636,7 +8636,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:33.808581+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:56.496499+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8654,18 +8654,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1246538112,
+          "marketCap": 1254960640,
           "sharesOutstanding": 210563873
         },
         "valorisation": {
-          "trailingPE": 10.033899,
-          "forwardPE": 12.64417,
-          "priceToBook": 0.60506946,
+          "trailingPE": 10.101695,
+          "forwardPE": 12.729603,
+          "priceToBook": 0.6091578,
           "enterpriseToEbitda": 4.427,
           "enterpriseToRevenue": 0.42,
           "trailingEps": 0.59,
           "forwardEps": 0.4682,
-          "priceToSalesTrailing12Months": 0.569846
+          "priceToSalesTrailing12Months": 0.57369626
         },
         "croissance": {
           "revenueGrowth": -0.105,
@@ -8716,7 +8716,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:34.217837+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:56.971597+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8734,18 +8734,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2416435200,
+          "marketCap": 2418336256,
           "sharesOutstanding": 19012078
         },
         "valorisation": {
-          "trailingPE": 9.614221,
-          "forwardPE": 7.960402,
-          "priceToBook": 1.1334147,
+          "trailingPE": 9.621785,
+          "forwardPE": 7.9666653,
+          "priceToBook": 1.1343066,
           "enterpriseToEbitda": 5.505,
           "enterpriseToRevenue": 0.558,
           "trailingEps": 13.22,
           "forwardEps": 15.96653,
-          "priceToSalesTrailing12Months": 0.6418666
+          "priceToSalesTrailing12Months": 0.6423716
         },
         "croissance": {
           "revenueGrowth": 0.062,
@@ -8798,7 +8798,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:34.782356+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:57.435558+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8816,18 +8816,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 568633152,
+          "marketCap": 565019264,
           "sharesOutstanding": 138996121
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 219.12158,
-          "priceToBook": 0.37126783,
+          "forwardPE": 217.72897,
+          "priceToBook": 0.36890826,
           "enterpriseToEbitda": 2.471,
           "enterpriseToRevenue": 0.672,
           "trailingEps": -11.16,
           "forwardEps": 0.01867,
-          "priceToSalesTrailing12Months": 0.4074179
+          "priceToSalesTrailing12Months": 0.4048286
         },
         "croissance": {
           "revenueGrowth": -0.399,
@@ -8877,7 +8877,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:35.230297+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:57.897311+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8895,18 +8895,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2676051456,
+          "marketCap": 2671598848,
           "sharesOutstanding": 44526647
         },
         "valorisation": {
-          "trailingPE": 9.303405,
-          "forwardPE": 8.361995,
-          "priceToBook": 0.8844739,
+          "trailingPE": 9.287926,
+          "forwardPE": 8.348082,
+          "priceToBook": 0.8830022,
           "enterpriseToEbitda": 6.097,
           "enterpriseToRevenue": 1.078,
           "trailingEps": 6.46,
           "forwardEps": 7.18728,
-          "priceToSalesTrailing12Months": 0.6680547
+          "priceToSalesTrailing12Months": 0.66694313
         },
         "croissance": {
           "revenueGrowth": 0.08,
@@ -8959,7 +8959,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:35.703365+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:58.391429+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -8977,18 +8977,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 674662080,
+          "marketCap": 673579200,
           "sharesOutstanding": 7219498
         },
         "valorisation": {
-          "trailingPE": 13.803545,
-          "forwardPE": 7.2474704,
-          "priceToBook": 0.6856609,
+          "trailingPE": 13.781389,
+          "forwardPE": 7.235838,
+          "priceToBook": 0.68456036,
           "enterpriseToEbitda": 3.212,
           "enterpriseToRevenue": 1.443,
           "trailingEps": 6.77,
           "forwardEps": 12.894154,
-          "priceToSalesTrailing12Months": 0.6052953
+          "priceToSalesTrailing12Months": 0.60432374
         },
         "croissance": {
           "revenueGrowth": 0.432,
@@ -9017,9 +9017,9 @@
           "payoutRatio": 0.0
         },
         "estimations": {
-          "targetMeanPrice": 141.46283,
-          "targetLowPrice": 103.03685,
-          "targetHighPrice": 201.8021,
+          "targetMeanPrice": 141.43124,
+          "targetLowPrice": 103.01385,
+          "targetHighPrice": 201.75703,
           "numberOfAnalystOpinions": 6,
           "recommendationMean": null
         }
@@ -9041,7 +9041,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:36.100078+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:58.862993+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9059,18 +9059,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2900041984,
+          "marketCap": 2904232704,
           "sharesOutstanding": 8381624
         },
         "valorisation": {
-          "trailingPE": 18.46318,
-          "forwardPE": 14.8832445,
-          "priceToBook": 2.382723,
+          "trailingPE": 18.48986,
+          "forwardPE": 14.904752,
+          "priceToBook": 2.3861663,
           "enterpriseToEbitda": 10.538,
           "enterpriseToRevenue": 2.058,
           "trailingEps": 18.74,
           "forwardEps": 23.24762,
-          "priceToSalesTrailing12Months": 1.9406686
+          "priceToSalesTrailing12Months": 1.943473
         },
         "croissance": {
           "revenueGrowth": 0.04,
@@ -9124,7 +9124,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:36.507731+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:59.294820+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9142,18 +9142,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 1634542848,
+          "marketCap": 1631550976,
           "sharesOutstanding": 997280541
         },
         "valorisation": {
-          "trailingPE": 81.950005,
-          "forwardPE": 15.966878,
-          "priceToBook": 0.35330892,
+          "trailingPE": 81.8,
+          "forwardPE": 15.937653,
+          "priceToBook": 0.35266224,
           "enterpriseToEbitda": -49.717,
           "enterpriseToRevenue": 10.371,
           "trailingEps": 0.02,
           "forwardEps": 0.10265,
-          "priceToSalesTrailing12Months": 5.4123936
+          "priceToSalesTrailing12Months": 5.402487
         },
         "croissance": {
           "revenueGrowth": -0.034,
@@ -9201,7 +9201,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:36.960685+00:00",
+      "date_collecte_utc": "2026-10-30T16:00:59.782656+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9219,18 +9219,18 @@
           "currency": "EUR",
           "financialCurrency": "USD",
           "quoteType": "EQUITY",
-          "marketCap": 5016717824,
+          "marketCap": 4994060288,
           "sharesOutstanding": 266563122
         },
         "valorisation": {
-          "trailingPE": 13.838235,
-          "forwardPE": 9.691888,
-          "priceToBook": 1.7119646,
+          "trailingPE": 13.775736,
+          "forwardPE": 9.648115,
+          "priceToBook": 1.7042327,
           "enterpriseToEbitda": 4.971,
           "enterpriseToRevenue": 1.049,
           "trailingEps": 1.36,
           "forwardEps": 1.94183,
-          "priceToSalesTrailing12Months": 1.1986874
+          "priceToSalesTrailing12Months": 1.1932737
         },
         "croissance": {
           "revenueGrowth": 0.026,
@@ -9284,7 +9284,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:37.447193+00:00",
+      "date_collecte_utc": "2026-10-30T16:01:00.317396+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9302,18 +9302,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 467669312,
+          "marketCap": 464634944,
           "sharesOutstanding": 189646915
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 16.012987,
-          "priceToBook": 5.7616825,
+          "forwardPE": 15.909091,
+          "priceToBook": 5.724299,
           "enterpriseToEbitda": -5.813,
           "enterpriseToRevenue": 4.014,
           "trailingEps": -0.9,
           "forwardEps": 0.154,
-          "priceToSalesTrailing12Months": 3.2718334
+          "priceToSalesTrailing12Months": 3.2506049
         },
         "croissance": {
           "revenueGrowth": -0.277,
@@ -9363,7 +9363,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:37.913449+00:00",
+      "date_collecte_utc": "2026-10-30T16:01:00.789147+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9381,18 +9381,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 502290048,
+          "marketCap": 498360800,
           "sharesOutstanding": 130975240
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 79.696594,
-          "priceToBook": 0.5078125,
+          "forwardPE": 79.07315,
+          "priceToBook": 0.50384,
           "enterpriseToEbitda": 19.386,
           "enterpriseToRevenue": 4.452,
           "trailingEps": -0.72,
           "forwardEps": 0.04812,
-          "priceToSalesTrailing12Months": 0.7525903
+          "priceToSalesTrailing12Months": 0.746703
         },
         "croissance": {
           "revenueGrowth": 0.316,
@@ -9442,7 +9442,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:38.360140+00:00",
+      "date_collecte_utc": "2026-10-30T16:01:01.309633+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9460,18 +9460,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2204862208,
+          "marketCap": 2207356416,
           "sharesOutstanding": 124709400
         },
         "valorisation": {
-          "trailingPE": 43.121952,
-          "forwardPE": 9.8385105,
-          "priceToBook": 2.2351456,
+          "trailingPE": 43.170734,
+          "forwardPE": 9.849641,
+          "priceToBook": 2.237674,
           "enterpriseToEbitda": 5.899,
           "enterpriseToRevenue": 1.222,
           "trailingEps": 0.41,
           "forwardEps": 1.79702,
-          "priceToSalesTrailing12Months": 0.66658473
+          "priceToSalesTrailing12Months": 0.6673388
         },
         "croissance": {
           "revenueGrowth": -0.014,
@@ -9521,7 +9521,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:38.791489+00:00",
+      "date_collecte_utc": "2026-10-30T16:01:01.754712+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9539,18 +9539,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 2294859776,
+          "marketCap": 2281390080,
           "sharesOutstanding": 16836829
         },
         "valorisation": {
-          "trailingPE": 8.604798,
-          "forwardPE": 12.31437,
-          "priceToBook": 4.201344,
+          "trailingPE": 8.554293,
+          "forwardPE": 12.242092,
+          "priceToBook": 4.1766844,
           "enterpriseToEbitda": 10.026,
           "enterpriseToRevenue": 1.214,
           "trailingEps": 15.84,
           "forwardEps": 11.06837,
-          "priceToSalesTrailing12Months": 1.367872
+          "priceToSalesTrailing12Months": 1.3598433
         },
         "croissance": {
           "revenueGrowth": 0.335,
@@ -9603,7 +9603,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:39.255583+00:00",
+      "date_collecte_utc": "2026-10-30T16:01:02.257931+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
@@ -9621,18 +9621,18 @@
           "currency": "EUR",
           "financialCurrency": "EUR",
           "quoteType": "EQUITY",
-          "marketCap": 565238464,
+          "marketCap": 563315520,
           "sharesOutstanding": 56557781
         },
         "valorisation": {
           "trailingPE": null,
-          "forwardPE": 2.9023135,
-          "priceToBook": 0.15164253,
+          "forwardPE": 2.8924396,
+          "priceToBook": 0.15112662,
           "enterpriseToEbitda": 9.286,
           "enterpriseToRevenue": 0.639,
           "trailingEps": -37.13,
           "forwardEps": 3.44346,
-          "priceToSalesTrailing12Months": 0.14287047
+          "priceToSalesTrailing12Months": 0.14238442
         },
         "croissance": {
           "revenueGrowth": -0.037,
@@ -9682,7 +9682,7 @@
         "decision": "EXPLORATOIRE_NON_VALIDE"
       },
       "source": "Yahoo Finance / yfinance .info",
-      "date_collecte_utc": "2026-10-30T15:46:39.739540+00:00",
+      "date_collecte_utc": "2026-10-30T16:01:02.753004+00:00",
       "periode_comptable": "NON_CERTIFIEE",
       "date_publication_financiere": "NON_DISPONIBLE",
       "valide_par_document_primaire": false,
