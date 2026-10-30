@@ -50,13 +50,13 @@ jobs:
       - name: Rapport ChatGPT V8.3 - top global et 3 strategies
         run: python rapport_v83.py
       - name: Backtest V6 historique - manuel
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && inputs.run_backtests == true
         run: python backtest.py
       - name: Portefeuille V6.1 - manuel
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && inputs.run_backtests == true
         run: python portfolio_backtest.py
       - name: Robustesse V6.2 - manuel
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && inputs.run_backtests == true 
         run: python robustesse.py
       - name: Publication
         run: |
