@@ -1,4 +1,4 @@
-name: Veille Bourse V8.3
+name: Veille Bourse V8.4
 on:
   workflow_dispatch:
   schedule:
@@ -20,16 +20,13 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - name: Tests V8 et V8.3
+      - name: Tests V8 V8.3 et cache V8.4
         run: |
           python -m unittest discover -s tests -p 'test_v8.py'
           python -m unittest discover -s tests -p 'test_v83.py'
-      - name: Collecte V4
-        run: python collecte.py
-      - name: Screening V5
-        run: python screening.py
-      - name: Audit V6.3
-        run: python fiabilisation.py
+          python -m unittest discover -s tests -p 'test_cache_v84.py'
+      - name: Collecte et audit incrementaux V8.4 (cache partage)
+        run: python collecte_v84.py pipeline
       - name: Rapport V7 historique
         run: python rapport_v7.py
       - name: Rapport enrichi V7.3
@@ -60,5 +57,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Rapport V8.3 - top global et strategies"
+            git commit -m "Veille V8.4 - cache incremental et classement V8.3"
             git push
+          fi
