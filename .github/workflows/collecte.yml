@@ -1,4 +1,4 @@
-name: Veille Bourse V8.8
+name: Veille Bourse V9.1
 on:
   workflow_dispatch:
     inputs:
@@ -7,7 +7,11 @@ on:
         type: boolean
         default: false
       run_v87:
-        description: "Executer le backtest V8.7 (historique, couteux)"
+        description: "Executer le backtest historique V8.7"
+        type: boolean
+        default: false
+      run_v89:
+        description: "Executer le backtest portefeuille V8.9"
         type: boolean
         default: false
       refresh_financials:
@@ -33,59 +37,64 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - name: Tests V8 a V8.8
+      - name: Tests V8 a V9.1
         run: |
           python -m unittest discover -s tests -p 'test_v8.py'
           python -m unittest discover -s tests -p 'test_v83.py'
           python -m unittest discover -s tests -p 'test_cache_v84.py'
           python -m unittest discover -s tests -p 'test_v86.py'
           python -m unittest discover -s tests -p 'test_v88.py'
-      - name: Collecte et audit incrementaux V8.4
+          python -m unittest discover -s tests -p 'test_v91.py'
+      - name: Collecte incrementale et audit V8.4
         run: python collecte_v84.py pipeline
-      - name: Rapport V7 historique
-        run: python rapport_v7.py
-      - name: Rapport enrichi V7.3
-        run: python plans_v73.py
-      - name: Fondamentaux V8 - semaine ou execution manuelle
+      - name: Rapports V7 et V7.3
+        run: |
+          python rapport_v7.py
+          python plans_v73.py
+      - name: Fondamentaux V8 - hebdomadaire ou manuel
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 8 * * 6'
         run: python fondamentaux_v8.py
-      - name: Fondamentaux V8 - amorcage si absents
+      - name: Amorcage V8
         if: github.event_name != 'workflow_dispatch' && github.event.schedule != '0 8 * * 6'
         run: |
           if [ ! -f data/fondamentaux_v8.json ]; then python fondamentaux_v8.py; fi
-      - name: Rapport ChatGPT V8 historique
-        run: python rapport_v8.py
-      - name: Rapport ChatGPT V8.3 historique
-        run: python rapport_v83.py
+      - name: Rapports historiques V8 V8.3
+        run: |
+          python rapport_v8.py
+          python rapport_v83.py
       - name: Comptes pluriannuels V8.6
         if: github.event.schedule == '0 8 * * 6' || (github.event_name == 'workflow_dispatch' && inputs.refresh_financials == true)
         run: python fondamentaux_v86.py
-      - name: Amorcage comptes V8.6 si absents
+      - name: Amorcage comptes pluriannuels V8.6
         if: github.event.schedule != '0 8 * * 6' && !(github.event_name == 'workflow_dispatch' && inputs.refresh_financials == true)
         run: |
           if [ ! -f data/fondamentaux_v86.json ]; then python fondamentaux_v86.py; fi
-      - name: Rapport V8.6 - classement fondamental
+      - name: Rapport V8.6
         run: python rapport_v86.py
-      - name: Rapport V8.8 - plans exploratoires
-        run: python plans_v88.py
-      - name: Backtest V8.7 - sur demande uniquement
+      - name: Plans V9.1 conservant R/R informatif
+        run: python plans_v91.py
+      - name: Catalyseurs V9.0 documentes
+        run: python catalyseurs_v90.py
+      - name: Rapport de synthese V9.1
+        run: python rapport_v91.py
+      - name: Backtest V8.7 - optionnel
         if: github.event_name == 'workflow_dispatch' && inputs.run_v87 == true
         run: python backtest_v87.py
-      - name: Backtest V6 historique - manuel
+      - name: Portefeuille historique V8.9 - optionnel
+        if: github.event_name == 'workflow_dispatch' && inputs.run_v89 == true
+        run: python backtest_v89.py
+      - name: Backtests V6 - optionnels
         if: github.event_name == 'workflow_dispatch' && inputs.run_backtests == true
-        run: python backtest.py
-      - name: Portefeuille V6.1 - manuel
-        if: github.event_name == 'workflow_dispatch' && inputs.run_backtests == true
-        run: python portfolio_backtest.py
-      - name: Robustesse V6.2 - manuel
-        if: github.event_name == 'workflow_dispatch' && inputs.run_backtests == true
-        run: python robustesse.py
+        run: |
+          python backtest.py
+          python portfolio_backtest.py
+          python robustesse.py
       - name: Publication
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Veille V8.8 - backtest V8.7 et plans"
+            git commit -m "Veille V9.1 - portefeuille historique catalyseurs valorisation"
             git push
           fi
