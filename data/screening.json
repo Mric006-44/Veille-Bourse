@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
-  "genere_utc": "2026-10-30T22:16:03.931285+00:00",
-  "source_v4": "2026-10-30T22:16:03.924272+00:00",
+  "genere_utc": "2026-11-02T17:59:43.087403+00:00",
+  "source_v4": "2026-11-02T17:59:43.076888+00:00",
   "titres_analyses": 120,
   "hypotheses": {
     "version": "5.0",
@@ -24,7 +24,7 @@
     "TENDANCE": [
       {
         "ticker": "RCO.PA",
-        "date_seance": "2026-10-30",
+        "date_seance": "2026-11-02",
         "score_exploratoire_100": 100,
         "configurations": [
           "TENDANCE"
@@ -41,74 +41,18 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 50.65,
-          "stop_hypothetique": 47.9743,
-          "risque_par_action_frais_inclus": 3.0209,
+          "prix_entree_hypothetique": 51.85,
+          "stop_hypothetique": 49.1189,
+          "risque_par_action_frais_inclus": 3.0844,
           "quantite_theorique_max": 6,
-          "risque_theorique_total_eur": 18.13,
-          "capital_estime_frais_achat_inclus_eur": 304.96,
-          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-        }
-      },
-      {
-        "ticker": "TEP.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 100,
-        "configurations": [
-          "TENDANCE"
-        ],
-        "qualite_v4": "A_VERIFIER",
-        "validation_independante": false,
-        "eligible_pour_achat": false,
-        "verdict": "A_ETUDIER",
-        "blocages": [
-          "CAPITAL_DISPONIBLE_INCONNU",
-          "ELIGIBILITE_PEA_NON_VERIFIEE",
-          "PAS_DE_SECONDE_SOURCE",
-          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RISQUE_CUMULE_INCONNU"
-        ],
-        "exemple_risque": {
-          "prix_entree_hypothetique": 80.3,
-          "stop_hypothetique": 76.831,
-          "risque_par_action_frais_inclus": 4.019,
-          "quantite_theorique_max": 4,
-          "risque_theorique_total_eur": 16.08,
-          "capital_estime_frais_achat_inclus_eur": 322.32,
-          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-        }
-      },
-      {
-        "ticker": "VU.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 100,
-        "configurations": [
-          "TENDANCE"
-        ],
-        "qualite_v4": "A_VERIFIER",
-        "validation_independante": false,
-        "eligible_pour_achat": false,
-        "verdict": "A_ETUDIER",
-        "blocages": [
-          "CAPITAL_DISPONIBLE_INCONNU",
-          "ELIGIBILITE_PEA_NON_VERIFIEE",
-          "PAS_DE_SECONDE_SOURCE",
-          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RISQUE_CUMULE_INCONNU"
-        ],
-        "exemple_risque": {
-          "prix_entree_hypothetique": 134.8,
-          "stop_hypothetique": 126.8145,
-          "risque_par_action_frais_inclus": 8.9012,
-          "quantite_theorique_max": 2,
-          "risque_theorique_total_eur": 17.8,
-          "capital_estime_frais_achat_inclus_eur": 270.54,
+          "risque_theorique_total_eur": 18.51,
+          "capital_estime_frais_achat_inclus_eur": 312.19,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
         "ticker": "BVI.PA",
-        "date_seance": "2026-10-30",
+        "date_seance": "2026-11-02",
         "score_exploratoire_100": 90,
         "configurations": [
           "TENDANCE"
@@ -125,18 +69,46 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 29.3,
-          "stop_hypothetique": 28.6212,
-          "risque_par_action_frais_inclus": 0.8815,
-          "quantite_theorique_max": 22,
-          "risque_theorique_total_eur": 19.39,
-          "capital_estime_frais_achat_inclus_eur": 646.86,
+          "prix_entree_hypothetique": 29.2,
+          "stop_hypothetique": 28.5387,
+          "risque_par_action_frais_inclus": 0.8634,
+          "quantite_theorique_max": 23,
+          "risque_theorique_total_eur": 19.86,
+          "capital_estime_frais_achat_inclus_eur": 673.95,
+          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+        }
+      },
+      {
+        "ticker": "CAP.PA",
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 90,
+        "configurations": [
+          "TENDANCE"
+        ],
+        "qualite_v4": "A_VERIFIER",
+        "validation_independante": false,
+        "eligible_pour_achat": false,
+        "verdict": "A_ETUDIER",
+        "blocages": [
+          "CAPITAL_DISPONIBLE_INCONNU",
+          "ELIGIBILITE_PEA_NON_VERIFIEE",
+          "PAS_DE_SECONDE_SOURCE",
+          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+          "RISQUE_CUMULE_INCONNU"
+        ],
+        "exemple_risque": {
+          "prix_entree_hypothetique": 126.9,
+          "stop_hypothetique": 121.2089,
+          "risque_par_action_frais_inclus": 6.5595,
+          "quantite_theorique_max": 3,
+          "risque_theorique_total_eur": 19.68,
+          "capital_estime_frais_achat_inclus_eur": 382.03,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
         "ticker": "DIM.PA",
-        "date_seance": "2026-10-30",
+        "date_seance": "2026-11-02",
         "score_exploratoire_100": 90,
         "configurations": [
           "TENDANCE"
@@ -153,20 +125,48 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 223.4,
-          "stop_hypothetique": 212.6471,
-          "risque_par_action_frais_inclus": 12.2791,
+          "prix_entree_hypothetique": 224.2,
+          "stop_hypothetique": 213.6367,
+          "risque_par_action_frais_inclus": 12.0957,
           "quantite_theorique_max": 1,
-          "risque_theorique_total_eur": 12.28,
-          "capital_estime_frais_achat_inclus_eur": 224.18,
+          "risque_theorique_total_eur": 12.1,
+          "capital_estime_frais_achat_inclus_eur": 224.98,
+          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+        }
+      },
+      {
+        "ticker": "ITP.PA",
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 90,
+        "configurations": [
+          "TENDANCE"
+        ],
+        "qualite_v4": "A_VERIFIER",
+        "validation_independante": false,
+        "eligible_pour_achat": false,
+        "verdict": "A_ETUDIER",
+        "blocages": [
+          "CAPITAL_DISPONIBLE_INCONNU",
+          "ELIGIBILITE_PEA_NON_VERIFIEE",
+          "PAS_DE_SECONDE_SOURCE",
+          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+          "RISQUE_CUMULE_INCONNU"
+        ],
+        "exemple_risque": {
+          "prix_entree_hypothetique": 34.82,
+          "stop_hypothetique": 33.5912,
+          "risque_par_action_frais_inclus": 1.4682,
+          "quantite_theorique_max": 13,
+          "risque_theorique_total_eur": 19.09,
+          "capital_estime_frais_achat_inclus_eur": 454.24,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       }
     ],
     "REBOND_POTENTIEL": [
       {
-        "ticker": "AC.PA",
-        "date_seance": "2026-10-30",
+        "ticker": "AIR.PA",
+        "date_seance": "2026-11-02",
         "score_exploratoire_100": 80,
         "configurations": [
           "REBOND_POTENTIEL"
@@ -183,19 +183,19 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 46.32,
-          "stop_hypothetique": 44.6049,
-          "risque_par_action_frais_inclus": 2.0333,
-          "quantite_theorique_max": 9,
-          "risque_theorique_total_eur": 18.3,
-          "capital_estime_frais_achat_inclus_eur": 418.34,
+          "prix_entree_hypothetique": 196.08,
+          "stop_hypothetique": 188.6418,
+          "risque_par_action_frais_inclus": 8.7847,
+          "quantite_theorique_max": 2,
+          "risque_theorique_total_eur": 17.57,
+          "capital_estime_frais_achat_inclus_eur": 393.53,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
-        "ticker": "AIR.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 80,
+        "ticker": "COFA.PA",
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 62,
         "configurations": [
           "REBOND_POTENTIEL"
         ],
@@ -211,19 +211,19 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 192.4,
-          "stop_hypothetique": 184.9687,
-          "risque_par_action_frais_inclus": 8.7521,
-          "quantite_theorique_max": 2,
-          "risque_theorique_total_eur": 17.5,
-          "capital_estime_frais_achat_inclus_eur": 386.15,
+          "prix_entree_hypothetique": 15.73,
+          "stop_hypothetique": 15.3528,
+          "risque_par_action_frais_inclus": 0.486,
+          "quantite_theorique_max": 41,
+          "risque_theorique_total_eur": 19.93,
+          "capital_estime_frais_achat_inclus_eur": 647.19,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
         "ticker": "CS.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 72,
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 62,
         "configurations": [
           "REBOND_POTENTIEL"
         ],
@@ -239,19 +239,19 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 42.6,
-          "stop_hypothetique": 41.5296,
-          "risque_par_action_frais_inclus": 1.3649,
+          "prix_entree_hypothetique": 42.97,
+          "stop_hypothetique": 41.9121,
+          "risque_par_action_frais_inclus": 1.355,
           "quantite_theorique_max": 14,
-          "risque_theorique_total_eur": 19.11,
-          "capital_estime_frais_achat_inclus_eur": 598.49,
+          "risque_theorique_total_eur": 18.97,
+          "capital_estime_frais_achat_inclus_eur": 603.69,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
-        "ticker": "ORA.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 68,
+        "ticker": "HO.PA",
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 58,
         "configurations": [
           "REBOND_POTENTIEL"
         ],
@@ -267,19 +267,19 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 14.47,
-          "stop_hypothetique": 14.0449,
-          "risque_par_action_frais_inclus": 0.5249,
-          "quantite_theorique_max": 38,
-          "risque_theorique_total_eur": 19.95,
-          "capital_estime_frais_achat_inclus_eur": 551.78,
+          "prix_entree_hypothetique": 232.0,
+          "stop_hypothetique": 223.9177,
+          "risque_par_action_frais_inclus": 9.678,
+          "quantite_theorique_max": 2,
+          "risque_theorique_total_eur": 19.36,
+          "capital_estime_frais_achat_inclus_eur": 465.62,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
-        "ticker": "STLAP.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 68,
+        "ticker": "VIRI.PA",
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 58,
         "configurations": [
           "REBOND_POTENTIEL"
         ],
@@ -295,48 +295,20 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 4.1415,
-          "stop_hypothetique": 3.8526,
-          "risque_par_action_frais_inclus": 0.3169,
-          "quantite_theorique_max": 63,
-          "risque_theorique_total_eur": 19.96,
-          "capital_estime_frais_achat_inclus_eur": 261.83,
+          "prix_entree_hypothetique": 94.15,
+          "stop_hypothetique": 87.6858,
+          "risque_par_action_frais_inclus": 7.1007,
+          "quantite_theorique_max": 2,
+          "risque_theorique_total_eur": 14.2,
+          "capital_estime_frais_achat_inclus_eur": 188.96,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       }
     ],
     "CASSURE": [
       {
-        "ticker": "AI.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 90,
-        "configurations": [
-          "CASSURE"
-        ],
-        "qualite_v4": "A_VERIFIER",
-        "validation_independante": false,
-        "eligible_pour_achat": false,
-        "verdict": "A_ETUDIER",
-        "blocages": [
-          "CAPITAL_DISPONIBLE_INCONNU",
-          "ELIGIBILITE_PEA_NON_VERIFIEE",
-          "PAS_DE_SECONDE_SOURCE",
-          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RISQUE_CUMULE_INCONNU"
-        ],
-        "exemple_risque": {
-          "prix_entree_hypothetique": 180.9,
-          "stop_hypothetique": 176.6805,
-          "risque_par_action_frais_inclus": 5.471,
-          "quantite_theorique_max": 3,
-          "risque_theorique_total_eur": 16.41,
-          "capital_estime_frais_achat_inclus_eur": 544.6,
-          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-        }
-      },
-      {
         "ticker": "DSY.PA",
-        "date_seance": "2026-10-30",
+        "date_seance": "2026-11-02",
         "score_exploratoire_100": 90,
         "configurations": [
           "CASSURE"
@@ -353,74 +325,18 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 25.26,
-          "stop_hypothetique": 24.1367,
-          "risque_par_action_frais_inclus": 1.2962,
+          "prix_entree_hypothetique": 25.62,
+          "stop_hypothetique": 24.5082,
+          "risque_par_action_frais_inclus": 1.2872,
           "quantite_theorique_max": 15,
-          "risque_theorique_total_eur": 19.44,
-          "capital_estime_frais_achat_inclus_eur": 380.23,
+          "risque_theorique_total_eur": 19.31,
+          "capital_estime_frais_achat_inclus_eur": 385.65,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       },
       {
-        "ticker": "SCR.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 90,
-        "configurations": [
-          "CASSURE"
-        ],
-        "qualite_v4": "A_VERIFIER",
-        "validation_independante": false,
-        "eligible_pour_achat": false,
-        "verdict": "A_ETUDIER",
-        "blocages": [
-          "CAPITAL_DISPONIBLE_INCONNU",
-          "ELIGIBILITE_PEA_NON_VERIFIEE",
-          "PAS_DE_SECONDE_SOURCE",
-          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RISQUE_CUMULE_INCONNU"
-        ],
-        "exemple_risque": {
-          "prix_entree_hypothetique": 34.56,
-          "stop_hypothetique": 33.5885,
-          "risque_par_action_frais_inclus": 1.2101,
-          "quantite_theorique_max": 16,
-          "risque_theorique_total_eur": 19.36,
-          "capital_estime_frais_achat_inclus_eur": 554.9,
-          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-        }
-      },
-      {
-        "ticker": "NK.PA",
-        "date_seance": "2026-10-30",
-        "score_exploratoire_100": 80,
-        "configurations": [
-          "CASSURE"
-        ],
-        "qualite_v4": "A_VERIFIER",
-        "validation_independante": false,
-        "eligible_pour_achat": false,
-        "verdict": "A_ETUDIER",
-        "blocages": [
-          "CAPITAL_DISPONIBLE_INCONNU",
-          "ELIGIBILITE_PEA_NON_VERIFIEE",
-          "PAS_DE_SECONDE_SOURCE",
-          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RISQUE_CUMULE_INCONNU"
-        ],
-        "exemple_risque": {
-          "prix_entree_hypothetique": 25.34,
-          "stop_hypothetique": 24.2814,
-          "risque_par_action_frais_inclus": 1.2322,
-          "quantite_theorique_max": 16,
-          "risque_theorique_total_eur": 19.72,
-          "capital_estime_frais_achat_inclus_eur": 406.86,
-          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-        }
-      },
-      {
-        "ticker": "ELIS.PA",
-        "date_seance": "2026-10-30",
+        "ticker": "DG.PA",
+        "date_seance": "2026-11-02",
         "score_exploratoire_100": 78,
         "configurations": [
           "CASSURE"
@@ -437,12 +353,40 @@
           "RISQUE_CUMULE_INCONNU"
         ],
         "exemple_risque": {
-          "prix_entree_hypothetique": 23.08,
-          "stop_hypothetique": 22.3956,
-          "risque_par_action_frais_inclus": 0.8436,
-          "quantite_theorique_max": 23,
-          "risque_theorique_total_eur": 19.4,
-          "capital_estime_frais_achat_inclus_eur": 532.7,
+          "prix_entree_hypothetique": 110.3,
+          "stop_hypothetique": 107.5389,
+          "risque_par_action_frais_inclus": 3.5235,
+          "quantite_theorique_max": 5,
+          "risque_theorique_total_eur": 17.62,
+          "capital_estime_frais_achat_inclus_eur": 553.43,
+          "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+        }
+      },
+      {
+        "ticker": "ELIS.PA",
+        "date_seance": "2026-11-02",
+        "score_exploratoire_100": 78,
+        "configurations": [
+          "CASSURE"
+        ],
+        "qualite_v4": "A_VERIFIER",
+        "validation_independante": false,
+        "eligible_pour_achat": false,
+        "verdict": "A_ETUDIER",
+        "blocages": [
+          "CAPITAL_DISPONIBLE_INCONNU",
+          "ELIGIBILITE_PEA_NON_VERIFIEE",
+          "PAS_DE_SECONDE_SOURCE",
+          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+          "RISQUE_CUMULE_INCONNU"
+        ],
+        "exemple_risque": {
+          "prix_entree_hypothetique": 23.72,
+          "stop_hypothetique": 23.0073,
+          "risque_par_action_frais_inclus": 0.8762,
+          "quantite_theorique_max": 22,
+          "risque_theorique_total_eur": 19.28,
+          "capital_estime_frais_achat_inclus_eur": 523.67,
           "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
         }
       }
@@ -451,7 +395,7 @@
   "univers": [
     {
       "ticker": "ABVX.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -469,15 +413,13 @@
     },
     {
       "ticker": "AC.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -485,20 +427,12 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 46.32,
-        "stop_hypothetique": 44.6049,
-        "risque_par_action_frais_inclus": 2.0333,
-        "quantite_theorique_max": 9,
-        "risque_theorique_total_eur": 18.3,
-        "capital_estime_frais_achat_inclus_eur": 418.34,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "ACA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -515,7 +449,7 @@
     },
     {
       "ticker": "ADP.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 70,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -533,8 +467,36 @@
     },
     {
       "ticker": "AF.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 20,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 38,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "A_ETUDIER",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": {
+        "prix_entree_hypothetique": 10.88,
+        "stop_hypothetique": 10.3517,
+        "risque_par_action_frais_inclus": 0.6026,
+        "quantite_theorique_max": 33,
+        "risque_theorique_total_eur": 19.89,
+        "capital_estime_frais_achat_inclus_eur": 360.3,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
+    },
+    {
+      "ticker": "AI.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 90,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -550,36 +512,8 @@
       "exemple_risque": null
     },
     {
-      "ticker": "AI.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
-      "configurations": [
-        "CASSURE"
-      ],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 180.9,
-        "stop_hypothetique": 176.6805,
-        "risque_par_action_frais_inclus": 5.471,
-        "quantite_theorique_max": 3,
-        "risque_theorique_total_eur": 16.41,
-        "capital_estime_frais_achat_inclus_eur": 544.6,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
       "ticker": "AIR.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
       "configurations": [
         "REBOND_POTENTIEL"
@@ -596,26 +530,24 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 192.4,
-        "stop_hypothetique": 184.9687,
-        "risque_par_action_frais_inclus": 8.7521,
+        "prix_entree_hypothetique": 196.08,
+        "stop_hypothetique": 188.6418,
+        "risque_par_action_frais_inclus": 8.7847,
         "quantite_theorique_max": 2,
-        "risque_theorique_total_eur": 17.5,
-        "capital_estime_frais_achat_inclus_eur": 386.15,
+        "risque_theorique_total_eur": 17.57,
+        "capital_estime_frais_achat_inclus_eur": 393.53,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "AKE.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 58,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -623,26 +555,19 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 56.05,
-        "stop_hypothetique": 54.241,
-        "risque_par_action_frais_inclus": 2.195,
-        "quantite_theorique_max": 9,
-        "risque_theorique_total_eur": 19.76,
-        "capital_estime_frais_achat_inclus_eur": 506.22,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "ALO.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 40,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "SURVEILLANCE",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
@@ -653,8 +578,8 @@
     },
     {
       "ticker": "AM.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 80,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -671,8 +596,8 @@
     },
     {
       "ticker": "AMUN.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 82,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 92,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -689,25 +614,28 @@
     },
     {
       "ticker": "APAM.AS",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 20,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 30,
       "configurations": [],
-      "qualite_v4": "A_VERIFIER",
+      "qualite_v4": "REJETE",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "SURVEILLANCE",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
       ],
       "exemple_risque": null
     },
     {
       "ticker": "ARG.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 52,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -725,7 +653,7 @@
     },
     {
       "ticker": "ATE.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -743,7 +671,7 @@
     },
     {
       "ticker": "ATO.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -761,25 +689,28 @@
     },
     {
       "ticker": "AYV.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 50,
       "configurations": [],
-      "qualite_v4": "A_VERIFIER",
+      "qualite_v4": "REJETE",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "SURVEILLANCE",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
       ],
       "exemple_risque": null
     },
     {
       "ticker": "BB.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 32,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -797,7 +728,7 @@
     },
     {
       "ticker": "BIM.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 70,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -815,8 +746,8 @@
     },
     {
       "ticker": "BN.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 78,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 58,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -833,7 +764,7 @@
     },
     {
       "ticker": "BNP.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -851,8 +782,8 @@
     },
     {
       "ticker": "BOL.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 58,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 48,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -869,7 +800,7 @@
     },
     {
       "ticker": "BVI.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
       "configurations": [
         "TENDANCE"
@@ -886,18 +817,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 29.3,
-        "stop_hypothetique": 28.6212,
-        "risque_par_action_frais_inclus": 0.8815,
-        "quantite_theorique_max": 22,
-        "risque_theorique_total_eur": 19.39,
-        "capital_estime_frais_achat_inclus_eur": 646.86,
+        "prix_entree_hypothetique": 29.2,
+        "stop_hypothetique": 28.5387,
+        "risque_par_action_frais_inclus": 0.8634,
+        "quantite_theorique_max": 23,
+        "risque_theorique_total_eur": 19.86,
+        "capital_estime_frais_achat_inclus_eur": 673.95,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "CA.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 10,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -915,13 +846,15 @@
     },
     {
       "ticker": "CAP.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
-      "configurations": [],
+      "configurations": [
+        "TENDANCE"
+      ],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
+      "verdict": "A_ETUDIER",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -929,12 +862,20 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": null
+      "exemple_risque": {
+        "prix_entree_hypothetique": 126.9,
+        "stop_hypothetique": 121.2089,
+        "risque_par_action_frais_inclus": 6.5595,
+        "quantite_theorique_max": 3,
+        "risque_theorique_total_eur": 19.68,
+        "capital_estime_frais_achat_inclus_eur": 382.03,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
     },
     {
       "ticker": "CARM.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 78,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -951,7 +892,7 @@
     },
     {
       "ticker": "CLARI.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -969,13 +910,15 @@
     },
     {
       "ticker": "COFA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
-      "configurations": [],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 62,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
+      "verdict": "A_ETUDIER",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -983,11 +926,19 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": null
+      "exemple_risque": {
+        "prix_entree_hypothetique": 15.73,
+        "stop_hypothetique": 15.3528,
+        "risque_par_action_frais_inclus": 0.486,
+        "quantite_theorique_max": 41,
+        "risque_theorique_total_eur": 19.93,
+        "capital_estime_frais_achat_inclus_eur": 647.19,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
     },
     {
       "ticker": "COV.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 40,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1005,8 +956,8 @@
     },
     {
       "ticker": "CS.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 72,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 62,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
@@ -1022,19 +973,19 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 42.6,
-        "stop_hypothetique": 41.5296,
-        "risque_par_action_frais_inclus": 1.3649,
+        "prix_entree_hypothetique": 42.97,
+        "stop_hypothetique": 41.9121,
+        "risque_par_action_frais_inclus": 1.355,
         "quantite_theorique_max": 14,
-        "risque_theorique_total_eur": 19.11,
-        "capital_estime_frais_achat_inclus_eur": 598.49,
+        "risque_theorique_total_eur": 18.97,
+        "capital_estime_frais_achat_inclus_eur": 603.69,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "DBG.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 40,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1052,29 +1003,26 @@
     },
     {
       "ticker": "DBV.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
-      "qualite_v4": "REJETE",
+      "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "SURVEILLANCE",
       "blocages": [
-        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "QUALITE_REJETEE",
-        "RISQUE_CUMULE_INCONNU",
-        "STATUT_SOURCE_INATTENDU"
+        "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": null
     },
     {
       "ticker": "DEC.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 22,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 42,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1091,10 +1039,10 @@
     },
     {
       "ticker": "DG.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 60,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 78,
       "configurations": [
-        "REBOND_POTENTIEL"
+        "CASSURE"
       ],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1108,18 +1056,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 108.6,
-        "stop_hypothetique": 105.8746,
-        "risque_par_action_frais_inclus": 3.476,
+        "prix_entree_hypothetique": 110.3,
+        "stop_hypothetique": 107.5389,
+        "risque_par_action_frais_inclus": 3.5235,
         "quantite_theorique_max": 5,
-        "risque_theorique_total_eur": 17.38,
-        "capital_estime_frais_achat_inclus_eur": 544.9,
+        "risque_theorique_total_eur": 17.62,
+        "capital_estime_frais_achat_inclus_eur": 553.43,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "DIM.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
       "configurations": [
         "TENDANCE"
@@ -1136,18 +1084,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 223.4,
-        "stop_hypothetique": 212.6471,
-        "risque_par_action_frais_inclus": 12.2791,
+        "prix_entree_hypothetique": 224.2,
+        "stop_hypothetique": 213.6367,
+        "risque_par_action_frais_inclus": 12.0957,
         "quantite_theorique_max": 1,
-        "risque_theorique_total_eur": 12.28,
-        "capital_estime_frais_achat_inclus_eur": 224.18,
+        "risque_theorique_total_eur": 12.1,
+        "capital_estime_frais_achat_inclus_eur": 224.98,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "DSY.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
       "configurations": [
         "CASSURE"
@@ -1164,18 +1112,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 25.26,
-        "stop_hypothetique": 24.1367,
-        "risque_par_action_frais_inclus": 1.2962,
+        "prix_entree_hypothetique": 25.62,
+        "stop_hypothetique": 24.5082,
+        "risque_par_action_frais_inclus": 1.2872,
         "quantite_theorique_max": 15,
-        "risque_theorique_total_eur": 19.44,
-        "capital_estime_frais_achat_inclus_eur": 380.23,
+        "risque_theorique_total_eur": 19.31,
+        "capital_estime_frais_achat_inclus_eur": 385.65,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "EDEN.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 42,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1193,8 +1141,8 @@
     },
     {
       "ticker": "EL.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 80,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 70,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1211,7 +1159,7 @@
     },
     {
       "ticker": "ELIS.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 78,
       "configurations": [
         "CASSURE"
@@ -1228,18 +1176,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 23.08,
-        "stop_hypothetique": 22.3956,
-        "risque_par_action_frais_inclus": 0.8436,
-        "quantite_theorique_max": 23,
-        "risque_theorique_total_eur": 19.4,
-        "capital_estime_frais_achat_inclus_eur": 532.7,
+        "prix_entree_hypothetique": 23.72,
+        "stop_hypothetique": 23.0073,
+        "risque_par_action_frais_inclus": 0.8762,
+        "quantite_theorique_max": 22,
+        "risque_theorique_total_eur": 19.28,
+        "capital_estime_frais_achat_inclus_eur": 523.67,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "EMEIS.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1257,7 +1205,7 @@
     },
     {
       "ticker": "EN.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 40,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1275,8 +1223,8 @@
     },
     {
       "ticker": "ENGI.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 50,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 40,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
@@ -1292,37 +1240,50 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 23.43,
-        "stop_hypothetique": 22.6863,
-        "risque_par_action_frais_inclus": 0.9051,
+        "prix_entree_hypothetique": 23.46,
+        "stop_hypothetique": 22.7373,
+        "risque_par_action_frais_inclus": 0.8844,
         "quantite_theorique_max": 22,
-        "risque_theorique_total_eur": 19.91,
-        "capital_estime_frais_achat_inclus_eur": 517.26,
+        "risque_theorique_total_eur": 19.46,
+        "capital_estime_frais_achat_inclus_eur": 517.93,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "ENX.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 100,
+      "configurations": [
+        "TENDANCE"
+      ],
+      "qualite_v4": "REJETE",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
+      "verdict": "A_ETUDIER",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
       ],
-      "exemple_risque": null
+      "exemple_risque": {
+        "prix_entree_hypothetique": 171.4,
+        "stop_hypothetique": 166.7524,
+        "risque_par_action_frais_inclus": 5.8311,
+        "quantite_theorique_max": 3,
+        "risque_theorique_total_eur": 17.49,
+        "capital_estime_frais_achat_inclus_eur": 516.0,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
     },
     {
       "ticker": "ERA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 40,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1339,100 +1300,7 @@
     },
     {
       "ticker": "ERF.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "ETL.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 78,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "ANOMALIES_DONNEES",
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 1.8,
-        "stop_hypothetique": 1.5922,
-        "risque_par_action_frais_inclus": 0.2196,
-        "quantite_theorique_max": 91,
-        "risque_theorique_total_eur": 19.99,
-        "capital_estime_frais_achat_inclus_eur": 164.37,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
-      "ticker": "EXA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
-      "configurations": [
-        "TENDANCE"
-      ],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 125.9,
-        "stop_hypothetique": 125.0519,
-        "risque_par_action_frais_inclus": 1.7264,
-        "quantite_theorique_max": 11,
-        "risque_theorique_total_eur": 18.99,
-        "capital_estime_frais_achat_inclus_eur": 1389.75,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
-      "ticker": "EXENS.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 10,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "FII.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1449,8 +1317,91 @@
       "exemple_risque": null
     },
     {
+      "ticker": "ETL.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "A_ETUDIER",
+      "blocages": [
+        "ANOMALIES_DONNEES",
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": {
+        "prix_entree_hypothetique": 1.8615,
+        "stop_hypothetique": 1.6594,
+        "risque_par_action_frais_inclus": 0.2144,
+        "quantite_theorique_max": 93,
+        "risque_theorique_total_eur": 19.94,
+        "capital_estime_frais_achat_inclus_eur": 173.73,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
+    },
+    {
+      "ticker": "EXA.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 80,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "EXENS.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 0,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "FII.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 90,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
       "ticker": "FR.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1468,13 +1419,15 @@
     },
     {
       "ticker": "FRVIA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 0,
-      "configurations": [],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 48,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
+      "verdict": "A_ETUDIER",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -1482,12 +1435,20 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": null
+      "exemple_risque": {
+        "prix_entree_hypothetique": 8.838,
+        "stop_hypothetique": 8.2014,
+        "risque_par_action_frais_inclus": 0.6962,
+        "quantite_theorique_max": 28,
+        "risque_theorique_total_eur": 19.49,
+        "capital_estime_frais_achat_inclus_eur": 248.33,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
     },
     {
       "ticker": "GET.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 80,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 70,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1504,7 +1465,7 @@
     },
     {
       "ticker": "GFC.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1522,8 +1483,8 @@
     },
     {
       "ticker": "GLE.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1540,8 +1501,8 @@
     },
     {
       "ticker": "GTT.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 20,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1558,13 +1519,15 @@
     },
     {
       "ticker": "HO.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 68,
-      "configurations": [],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 58,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
+      "verdict": "A_ETUDIER",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -1572,29 +1535,40 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": null
+      "exemple_risque": {
+        "prix_entree_hypothetique": 232.0,
+        "stop_hypothetique": 223.9177,
+        "risque_par_action_frais_inclus": 9.678,
+        "quantite_theorique_max": 2,
+        "risque_theorique_total_eur": 19.36,
+        "capital_estime_frais_achat_inclus_eur": 465.62,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
     },
     {
       "ticker": "ICAD.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
-      "qualite_v4": "A_VERIFIER",
+      "qualite_v4": "REJETE",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "SURVEILLANCE",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
       ],
       "exemple_risque": null
     },
     {
       "ticker": "IDL.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 70,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1612,8 +1586,8 @@
     },
     {
       "ticker": "IPN.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1630,7 +1604,7 @@
     },
     {
       "ticker": "IPS.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1648,7 +1622,7 @@
     },
     {
       "ticker": "ITP.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
       "configurations": [
         "TENDANCE"
@@ -1665,18 +1639,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 34.6,
-        "stop_hypothetique": 33.3736,
-        "risque_par_action_frais_inclus": 1.4643,
+        "prix_entree_hypothetique": 34.82,
+        "stop_hypothetique": 33.5912,
+        "risque_par_action_frais_inclus": 1.4682,
         "quantite_theorique_max": 13,
-        "risque_theorique_total_eur": 19.04,
-        "capital_estime_frais_achat_inclus_eur": 451.37,
+        "risque_theorique_total_eur": 19.09,
+        "capital_estime_frais_achat_inclus_eur": 454.24,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "KER.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1694,44 +1668,39 @@
     },
     {
       "ticker": "LI.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 70,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 92,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "qualite_v4": "REJETE",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
+      "verdict": "A_ETUDIER",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
       ],
-      "exemple_risque": null
+      "exemple_risque": {
+        "prix_entree_hypothetique": 35.74,
+        "stop_hypothetique": 34.9006,
+        "risque_par_action_frais_inclus": 1.0866,
+        "quantite_theorique_max": 18,
+        "risque_theorique_total_eur": 19.56,
+        "capital_estime_frais_achat_inclus_eur": 645.57,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
     },
     {
       "ticker": "LR.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "MAU.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 50,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
@@ -1747,36 +1716,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 8.14,
-        "stop_hypothetique": 7.8039,
-        "risque_par_action_frais_inclus": 0.392,
-        "quantite_theorique_max": 51,
-        "risque_theorique_total_eur": 19.99,
-        "capital_estime_frais_achat_inclus_eur": 416.59,
+        "prix_entree_hypothetique": 132.85,
+        "stop_hypothetique": 126.0985,
+        "risque_par_action_frais_inclus": 7.6578,
+        "quantite_theorique_max": 2,
+        "risque_theorique_total_eur": 15.32,
+        "capital_estime_frais_achat_inclus_eur": 266.63,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
-      "ticker": "MC.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 40,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "MERY.PA",
-      "date_seance": "2026-10-30",
+      "ticker": "MAU.PA",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1793,8 +1744,44 @@
       "exemple_risque": null
     },
     {
+      "ticker": "MC.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 60,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "MERY.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 40,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
       "ticker": "MF.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 70,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1812,132 +1799,7 @@
     },
     {
       "ticker": "ML.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 20,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "MMB.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 50,
-      "configurations": [],
-      "qualite_v4": "REJETE",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "EXCLU_LIQUIDITE",
-      "blocages": [
-        "ANOMALIES_DONNEES",
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "LIQUIDITE_INSUFFISANTE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "QUALITE_REJETEE",
-        "RISQUE_CUMULE_INCONNU",
-        "STATUT_SOURCE_INATTENDU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "MMT.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 20,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "MRN.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 60,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
-      "qualite_v4": "REJETE",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "ANOMALIES_DONNEES",
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "QUALITE_REJETEE",
-        "RISQUE_CUMULE_INCONNU",
-        "STATUT_SOURCE_INATTENDU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 39.26,
-        "stop_hypothetique": 36.2967,
-        "risque_par_action_frais_inclus": 3.2277,
-        "quantite_theorique_max": 6,
-        "risque_theorique_total_eur": 19.37,
-        "capital_estime_frais_achat_inclus_eur": 236.38,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
-      "ticker": "MT.AS",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 40,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "NANO.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 68,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "NEX.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -1954,11 +1816,61 @@
       "exemple_risque": null
     },
     {
-      "ticker": "NK.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 80,
+      "ticker": "MMB.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 50,
       "configurations": [
-        "CASSURE"
+        "REBOND_POTENTIEL"
+      ],
+      "qualite_v4": "REJETE",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "EXCLU_LIQUIDITE",
+      "blocages": [
+        "ANOMALIES_DONNEES",
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "LIQUIDITE_INSUFFISANTE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
+      ],
+      "exemple_risque": {
+        "prix_entree_hypothetique": 18.38,
+        "stop_hypothetique": 17.9495,
+        "risque_par_action_frais_inclus": 0.5577,
+        "quantite_theorique_max": 35,
+        "risque_theorique_total_eur": 19.52,
+        "capital_estime_frais_achat_inclus_eur": 645.55,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
+    },
+    {
+      "ticker": "MMT.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 30,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "MRN.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 50,
+      "configurations": [
+        "REBOND_POTENTIEL"
       ],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -1972,18 +1884,90 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 25.34,
-        "stop_hypothetique": 24.2814,
-        "risque_par_action_frais_inclus": 1.2322,
-        "quantite_theorique_max": 16,
-        "risque_theorique_total_eur": 19.72,
-        "capital_estime_frais_achat_inclus_eur": 406.86,
+        "prix_entree_hypothetique": 39.96,
+        "stop_hypothetique": 37.0695,
+        "risque_par_action_frais_inclus": 3.1601,
+        "quantite_theorique_max": 6,
+        "risque_theorique_total_eur": 18.96,
+        "capital_estime_frais_achat_inclus_eur": 240.6,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
+      "ticker": "MT.AS",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 52,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "NANO.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 78,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "NEX.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 10,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "NK.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 80,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
       "ticker": "OPM.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2002,8 +1986,8 @@
     },
     {
       "ticker": "OR.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 80,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2020,8 +2004,8 @@
     },
     {
       "ticker": "ORA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 68,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 50,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
@@ -2037,18 +2021,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 14.47,
-        "stop_hypothetique": 14.0449,
-        "risque_par_action_frais_inclus": 0.5249,
+        "prix_entree_hypothetique": 14.485,
+        "stop_hypothetique": 14.072,
+        "risque_par_action_frais_inclus": 0.5129,
         "quantite_theorique_max": 38,
-        "risque_theorique_total_eur": 19.95,
-        "capital_estime_frais_achat_inclus_eur": 551.78,
+        "risque_theorique_total_eur": 19.49,
+        "capital_estime_frais_achat_inclus_eur": 552.36,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "PLX.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2066,7 +2050,7 @@
     },
     {
       "ticker": "PUB.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2084,7 +2068,7 @@
     },
     {
       "ticker": "RCO.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 100,
       "configurations": [
         "TENDANCE"
@@ -2101,39 +2085,36 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 50.65,
-        "stop_hypothetique": 47.9743,
-        "risque_par_action_frais_inclus": 3.0209,
+        "prix_entree_hypothetique": 51.85,
+        "stop_hypothetique": 49.1189,
+        "risque_par_action_frais_inclus": 3.0844,
         "quantite_theorique_max": 6,
-        "risque_theorique_total_eur": 18.13,
-        "capital_estime_frais_achat_inclus_eur": 304.96,
+        "risque_theorique_total_eur": 18.51,
+        "capital_estime_frais_achat_inclus_eur": 312.19,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "RF.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 70,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 90,
       "configurations": [],
-      "qualite_v4": "REJETE",
+      "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "SURVEILLANCE",
       "blocages": [
-        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "QUALITE_REJETEE",
-        "RISQUE_CUMULE_INCONNU",
-        "STATUT_SOURCE_INATTENDU"
+        "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": null
     },
     {
       "ticker": "RI.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2151,8 +2132,8 @@
     },
     {
       "ticker": "RMS.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 40,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2169,15 +2150,13 @@
     },
     {
       "ticker": "RNO.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 58,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -2185,20 +2164,12 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 27.65,
-        "stop_hypothetique": 26.2166,
-        "risque_par_action_frais_inclus": 1.6219,
-        "quantite_theorique_max": 12,
-        "risque_theorique_total_eur": 19.46,
-        "capital_estime_frais_achat_inclus_eur": 332.96,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "RUI.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 70,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 50,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2215,7 +2186,7 @@
     },
     {
       "ticker": "RXL.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 48,
       "configurations": [
         "REBOND_POTENTIEL"
@@ -2232,18 +2203,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 34.47,
-        "stop_hypothetique": 32.874,
-        "risque_par_action_frais_inclus": 1.8317,
+        "prix_entree_hypothetique": 35.07,
+        "stop_hypothetique": 33.4873,
+        "risque_par_action_frais_inclus": 1.8226,
         "quantite_theorique_max": 10,
-        "risque_theorique_total_eur": 18.32,
-        "capital_estime_frais_achat_inclus_eur": 345.91,
+        "risque_theorique_total_eur": 18.23,
+        "capital_estime_frais_achat_inclus_eur": 351.93,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "SAF.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2261,15 +2232,13 @@
     },
     {
       "ticker": "SAN.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 70,
-      "configurations": [
-        "CASSURE"
-      ],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 80,
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -2277,19 +2246,11 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 79.74,
-        "stop_hypothetique": 77.2185,
-        "risque_par_action_frais_inclus": 3.0709,
-        "quantite_theorique_max": 6,
-        "risque_theorique_total_eur": 18.43,
-        "capital_estime_frais_achat_inclus_eur": 480.11,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "SAVE.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 58,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2309,15 +2270,13 @@
     },
     {
       "ticker": "SCR.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
-      "configurations": [
-        "CASSURE"
-      ],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 80,
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -2325,19 +2284,11 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 34.56,
-        "stop_hypothetique": 33.5885,
-        "risque_par_action_frais_inclus": 1.2101,
-        "quantite_theorique_max": 16,
-        "risque_theorique_total_eur": 19.36,
-        "capital_estime_frais_achat_inclus_eur": 554.9,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "SESG.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 48,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2355,7 +2306,7 @@
     },
     {
       "ticker": "SGO.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2373,8 +2324,8 @@
     },
     {
       "ticker": "SK.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 52,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 72,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2391,7 +2342,7 @@
     },
     {
       "ticker": "SOI.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 42,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2409,8 +2360,8 @@
     },
     {
       "ticker": "SOLB.BR",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 10,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2427,7 +2378,7 @@
     },
     {
       "ticker": "SOP.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2445,7 +2396,7 @@
     },
     {
       "ticker": "SPIE.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2463,36 +2414,8 @@
     },
     {
       "ticker": "STLAP.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 68,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 4.1415,
-        "stop_hypothetique": 3.8526,
-        "risque_par_action_frais_inclus": 0.3169,
-        "quantite_theorique_max": 63,
-        "risque_theorique_total_eur": 19.96,
-        "capital_estime_frais_achat_inclus_eur": 261.83,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
-      "ticker": "STMPA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 40,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2508,8 +2431,36 @@
       "exemple_risque": null
     },
     {
+      "ticker": "STMPA.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 40,
+      "configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "A_ETUDIER",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": {
+        "prix_entree_hypothetique": 43.215,
+        "stop_hypothetique": 40.2663,
+        "risque_par_action_frais_inclus": 3.2409,
+        "quantite_theorique_max": 6,
+        "risque_theorique_total_eur": 19.45,
+        "capital_estime_frais_achat_inclus_eur": 260.2,
+        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
+      }
+    },
+    {
       "ticker": "SU.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2527,7 +2478,7 @@
     },
     {
       "ticker": "SW.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 90,
       "configurations": [
         "TENDANCE"
@@ -2544,100 +2495,18 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 58.6,
-        "stop_hypothetique": 56.8154,
-        "risque_par_action_frais_inclus": 2.1885,
-        "quantite_theorique_max": 9,
-        "risque_theorique_total_eur": 19.7,
-        "capital_estime_frais_achat_inclus_eur": 529.25,
+        "prix_entree_hypothetique": 59.85,
+        "stop_hypothetique": 57.9734,
+        "risque_par_action_frais_inclus": 2.289,
+        "quantite_theorique_max": 8,
+        "risque_theorique_total_eur": 18.31,
+        "capital_estime_frais_achat_inclus_eur": 480.48,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "TE.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 78,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "TEP.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 100,
-      "configurations": [
-        "TENDANCE"
-      ],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 80.3,
-        "stop_hypothetique": 76.831,
-        "risque_par_action_frais_inclus": 4.019,
-        "quantite_theorique_max": 4,
-        "risque_theorique_total_eur": 16.08,
-        "capital_estime_frais_achat_inclus_eur": 322.32,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
-      "ticker": "TFI.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "TRI.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 50,
-      "configurations": [],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "SURVEILLANCE",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": null
-    },
-    {
-      "ticker": "TTE.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 80,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2654,8 +2523,80 @@
       "exemple_risque": null
     },
     {
+      "ticker": "TEP.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 90,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "TFI.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 58,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "TRI.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 58,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "TTE.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 90,
+      "configurations": [],
+      "qualite_v4": "A_VERIFIER",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "RISQUE_CUMULE_INCONNU"
+      ],
+      "exemple_risque": null
+    },
+    {
       "ticker": "UBI.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 30,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2673,15 +2614,13 @@
     },
     {
       "ticker": "URW.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 60,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -2689,27 +2628,17 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 91.04,
-        "stop_hypothetique": 88.6333,
-        "risque_par_action_frais_inclus": 3.0356,
-        "quantite_theorique_max": 6,
-        "risque_theorique_total_eur": 18.21,
-        "capital_estime_frais_achat_inclus_eur": 548.15,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "VCT.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 58,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
+      "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
       "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
+      "verdict": "SURVEILLANCE",
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -2717,19 +2646,11 @@
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
         "RISQUE_CUMULE_INCONNU"
       ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 60.0,
-        "stop_hypothetique": 58.1751,
-        "risque_par_action_frais_inclus": 2.2385,
-        "quantite_theorique_max": 8,
-        "risque_theorique_total_eur": 17.91,
-        "capital_estime_frais_achat_inclus_eur": 481.68,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
+      "exemple_risque": null
     },
     {
       "ticker": "VIE.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2747,7 +2668,7 @@
     },
     {
       "ticker": "VIRI.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 58,
       "configurations": [
         "REBOND_POTENTIEL"
@@ -2764,19 +2685,40 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 93.8,
-        "stop_hypothetique": 87.2712,
-        "risque_par_action_frais_inclus": 7.1625,
+        "prix_entree_hypothetique": 94.15,
+        "stop_hypothetique": 87.6858,
+        "risque_par_action_frais_inclus": 7.1007,
         "quantite_theorique_max": 2,
-        "risque_theorique_total_eur": 14.32,
-        "capital_estime_frais_achat_inclus_eur": 188.26,
+        "risque_theorique_total_eur": 14.2,
+        "capital_estime_frais_achat_inclus_eur": 188.96,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "VIRP.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 90,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 70,
+      "configurations": [],
+      "qualite_v4": "REJETE",
+      "validation_independante": false,
+      "eligible_pour_achat": false,
+      "verdict": "SURVEILLANCE",
+      "blocages": [
+        "ANOMALIES_DONNEES",
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
+      ],
+      "exemple_risque": null
+    },
+    {
+      "ticker": "VIV.PA",
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 68,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2792,37 +2734,9 @@
       "exemple_risque": null
     },
     {
-      "ticker": "VIV.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 78,
-      "configurations": [
-        "CASSURE"
-      ],
-      "qualite_v4": "A_VERIFIER",
-      "validation_independante": false,
-      "eligible_pour_achat": false,
-      "verdict": "A_ETUDIER",
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "exemple_risque": {
-        "prix_entree_hypothetique": 1.627,
-        "stop_hypothetique": 1.5455,
-        "risque_par_action_frais_inclus": 0.0926,
-        "quantite_theorique_max": 216,
-        "risque_theorique_total_eur": 19.99,
-        "capital_estime_frais_achat_inclus_eur": 352.66,
-        "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
-      }
-    },
-    {
       "ticker": "VK.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 58,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 48,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
@@ -2838,19 +2752,19 @@
         "RISQUE_CUMULE_INCONNU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 18.75,
-        "stop_hypothetique": 17.8521,
-        "risque_par_action_frais_inclus": 1.026,
+        "prix_entree_hypothetique": 18.64,
+        "stop_hypothetique": 17.7494,
+        "risque_par_action_frais_inclus": 1.0179,
         "quantite_theorique_max": 19,
-        "risque_theorique_total_eur": 19.49,
-        "capital_estime_frais_achat_inclus_eur": 357.5,
+        "risque_theorique_total_eur": 19.34,
+        "capital_estime_frais_achat_inclus_eur": 355.4,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "VLA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 10,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 20,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2868,7 +2782,7 @@
     },
     {
       "ticker": "VLTSA.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 10,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
@@ -2887,8 +2801,8 @@
     },
     {
       "ticker": "VRLA.PA",
-      "date_seance": "2026-10-30",
-      "score_exploratoire_100": 30,
+      "date_seance": "2026-11-02",
+      "score_exploratoire_100": 40,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
       "validation_independante": false,
@@ -2906,35 +2820,38 @@
     },
     {
       "ticker": "VU.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 100,
       "configurations": [
         "TENDANCE"
       ],
-      "qualite_v4": "A_VERIFIER",
+      "qualite_v4": "REJETE",
       "validation_independante": false,
       "eligible_pour_achat": false,
       "verdict": "A_ETUDIER",
       "blocages": [
+        "ANOMALIES_DONNEES",
         "CAPITAL_DISPONIBLE_INCONNU",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
         "PAS_DE_SECONDE_SOURCE",
         "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
+        "QUALITE_REJETEE",
+        "RISQUE_CUMULE_INCONNU",
+        "STATUT_SOURCE_INATTENDU"
       ],
       "exemple_risque": {
-        "prix_entree_hypothetique": 134.8,
-        "stop_hypothetique": 126.8145,
-        "risque_par_action_frais_inclus": 8.9012,
+        "prix_entree_hypothetique": 136.9,
+        "stop_hypothetique": 128.3598,
+        "risque_par_action_frais_inclus": 9.4687,
         "quantite_theorique_max": 2,
-        "risque_theorique_total_eur": 17.8,
-        "capital_estime_frais_achat_inclus_eur": 270.54,
+        "risque_theorique_total_eur": 18.94,
+        "capital_estime_frais_achat_inclus_eur": 274.76,
         "limites": "Hors spread, slippage, gaps, contraintes courtier et liquidite; le stop n est jamais garanti"
       }
     },
     {
       "ticker": "WLN.PA",
-      "date_seance": "2026-10-30",
+      "date_seance": "2026-11-02",
       "score_exploratoire_100": 10,
       "configurations": [],
       "qualite_v4": "A_VERIFIER",
