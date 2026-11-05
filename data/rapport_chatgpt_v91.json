@@ -1,8 +1,8 @@
 {
   "schema_version": "9.1",
-  "genere_utc": "2026-11-04T17:57:03.055024+00:00",
-  "source_v86": "2026-11-04T17:57:02.926643+00:00",
-  "source_catalyseurs": "2026-11-04T17:57:03.017682+00:00",
+  "genere_utc": "2026-11-05T17:58:07.139596+00:00",
+  "source_v86": "2026-11-05T17:58:07.035268+00:00",
+  "source_catalyseurs": "2026-11-05T17:58:07.109038+00:00",
   "top_5_global": [
     {
       "ticker": "PUB.PA",
@@ -22,8 +22,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 105.2,
-      "stop_candidat": 99.9349,
-      "ratio_gain_risque_brut_informatif": 0.17,
+      "stop_candidat": 100.4234,
+      "ratio_gain_risque_brut_informatif": 0.07,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -36,6 +36,42 @@
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
         "SPREAD_NON_VERIFIE"
+      ],
+      "statut": "SURVEILLANCE",
+      "achat_autorise": false
+    },
+    {
+      "ticker": "IPN.PA",
+      "secteur": "Healthcare",
+      "score_v86_100": 95.26,
+      "valorisation": {
+        "per_previsionnel": 10.95889,
+        "ev_ebitda": 8.023,
+        "fcf_yield_pct": 7.96,
+        "roic_pct": 12.6,
+        "per_percentile_sectoriel": 85.0,
+        "roic_percentile_sectoriel": 92.9,
+        "nb_comparables": 13,
+        "interpretation": "DECOTE_RELATIVE_INDICATIVE",
+        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
+      },
+      "catalyseurs": [],
+      "catalyseur_documente": false,
+      "objectif_unique_indicatif": 170.9,
+      "stop_candidat": 151.5829,
+      "ratio_gain_risque_brut_informatif": 1.47,
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "CATALYSEUR_ABSENT",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
+        "REGISTRE_POSITIONS_NON_CONFIRME",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false
@@ -93,11 +129,10 @@
       },
       "catalyseurs": [],
       "catalyseur_documente": false,
-      "objectif_unique_indicatif": null,
-      "stop_candidat": null,
-      "ratio_gain_risque_brut_informatif": null,
+      "objectif_unique_indicatif": 198.3,
+      "stop_candidat": 181.9259,
+      "ratio_gain_risque_brut_informatif": 0.07,
       "blocages": [
-        "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -107,43 +142,8 @@
         "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE"
-      ],
-      "statut": "SURVEILLANCE",
-      "achat_autorise": false
-    },
-    {
-      "ticker": "ITP.PA",
-      "secteur": "Consumer Defensive",
-      "score_v86_100": 84.5,
-      "valorisation": {
-        "per_previsionnel": 23.849567,
-        "ev_ebitda": 19.947,
-        "fcf_yield_pct": 4.32,
-        "roic_pct": 19.62,
-        "per_percentile_sectoriel": 31.2,
-        "roic_percentile_sectoriel": 93.8,
-        "nb_comparables": 8,
-        "interpretation": "VALORISATION_INTERMEDIAIRE",
-        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
-      },
-      "catalyseurs": [],
-      "catalyseur_documente": false,
-      "objectif_unique_indicatif": null,
-      "stop_candidat": null,
-      "ratio_gain_risque_brut_informatif": null,
-      "blocages": [
-        "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "CATALYSEUR_ABSENT",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_SOURCE_INDEPENDANTE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
-        "REGISTRE_POSITIONS_NON_CONFIRME",
-        "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE"
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false
@@ -206,8 +206,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 105.2,
-      "stop_candidat": 99.9349,
-      "ratio_gain_risque_brut_informatif": 0.17,
+      "stop_candidat": 100.4234,
+      "ratio_gain_risque_brut_informatif": 0.07,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -220,6 +220,42 @@
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
         "SPREAD_NON_VERIFIE"
+      ],
+      "statut": "SURVEILLANCE",
+      "achat_autorise": false
+    },
+    {
+      "ticker": "IPN.PA",
+      "secteur": "Healthcare",
+      "score_v86_100": 95.26,
+      "valorisation": {
+        "per_previsionnel": 10.95889,
+        "ev_ebitda": 8.023,
+        "fcf_yield_pct": 7.96,
+        "roic_pct": 12.6,
+        "per_percentile_sectoriel": 85.0,
+        "roic_percentile_sectoriel": 92.9,
+        "nb_comparables": 13,
+        "interpretation": "DECOTE_RELATIVE_INDICATIVE",
+        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
+      },
+      "catalyseurs": [],
+      "catalyseur_documente": false,
+      "objectif_unique_indicatif": 170.9,
+      "stop_candidat": 151.5829,
+      "ratio_gain_risque_brut_informatif": 1.47,
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "CATALYSEUR_ABSENT",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
+        "REGISTRE_POSITIONS_NON_CONFIRME",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false
@@ -277,11 +313,10 @@
       },
       "catalyseurs": [],
       "catalyseur_documente": false,
-      "objectif_unique_indicatif": null,
-      "stop_candidat": null,
-      "ratio_gain_risque_brut_informatif": null,
+      "objectif_unique_indicatif": 198.3,
+      "stop_candidat": 181.9259,
+      "ratio_gain_risque_brut_informatif": 0.07,
       "blocages": [
-        "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
         "ELIGIBILITE_PEA_NON_VERIFIEE",
@@ -291,43 +326,8 @@
         "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE"
-      ],
-      "statut": "SURVEILLANCE",
-      "achat_autorise": false
-    },
-    {
-      "ticker": "ITP.PA",
-      "secteur": "Consumer Defensive",
-      "score_v86_100": 84.5,
-      "valorisation": {
-        "per_previsionnel": 23.849567,
-        "ev_ebitda": 19.947,
-        "fcf_yield_pct": 4.32,
-        "roic_pct": 19.62,
-        "per_percentile_sectoriel": 31.2,
-        "roic_percentile_sectoriel": 93.8,
-        "nb_comparables": 8,
-        "interpretation": "VALORISATION_INTERMEDIAIRE",
-        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
-      },
-      "catalyseurs": [],
-      "catalyseur_documente": false,
-      "objectif_unique_indicatif": null,
-      "stop_candidat": null,
-      "ratio_gain_risque_brut_informatif": null,
-      "blocages": [
-        "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "CATALYSEUR_ABSENT",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_SOURCE_INDEPENDANTE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
-        "REGISTRE_POSITIONS_NON_CONFIRME",
-        "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE"
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false
