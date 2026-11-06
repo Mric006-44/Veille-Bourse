@@ -1,7 +1,7 @@
 {
   "schema_version": "8.8",
-  "genere_utc": "2026-11-05T17:58:07.082241+00:00",
-  "source_v86": "2026-11-05T17:58:07.035268+00:00",
+  "genere_utc": "2026-11-06T17:53:20.052191+00:00",
+  "source_v86": "2026-11-06T17:53:19.997240+00:00",
   "dossiers": [
     {
       "ticker": "PUB.PA",
@@ -11,7 +11,7 @@
       "strategies": [
         "croissance_momentum"
       ],
-      "date_seance": "2026-11-05",
+      "date_seance": "2026-11-06",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "OUI_A_VALIDER_ISIN",
       "donnees_manquantes": [],
@@ -29,21 +29,21 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 104.9,
-        "support_structurel": 100.861,
-        "stop_technique_candidat": 100.4234,
-        "objectif_premiere_resistance": 105.2,
-        "ratio_gain_risque_brut": 0.07,
-        "atr14": 2.1878,
-        "quantite_theorique": 3,
-        "risque_estime_eur": 17.46,
-        "gain_net_estime_eur": -3.2,
-        "cout_achat_estime_eur": 317.38,
-        "ttf_estimee_eur": 1.26,
-        "courtages_aller_retour_estimes_eur": 2.21,
+        "prix_signal_non_executable": 102.95,
+        "support_structurel": 101.1445,
+        "stop_technique_candidat": 99.4849,
+        "objectif_premiere_resistance": 106.0,
+        "ratio_gain_risque_brut": 0.88,
+        "atr14": 2.3101,
+        "quantite_theorique": 4,
+        "risque_estime_eur": 19.15,
+        "gain_net_estime_eur": 6.79,
+        "cout_achat_estime_eur": 415.3,
+        "ttf_estimee_eur": 1.65,
+        "courtages_aller_retour_estimes_eur": 2.93,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.07
+        "ratio_gain_risque_non_eliminatoire": 0.88
       }
     },
     {
@@ -54,7 +54,7 @@
       "strategies": [
         "croissance_momentum"
       ],
-      "date_seance": "2026-11-05",
+      "date_seance": "2026-11-06",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "INCONNUE",
       "donnees_manquantes": [],
@@ -73,12 +73,12 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 159.4,
-        "support_structurel": 152.356,
-        "stop_technique_candidat": 151.5829,
-        "objectif_premiere_resistance": 170.9,
-        "ratio_gain_risque_brut": 1.47,
-        "atr14": 3.8657,
+        "prix_signal_non_executable": 158.7,
+        "support_structurel": 152.268,
+        "stop_technique_candidat": 151.4787,
+        "objectif_premiere_resistance": 159.6,
+        "ratio_gain_risque_brut": 0.12,
+        "atr14": 3.9467,
         "quantite_theorique": null,
         "risque_estime_eur": null,
         "gain_net_estime_eur": null,
@@ -87,16 +87,16 @@
         "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 1.47
+        "ratio_gain_risque_non_eliminatoire": 0.12
       }
     },
     {
       "ticker": "DSY.PA",
       "statut": "SURVEILLANCE",
       "achat_autorise": false,
-      "score_global_v86_100": 86.01,
+      "score_global_v86_100": 89.51,
       "strategies": [],
-      "date_seance": "2026-11-05",
+      "date_seance": "2026-11-06",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "OUI_A_VALIDER_ISIN",
       "donnees_manquantes": [],
@@ -107,6 +107,50 @@
         "SIGNAL_GRAPHIQUE_NON_CONFIRME",
         "SOURCE_INDEPENDANTE_ABSENTE",
         "SPREAD_NON_VERIFIE",
+        "TTF_ISIN_NON_VERIFIEE"
+      ],
+      "notes": [
+        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs",
+        "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
+      ],
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 25.95,
+        "support_structurel": 24.1875,
+        "stop_technique_candidat": 24.0313,
+        "objectif_premiere_resistance": 26.27,
+        "ratio_gain_risque_brut": 0.17,
+        "atr14": 0.7811,
+        "quantite_theorique": 8,
+        "risque_estime_eur": 17.98,
+        "gain_net_estime_eur": -0.15,
+        "cout_achat_estime_eur": 209.37,
+        "ttf_estimee_eur": 0.83,
+        "courtages_aller_retour_estimes_eur": 1.46,
+        "methode": "Support/ATR et première résistance, sans confirmation graphique",
+        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
+        "ratio_gain_risque_non_eliminatoire": 0.17
+      }
+    },
+    {
+      "ticker": "ITP.PA",
+      "statut": "SURVEILLANCE",
+      "achat_autorise": false,
+      "score_global_v86_100": 87.84,
+      "strategies": [
+        "cassure"
+      ],
+      "date_seance": "2026-11-06",
+      "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
+      "fiscalite": "INCONNUE",
+      "donnees_manquantes": [],
+      "blocages": [
+        "CATALYSEUR_NON_VALIDE",
+        "PEA_NON_VERIFIE",
+        "REGISTRE_POSITIONS_NON_CONFIRME",
+        "SIGNAL_GRAPHIQUE_NON_CONFIRME",
+        "SOURCE_INDEPENDANTE_ABSENTE",
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE",
         "TTF_ISIN_NON_VERIFIEE",
         "OBJECTIF_RESISTANCE_ABSENT"
       ],
@@ -116,12 +160,12 @@
       "plan_exploratoire": null
     },
     {
-      "ticker": "SOP.PA",
+      "ticker": "BVI.PA",
       "statut": "SURVEILLANCE",
       "achat_autorise": false,
-      "score_global_v86_100": 84.71,
+      "score_global_v86_100": 84.46,
       "strategies": [],
-      "date_seance": "2026-11-05",
+      "date_seance": "2026-11-06",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "INCONNUE",
       "donnees_manquantes": [],
@@ -140,12 +184,12 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 197.2,
-        "support_structurel": 183.015,
-        "stop_technique_candidat": 181.9259,
-        "objectif_premiere_resistance": 198.3,
-        "ratio_gain_risque_brut": 0.07,
-        "atr14": 5.4455,
+        "prix_signal_non_executable": 29.95,
+        "support_structurel": 28.741,
+        "stop_technique_candidat": 28.6385,
+        "objectif_premiere_resistance": 30.68,
+        "ratio_gain_risque_brut": 0.56,
+        "atr14": 0.5123,
         "quantite_theorique": null,
         "risque_estime_eur": null,
         "gain_net_estime_eur": null,
@@ -154,36 +198,8 @@
         "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.07
+        "ratio_gain_risque_non_eliminatoire": 0.56
       }
-    },
-    {
-      "ticker": "BVI.PA",
-      "statut": "SURVEILLANCE",
-      "achat_autorise": false,
-      "score_global_v86_100": 84.3,
-      "strategies": [
-        "cassure"
-      ],
-      "date_seance": "2026-11-05",
-      "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
-      "fiscalite": "INCONNUE",
-      "donnees_manquantes": [],
-      "blocages": [
-        "CATALYSEUR_NON_VALIDE",
-        "PEA_NON_VERIFIE",
-        "REGISTRE_POSITIONS_NON_CONFIRME",
-        "SIGNAL_GRAPHIQUE_NON_CONFIRME",
-        "SOURCE_INDEPENDANTE_ABSENTE",
-        "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE",
-        "TTF_ISIN_NON_VERIFIEE",
-        "OBJECTIF_RESISTANCE_ABSENT"
-      ],
-      "notes": [
-        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs"
-      ],
-      "plan_exploratoire": null
     }
   ],
   "nombre_dossiers": 5,
