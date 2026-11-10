@@ -1,7 +1,7 @@
 {
   "schema_version": "8.8",
-  "genere_utc": "2026-11-09T17:59:47.598792+00:00",
-  "source_v86": "2026-11-09T17:59:47.522980+00:00",
+  "genere_utc": "2026-11-10T17:53:32.069966+00:00",
+  "source_v86": "2026-11-10T17:53:32.003154+00:00",
   "dossiers": [
     {
       "ticker": "PUB.PA",
@@ -11,7 +11,7 @@
       "strategies": [
         "croissance_momentum"
       ],
-      "date_seance": "2026-11-09",
+      "date_seance": "2026-11-10",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "OUI_A_VALIDER_ISIN",
       "donnees_manquantes": [],
@@ -29,21 +29,21 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 103.25,
-        "support_structurel": 101.37,
-        "stop_technique_candidat": 99.9253,
+        "prix_signal_non_executable": 103.95,
+        "support_structurel": 101.52,
+        "stop_technique_candidat": 100.702,
         "objectif_premiere_resistance": 106.0,
-        "ratio_gain_risque_brut": 0.83,
-        "atr14": 2.2165,
+        "ratio_gain_risque_brut": 0.63,
+        "atr14": 2.1653,
         "quantite_theorique": 4,
-        "risque_estime_eur": 18.61,
-        "gain_net_estime_eur": 5.58,
-        "cout_achat_estime_eur": 416.51,
-        "ttf_estimee_eur": 1.65,
-        "courtages_aller_retour_estimes_eur": 2.93,
+        "risque_estime_eur": 18.34,
+        "gain_net_estime_eur": 2.76,
+        "cout_achat_estime_eur": 419.34,
+        "ttf_estimee_eur": 1.66,
+        "courtages_aller_retour_estimes_eur": 2.94,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.83
+        "ratio_gain_risque_non_eliminatoire": 0.63
       }
     },
     {
@@ -52,7 +52,7 @@
       "achat_autorise": false,
       "score_global_v86_100": 89.51,
       "strategies": [],
-      "date_seance": "2026-11-09",
+      "date_seance": "2026-11-10",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "OUI_A_VALIDER_ISIN",
       "donnees_manquantes": [],
@@ -70,32 +70,34 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 25.75,
-        "support_structurel": 24.3665,
-        "stop_technique_candidat": 24.2114,
-        "objectif_premiere_resistance": 26.27,
-        "ratio_gain_risque_brut": 0.34,
-        "atr14": 0.7753,
-        "quantite_theorique": 10,
-        "risque_estime_eur": 18.66,
-        "gain_net_estime_eur": 1.83,
-        "cout_achat_estime_eur": 259.69,
-        "ttf_estimee_eur": 1.03,
-        "courtages_aller_retour_estimes_eur": 1.82,
+        "prix_signal_non_executable": 25.26,
+        "support_structurel": 24.5025,
+        "stop_technique_candidat": 24.1083,
+        "objectif_premiere_resistance": 26.39,
+        "ratio_gain_risque_brut": 0.98,
+        "atr14": 0.7678,
+        "quantite_theorique": 13,
+        "risque_estime_eur": 19.18,
+        "gain_net_estime_eur": 10.35,
+        "cout_achat_estime_eur": 331.17,
+        "ttf_estimee_eur": 1.31,
+        "courtages_aller_retour_estimes_eur": 2.35,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.34
+        "ratio_gain_risque_non_eliminatoire": 0.98
       }
     },
     {
-      "ticker": "SOP.PA",
+      "ticker": "AIR.PA",
       "statut": "SURVEILLANCE",
       "achat_autorise": false,
-      "score_global_v86_100": 84.71,
-      "strategies": [],
-      "date_seance": "2026-11-09",
+      "score_global_v86_100": 86.86,
+      "strategies": [
+        "cassure"
+      ],
+      "date_seance": "2026-11-10",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
-      "fiscalite": "INCONNUE",
+      "fiscalite": "NON_A_VALIDER_ISIN",
       "donnees_manquantes": [],
       "blocages": [
         "CATALYSEUR_NON_VALIDE",
@@ -104,7 +106,6 @@
         "SIGNAL_GRAPHIQUE_NON_CONFIRME",
         "SOURCE_INDEPENDANTE_ABSENTE",
         "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE",
         "TTF_ISIN_NON_VERIFIEE"
       ],
       "notes": [
@@ -112,74 +113,74 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 196.4,
-        "support_structurel": 185.735,
-        "stop_technique_candidat": 184.667,
-        "objectif_premiere_resistance": 200.0,
-        "ratio_gain_risque_brut": 0.31,
-        "atr14": 5.3398,
-        "quantite_theorique": null,
-        "risque_estime_eur": null,
-        "gain_net_estime_eur": null,
-        "cout_achat_estime_eur": null,
-        "ttf_estimee_eur": null,
-        "courtages_aller_retour_estimes_eur": null,
+        "prix_signal_non_executable": 208.25,
+        "support_structurel": 196.1795,
+        "stop_technique_candidat": 195.0553,
+        "objectif_premiere_resistance": 209.55,
+        "ratio_gain_risque_brut": 0.1,
+        "atr14": 5.621,
+        "quantite_theorique": 1,
+        "risque_estime_eur": 15.01,
+        "gain_net_estime_eur": -0.58,
+        "cout_achat_estime_eur": 209.19,
+        "ttf_estimee_eur": 0.0,
+        "courtages_aller_retour_estimes_eur": 1.46,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.31
+        "ratio_gain_risque_non_eliminatoire": 0.1
       }
     },
     {
-      "ticker": "BVI.PA",
+      "ticker": "OR.PA",
       "statut": "SURVEILLANCE",
       "achat_autorise": false,
-      "score_global_v86_100": 84.46,
-      "strategies": [],
-      "date_seance": "2026-11-09",
-      "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
-      "fiscalite": "INCONNUE",
-      "donnees_manquantes": [],
-      "blocages": [
-        "CATALYSEUR_NON_VALIDE",
-        "PEA_NON_VERIFIE",
-        "REGISTRE_POSITIONS_NON_CONFIRME",
-        "SIGNAL_GRAPHIQUE_NON_CONFIRME",
-        "SOURCE_INDEPENDANTE_ABSENTE",
-        "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE",
-        "TTF_ISIN_NON_VERIFIEE"
-      ],
-      "notes": [
-        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs",
-        "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
-      ],
-      "plan_exploratoire": {
-        "prix_signal_non_executable": 29.95,
-        "support_structurel": 28.877,
-        "stop_technique_candidat": 28.7766,
-        "objectif_premiere_resistance": 30.68,
-        "ratio_gain_risque_brut": 0.62,
-        "atr14": 0.5021,
-        "quantite_theorique": null,
-        "risque_estime_eur": null,
-        "gain_net_estime_eur": null,
-        "cout_achat_estime_eur": null,
-        "ttf_estimee_eur": null,
-        "courtages_aller_retour_estimes_eur": null,
-        "methode": "Support/ATR et première résistance, sans confirmation graphique",
-        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.62
-      }
-    },
-    {
-      "ticker": "DEC.PA",
-      "statut": "SURVEILLANCE",
-      "achat_autorise": false,
-      "score_global_v86_100": 82.75,
+      "score_global_v86_100": 85.78,
       "strategies": [
         "croissance_momentum"
       ],
-      "date_seance": "2026-11-09",
+      "date_seance": "2026-11-10",
+      "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
+      "fiscalite": "OUI_A_VALIDER_ISIN",
+      "donnees_manquantes": [],
+      "blocages": [
+        "CATALYSEUR_NON_VALIDE",
+        "PEA_NON_VERIFIE",
+        "REGISTRE_POSITIONS_NON_CONFIRME",
+        "SIGNAL_GRAPHIQUE_NON_CONFIRME",
+        "SOURCE_INDEPENDANTE_ABSENTE",
+        "SPREAD_NON_VERIFIE",
+        "TTF_ISIN_NON_VERIFIEE",
+        "QUANTITE_NULLE"
+      ],
+      "notes": [
+        "Controle manuel requis; les booleens de configuration ne remplacent pas les justificatifs",
+        "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
+      ],
+      "plan_exploratoire": {
+        "prix_signal_non_executable": 443.85,
+        "support_structurel": 426.62,
+        "stop_technique_candidat": 424.8576,
+        "objectif_premiere_resistance": 455.75,
+        "ratio_gain_risque_brut": 0.63,
+        "atr14": 8.8122,
+        "quantite_theorique": 0,
+        "risque_estime_eur": 0.0,
+        "gain_net_estime_eur": 0.0,
+        "cout_achat_estime_eur": 0.0,
+        "ttf_estimee_eur": 0.0,
+        "courtages_aller_retour_estimes_eur": 0.0,
+        "methode": "Support/ATR et première résistance, sans confirmation graphique",
+        "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
+        "ratio_gain_risque_non_eliminatoire": 0.63
+      }
+    },
+    {
+      "ticker": "IPN.PA",
+      "statut": "SURVEILLANCE",
+      "achat_autorise": false,
+      "score_global_v86_100": 84.92,
+      "strategies": [],
+      "date_seance": "2026-11-10",
       "date_reexamen": "A_FIXER_SELON_CATALYSEUR",
       "fiscalite": "INCONNUE",
       "donnees_manquantes": [],
@@ -198,12 +199,12 @@
         "R/R BRUT INFORMATIF: INFERIEUR A 2; NON ELIMINATOIRE; QUALITE DE LA THESE A CONTROLER"
       ],
       "plan_exploratoire": {
-        "prix_signal_non_executable": 26.98,
-        "support_structurel": 25.222,
-        "stop_technique_candidat": 25.0945,
-        "objectif_premiere_resistance": 27.44,
-        "ratio_gain_risque_brut": 0.24,
-        "atr14": 0.6374,
+        "prix_signal_non_executable": 166.0,
+        "support_structurel": 154.06,
+        "stop_technique_candidat": 153.2448,
+        "objectif_premiere_resistance": 170.9,
+        "ratio_gain_risque_brut": 0.38,
+        "atr14": 4.076,
         "quantite_theorique": null,
         "risque_estime_eur": null,
         "gain_net_estime_eur": null,
@@ -212,7 +213,7 @@
         "courtages_aller_retour_estimes_eur": null,
         "methode": "Support/ATR et première résistance, sans confirmation graphique",
         "avertissement": "Pas de garantie stop, gap/slippage potentiellement supérieurs; courtage réel à contrôler",
-        "ratio_gain_risque_non_eliminatoire": 0.24
+        "ratio_gain_risque_non_eliminatoire": 0.38
       }
     }
   ],
