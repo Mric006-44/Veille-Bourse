@@ -1,7 +1,7 @@
 {
   "schema_version": "8.0",
-  "genere_utc": "2026-11-11T17:59:19.705402+00:00",
-  "date_source_technique": "2026-11-11T17:59:19.649806+00:00",
+  "genere_utc": "2026-11-12T17:57:46.315295+00:00",
+  "date_source_technique": "2026-11-12T17:57:46.265052+00:00",
   "date_source_fondamentale": "2026-10-30T22:17:06.186436+00:00",
   "regles_tactiques_v73": {
     "max_dossiers": 5,
@@ -18,8 +18,8 @@
       "ticker": "AIR.PA",
       "analyse_technique": {
         "ticker": "AIR.PA",
-        "date_seance": "2026-11-11",
-        "score_exploratoire_100": 90,
+        "date_seance": "2026-11-12",
+        "score_exploratoire_100": 100,
         "configurations": [
           "TENDANCE"
         ],
@@ -27,26 +27,26 @@
           "cac40_indicatif"
         ],
         "indicateurs": {
-          "close": 210.7,
-          "mm20": 197.2035,
-          "mm50": 194.6118,
-          "mm200": 188.1006,
-          "rsi14": 66.93,
-          "adx14": 23.17,
-          "macd_12_26": 3.2601,
-          "macd_signal9": 1.4542,
-          "macd_histogramme": 1.8059,
-          "atr14": 5.4588,
-          "atr_pct": 2.59,
-          "plus_bas_20j_precedent": 186.58,
+          "close": 208.25,
+          "mm20": 197.877,
+          "mm50": 194.8368,
+          "mm200": 188.1729,
+          "rsi14": 63.03,
+          "adx14": 24.48,
+          "macd_12_26": 3.6251,
+          "macd_signal9": 1.8884,
+          "macd_histogramme": 1.7367,
+          "atr14": 5.5296,
+          "atr_pct": 2.66,
+          "plus_bas_20j_precedent": 188.2,
           "plus_bas_55j_precedent": 183.84,
           "plus_haut_20j_precedent": 211.85,
           "plus_haut_55j_precedent": 211.85,
-          "volume": 928916,
-          "ratio_volume_20j": 0.7852,
-          "performance_20j_pct": 10.77,
-          "force_relative_cac40_20j_pct": 4.93,
-          "valeur_echangee_moyenne20_eur_estimee": 233847281.24
+          "volume": 1273044,
+          "ratio_volume_20j": 1.0901,
+          "performance_20j_pct": 6.92,
+          "force_relative_cac40_20j_pct": 1.54,
+          "valeur_echangee_moyenne20_eur_estimee": 231740193.05
         },
         "ttf": {
           "statut": "NON",
@@ -54,19 +54,19 @@
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
         "plan_exploratoire": {
-          "prix_signal_non_executable": 210.7,
-          "support_candidat": 197.2035,
+          "prix_signal_non_executable": 208.25,
+          "support_candidat": 197.877,
           "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
-          "stop_invalidation_candidat": 196.1117,
+          "stop_invalidation_candidat": 196.7711,
           "resistance_cible": 211.85,
           "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
-          "atr14": 5.4588,
-          "ratio_gain_risque_net_estime": -0.05,
+          "atr14": 5.5296,
+          "ratio_gain_risque_net_estime": 0.13,
           "quantite_theorique_max": 1,
-          "risque_total_eur_estime": 16.42,
-          "gain_potentiel_eur_estime": -0.75,
-          "capital_avec_frais_et_ttf_eur_estime": 211.65,
-          "courtages_aller_retour_eur_estimes": 1.48,
+          "risque_total_eur_estime": 13.3,
+          "gain_potentiel_eur_estime": 1.71,
+          "capital_avec_frais_et_ttf_eur_estime": 209.19,
+          "courtages_aller_retour_eur_estimes": 1.47,
           "ttf_achat_eur_estimee": 0.0,
           "hypothese_slippage_pct_par_cote": 0.1,
           "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
@@ -178,8 +178,8 @@
       "ticker": "CS.PA",
       "analyse_technique": {
         "ticker": "CS.PA",
-        "date_seance": "2026-11-11",
-        "score_exploratoire_100": 90,
+        "date_seance": "2026-11-12",
+        "score_exploratoire_100": 100,
         "configurations": [
           "TENDANCE"
         ],
@@ -187,57 +187,40 @@
           "cac40_indicatif"
         ],
         "indicateurs": {
-          "close": 46.12,
-          "mm20": 43.494,
-          "mm50": 43.3402,
-          "mm200": 41.8996,
-          "rsi14": 67.86,
-          "adx14": 20.47,
-          "macd_12_26": 0.7591,
-          "macd_signal9": 0.3539,
-          "macd_histogramme": 0.4052,
-          "atr14": 0.8633,
-          "atr_pct": 1.87,
+          "close": 46.58,
+          "mm20": 43.6805,
+          "mm50": 43.3876,
+          "mm200": 41.9379,
+          "rsi14": 69.94,
+          "adx14": 21.95,
+          "macd_12_26": 0.8666,
+          "macd_signal9": 0.4564,
+          "macd_histogramme": 0.4102,
+          "atr14": 0.8602,
+          "atr_pct": 1.85,
           "plus_bas_20j_precedent": 41.19,
           "plus_bas_55j_precedent": 41.19,
           "plus_haut_20j_precedent": 46.37,
           "plus_haut_55j_precedent": 46.37,
-          "volume": 1697369,
-          "ratio_volume_20j": 0.5616,
-          "performance_20j_pct": 8.65,
-          "force_relative_cac40_20j_pct": 2.81,
-          "valeur_echangee_moyenne20_eur_estimee": 131556451.44
+          "volume": 3393657,
+          "ratio_volume_20j": 1.1162,
+          "performance_20j_pct": 8.7,
+          "force_relative_cac40_20j_pct": 3.33,
+          "valeur_echangee_moyenne20_eur_estimee": 132959559.17
         },
         "ttf": {
           "statut": "OUI",
           "taux_pct": 0.4,
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
-        "plan_exploratoire": {
-          "prix_signal_non_executable": 46.12,
-          "support_candidat": 43.494,
-          "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
-          "stop_invalidation_candidat": 43.3213,
-          "resistance_cible": 46.37,
-          "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
-          "atr14": 0.8633,
-          "ratio_gain_risque_net_estime": -0.1,
-          "quantite_theorique_max": 5,
-          "risque_total_eur_estime": 16.93,
-          "gain_potentiel_eur_estime": -1.75,
-          "capital_avec_frais_et_ttf_eur_estime": 232.56,
-          "courtages_aller_retour_eur_estimes": 1.62,
-          "ttf_achat_eur_estimee": 0.92,
-          "hypothese_slippage_pct_par_cote": 0.1,
-          "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
-        },
+        "plan_exploratoire": null,
         "raisons_rejet_et_reserves": [
+          "AUCUNE_RESISTANCE_AU_DESSUS_DU_COURS",
           "CAPITAL_DISPONIBLE_INCONNU",
           "ELIGIBILITE_PEA_NON_VERIFIEE",
           "PAS_DE_SECONDE_SOURCE",
           "PAS_DE_SOURCE_INDEPENDANTE",
           "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RATIO_GAIN_RISQUE_INSUFFISANT",
           "RISQUE_CUMULE_INCONNU",
           "SPREAD_NON_VERIFIE"
         ],
@@ -337,10 +320,173 @@
       ]
     },
     {
+      "ticker": "OR.PA",
+      "analyse_technique": {
+        "ticker": "OR.PA",
+        "date_seance": "2026-11-12",
+        "score_exploratoire_100": 100,
+        "configurations": [
+          "TENDANCE"
+        ],
+        "groupes": [
+          "cac40_indicatif"
+        ],
+        "indicateurs": {
+          "close": 446.85,
+          "mm20": 431.2425,
+          "mm50": 401.602,
+          "mm200": 381.5505,
+          "rsi14": 67.54,
+          "adx14": 39.43,
+          "macd_12_26": 14.3514,
+          "macd_signal9": 14.21,
+          "macd_histogramme": 0.1413,
+          "atr14": 8.4294,
+          "atr_pct": 1.89,
+          "plus_bas_20j_precedent": 396.55,
+          "plus_bas_55j_precedent": 369.0,
+          "plus_haut_20j_precedent": 455.75,
+          "plus_haut_55j_precedent": 455.75,
+          "volume": 469514,
+          "ratio_volume_20j": 1.0185,
+          "performance_20j_pct": 9.83,
+          "force_relative_cac40_20j_pct": 4.45,
+          "valeur_echangee_moyenne20_eur_estimee": 200458035.43
+        },
+        "ttf": {
+          "statut": "OUI",
+          "taux_pct": 0.4,
+          "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
+        },
+        "plan_exploratoire": {
+          "prix_signal_non_executable": 446.85,
+          "support_candidat": 431.2425,
+          "invalidation_justification": "Sous support/moyenne mobile candidate avec marge de volatilite; confirmation graphique requise",
+          "stop_invalidation_candidat": 429.5566,
+          "resistance_cible": 455.75,
+          "objectif_justification": "Premiere resistance historique (20/55 seances) au-dessus du cours",
+          "atr14": 8.4294,
+          "ratio_gain_risque_net_estime": 0.13,
+          "quantite_theorique_max": 0,
+          "risque_total_eur_estime": 0.0,
+          "gain_potentiel_eur_estime": 0.0,
+          "capital_avec_frais_et_ttf_eur_estime": 0.0,
+          "courtages_aller_retour_eur_estimes": 0.0,
+          "ttf_achat_eur_estimee": 0.0,
+          "hypothese_slippage_pct_par_cote": 0.1,
+          "risque_non_garanti": "Gaps, spread reel, fiscalite, frais minimums et execution peuvent modifier la perte"
+        },
+        "raisons_rejet_et_reserves": [
+          "CAPITAL_DISPONIBLE_INCONNU",
+          "ELIGIBILITE_PEA_NON_VERIFIEE",
+          "PAS_DE_SECONDE_SOURCE",
+          "PAS_DE_SOURCE_INDEPENDANTE",
+          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+          "QUANTITE_NULLE",
+          "RATIO_GAIN_RISQUE_INSUFFISANT",
+          "RISQUE_CUMULE_INCONNU",
+          "SPREAD_NON_VERIFIE"
+        ],
+        "donnees_manquantes": [
+          "budget_deja_engage_eur",
+          "positions_ouvertes_nombre",
+          "risque_positions_ouvertes_eur"
+        ],
+        "retenable_pour_etude": true,
+        "autorise_signal_achat": false
+      },
+      "analyse_fondamentale": {
+        "ticker": "OR.PA",
+        "donnees": {
+          "identite": {
+            "longName": "L'Oréal S.A.",
+            "shortName": "L'OREAL",
+            "sector": "Consumer Defensive",
+            "industry": "Household & Personal Products",
+            "country": "France",
+            "currency": "EUR",
+            "financialCurrency": "EUR",
+            "quoteType": "EQUITY",
+            "marketCap": 233031991296,
+            "sharesOutstanding": 533314966
+          },
+          "valorisation": {
+            "trailingPE": 37.092533,
+            "forwardPE": 28.709898,
+            "priceToBook": 6.8742824,
+            "enterpriseToEbitda": 23.705,
+            "enterpriseToRevenue": 5.409,
+            "trailingEps": 11.78,
+            "forwardEps": 15.21949,
+            "priceToSalesTrailing12Months": 5.1379786
+          },
+          "croissance": {
+            "revenueGrowth": 0.058,
+            "earningsGrowth": 0.054,
+            "earningsQuarterlyGrowth": 0.053
+          },
+          "rentabilite": {
+            "profitMargins": 0.13904001,
+            "operatingMargins": 0.21294,
+            "grossMargins": 0.74380994,
+            "returnOnEquity": 0.19409001,
+            "returnOnAssets": 0.09514
+          },
+          "solidite": {
+            "totalDebt": 16712599552,
+            "totalCash": 4048800000,
+            "debtToEquity": 49.316,
+            "currentRatio": 0.969,
+            "quickRatio": 0.582,
+            "freeCashflow": 6398387712,
+            "operatingCashflow": 8988399616
+          },
+          "actionnaire": {
+            "dividendYield": 1.7,
+            "dividendRate": 7.2,
+            "payoutRatio": 0.6112
+          },
+          "estimations": {
+            "targetMeanPrice": 433.0,
+            "targetLowPrice": 360.0,
+            "targetHighPrice": 500.0,
+            "numberOfAnalystOpinions": 24,
+            "recommendationMean": 2.04167
+          }
+        },
+        "evaluation": {
+          "score_observe_sur_indicateurs_disponibles_100": 80.0,
+          "couverture_score_pct": 100.0,
+          "criteres_positifs": [
+            "CROISSANCE_CA_POSITIVE",
+            "CROISSANCE_BPA_POSITIVE",
+            "ROE_SUP_10",
+            "MARGE_OPERATIONNELLE_SUP_10",
+            "MARGE_NETTE_POSITIVE",
+            "FCF_POSITIF"
+          ],
+          "criteres_non_evaluables": [],
+          "comparable_avec_secteur_financier": true,
+          "decision": "EXPLORATOIRE_NON_VALIDE"
+        },
+        "source": "Yahoo Finance / yfinance .info",
+        "date_collecte_utc": "2026-10-30T22:16:15.687961+00:00",
+        "periode_comptable": "NON_CERTIFIEE",
+        "date_publication_financiere": "NON_DISPONIBLE",
+        "valide_par_document_primaire": false,
+        "achat_autorise": false
+      },
+      "donnees_fondamentales_manquantes": [],
+      "reserves": [
+        "DONNEES_YAHOO_NON_RECROISEES_AVEC_RAPPORTS_FINANCIERS",
+        "AUCUN_ACHAT_AUTORISE"
+      ]
+    },
+    {
       "ticker": "FII.PA",
       "analyse_technique": {
         "ticker": "FII.PA",
-        "date_seance": "2026-11-11",
+        "date_seance": "2026-11-12",
         "score_exploratoire_100": 90,
         "configurations": [
           "TENDANCE"
@@ -349,26 +495,26 @@
           "actions_supplementaires"
         ],
         "indicateurs": {
-          "close": 67.6,
-          "mm20": 63.525,
-          "mm50": 61.948,
-          "mm200": 61.72,
-          "rsi14": 65.33,
-          "adx14": 25.18,
-          "macd_12_26": 1.4544,
-          "macd_signal9": 1.0233,
-          "macd_histogramme": 0.4312,
-          "atr14": 2.1739,
+          "close": 66.9,
+          "mm20": 63.835,
+          "mm50": 62.096,
+          "mm200": 61.7845,
+          "rsi14": 62.03,
+          "adx14": 26.15,
+          "macd_12_26": 1.4917,
+          "macd_signal9": 1.1169,
+          "macd_histogramme": 0.3747,
+          "atr14": 2.1544,
           "atr_pct": 3.22,
           "plus_bas_20j_precedent": 58.2,
           "plus_bas_55j_precedent": 57.7,
           "plus_haut_20j_precedent": 68.5,
           "plus_haut_55j_precedent": 68.5,
-          "volume": 23067,
-          "ratio_volume_20j": 0.7118,
-          "performance_20j_pct": 11.55,
-          "force_relative_cac40_20j_pct": 5.71,
-          "valeur_echangee_moyenne20_eur_estimee": 2056365.31
+          "volume": 16424,
+          "ratio_volume_20j": 0.528,
+          "performance_20j_pct": 10.21,
+          "force_relative_cac40_20j_pct": 4.84,
+          "valeur_echangee_moyenne20_eur_estimee": 1982637.8
         },
         "ttf": {
           "statut": "A_VERIFIER",
@@ -376,9 +522,9 @@
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
         "plan_exploratoire": {
-          "support_candidat": 63.525,
+          "support_candidat": 63.835,
           "resistance_cible": 68.5,
-          "stop_invalidation_candidat": 63.0902,
+          "stop_invalidation_candidat": 63.4041,
           "quantite_theorique": null
         },
         "raisons_rejet_et_reserves": [
@@ -491,7 +637,7 @@
       "ticker": "ITP.PA",
       "analyse_technique": {
         "ticker": "ITP.PA",
-        "date_seance": "2026-11-11",
+        "date_seance": "2026-11-12",
         "score_exploratoire_100": 90,
         "configurations": [
           "TENDANCE"
@@ -500,26 +646,26 @@
           "actions_supplementaires"
         ],
         "indicateurs": {
-          "close": 36.48,
-          "mm20": 34.655,
-          "mm50": 31.604,
-          "mm200": 25.7609,
-          "rsi14": 69.79,
-          "adx14": 57.92,
-          "macd_12_26": 1.5166,
-          "macd_signal9": 1.4379,
-          "macd_histogramme": 0.0787,
-          "atr14": 0.9035,
-          "atr_pct": 2.48,
-          "plus_bas_20j_precedent": 31.28,
+          "close": 36.38,
+          "mm20": 34.865,
+          "mm50": 31.7736,
+          "mm200": 25.8214,
+          "rsi14": 68.71,
+          "adx14": 57.9,
+          "macd_12_26": 1.4682,
+          "macd_signal9": 1.444,
+          "macd_histogramme": 0.0243,
+          "atr14": 0.8947,
+          "atr_pct": 2.46,
+          "plus_bas_20j_precedent": 31.76,
           "plus_bas_55j_precedent": 27.4,
           "plus_haut_20j_precedent": 37.2,
           "plus_haut_55j_precedent": 37.2,
-          "volume": 51353,
-          "ratio_volume_20j": 0.7208,
-          "performance_20j_pct": 13.72,
-          "force_relative_cac40_20j_pct": 7.88,
-          "valeur_echangee_moyenne20_eur_estimee": 2467167.16
+          "volume": 60550,
+          "ratio_volume_20j": 0.8818,
+          "performance_20j_pct": 13.05,
+          "force_relative_cac40_20j_pct": 7.67,
+          "valeur_echangee_moyenne20_eur_estimee": 2397117.31
         },
         "ttf": {
           "statut": "A_VERIFIER",
@@ -527,9 +673,9 @@
           "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
         },
         "plan_exploratoire": {
-          "support_candidat": 34.655,
+          "support_candidat": 34.865,
           "resistance_cible": 37.2,
-          "stop_invalidation_candidat": 34.4743,
+          "stop_invalidation_candidat": 34.6861,
           "quantite_theorique": null
         },
         "raisons_rejet_et_reserves": [
@@ -625,156 +771,6 @@
         },
         "source": "Yahoo Finance / yfinance .info",
         "date_collecte_utc": "2026-10-30T22:16:46.646782+00:00",
-        "periode_comptable": "NON_CERTIFIEE",
-        "date_publication_financiere": "NON_DISPONIBLE",
-        "valide_par_document_primaire": false,
-        "achat_autorise": false
-      },
-      "donnees_fondamentales_manquantes": [],
-      "reserves": [
-        "DONNEES_YAHOO_NON_RECROISEES_AVEC_RAPPORTS_FINANCIERS",
-        "AUCUN_ACHAT_AUTORISE"
-      ]
-    },
-    {
-      "ticker": "NK.PA",
-      "analyse_technique": {
-        "ticker": "NK.PA",
-        "date_seance": "2026-11-11",
-        "score_exploratoire_100": 90,
-        "configurations": [
-          "TENDANCE"
-        ],
-        "groupes": [
-          "actions_supplementaires"
-        ],
-        "indicateurs": {
-          "close": 25.36,
-          "mm20": 23.514,
-          "mm50": 23.1072,
-          "mm200": 22.8733,
-          "rsi14": 67.36,
-          "adx14": 30.35,
-          "macd_12_26": 0.814,
-          "macd_signal9": 0.5746,
-          "macd_histogramme": 0.2394,
-          "atr14": 0.6989,
-          "atr_pct": 2.76,
-          "plus_bas_20j_precedent": 21.12,
-          "plus_bas_55j_precedent": 21.12,
-          "plus_haut_20j_precedent": 26.4,
-          "plus_haut_55j_precedent": 26.4,
-          "volume": 23837,
-          "ratio_volume_20j": 0.297,
-          "performance_20j_pct": 14.34,
-          "force_relative_cac40_20j_pct": 8.5,
-          "valeur_echangee_moyenne20_eur_estimee": 1944005.41
-        },
-        "ttf": {
-          "statut": "A_VERIFIER",
-          "taux_pct": null,
-          "source": "https://bofip.impots.gouv.fr/bofip/9789-PGP.html/identifiant=BOI-ANNX-000467-20251217"
-        },
-        "plan_exploratoire": {
-          "support_candidat": 23.514,
-          "resistance_cible": 26.4,
-          "stop_invalidation_candidat": 23.3742,
-          "quantite_theorique": null
-        },
-        "raisons_rejet_et_reserves": [
-          "CAPITAL_DISPONIBLE_INCONNU",
-          "ELIGIBILITE_PEA_NON_VERIFIEE",
-          "PAS_DE_SECONDE_SOURCE",
-          "PAS_DE_SOURCE_INDEPENDANTE",
-          "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-          "RISQUE_CUMULE_INCONNU",
-          "SPREAD_NON_VERIFIE",
-          "TTF_INDETERMINEE"
-        ],
-        "donnees_manquantes": [
-          "budget_deja_engage_eur",
-          "positions_ouvertes_nombre",
-          "risque_positions_ouvertes_eur",
-          "statut_ttf"
-        ],
-        "retenable_pour_etude": true,
-        "autorise_signal_achat": false
-      },
-      "analyse_fondamentale": {
-        "ticker": "NK.PA",
-        "donnees": {
-          "identite": {
-            "longName": "Imerys S.A.",
-            "shortName": "IMERYS",
-            "sector": "Basic Materials",
-            "industry": "Specialty Chemicals",
-            "country": "France",
-            "currency": "EUR",
-            "financialCurrency": "EUR",
-            "quoteType": "EQUITY",
-            "marketCap": 2149055488,
-            "sharesOutstanding": 84808827
-          },
-          "valorisation": {
-            "trailingPE": 17.356165,
-            "forwardPE": 13.141927,
-            "priceToBook": 0.82243353,
-            "enterpriseToEbitda": 8.305,
-            "enterpriseToRevenue": 0.997,
-            "trailingEps": 1.46,
-            "forwardEps": 1.92818,
-            "priceToSalesTrailing12Months": 0.6382132
-          },
-          "croissance": {
-            "revenueGrowth": 0.022,
-            "earningsGrowth": 0.012,
-            "earningsQuarterlyGrowth": 0.019
-          },
-          "rentabilite": {
-            "profitMargins": -0.12767,
-            "operatingMargins": 0.07468,
-            "grossMargins": 0.64948,
-            "returnOnEquity": -0.14962,
-            "returnOnAssets": 0.01992
-          },
-          "solidite": {
-            "totalDebt": 2342700032,
-            "totalCash": 883699968,
-            "debtToEquity": 87.594,
-            "currentRatio": 1.694,
-            "quickRatio": 1.123,
-            "freeCashflow": 114637504,
-            "operatingCashflow": 485900000
-          },
-          "actionnaire": {
-            "dividendYield": 3.38,
-            "dividendRate": 0.75,
-            "payoutRatio": 0.5137
-          },
-          "estimations": {
-            "targetMeanPrice": 25.65,
-            "targetLowPrice": 23.0,
-            "targetHighPrice": 30.0,
-            "numberOfAnalystOpinions": 6,
-            "recommendationMean": 2.5
-          }
-        },
-        "evaluation": {
-          "score_observe_sur_indicateurs_disponibles_100": 60.0,
-          "couverture_score_pct": 100.0,
-          "criteres_positifs": [
-            "PER_TTM_POSITIF",
-            "PER_FORWARD_POSITIF",
-            "CROISSANCE_CA_POSITIVE",
-            "CROISSANCE_BPA_POSITIVE",
-            "FCF_POSITIF"
-          ],
-          "criteres_non_evaluables": [],
-          "comparable_avec_secteur_financier": true,
-          "decision": "EXPLORATOIRE_NON_VALIDE"
-        },
-        "source": "Yahoo Finance / yfinance .info",
-        "date_collecte_utc": "2026-10-30T22:16:51.686505+00:00",
         "periode_comptable": "NON_CERTIFIEE",
         "date_publication_financiere": "NON_DISPONIBLE",
         "valide_par_document_primaire": false,
