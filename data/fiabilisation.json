@@ -1,6 +1,6 @@
 {
   "schema_version": "6.3",
-  "genere_utc": "2026-11-17T18:05:11.749884+00:00",
+  "genere_utc": "2026-11-18T18:00:06.760610+00:00",
   "source": "Yahoo Finance via yfinance (source unique)",
   "historique_demande": "5y",
   "titres_configures": 120,
@@ -8,9 +8,9 @@
   "titres_en_erreur": 0,
   "titres": {
     "ABVX.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 75.5,
+      "close": 76.65,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -26,10 +26,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AC.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 52.52,
-      "ecart_v4_pct": 0.0,
+      "close": 50.3,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2023-05-23",
@@ -57,9 +57,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ACA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 15.69,
+      "close": 15.57,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -96,9 +96,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ADP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 114.8,
+      "close": 115.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -127,9 +127,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AF.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 14.545,
+      "close": 14.8,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -141,9 +141,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 190.94,
+      "close": 189.74,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -176,10 +176,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AIR.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 201.1,
-      "ecart_v4_pct": 0.0,
+      "close": 197.78,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-19",
@@ -211,10 +211,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AKE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 57.75,
-      "ecart_v4_pct": 0.0,
+      "close": 57.35,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-23",
@@ -246,10 +246,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ALO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 10.02,
-      "ecart_v4_pct": 0.0,
+      "close": 9.304,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -265,9 +265,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AM.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 303.2,
+      "close": 301.2,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -300,10 +300,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AMUN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 95.1,
-      "ecart_v4_pct": -0.0,
+      "close": 95.8,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-23",
@@ -335,10 +335,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "APAM.AS": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 33.42,
-      "ecart_v4_pct": -0.0,
+      "close": 32.52,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-03-01",
@@ -430,9 +430,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ARG.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 67.5,
+      "close": 67.3,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -458,19 +458,17 @@
       ],
       "nombre_evenements_facteur": 5,
       "gaps_extremes": [],
-      "anomalies": [
-        "OHLC_INCOHERENT"
-      ],
-      "statut": "A_EXAMINER",
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ATE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 83.95,
-      "ecart_v4_pct": -0.0,
+      "close": 83.4,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-27",
@@ -502,10 +500,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ATO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 22.24,
-      "ecart_v4_pct": -0.0,
+      "close": 22.04,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -524,10 +522,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "AYV.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 9.605,
-      "ecart_v4_pct": -0.0,
+      "close": 9.68,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-31",
@@ -567,10 +565,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "BB.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 64.4,
-      "ecart_v4_pct": 0.0,
+      "close": 64.6,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-30",
@@ -606,9 +604,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "BIM.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 90.65,
+      "close": 90.75,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -625,10 +623,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "BN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 69.84,
-      "ecart_v4_pct": -0.0,
+      "close": 69.16,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-10",
@@ -660,10 +658,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "BNP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 93.82,
-      "ecart_v4_pct": -0.0,
+      "close": 92.0,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-23",
@@ -703,9 +701,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "BOL.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 3.66,
+      "close": 3.608,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -726,9 +724,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "BVI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 29.9,
+      "close": 30.33,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -761,10 +759,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "CA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 14.045,
-      "ecart_v4_pct": 0.0,
+      "close": 13.74,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-07",
@@ -800,9 +798,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "CAP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 120.65,
+      "close": 119.25,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -835,10 +833,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "CARM.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 15.24,
-      "ecart_v4_pct": -0.0,
+      "close": 15.5,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-23",
@@ -866,9 +864,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "CLARI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 3.326,
+      "close": 3.36,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -893,10 +891,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "COFA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 15.95,
-      "ecart_v4_pct": -0.0,
+      "close": 15.88,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-20",
@@ -928,9 +926,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "COV.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 44.3,
+      "close": 43.82,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -967,9 +965,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "CS.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 46.11,
+      "close": 45.72,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1002,10 +1000,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "DBG.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 7.985,
-      "ecart_v4_pct": 0.0,
+      "close": 7.87,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-02-04",
@@ -1037,10 +1035,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "DBV.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 1.803,
-      "ecart_v4_pct": -0.0,
+      "close": 1.75,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -1050,6 +1048,7 @@
         "2025-12-17"
       ],
       "anomalies": [
+        "OHLC_INCOHERENT",
         "GAP_EXTREME_A_EXAMINER"
       ],
       "statut": "A_EXAMINER",
@@ -1058,10 +1057,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "DEC.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 27.02,
-      "ecart_v4_pct": 0.0,
+      "close": 27.22,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2025-05-19",
@@ -1081,10 +1080,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "DG.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 114.25,
-      "ecart_v4_pct": 0.0,
+      "close": 112.95,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-26",
@@ -1124,10 +1123,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "DIM.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 224.2,
-      "ecart_v4_pct": -0.0,
+      "close": 226.8,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [],
@@ -1138,10 +1137,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "DSY.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 24.4,
-      "ecart_v4_pct": -0.0,
+      "close": 23.45,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2026-05-27",
@@ -1157,9 +1156,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "EDEN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 25.46,
+      "close": 25.31,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1192,9 +1191,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "EL.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 178.8,
+      "close": 180.8,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1227,9 +1226,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ELIS.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 23.96,
+      "close": 23.82,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1262,10 +1261,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "EMEIS.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 10.11,
-      "ecart_v4_pct": -0.0,
+      "close": 10.06,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -1283,9 +1282,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "EN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 43.74,
+      "close": 43.38,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1318,9 +1317,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ENGI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 24.74,
+      "close": 24.65,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1353,10 +1352,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ENX.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 165.7,
-      "ecart_v4_pct": -0.0,
+      "close": 165.6,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-23",
@@ -1388,10 +1387,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ERA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 18.24,
-      "ecart_v4_pct": -0.0,
+      "close": 18.0,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-03",
@@ -1423,9 +1422,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ERF.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 85.46,
+      "close": 85.06,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1451,18 +1450,16 @@
       ],
       "nombre_evenements_facteur": 5,
       "gaps_extremes": [],
-      "anomalies": [
-        "OHLC_INCOHERENT"
-      ],
-      "statut": "A_EXAMINER",
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ETL.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 1.6145,
+      "close": 1.738,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1483,7 +1480,7 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "EXA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
       "close": 125.6,
       "ecart_v4_pct": -0.0,
@@ -1497,9 +1494,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "EXENS.PA": {
-      "date_derniere_seance": "2026-11-17",
-      "seances": 626,
-      "close": 52.15,
+      "date_derniere_seance": "2026-11-18",
+      "seances": 627,
+      "close": 51.95,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -1511,10 +1508,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "FII.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 64.9,
-      "ecart_v4_pct": 0.0,
+      "close": 65.1,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-04",
@@ -1538,10 +1535,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "FR.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 10.955,
-      "ecart_v4_pct": -0.0,
+      "close": 11.015,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-27",
@@ -1573,9 +1570,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "FRVIA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 8.202,
+      "close": 8.106,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1592,9 +1589,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "GET.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 20.32,
+      "close": 20.4,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1623,10 +1620,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "GFC.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 65.3,
-      "ecart_v4_pct": 0.0,
+      "close": 63.8,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-03-01",
@@ -1678,9 +1675,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "GLE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 65.74,
+      "close": 64.09,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1721,10 +1718,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "GTT.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 184.3,
-      "ecart_v4_pct": 0.0,
+      "close": 187.7,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-06",
@@ -1772,10 +1769,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "HO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 226.9,
-      "ecart_v4_pct": -0.0,
+      "close": 226.1,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-17",
@@ -1807,9 +1804,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ICAD.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 15.05,
+      "close": 14.63,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1847,18 +1844,16 @@
       ],
       "nombre_evenements_facteur": 8,
       "gaps_extremes": [],
-      "anomalies": [
-        "OHLC_INCOHERENT"
-      ],
-      "statut": "A_EXAMINER",
+      "anomalies": [],
+      "statut": "CONTROLES_INTERNES_OK",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "IDL.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 386.5,
+      "close": 384.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -1870,9 +1865,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "IPN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 164.1,
+      "close": 163.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1905,9 +1900,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "IPS.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 34.8,
+      "close": 34.64,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1940,9 +1935,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ITP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 36.14,
+      "close": 36.16,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -1975,9 +1970,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "KER.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 178.36,
+      "close": 177.86,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2014,10 +2009,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "LI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 37.6,
-      "ecart_v4_pct": -0.0,
+      "close": 37.52,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-12",
@@ -2065,9 +2060,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "LR.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 133.35,
+      "close": 135.5,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2100,10 +2095,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MAU.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 6.99,
-      "ecart_v4_pct": -0.0,
+      "close": 6.8,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-07-01",
@@ -2135,9 +2130,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MC.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 393.0,
+      "close": 388.1,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2162,9 +2157,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MERY.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 9.96,
+      "close": 9.84,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2197,9 +2192,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MF.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 84.0,
+      "close": 84.75,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2233,16 +2228,18 @@
       ],
       "nombre_evenements_facteur": 7,
       "gaps_extremes": [],
-      "anomalies": [],
-      "statut": "CONTROLES_INTERNES_OK",
+      "anomalies": [
+        "OHLC_INCOHERENT"
+      ],
+      "statut": "A_EXAMINER",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ML.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 32.33,
+      "close": 32.22,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2275,10 +2272,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MMB.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 18.2,
-      "ecart_v4_pct": 0.0,
+      "close": 18.16,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-25",
@@ -2310,7 +2307,7 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MMT.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
       "close": 11.3,
       "ecart_v4_pct": 0.0,
@@ -2345,10 +2342,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MRN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 35.42,
-      "ecart_v4_pct": -0.0,
+      "close": 35.86,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-07-05",
@@ -2380,9 +2377,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "MT.AS": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 55.04,
+      "close": 55.02,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2411,10 +2408,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "NANO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 24.7,
-      "ecart_v4_pct": 0.0,
+      "close": 24.08,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -2429,10 +2426,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "NEX.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 127.0,
-      "ecart_v4_pct": 0.0,
+      "close": 128.4,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-16",
@@ -2464,9 +2461,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "NK.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 24.62,
+      "close": 24.52,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2499,9 +2496,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "OPM.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 9.165,
+      "close": 9.315,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2538,10 +2535,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "OR.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 446.35,
-      "ecart_v4_pct": 0.0,
+      "close": 443.05,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-04-27",
@@ -2573,10 +2570,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "ORA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 15.445,
-      "ecart_v4_pct": -0.0,
+      "close": 15.225,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2021-12-13",
@@ -2628,10 +2625,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "PLX.PA": {
-      "date_derniere_seance": "2026-11-17",
-      "seances": 714,
-      "close": 12.2,
-      "ecart_v4_pct": -0.0,
+      "date_derniere_seance": "2026-11-18",
+      "seances": 715,
+      "close": 12.35,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2024-12-20",
@@ -2651,10 +2648,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "PUB.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 101.55,
-      "ecart_v4_pct": 0.0,
+      "close": 101.45,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-07-04",
@@ -2679,16 +2676,18 @@
       ],
       "nombre_evenements_facteur": 5,
       "gaps_extremes": [],
-      "anomalies": [],
-      "statut": "CONTROLES_INTERNES_OK",
+      "anomalies": [
+        "OHLC_INCOHERENT"
+      ],
+      "statut": "A_EXAMINER",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RCO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 51.9,
+      "close": 51.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2721,9 +2720,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RF.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 49.18,
+      "close": 49.38,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2756,9 +2755,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 72.26,
+      "close": 71.72,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2803,9 +2802,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RMS.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 1280.5,
+      "close": 1278.5,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -2817,9 +2816,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RNO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 27.67,
+      "close": 27.45,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2844,9 +2843,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RUI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 36.76,
+      "close": 36.26,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -2879,10 +2878,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "RXL.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 35.37,
-      "ecart_v4_pct": -0.0,
+      "close": 34.25,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-06",
@@ -2910,10 +2909,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SAF.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 306.0,
-      "ecart_v4_pct": 0.0,
+      "close": 304.4,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2024-05-28",
@@ -2937,10 +2936,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SAN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 86.56,
-      "ecart_v4_pct": -0.0,
+      "close": 86.25,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-06",
@@ -2972,9 +2971,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SAVE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 58.2,
+      "close": 59.4,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3000,16 +2999,18 @@
       ],
       "nombre_evenements_facteur": 5,
       "gaps_extremes": [],
-      "anomalies": [],
-      "statut": "CONTROLES_INTERNES_OK",
+      "anomalies": [
+        "OHLC_INCOHERENT"
+      ],
+      "statut": "A_EXAMINER",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SCR.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 35.24,
+      "close": 35.02,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3042,9 +3043,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SESG.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 4.448,
+      "close": 4.45,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3089,9 +3090,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SGO.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 74.5,
+      "close": 73.9,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3124,10 +3125,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SK.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 57.05,
-      "ecart_v4_pct": -0.0,
+      "close": 54.7,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-31",
@@ -3161,9 +3162,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SOI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 95.94,
+      "close": 97.54,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -3175,10 +3176,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SOLB.BR": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 24.8,
-      "ecart_v4_pct": -0.0,
+      "close": 24.76,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-01-13",
@@ -3230,10 +3231,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SOP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 190.7,
-      "ecart_v4_pct": -0.0,
+      "close": 187.1,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-06-07",
@@ -3265,9 +3266,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SPIE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 44.8,
+      "close": 45.26,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3300,9 +3301,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "STLAP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 3.32,
+      "close": 3.2805,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3331,9 +3332,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "STMPA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 39.81,
+      "close": 40.525,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -3345,9 +3346,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SU.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 236.6,
+      "close": 238.05,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3380,10 +3381,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "SW.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 61.1,
-      "ecart_v4_pct": -0.0,
+      "close": 59.95,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2021-12-17",
@@ -3419,9 +3420,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "TE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 34.68,
+      "close": 33.88,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3454,10 +3455,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "TEP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 69.2,
-      "ecart_v4_pct": -0.0,
+      "close": 67.22,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2023-04-21",
@@ -3485,9 +3486,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "TFI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 6.37,
+      "close": 6.305,
       "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3520,9 +3521,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "TRI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 132.0,
+      "close": 131.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3575,10 +3576,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "TTE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 81.98,
-      "ecart_v4_pct": 0.0,
+      "close": 79.81,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-01-03",
@@ -3674,10 +3675,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "UBI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 4.339,
-      "ecart_v4_pct": 0.0,
+      "close": 4.257,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [],
@@ -3688,10 +3689,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "URW.PA": {
-      "date_derniere_seance": "2026-11-17",
-      "seances": 919,
-      "close": 93.14,
-      "ecart_v4_pct": -0.0,
+      "date_derniere_seance": "2026-11-18",
+      "seances": 920,
+      "close": 92.4,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2024-05-14",
@@ -3715,9 +3716,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VCT.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 66.0,
+      "close": 65.8,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3750,9 +3751,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VIE.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 34.36,
+      "close": 34.09,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3785,9 +3786,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VIRI.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 95.3,
+      "close": 93.9,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -3799,9 +3800,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VIRP.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 351.0,
+      "close": 348.0,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -3813,9 +3814,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VIV.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 1.638,
+      "close": 1.631,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
@@ -3849,10 +3850,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VK.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 18.66,
-      "ecart_v4_pct": -0.0,
+      "close": 18.1,
+      "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2025-05-26",
@@ -3868,23 +3869,25 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VLA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 2.551,
-      "ecart_v4_pct": 0.0,
+      "close": 2.432,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [],
-      "anomalies": [],
-      "statut": "CONTROLES_INTERNES_OK",
+      "anomalies": [
+        "OHLC_INCOHERENT"
+      ],
+      "statut": "A_EXAMINER",
       "validation_independante": false,
       "autorise_signal_achat": false,
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VLTSA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 3.75,
+      "close": 3.795,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
@@ -3896,10 +3899,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VRLA.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 17.54,
-      "ecart_v4_pct": 0.0,
+      "close": 17.4,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [
         {
           "date": "2022-05-19",
@@ -3931,10 +3934,10 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "VU.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 151.8,
-      "ecart_v4_pct": 0.0,
+      "close": 142.9,
+      "ecart_v4_pct": -0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
       "gaps_extremes": [
@@ -3949,9 +3952,9 @@
       "note": "Comparaison avec V4 issue de la meme source Yahoo: PAS independante."
     },
     "WLN.PA": {
-      "date_derniere_seance": "2026-11-17",
+      "date_derniere_seance": "2026-11-18",
       "seances": 1281,
-      "close": 10.682,
+      "close": 10.3,
       "ecart_v4_pct": 0.0,
       "evenements_facteur_ajustement": [],
       "nombre_evenements_facteur": 0,
