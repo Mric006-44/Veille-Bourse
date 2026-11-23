@@ -1,8 +1,8 @@
 {
   "schema_version": "9.1",
-  "genere_utc": "2026-11-20T18:01:17.209622+00:00",
-  "source_v86": "2026-11-20T18:01:17.070624+00:00",
-  "source_catalyseurs": "2026-11-20T18:01:17.167888+00:00",
+  "genere_utc": "2026-11-23T18:05:29.936952+00:00",
+  "source_v86": "2026-11-23T18:05:29.786612+00:00",
+  "source_catalyseurs": "2026-11-23T18:05:29.889564+00:00",
   "top_5_global": [
     {
       "ticker": "LI.PA",
@@ -22,8 +22,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 38.12,
-      "stop_candidat": 36.413,
-      "ratio_gain_risque_brut_informatif": 1.12,
+      "stop_candidat": 36.5428,
+      "ratio_gain_risque_brut_informatif": 0.8,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -58,8 +58,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 170.1,
-      "stop_candidat": 156.1127,
-      "ratio_gain_risque_brut_informatif": 1.55,
+      "stop_candidat": 159.219,
+      "ratio_gain_risque_brut_informatif": 0.99,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -79,7 +79,7 @@
     {
       "ticker": "SOP.PA",
       "secteur": "Technology",
-      "score_v86_100": 81.91,
+      "score_v86_100": 78.41,
       "valorisation": {
         "per_previsionnel": 9.651344,
         "ev_ebitda": 8.699,
@@ -94,44 +94,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 200.0,
-      "stop_candidat": 177.4995,
-      "ratio_gain_risque_brut_informatif": 1.27,
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "CATALYSEUR_ABSENT",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_SOURCE_INDEPENDANTE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
-        "REGISTRE_POSITIONS_NON_CONFIRME",
-        "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE"
-      ],
-      "statut": "SURVEILLANCE",
-      "achat_autorise": false
-    },
-    {
-      "ticker": "ITP.PA",
-      "secteur": "Consumer Defensive",
-      "score_v86_100": 77.68,
-      "valorisation": {
-        "per_previsionnel": 23.849567,
-        "ev_ebitda": 19.947,
-        "fcf_yield_pct": 4.32,
-        "roic_pct": 19.62,
-        "per_percentile_sectoriel": 31.2,
-        "roic_percentile_sectoriel": 93.8,
-        "nb_comparables": 8,
-        "interpretation": "VALORISATION_INTERMEDIAIRE",
-        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
-      },
-      "catalyseurs": [],
-      "catalyseur_documente": false,
-      "objectif_unique_indicatif": 37.2,
-      "stop_candidat": 35.4155,
-      "ratio_gain_risque_brut_informatif": 0.48,
+      "stop_candidat": 179.611,
+      "ratio_gain_risque_brut_informatif": 1.52,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -166,8 +130,44 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 106.45,
-      "stop_candidat": 96.7934,
-      "ratio_gain_risque_brut_informatif": 2.23,
+      "stop_candidat": 96.6675,
+      "ratio_gain_risque_brut_informatif": 2.36,
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "CATALYSEUR_ABSENT",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "REGISTRE_POSITIONS_NON_CONFIRME",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "statut": "SURVEILLANCE",
+      "achat_autorise": false
+    },
+    {
+      "ticker": "BIM.PA",
+      "secteur": "Healthcare",
+      "score_v86_100": 74.22,
+      "valorisation": {
+        "per_previsionnel": 19.21909,
+        "ev_ebitda": 9.916,
+        "fcf_yield_pct": 5.52,
+        "roic_pct": 9.92,
+        "per_percentile_sectoriel": 35.0,
+        "roic_percentile_sectoriel": 64.3,
+        "nb_comparables": 13,
+        "interpretation": "VALORISATION_INTERMEDIAIRE",
+        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
+      },
+      "catalyseurs": [],
+      "catalyseur_documente": false,
+      "objectif_unique_indicatif": 97.95,
+      "stop_candidat": 87.7771,
+      "ratio_gain_risque_brut_informatif": 1.97,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -178,7 +178,8 @@
         "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE"
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false
@@ -205,8 +206,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 38.12,
-      "stop_candidat": 36.413,
-      "ratio_gain_risque_brut_informatif": 1.12,
+      "stop_candidat": 36.5428,
+      "ratio_gain_risque_brut_informatif": 0.8,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -241,8 +242,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 170.1,
-      "stop_candidat": 156.1127,
-      "ratio_gain_risque_brut_informatif": 1.55,
+      "stop_candidat": 159.219,
+      "ratio_gain_risque_brut_informatif": 0.99,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -262,7 +263,7 @@
     {
       "ticker": "SOP.PA",
       "secteur": "Technology",
-      "score_v86_100": 81.91,
+      "score_v86_100": 78.41,
       "valorisation": {
         "per_previsionnel": 9.651344,
         "ev_ebitda": 8.699,
@@ -277,44 +278,8 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 200.0,
-      "stop_candidat": 177.4995,
-      "ratio_gain_risque_brut_informatif": 1.27,
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "CATALYSEUR_ABSENT",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_SOURCE_INDEPENDANTE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
-        "REGISTRE_POSITIONS_NON_CONFIRME",
-        "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE",
-        "TTF_INDETERMINEE"
-      ],
-      "statut": "SURVEILLANCE",
-      "achat_autorise": false
-    },
-    {
-      "ticker": "ITP.PA",
-      "secteur": "Consumer Defensive",
-      "score_v86_100": 77.68,
-      "valorisation": {
-        "per_previsionnel": 23.849567,
-        "ev_ebitda": 19.947,
-        "fcf_yield_pct": 4.32,
-        "roic_pct": 19.62,
-        "per_percentile_sectoriel": 31.2,
-        "roic_percentile_sectoriel": 93.8,
-        "nb_comparables": 8,
-        "interpretation": "VALORISATION_INTERMEDIAIRE",
-        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
-      },
-      "catalyseurs": [],
-      "catalyseur_documente": false,
-      "objectif_unique_indicatif": 37.2,
-      "stop_candidat": 35.4155,
-      "ratio_gain_risque_brut_informatif": 0.48,
+      "stop_candidat": 179.611,
+      "ratio_gain_risque_brut_informatif": 1.52,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -349,8 +314,44 @@
       "catalyseurs": [],
       "catalyseur_documente": false,
       "objectif_unique_indicatif": 106.45,
-      "stop_candidat": 96.7934,
-      "ratio_gain_risque_brut_informatif": 2.23,
+      "stop_candidat": 96.6675,
+      "ratio_gain_risque_brut_informatif": 2.36,
+      "blocages": [
+        "CAPITAL_DISPONIBLE_INCONNU",
+        "CATALYSEUR_ABSENT",
+        "ELIGIBILITE_PEA_NON_VERIFIEE",
+        "PAS_DE_SECONDE_SOURCE",
+        "PAS_DE_SOURCE_INDEPENDANTE",
+        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
+        "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
+        "RATIO_GAIN_RISQUE_INSUFFISANT",
+        "REGISTRE_POSITIONS_NON_CONFIRME",
+        "RISQUE_CUMULE_INCONNU",
+        "SPREAD_NON_VERIFIE"
+      ],
+      "statut": "SURVEILLANCE",
+      "achat_autorise": false
+    },
+    {
+      "ticker": "BIM.PA",
+      "secteur": "Healthcare",
+      "score_v86_100": 74.22,
+      "valorisation": {
+        "per_previsionnel": 19.21909,
+        "ev_ebitda": 9.916,
+        "fcf_yield_pct": 5.52,
+        "roic_pct": 9.92,
+        "per_percentile_sectoriel": 35.0,
+        "roic_percentile_sectoriel": 64.3,
+        "nb_comparables": 13,
+        "interpretation": "VALORISATION_INTERMEDIAIRE",
+        "limite": "Comparaison sectorielle Yahoo indicative; pas de multiple historique verifie"
+      },
+      "catalyseurs": [],
+      "catalyseur_documente": false,
+      "objectif_unique_indicatif": 97.95,
+      "stop_candidat": 87.7771,
+      "ratio_gain_risque_brut_informatif": 1.97,
       "blocages": [
         "CAPITAL_DISPONIBLE_INCONNU",
         "CATALYSEUR_ABSENT",
@@ -361,7 +362,8 @@
         "PEA_TTF_SPREAD_ET_SOURCE_A_CONTROLER",
         "REGISTRE_POSITIONS_NON_CONFIRME",
         "RISQUE_CUMULE_INCONNU",
-        "SPREAD_NON_VERIFIE"
+        "SPREAD_NON_VERIFIE",
+        "TTF_INDETERMINEE"
       ],
       "statut": "SURVEILLANCE",
       "achat_autorise": false

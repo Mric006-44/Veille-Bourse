@@ -1,34 +1,34 @@
 {
   "schema_version": "7.0",
-  "genere_utc": "2026-11-20T18:01:16.246414+00:00",
-  "source_v4": "2026-11-20T18:01:14.828273+00:00",
-  "source_audit_v63": "2026-11-20T18:01:16.128306+00:00",
+  "genere_utc": "2026-11-23T18:05:28.880734+00:00",
+  "source_v4": "2026-11-23T18:05:27.341527+00:00",
+  "source_audit_v63": "2026-11-23T18:05:28.719307+00:00",
   "compteurs": {
     "titres_analyses": 120,
-    "dossiers_a_etudier": 4,
-    "anomalies_ou_illiquides": 26,
+    "dossiers_a_etudier": 3,
+    "anomalies_ou_illiquides": 25,
     "configurations": {
-      "REBOND_POTENTIEL": 3,
-      "TENDANCE": 2
+      "TENDANCE": 2,
+      "REBOND_POTENTIEL": 3
     },
-    "changements_detectes": 64
+    "changements_detectes": 69
   },
   "top_dossiers_a_approfondir": [
     {
       "ticker": "LI.PA",
-      "date_seance": "2026-11-20",
-      "close": 37.22,
+      "date_seance": "2026-11-23",
+      "close": 37.42,
       "score_exploratoire_100": 100,
       "configurations": [
         "TENDANCE"
       ],
-      "rsi14": 59.26,
-      "adx14": 25.32,
-      "macd_histogramme": 0.0835,
-      "force_relative_cac40_20j_pct": 4.97,
-      "performance_20j_pct": 6.83,
-      "volume_ratio": 1.2065,
-      "liquidite_moyenne_eur": 18998464.51,
+      "rsi14": 61.49,
+      "adx14": 25.2,
+      "macd_histogramme": 0.0614,
+      "force_relative_cac40_20j_pct": 3.61,
+      "performance_20j_pct": 6.13,
+      "volume_ratio": 1.1901,
+      "liquidite_moyenne_eur": 19660513.19,
       "qualite_v4": "A_VERIFIER",
       "audit_historique": "CONTROLES_INTERNES_OK",
       "anomalies": [],
@@ -44,20 +44,20 @@
       "autorise_signal_achat": false
     },
     {
-      "ticker": "AYV.PA",
-      "date_seance": "2026-11-20",
-      "close": 9.45,
-      "score_exploratoire_100": 70,
+      "ticker": "NEX.PA",
+      "date_seance": "2026-11-23",
+      "close": 124.9,
+      "score_exploratoire_100": 58,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
-      "rsi14": 48.79,
-      "adx14": 25.72,
-      "macd_histogramme": 0.0183,
-      "force_relative_cac40_20j_pct": 6.08,
-      "performance_20j_pct": 7.94,
-      "volume_ratio": 1.0196,
-      "liquidite_moyenne_eur": 9194586.5,
+      "rsi14": 48.74,
+      "adx14": 14.25,
+      "macd_histogramme": 0.1169,
+      "force_relative_cac40_20j_pct": 3.69,
+      "performance_20j_pct": 6.21,
+      "volume_ratio": 0.6843,
+      "liquidite_moyenne_eur": 22230737.08,
       "qualite_v4": "A_VERIFIER",
       "audit_historique": "CONTROLES_INTERNES_OK",
       "anomalies": [],
@@ -73,49 +73,20 @@
       "autorise_signal_achat": false
     },
     {
-      "ticker": "RUI.PA",
-      "date_seance": "2026-11-20",
-      "close": 35.76,
-      "score_exploratoire_100": 70,
+      "ticker": "SAF.PA",
+      "date_seance": "2026-11-23",
+      "close": 302.5,
+      "score_exploratoire_100": 50,
       "configurations": [
         "REBOND_POTENTIEL"
       ],
-      "rsi14": 49.77,
-      "adx14": 26.95,
-      "macd_histogramme": 0.0067,
-      "force_relative_cac40_20j_pct": -2.42,
-      "performance_20j_pct": -0.56,
-      "volume_ratio": 0.8196,
-      "liquidite_moyenne_eur": 4615249.66,
-      "qualite_v4": "A_VERIFIER",
-      "audit_historique": "CONTROLES_INTERNES_OK",
-      "anomalies": [],
-      "blocages": [
-        "CAPITAL_DISPONIBLE_INCONNU",
-        "ELIGIBILITE_PEA_NON_VERIFIEE",
-        "PAS_DE_SECONDE_SOURCE",
-        "PAS_DE_SOURCE_INDEPENDANTE",
-        "PAS_DE_VERIFICATION_SPREAD_ET_CARNET",
-        "RISQUE_CUMULE_INCONNU"
-      ],
-      "validation_independante": false,
-      "autorise_signal_achat": false
-    },
-    {
-      "ticker": "EN.PA",
-      "date_seance": "2026-11-20",
-      "close": 42.5,
-      "score_exploratoire_100": 60,
-      "configurations": [
-        "REBOND_POTENTIEL"
-      ],
-      "rsi14": 49.12,
-      "adx14": 23.98,
-      "macd_histogramme": 0.0295,
-      "force_relative_cac40_20j_pct": 3.6,
-      "performance_20j_pct": 5.46,
-      "volume_ratio": 0.9986,
-      "liquidite_moyenne_eur": 27620008.94,
+      "rsi14": 49.51,
+      "adx14": 19.2,
+      "macd_histogramme": 0.9516,
+      "force_relative_cac40_20j_pct": 7.72,
+      "performance_20j_pct": 10.24,
+      "volume_ratio": 0.7371,
+      "liquidite_moyenne_eur": 212299563.01,
       "qualite_v4": "A_VERIFIER",
       "audit_historique": "CONTROLES_INTERNES_OK",
       "anomalies": [],
@@ -133,115 +104,115 @@
   ],
   "changements_depuis_rapport_precedent": [
     {
-      "ticker": "AMUN.PA",
-      "score_precedent": 100,
-      "score_actuel": 62,
-      "nouvelles_configurations": [],
-      "configurations_disparues": [
-        "TENDANCE"
-      ]
-    },
-    {
-      "ticker": "RF.PA",
-      "score_precedent": 90,
-      "score_actuel": 52,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "SW.PA",
-      "score_precedent": 90,
-      "score_actuel": 52,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "SOI.PA",
-      "score_precedent": 70,
+      "ticker": "SAVE.PA",
+      "score_precedent": 78,
       "score_actuel": 40,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "STMPA.PA",
-      "score_precedent": 40,
-      "score_actuel": 10,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "HO.PA",
-      "score_precedent": 38,
-      "score_actuel": 10,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "NANO.PA",
-      "score_precedent": 38,
-      "score_actuel": 10,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "NEX.PA",
-      "score_precedent": 68,
-      "score_actuel": 40,
-      "nouvelles_configurations": [],
-      "configurations_disparues": [
+      "nouvelles_configurations": [
         "REBOND_POTENTIEL"
-      ]
+      ],
+      "configurations_disparues": []
     },
     {
-      "ticker": "VIRI.PA",
-      "score_precedent": 48,
+      "ticker": "MT.AS",
+      "score_precedent": 30,
+      "score_actuel": 60,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "SESG.PA",
+      "score_precedent": 50,
       "score_actuel": 20,
       "nouvelles_configurations": [],
       "configurations_disparues": []
     },
     {
-      "ticker": "VIV.PA",
-      "score_precedent": 48,
-      "score_actuel": 20,
+      "ticker": "COFA.PA",
+      "score_precedent": 30,
+      "score_actuel": 52,
       "nouvelles_configurations": [],
       "configurations_disparues": []
     },
     {
-      "ticker": "VIRP.PA",
-      "score_precedent": 42,
-      "score_actuel": 20,
+      "ticker": "ACA.PA",
+      "score_precedent": 60,
+      "score_actuel": 40,
       "nouvelles_configurations": [],
       "configurations_disparues": []
     },
     {
-      "ticker": "AC.PA",
-      "score_precedent": 82,
-      "score_actuel": 62,
+      "ticker": "AIR.PA",
+      "score_precedent": 52,
+      "score_actuel": 72,
       "nouvelles_configurations": [],
       "configurations_disparues": []
     },
     {
-      "ticker": "BB.PA",
+      "ticker": "AMUN.PA",
       "score_precedent": 62,
-      "score_actuel": 42,
+      "score_actuel": 82,
       "nouvelles_configurations": [],
       "configurations_disparues": []
     },
     {
-      "ticker": "BIM.PA",
-      "score_precedent": 70,
-      "score_actuel": 90,
-      "nouvelles_configurations": [],
-      "configurations_disparues": []
-    },
-    {
-      "ticker": "CARM.PA",
+      "ticker": "AYV.PA",
       "score_precedent": 70,
       "score_actuel": 50,
       "nouvelles_configurations": [],
       "configurations_disparues": [
         "REBOND_POTENTIEL"
       ]
+    },
+    {
+      "ticker": "GET.PA",
+      "score_precedent": 90,
+      "score_actuel": 70,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "SOLB.BR",
+      "score_precedent": 40,
+      "score_actuel": 20,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "URW.PA",
+      "score_precedent": 20,
+      "score_actuel": 40,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "VIV.PA",
+      "score_precedent": 20,
+      "score_actuel": 40,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "VLA.PA",
+      "score_precedent": 30,
+      "score_actuel": 10,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "MMT.PA",
+      "score_precedent": 68,
+      "score_actuel": 50,
+      "nouvelles_configurations": [],
+      "configurations_disparues": []
+    },
+    {
+      "ticker": "NEX.PA",
+      "score_precedent": 40,
+      "score_actuel": 58,
+      "nouvelles_configurations": [
+        "REBOND_POTENTIEL"
+      ],
+      "configurations_disparues": []
     }
   ],
   "avertissement": "EXPLORATOIRE. Source Yahoo non independamment validee. Aucun ordre ni signal achat autorise. Les scores ne sont pas predictifs.",
