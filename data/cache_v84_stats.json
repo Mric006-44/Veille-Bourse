@@ -1,9 +1,9 @@
 {
   "version": "8.4",
-  "updated_at": "2026-11-24T18:58:38.290924+01:00",
+  "updated_at": "2026-11-25T18:55:25.020126+01:00",
   "full": 0,
-  "incremental": 121,
-  "fallback": 0,
+  "incremental": 120,
+  "fallback": 1,
   "unchanged": 0,
   "errors": {}
 }
